@@ -36,7 +36,7 @@ JQ_NORMALIZE_GITLAB='
     hosted_on: "Gitlab",
     full_name: .path_with_namespace,
     author: .namespace.full_path,
-    avatar_url: .namespace.avatar_url,
+    avatar_url: ("https://gitlab.com" + (.avatar_url // ""))
     website: (.website_url // ""),
     repo_name: .name,
     html_url: .web_url,
