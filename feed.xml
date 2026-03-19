@@ -6,783 +6,843 @@
   <description>Latest Luanti mods from Github, Gitlab, and Codeberg</description>
   <item>
     <title>vines (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;vines</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;vines</guid>
+    <link>https://github.com/bas080/vines</link>
+    <guid>https://github.com/bas080/vines</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
       Vines mod for minetest. Also adds ropes.<br>
-      Author: bas080<br>
       License: GNU Lesser General Public License v2.1<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;vines&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;vines.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bas080&#x2F;vines&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-19T01:17:47</pubDate>
   </item>
   <item>
     <title>little_lake (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;little_lake</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;little_lake</guid>
+    <link>https://github.com/bas080/little_lake</link>
+    <guid>https://github.com/bas080/little_lake</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
       Simple mod that spawns little lakes in caves near the surface and on mountains.<br>
-      Author: bas080<br>
       License: GNU Lesser General Public License v2.1<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;little_lake&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;little_lake.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bas080&#x2F;little_lake&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-18T17:22:01</pubDate>
   </item>
   <item>
     <title>circuits (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;Sheriff_U3&#x2F;circuits</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;Sheriff_U3&#x2F;circuits</guid>
+    <link>https://codeberg.org/Sheriff_U3/circuits</link>
+    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
       A circuitry mod for Luanti<br>
-      Author: Sheriff_U3<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;Sheriff_U3&#x2F;circuits&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;circuits.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;Sheriff_U3&#x2F;circuits&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-18T14:47:45+01:00</pubDate>
   </item>
   <item>
     <title>luanti_utils (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;luanti_utils</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;luanti_utils</guid>
+    <link>https://github.com/bas080/luanti_utils</link>
+    <guid>https://github.com/bas080/luanti_utils</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
       <br>
-      Author: bas080<br>
       License: GNU Lesser General Public License v2.1<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;luanti_utils&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;luanti_utils.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bas080&#x2F;luanti_utils&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-18T14:33:50</pubDate>
   </item>
   <item>
     <title>trudged (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;trudged</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;trudged</guid>
+    <link>https://github.com/bas080/trudged</link>
+    <guid>https://github.com/bas080/trudged</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
       <br>
-      Author: bas080<br>
       License: GNU Lesser General Public License v2.1<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;bas080&#x2F;trudged&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;trudged.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bas080&#x2F;trudged&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/bas080/trudged/archive/refs/heads/master/trudged.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/trudged/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-18T14:32:29</pubDate>
   </item>
   <item>
     <title>arena_lib (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;arena_lib</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;arena_lib</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/arena_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Luanti library working as a core manager for any minigame you have in mind<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;arena_lib&#x2F;-&#x2F;archive&#x2F;master&#x2F;arena_lib.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;arena_lib&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-18T12:29:29.446</pubDate>
   </item>
   <item>
     <title>Collectible skins (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;collectible-skins</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;collectible-skins</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/collectible-skins</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/collectible-skins</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Wear and unlock skins on Luanti<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;collectible-skins&#x2F;-&#x2F;archive&#x2F;master&#x2F;collectible-skins.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;collectible-skins&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-17T13:29:42.852</pubDate>
   </item>
   <item>
     <title>Block League (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;block_league</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;block_league</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       S4 League inspired shooter minigame for Luanti<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;block_league&#x2F;-&#x2F;archive&#x2F;master&#x2F;block_league.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;block_league&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-17T13:29:26.817</pubDate>
   </item>
   <item>
     <title>CraftoPlus (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;craftoplus</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;craftoplus</guid>
+    <link>https://gitlab.com/Mish7913/craftoplus</link>
+    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
     <description><![CDATA[
+      <img src="/uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
       Mod for Luanti games.<br>
-      Author: Mish7913<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;craftoplus&#x2F;-&#x2F;archive&#x2F;main&#x2F;craftoplus.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;craftoplus&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-17T06:36:00.589</pubDate>
   </item>
   <item>
     <title>audio_lib (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;audio_lib</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;audio_lib</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/audio_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/audio_lib</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Luanti library to easily manage audio files<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;audio_lib&#x2F;-&#x2F;archive&#x2F;main&#x2F;audio_lib.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;audio_lib&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-16T14:55:49.917</pubDate>
   </item>
   <item>
     <title>m7a (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;m7a</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;m7a</guid>
+    <link>https://gitlab.com/Mish7913/m7a</link>
+    <guid>https://gitlab.com/Mish7913/m7a</guid>
     <description><![CDATA[
+      <img src="/uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
       API for Lianti Game<br>
-      Author: Mish7913<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;m7a&#x2F;-&#x2F;archive&#x2F;main&#x2F;m7a.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;m7a&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-15T19:06:02.981</pubDate>
   </item>
   <item>
     <title>Magic Compass (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;magic-compass</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;magic-compass</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/magic-compass</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/magic-compass</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Teleport system for Luanti<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;magic-compass&#x2F;-&#x2F;archive&#x2F;master&#x2F;magic-compass.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;magic-compass&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/magic-compass/-/archive/master/magic-compass.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-15T00:45:29.527</pubDate>
   </item>
   <item>
     <title>plots (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;bookgirlxoxo&#x2F;plots</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;bookgirlxoxo&#x2F;plots</guid>
+    <link>https://github.com/bookgirlxoxo/plots</link>
+    <guid>https://github.com/bookgirlxoxo/plots</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/116229905?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bookgirlxoxo</strong><br>
       a mod for luanti servers insprired by &#39;plotsquared&#39;<br>
-      Author: bookgirlxoxo<br>
       License: MIT License<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;bookgirlxoxo&#x2F;plots&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;plots.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bookgirlxoxo&#x2F;plots&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/bookgirlxoxo/plots/archive/refs/heads/main/plots.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-12T22:49:51</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;weapons_lib</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;weapons_lib</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/weapons_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Luanti library to easily register new weapons<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;weapons_lib&#x2F;-&#x2F;archive&#x2F;main&#x2F;weapons_lib.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;weapons_lib&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-11T22:02:34.885</pubDate>
   </item>
   <item>
     <title>playervault (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;bookgirlxoxo&#x2F;playervault</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;bookgirlxoxo&#x2F;playervault</guid>
+    <link>https://github.com/bookgirlxoxo/playervault</link>
+    <guid>https://github.com/bookgirlxoxo/playervault</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/116229905?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bookgirlxoxo</strong><br>
       virtual playervault playervault mod for luanti servers<br>
-      Author: bookgirlxoxo<br>
       License: MIT License<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;bookgirlxoxo&#x2F;playervault&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;playervault.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;bookgirlxoxo&#x2F;playervault&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/bookgirlxoxo/playervault/archive/refs/heads/main/playervault.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-11T17:36:25</pubDate>
   </item>
   <item>
     <title>Natural Habitat (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;natural_habitat</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;natural_habitat</guid>
+    <link>https://gitlab.com/Mish7913/natural_habitat</link>
+    <guid>https://gitlab.com/Mish7913/natural_habitat</guid>
     <description><![CDATA[
+      <img src="/uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
       Mod for &quot;Minetest Game&quot; and &quot;MineClonia&quot;.<br>
-      Author: Mish7913<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;natural_habitat&#x2F;-&#x2F;archive&#x2F;main&#x2F;natural_habitat.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;natural_habitat&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-11T10:33:55.027</pubDate>
   </item>
   <item>
     <title>energy_drinks (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;Sheriff_U3&#x2F;energy_drinks</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;Sheriff_U3&#x2F;energy_drinks</guid>
+    <link>https://codeberg.org/Sheriff_U3/energy_drinks</link>
+    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
       A mod that adds energy drinks to the luanti game engine.<br>
-      Author: Sheriff_U3<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;Sheriff_U3&#x2F;energy_drinks&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;energy_drinks.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;Sheriff_U3&#x2F;energy_drinks&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-10T18:57:39+01:00</pubDate>
   </item>
   <item>
     <title>Whitelist (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;whitelist</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;whitelist</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/whitelist</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/whitelist</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Filter who can enter a Luanti server and who can&#39;t through a whitelist<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;whitelist&#x2F;-&#x2F;archive&#x2F;master&#x2F;whitelist.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;whitelist&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/whitelist/-/archive/master/whitelist.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-10T11:29:30.791</pubDate>
   </item>
   <item>
     <title>Hub (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;hub</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;hub</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/hub</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       A mod to easily manage your minigames server on Luanti<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;hub&#x2F;-&#x2F;archive&#x2F;master&#x2F;hub.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;hub&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-09T20:29:16.849</pubDate>
   </item>
   <item>
     <title>achievements_lib (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;achievements_lib</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;achievements_lib</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/achievements_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/achievements_lib</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Achievements API for Luanti<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;achievements_lib&#x2F;-&#x2F;archive&#x2F;master&#x2F;achievements_lib.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;achievements_lib&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/archive/master/achievements_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-07T16:29:16.366</pubDate>
   </item>
   <item>
     <title>areas (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;areas</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;areas</guid>
+    <link>https://github.com/minetest-mods/areas</link>
+    <guid>https://github.com/minetest-mods/areas</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
       Luanti&#x2F;Minetest mod that provides protected areas and management tools.<br>
-      Author: minetest-mods<br>
       License: GNU Lesser General Public License v2.1<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;areas&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;areas.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;minetest-mods&#x2F;areas&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-05T08:11:06</pubDate>
   </item>
   <item>
     <title>Parties (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;parties</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;parties</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/parties</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/parties</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Minimalist party mod for Luanti<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;parties&#x2F;-&#x2F;archive&#x2F;master&#x2F;parties.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;parties&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/parties/-/archive/master/parties.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-04T20:29:21.723</pubDate>
   </item>
   <item>
     <title>musician (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;fancyfinn9&#x2F;musician</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;fancyfinn9&#x2F;musician</guid>
+    <link>https://github.com/fancyfinn9/musician</link>
+    <guid>https://github.com/fancyfinn9/musician</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/142792026?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>fancyfinn9</strong><br>
       Music mod for Luanti<br>
-      Author: fancyfinn9<br>
       License: GNU Affero General Public License v3.0<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;fancyfinn9&#x2F;musician&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;musician.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;fancyfinn9&#x2F;musician&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/fancyfinn9/musician/archive/refs/heads/main/musician.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/fancyfinn9/musician/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-04T10:53:40</pubDate>
   </item>
   <item>
     <title>Warp Portal (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;warp-portal</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;warp-portal</guid>
+    <link>https://gitlab.com/Mish7913/warp-portal</link>
+    <guid>https://gitlab.com/Mish7913/warp-portal</guid>
     <description><![CDATA[
+      <img src="/uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
       Mod for Luanti games.<br>
-      Author: Mish7913<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;warp-portal&#x2F;-&#x2F;archive&#x2F;main&#x2F;warp-portal.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;Mish7913&#x2F;warp-portal&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/Mish7913/warp-portal/-/archive/main/warp-portal.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-02T11:15:14.285</pubDate>
   </item>
   <item>
     <title>country_lib (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;country_lib</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;country_lib</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/country_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       small util library for Luanti, providing country localised names and flags<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;country_lib&#x2F;-&#x2F;archive&#x2F;main&#x2F;country_lib.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;country_lib&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-02T10:29:26.241</pubDate>
   </item>
   <item>
     <title>simple_replace (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;TheSilverStone&#x2F;simple_replace</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;TheSilverStone&#x2F;simple_replace</guid>
+    <link>https://github.com/TheSilverStone/simple_replace</link>
+    <guid>https://github.com/TheSilverStone/simple_replace</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/178652409?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>TheSilverStone</strong><br>
       This mod for Luanti allows users to add blocks using the commands &#x2F;fill &#x2F;pos1 &#x2F;pos2 &#x2F;setnode.<br>
-      Author: TheSilverStone<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;TheSilverStone&#x2F;simple_replace&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;simple_replace.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;TheSilverStone&#x2F;simple_replace&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/TheSilverStone/simple_replace/archive/refs/heads/main/simple_replace.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/TheSilverStone/simple_replace/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-02T06:54:00</pubDate>
   </item>
   <item>
     <title>minetest-flow (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;luk3yx&#x2F;minetest-flow</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;luk3yx&#x2F;minetest-flow</guid>
+    <link>https://github.com/luk3yx/minetest-flow</link>
+    <guid>https://github.com/luk3yx/minetest-flow</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/3182651?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>luk3yx</strong><br>
       Yet another formspec library for ~~Minetest~~ Luanti<br>
-      Author: luk3yx<br>
       License: GNU Lesser General Public License v2.1<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;luk3yx&#x2F;minetest-flow&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;minetest-flow.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;luk3yx&#x2F;minetest-flow&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/luk3yx/minetest-flow/archive/refs/heads/main/minetest-flow.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/luk3yx/minetest-flow/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-03-02T05:22:43</pubDate>
   </item>
   <item>
     <title>castle_masonry (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;castle_masonry</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;castle_masonry</guid>
+    <link>https://github.com/minetest-mods/castle_masonry</link>
+    <guid>https://github.com/minetest-mods/castle_masonry</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
       A Luanti&#x2F;Minetest mod - all about creating castles and castle dungeons.<br>
-      Author: minetest-mods<br>
       License: MIT License<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;castle_masonry&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;castle_masonry.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;minetest-mods&#x2F;castle_masonry&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/minetest-mods/castle_masonry/archive/refs/heads/master/castle_masonry.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-28T13:53:15</pubDate>
   </item>
   <item>
     <title>ShameGPT (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;lichenseed&#x2F;ShameGPT</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;lichenseed&#x2F;ShameGPT</guid>
+    <link>https://gitlab.com/lichenseed/ShameGPT</link>
+    <guid>https://gitlab.com/lichenseed/ShameGPT</guid>
     <description><![CDATA[
+      <img src="/uploads/-/system/group/avatar/125205119/zapatero.jpg" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>lichenseed</strong><br>
       AI chatbot integration for Luanti (Minetest) using Ollama models.<br>
-      Author: lichenseed<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;lichenseed&#x2F;ShameGPT&#x2F;-&#x2F;archive&#x2F;main&#x2F;ShameGPT.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;lichenseed&#x2F;ShameGPT&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/lichenseed/ShameGPT/-/archive/main/ShameGPT.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-25T19:57:36.975</pubDate>
   </item>
   <item>
     <title>technic (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;technic</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;technic</guid>
+    <link>https://github.com/minetest-mods/technic</link>
+    <guid>https://github.com/minetest-mods/technic</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
       Technic mod for Luanti&#x2F;Minetest<br>
-      Author: minetest-mods<br>
       License: Other<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;technic&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;technic.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;minetest-mods&#x2F;technic&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-25T08:17:53</pubDate>
   </item>
   <item>
     <title>moreblocks (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;moreblocks</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;moreblocks</guid>
+    <link>https://github.com/minetest-mods/moreblocks</link>
+    <guid>https://github.com/minetest-mods/moreblocks</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
       More Blocks<br>
-      Author: minetest-mods<br>
       License: zlib License<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;moreblocks&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;moreblocks.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;minetest-mods&#x2F;moreblocks&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-23T22:46:29</pubDate>
   </item>
   <item>
     <title>filterplus (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;monk-afk&#x2F;filterplus</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;monk-afk&#x2F;filterplus</guid>
+    <link>https://github.com/monk-afk/filterplus</link>
+    <guid>https://github.com/monk-afk/filterplus</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/37543743?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>monk-afk</strong><br>
       core.register_on_chat_message()<br>
-      Author: monk-afk<br>
       License: Other<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;monk-afk&#x2F;filterplus&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;filterplus.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;monk-afk&#x2F;filterplus&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-21T14:53:11</pubDate>
   </item>
   <item>
     <title>ldap1 (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;bgstack15&#x2F;ldap1</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;bgstack15&#x2F;ldap1</guid>
+    <link>https://gitlab.com/bgstack15/ldap1</link>
+    <guid>https://gitlab.com/bgstack15/ldap1</guid>
     <description><![CDATA[
+      <img src="/uploads/-/system/user/avatar/2361646/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bgstack15</strong><br>
       Luanti mod for using ldap as 2fa<br>
-      Author: bgstack15<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;bgstack15&#x2F;ldap1&#x2F;-&#x2F;archive&#x2F;master&#x2F;ldap1.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;bgstack15&#x2F;ldap1&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/bgstack15/ldap1/-/archive/master/ldap1.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-16T19:45:57.611</pubDate>
   </item>
   <item>
     <title>homedecor_modpack (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;mt-mods&#x2F;homedecor_modpack</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;mt-mods&#x2F;homedecor_modpack</guid>
+    <link>https://github.com/mt-mods/homedecor_modpack</link>
+    <guid>https://github.com/mt-mods/homedecor_modpack</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
       A fairly feature-filled home decor modpack that is game agnostic.<br>
-      Author: mt-mods<br>
       License: Other<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;mt-mods&#x2F;homedecor_modpack&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;homedecor_modpack.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;mt-mods&#x2F;homedecor_modpack&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/mt-mods/homedecor_modpack/archive/refs/heads/master/homedecor_modpack.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-15T00:00:46</pubDate>
   </item>
   <item>
     <title>events_api (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;TPH&#x2F;events_api</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;TPH&#x2F;events_api</guid>
+    <link>https://codeberg.org/TPH/events_api</link>
+    <guid>https://codeberg.org/TPH/events_api</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/0b4a008971f9c5fb4659a78b99ea7bc59f843dfc8ffe00e172fe965b3385a1e5" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>TPH</strong><br>
       API for creating, handling, and permitting function registration calls for custom events for Luanti&#x2F;Minetest<br>
-      Author: TPH<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;TPH&#x2F;events_api&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;events_api.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;TPH&#x2F;events_api&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/TPH/events_api/archive/refs/heads/master/events_api.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/TPH/events_api/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-12T01:04:25+01:00</pubDate>
   </item>
   <item>
     <title>Dialogues (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;dialogues</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;dialogues</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/dialogues</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/dialogues</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Dialogue mod for Luanti<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;dialogues&#x2F;-&#x2F;archive&#x2F;main&#x2F;dialogues.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;dialogues&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/dialogues/-/archive/main/dialogues.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/dialogues/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-11T22:31:31.580</pubDate>
   </item>
   <item>
     <title>dungeonsplus (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;Stoabrogga&#x2F;dungeonsplus</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;Stoabrogga&#x2F;dungeonsplus</guid>
+    <link>https://codeberg.org/Stoabrogga/dungeonsplus</link>
+    <guid>https://codeberg.org/Stoabrogga/dungeonsplus</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/e9f57c67e292368b2d85d26e24b429a2830c93e75195aeba95f6291a91322ed9" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Stoabrogga</strong><br>
       Fork of the Luanti mod &quot;dungeonsplus&quot; with a few customizations<br>
-      Author: Stoabrogga<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;Stoabrogga&#x2F;dungeonsplus&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;root&#x2F;dungeonsplus.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;Stoabrogga&#x2F;dungeonsplus&#x2F;raw&#x2F;root&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/Stoabrogga/dungeonsplus/archive/refs/heads/root/dungeonsplus.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-07T22:57:45+01:00</pubDate>
   </item>
   <item>
     <title>jumpdrive (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;mt-mods&#x2F;jumpdrive</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;mt-mods&#x2F;jumpdrive</guid>
+    <link>https://github.com/mt-mods/jumpdrive</link>
+    <guid>https://github.com/mt-mods/jumpdrive</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
        Luanti (Minetest) jumpdrive mod<br>
-      Author: mt-mods<br>
       License: Other<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;mt-mods&#x2F;jumpdrive&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;jumpdrive.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;mt-mods&#x2F;jumpdrive&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/mt-mods/jumpdrive/archive/refs/heads/master/jumpdrive.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/jumpdrive/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-04T15:53:18</pubDate>
   </item>
   <item>
     <title>luanti-bright_night (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;Yukitty&#x2F;luanti-bright_night</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;Yukitty&#x2F;luanti-bright_night</guid>
+    <link>https://github.com/Yukitty/luanti-bright_night</link>
+    <guid>https://github.com/Yukitty/luanti-bright_night</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/8621403?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Yukitty</strong><br>
       Luanti mod - Seamlessly overrides night time sunlight level for all players to provide more visibility outdoors without affecting cave lighting or gameplay.<br>
-      Author: Yukitty<br>
       License: The Unlicense<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;Yukitty&#x2F;luanti-bright_night&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;luanti-bright_night.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;Yukitty&#x2F;luanti-bright_night&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/Yukitty/luanti-bright_night/archive/refs/heads/master/luanti-bright_night.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Yukitty/luanti-bright_night/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-02T07:03:44</pubDate>
   </item>
   <item>
     <title>signlike_letters (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;limafresh&#x2F;signlike_letters</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;limafresh&#x2F;signlike_letters</guid>
+    <link>https://github.com/limafresh/signlike_letters</link>
+    <guid>https://github.com/limafresh/signlike_letters</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/173814432?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>limafresh</strong><br>
       A mod for Luanti that adds sign-like letters in various colors, with and without light<br>
-      Author: limafresh<br>
       License: Creative Commons Zero v1.0 Universal<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;limafresh&#x2F;signlike_letters&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;signlike_letters.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;limafresh&#x2F;signlike_letters&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/limafresh/signlike_letters/archive/refs/heads/main/signlike_letters.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-01T10:25:49</pubDate>
   </item>
   <item>
     <title>autobuilder (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;limafresh&#x2F;autobuilder</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;limafresh&#x2F;autobuilder</guid>
+    <link>https://github.com/limafresh/autobuilder</link>
+    <guid>https://github.com/limafresh/autobuilder</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/173814432?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>limafresh</strong><br>
       A simple mod for Luanti that automates the construction of cubes with customizable width, length, and height, and allows you to make the cube empty or filled<br>
-      Author: limafresh<br>
       License: Creative Commons Zero v1.0 Universal<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;limafresh&#x2F;autobuilder&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;autobuilder.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;limafresh&#x2F;autobuilder&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/limafresh/autobuilder/archive/refs/heads/main/autobuilder.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/limafresh/autobuilder/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-01T10:23:37</pubDate>
   </item>
   <item>
     <title>farmtools (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;camelia&#x2F;farmtools</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;camelia&#x2F;farmtools</guid>
+    <link>https://codeberg.org/camelia/farmtools</link>
+    <guid>https://codeberg.org/camelia/farmtools</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/dc96c7ac6afd4317e4a965e883017c2ad9eacd2e44a91ce35f0143351de581eb" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>camelia</strong><br>
       Based on the Scythes &amp; Sickles mod by TestificateMods, this (WIP) mod adds various tools to make farming more convenient.<br>
-      Author: camelia<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;camelia&#x2F;farmtools&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;farmtools.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;camelia&#x2F;farmtools&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/camelia/farmtools/archive/refs/heads/main/farmtools.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-02-01T09:21:46+01:00</pubDate>
   </item>
   <item>
     <title>papyrus-ladders (Github)</title>
-    <link>https:&#x2F;&#x2F;github.com&#x2F;TSFBCE24RhythmHeaveners&#x2F;papyrus-ladders</link>
-    <guid>https:&#x2F;&#x2F;github.com&#x2F;TSFBCE24RhythmHeaveners&#x2F;papyrus-ladders</guid>
+    <link>https://github.com/TSFBCE24RhythmHeaveners/papyrus-ladders</link>
+    <guid>https://github.com/TSFBCE24RhythmHeaveners/papyrus-ladders</guid>
     <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/181195557?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>TSFBCE24RhythmHeaveners</strong><br>
       A Luanti mod that tweaks the Papyrus (aka Sugar Cane).<br>
-      Author: TSFBCE24RhythmHeaveners<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;github.com&#x2F;TSFBCE24RhythmHeaveners&#x2F;papyrus-ladders&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;papyrus-ladders.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;TSFBCE24RhythmHeaveners&#x2F;papyrus-ladders&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://github.com/TSFBCE24RhythmHeaveners/papyrus-ladders/archive/refs/heads/main/papyrus-ladders.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/TSFBCE24RhythmHeaveners/papyrus-ladders/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-01-31T05:03:54</pubDate>
   </item>
   <item>
     <title>areas_helper_tools (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;rangeTonic&#x2F;areas_helper_tools</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;rangeTonic&#x2F;areas_helper_tools</guid>
+    <link>https://gitlab.com/rangeTonic/areas_helper_tools</link>
+    <guid>https://gitlab.com/rangeTonic/areas_helper_tools</guid>
     <description><![CDATA[
+      <img src="/uploads/-/system/user/avatar/2222587/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>rangeTonic</strong><br>
       Convenience tools for Areas protection mod<br>
-      Author: rangeTonic<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;rangeTonic&#x2F;areas_helper_tools&#x2F;-&#x2F;archive&#x2F;main&#x2F;areas_helper_tools.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;rangeTonic&#x2F;areas_helper_tools&#x2F;-&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/rangeTonic/areas_helper_tools/-/archive/main/areas_helper_tools.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-01-28T21:41:17.356</pubDate>
   </item>
   <item>
     <title>Soothing 32 (Gitlab)</title>
-    <link>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;soothing-32</link>
-    <guid>https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;soothing-32</guid>
+    <link>https://gitlab.com/zughy-friends-minetest/soothing-32</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/soothing-32</guid>
     <description><![CDATA[
+      <img src="" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
       Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!<br>
-      Author: zughy-friends-minetest<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;soothing-32&#x2F;-&#x2F;archive&#x2F;master&#x2F;soothing-32.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;gitlab.com&#x2F;zughy-friends-minetest&#x2F;soothing-32&#x2F;-&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://gitlab.com/zughy-friends-minetest/soothing-32/-/archive/master/soothing-32.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2026-01-14T20:19:49.065</pubDate>
   </item>
   <item>
     <title>leads (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;leads</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;leads</guid>
+    <link>https://codeberg.org/SilverSandstone/leads</link>
+    <guid>https://codeberg.org/SilverSandstone/leads</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>SilverSandstone</strong><br>
       Adds leads to Luanti for moving and tethering animals.<br>
-      Author: SilverSandstone<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;leads&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;leads.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;leads&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/SilverSandstone/leads/archive/refs/heads/main/leads.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/SilverSandstone/leads/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-12-31T11:10:40+01:00</pubDate>
   </item>
   <item>
     <title>exile_songs (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;TPH&#x2F;exile_songs</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;TPH&#x2F;exile_songs</guid>
+    <link>https://codeberg.org/TPH/exile_songs</link>
+    <guid>https://codeberg.org/TPH/exile_songs</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/0b4a008971f9c5fb4659a78b99ea7bc59f843dfc8ffe00e172fe965b3385a1e5" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>TPH</strong><br>
       Plays songs in the background while you play Exile :3<br>
-      Author: TPH<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;TPH&#x2F;exile_songs&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;exile_songs.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;TPH&#x2F;exile_songs&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/TPH/exile_songs/archive/refs/heads/master/exile_songs.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/TPH/exile_songs/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-12-17T16:44:57+01:00</pubDate>
   </item>
   <item>
     <title>drawers (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;drawers</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;drawers</guid>
+    <link>https://codeberg.org/Codiac/drawers</link>
+    <guid>https://codeberg.org/Codiac/drawers</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Codiac</strong><br>
       Fork of https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;drawers.git<br>
-      Author: Codiac<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;drawers&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;drawers.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;drawers&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/Codiac/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Codiac/drawers/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-12-16T12:46:49+01:00</pubDate>
   </item>
   <item>
     <title>alone (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;alone</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;alone</guid>
+    <link>https://codeberg.org/Codiac/alone</link>
+    <guid>https://codeberg.org/Codiac/alone</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Codiac</strong><br>
       A Luanti mod to disperse players around the world.<br>
-      Author: Codiac<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;alone&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;alone.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;alone&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/Codiac/alone/archive/refs/heads/main/alone.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-12-15T07:02:28+01:00</pubDate>
   </item>
   <item>
     <title>itemstore_api (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;perfect_city_game_studio&#x2F;itemstore_api</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;perfect_city_game_studio&#x2F;itemstore_api</guid>
+    <link>https://codeberg.org/perfect_city_game_studio/itemstore_api</link>
+    <guid>https://codeberg.org/perfect_city_game_studio/itemstore_api</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/9c29d92d303c69fab4ccbe6941c29a6438683754cb8a98cbe674ced7b1e770d5" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>perfect_city_game_studio</strong><br>
       Itemstore API is a Luanti mod that exposes an API that allows placing
 items as entities in a node-dependent fashion.<br>
-      Author: perfect_city_game_studio<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;perfect_city_game_studio&#x2F;itemstore_api&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;itemstore_api.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;perfect_city_game_studio&#x2F;itemstore_api&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/perfect_city_game_studio/itemstore_api/archive/refs/heads/master/itemstore_api.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/perfect_city_game_studio/itemstore_api/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-11-09T03:33:48+01:00</pubDate>
   </item>
   <item>
     <title>ejection (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;yof&#x2F;ejection</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;yof&#x2F;ejection</guid>
+    <link>https://codeberg.org/yof/ejection</link>
+    <guid>https://codeberg.org/yof/ejection</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b209aa300f178b67c9abc640fc2bad25" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>yof</strong><br>
       Luanti movement mod.<br>
-      Author: yof<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;yof&#x2F;ejection&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;ejection.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;yof&#x2F;ejection&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/yof/ejection/archive/refs/heads/main/ejection.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/yof/ejection/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-10-28T12:08:38+01:00</pubDate>
   </item>
   <item>
     <title>avantisavoia (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;JetpackJackson&#x2F;avantisavoia</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;JetpackJackson&#x2F;avantisavoia</guid>
+    <link>https://codeberg.org/JetpackJackson/avantisavoia</link>
+    <guid>https://codeberg.org/JetpackJackson/avantisavoia</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/a892831a59fe193fdad0e38ceaa1f74e9a0116fc9f56de8c2ce16e6c6ad56f8e" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>JetpackJackson</strong><br>
       A mod for Luanti that adds various WW1-related weapons, tools, and structures.<br>
-      Author: JetpackJackson<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;JetpackJackson&#x2F;avantisavoia&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;avantisavoia.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;JetpackJackson&#x2F;avantisavoia&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/JetpackJackson/avantisavoia/archive/refs/heads/main/avantisavoia.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/JetpackJackson/avantisavoia/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-10-16T22:39:28+02:00</pubDate>
   </item>
   <item>
     <title>DrWho_Tardis (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;Skivling&#x2F;DrWho_Tardis</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;Skivling&#x2F;DrWho_Tardis</guid>
+    <link>https://codeberg.org/Skivling/DrWho_Tardis</link>
+    <guid>https://codeberg.org/Skivling/DrWho_Tardis</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/21b310789915765d687d827860cdc797ea3ea2be206f89497b385123635b1679" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Skivling</strong><br>
       A Doctor Who themed Luanti mod that adds various items and nodes, including a working TARDIS. Forked from https:&#x2F;&#x2F;github.com&#x2F;PiDemon&#x2F;Taridis_New , which is unmaintained. <br>
-      Author: Skivling<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;Skivling&#x2F;DrWho_Tardis&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;DrWho_Tardis.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;Skivling&#x2F;DrWho_Tardis&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/Skivling/DrWho_Tardis/archive/refs/heads/main/DrWho_Tardis.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Skivling/DrWho_Tardis/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-08-22T11:53:05+02:00</pubDate>
   </item>
   <item>
     <title>advtrains_horntrack (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;advtrains_horntrack</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;advtrains_horntrack</guid>
+    <link>https://codeberg.org/SilverSandstone/advtrains_horntrack</link>
+    <guid>https://codeberg.org/SilverSandstone/advtrains_horntrack</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>SilverSandstone</strong><br>
       Adds a track for automatically activating train horns in Luanti.<br>
-      Author: SilverSandstone<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;advtrains_horntrack&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;advtrains_horntrack.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;advtrains_horntrack&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/SilverSandstone/advtrains_horntrack/archive/refs/heads/main/advtrains_horntrack.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/SilverSandstone/advtrains_horntrack/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-08-21T07:26:08+02:00</pubDate>
   </item>
   <item>
     <title>copper_pipes (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;copper_pipes</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;copper_pipes</guid>
+    <link>https://codeberg.org/Codiac/copper_pipes</link>
+    <guid>https://codeberg.org/Codiac/copper_pipes</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Codiac</strong><br>
       Replaces blocks and plastic tubes in Pipeworks with copper versions<br>
-      Author: Codiac<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;copper_pipes&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;copper_pipes.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;Codiac&#x2F;copper_pipes&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/Codiac/copper_pipes/archive/refs/heads/main/copper_pipes.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Codiac/copper_pipes/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-07-17T03:37:15+02:00</pubDate>
   </item>
   <item>
     <title>flamegraph_register_node (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;Desour&#x2F;flamegraph_register_node</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;Desour&#x2F;flamegraph_register_node</guid>
+    <link>https://codeberg.org/Desour/flamegraph_register_node</link>
+    <guid>https://codeberg.org/Desour/flamegraph_register_node</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/70e9f49ac0763f676f0520c7156faefec7db7bf97bd7deb01175711245c3be28" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Desour</strong><br>
       Luanti mod that should help users that are hitting the upper limit on number of
 registered nodes.<br>
-      Author: Desour<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;Desour&#x2F;flamegraph_register_node&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;flamegraph_register_node.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;Desour&#x2F;flamegraph_register_node&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/Desour/flamegraph_register_node/archive/refs/heads/master/flamegraph_register_node.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Desour/flamegraph_register_node/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-07-06T20:45:36+02:00</pubDate>
   </item>
   <item>
     <title>epoxied_concrete (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;somedumbguy&#x2F;epoxied_concrete</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;somedumbguy&#x2F;epoxied_concrete</guid>
+    <link>https://codeberg.org/somedumbguy/epoxied_concrete</link>
+    <guid>https://codeberg.org/somedumbguy/epoxied_concrete</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/34298df361c480ae912a2b47c1f2171e" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>somedumbguy</strong><br>
       Luanti Mod that uses epoxy from techage to create colored concrete blocks.<br>
-      Author: somedumbguy<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;somedumbguy&#x2F;epoxied_concrete&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;epoxied_concrete.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;somedumbguy&#x2F;epoxied_concrete&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/somedumbguy/epoxied_concrete/archive/refs/heads/master/epoxied_concrete.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2025-03-18T19:28:17+01:00</pubDate>
   </item>
   <item>
     <title>growdrygrass (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;growdrygrass</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;growdrygrass</guid>
+    <link>https://codeberg.org/SilverSandstone/growdrygrass</link>
+    <guid>https://codeberg.org/SilverSandstone/growdrygrass</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>SilverSandstone</strong><br>
       Makes dry grass spread on savanna dirt in Luanti.<br>
-      Author: SilverSandstone<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;growdrygrass&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;growdrygrass.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;growdrygrass&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/SilverSandstone/growdrygrass/archive/refs/heads/main/growdrygrass.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/SilverSandstone/growdrygrass/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2024-11-28T15:02:09+01:00</pubDate>
   </item>
   <item>
     <title>blockhead (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;blockhead</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;blockhead</guid>
+    <link>https://codeberg.org/SilverSandstone/blockhead</link>
+    <guid>https://codeberg.org/SilverSandstone/blockhead</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>SilverSandstone</strong><br>
       Lets you put a block on your head in Luanti.<br>
-      Author: SilverSandstone<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;blockhead&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;main&#x2F;blockhead.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;SilverSandstone&#x2F;blockhead&#x2F;raw&#x2F;main&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/SilverSandstone/blockhead/archive/refs/heads/main/blockhead.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/SilverSandstone/blockhead/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2024-11-28T14:59:54+01:00</pubDate>
   </item>
   <item>
     <title>bed_rock (Codeberg)</title>
-    <link>https:&#x2F;&#x2F;codeberg.org&#x2F;Desour&#x2F;bed_rock</link>
-    <guid>https:&#x2F;&#x2F;codeberg.org&#x2F;Desour&#x2F;bed_rock</guid>
+    <link>https://codeberg.org/Desour/bed_rock</link>
+    <guid>https://codeberg.org/Desour/bed_rock</guid>
     <description><![CDATA[
+      <img src="https://codeberg.org/avatars/70e9f49ac0763f676f0520c7156faefec7db7bf97bd7deb01175711245c3be28" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Desour</strong><br>
       Luanti mod for a rock that you can use as bed<br>
-      Author: Desour<br>
       License: Unknown<br>
-      <a href="https:&#x2F;&#x2F;codeberg.org&#x2F;Desour&#x2F;bed_rock&#x2F;archive&#x2F;refs&#x2F;heads&#x2F;master&#x2F;bed_rock.zip">Download ZIP</a><br>
-      <img src="https:&#x2F;&#x2F;codeberg.org&#x2F;Desour&#x2F;bed_rock&#x2F;raw&#x2F;master&#x2F;screenshot.png" alt="Screenshot" />
+      <a href="https://codeberg.org/Desour/bed_rock/archive/refs/heads/master/bed_rock.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Desour/bed_rock/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <pubDate>2024-11-18T08:52:38+01:00</pubDate>
   </item>

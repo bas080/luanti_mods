@@ -2,12 +2,14 @@
  
 set -euo pipefail
 
+
 JQ_NORMALIZE_GITHUB='
 {
   items: .items | map({
     hosted_on: "Github",
     full_name: .full_name,
     author: .owner.login,
+    avatar_url: .owner.avatar_url,
     repo_name: .name,
     html_url: .html_url,
     issues_url: (.html_url + "/issues"),
@@ -29,6 +31,7 @@ JQ_NORMALIZE_GITLAB='
     hosted_on: "Gitlab",
     full_name: .path_with_namespace,
     author: .namespace.full_path,
+    avatar_url: .namespace.avatar_url,
     repo_name: .name,
     html_url: .web_url,
     issues_url: (.web_url + "/-/issues"),
@@ -50,6 +53,7 @@ JQ_NORMALIZE_CODEBERG='
     hosted_on: "Codeberg",
     full_name: .full_name,
     author: .owner.login,
+    avatar_url: .owner.avatar_url,
     repo_name: .name,
     html_url: .html_url,
     issues_url: (.html_url + "/issues"),
