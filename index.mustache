@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Luanti Mods</title>
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+<script type="module" src="https://esm.sh/@rbardini/time-duration@1.0.0/register"></script>
+
 <style>
   .topic  {
     margin-right: 1vw;
@@ -48,7 +50,7 @@
       margin: 0;
       background-color: var(--bg);
       padding: 1rem 2rem 1rem 0;
-      box-shadow: 0 0 6rem var(--fg);
+      box-shadow: 0 0 6rem var(--bg);
       border-radius: 0 var(--standard-border-radius) 0 0;
       margin: 0;
     }
@@ -72,7 +74,7 @@
   <h1>Luanti Mods</h1>
 
 <p>
-  Aggregated using github <code>luanti-mod</code> topic, the gitlab topic <code>Luanti</code> and the Codeberg <code>luanti</code> query.
+  Aggregated using Github topic <code>luanti-mod</code>, the Gitlab topic <code>Luanti</code> and the Codeberg query <code>luanti-mod</code>.
 </p>
 
 <main role="main">
@@ -99,7 +101,6 @@
     <a href="{{{issues_url}}}" target="_blank" rel="noopener">Issues</a>
     <a href="https://content.luanti.org/packages/{{{full_name}}}" class="check-url" target="_blank" rel="noopener">ContentDB</a>
     <a href="{{{html_url}}}/archive/{{default_branch}}.zip" download="{{{repo_name}}}.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="">Clone</a>
   </p>
 
   {{#description}}
@@ -113,7 +114,11 @@
     {{/license}}
 
     <dt>Updated</dt>
-    <dd><time datetime="{{updated_at}}">{{updated_at}}</time></dd>
+    <dd>
+      <time-duration data-largest-unit="month" data-smallest-unit="hour" data-style="long">
+        <time datetime="{{updated_at}}">{{updated_at}}</time>
+      </time-duration> ago
+      </dd>
 
     <dt>Topics</dt>
 

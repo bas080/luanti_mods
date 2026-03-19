@@ -14,7 +14,7 @@ JQ_NORMALIZE_GITHUB='
     zip_url: ("https://github.com/" + .full_name + "/archive/refs/heads/" + (.default_branch // "main") + "/" + (.full_name | split("/")[-1]) + ".zip"),
     description: (.description // ""),
     default_branch: (.default_branch // "main"),
-    updated_at: .updated_at,
+    updated_at: (.updated_at | sub("Z$"; "")),
     license: { name: (.license.name // "Unknown") },
     topics: (.topics // []),
     image_raw: ("https://raw.githubusercontent.com/" + .full_name + "/" + (.default_branch // "main") + "/screenshot.png"),
@@ -36,7 +36,7 @@ JQ_NORMALIZE_GITLAB='
     readme_url: (.web_url + "/-/raw/" + (.default_branch // "main") + "/README.md"),
     description: (.description // ""),
     default_branch: (.default_branch // "main"),
-    updated_at: .last_activity_at,
+    updated_at: (.last_activity_at | sub("Z$"; "")),
     license: { name: (.license // "Unknown") },
     topics: (.tag_list // []),
     image_raw: (.web_url + "/-/raw/" + (.default_branch // "main") + "/screenshot.png")
@@ -65,24 +65,26 @@ JQ_NORMALIZE_CODEBERG='
 }
 '
 
-mache() {
-  eval "$*"
-}
+if ! command -v mache >/dev/null 2>&1; then
+  mache() {
+    eval "$*"
+  }
+fi
 
 fetch_github() {
   mache 'gh api \
     -H "Accept: application/vnd.github+json" \
-    "https://api.github.com/search/repositories?q=topic:luanti-mod&sort=updated&order=desc&per_page=100"' \
+    "https://api.github.com/search/repositories?q=topic:luanti-mod&sort=updated&order=desc&per_page=20"' \
     | jq "$JQ_NORMALIZE_GITHUB"
 }
 
 fetch_gitlab() {
-  mache 'curl -s "https://gitlab.com/api/v4/projects?topic=Luanti&simple=true&per_page=10&order_by=last_activity_at&sort=desc"' \
+  mache 'curl -s "https://gitlab.com/api/v4/projects?topic=Luanti&simple=true&per_page=20&order_by=last_activity_at&sort=desc"' \
     | jq "$JQ_NORMALIZE_GITLAB"
 }
 
 fetch_codeberg() {
-  mache 'curl "https://codeberg.org/api/v1/repos/search?q=luanti&limit=20"' \
+  mache 'curl "https://codeberg.org/api/v1/repos/search?q=luanti-mod&limit=20"' \
     -H "accept: application/json" | jq "$JQ_NORMALIZE_CODEBERG"
 }
 
