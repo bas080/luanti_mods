@@ -1,0 +1,158 @@
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Luanti Mods</title>
+<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+<script type="module" src="https://esm.sh/@rbardini/time-duration@1.0.0/register"></script>
+
+<style>
+  .topic  {
+    margin-right: 1vw;
+  }
+  .topic-badge {
+    display: inline-block;
+    background-color: var(--secondary);
+    color: var(--text);
+    margin: 1ch 6ch 1ch 0;
+    border-radius: 3px;
+  }
+
+  html {
+    scroll-behavior: initial !important;
+  }
+</style>
+
+
+<style>
+  * article {
+    border: none;
+    margin-top: 8rem;
+    padding: 0;
+  }
+
+  .relative {
+    position: relative;
+  }
+
+  figure img {
+    min-width: 100%;
+  }
+</style>
+
+  <style>
+
+    * h2 {
+      position: absolute;
+      z-index: 10;
+      bottom: 0;
+      margin: 0;
+      background-color: var(--bg);
+      padding: 1rem 2rem 1rem 0;
+      box-shadow: 0 0 6rem var(--bg);
+      border-radius: 0 var(--standard-border-radius) 0 0;
+      margin: 0;
+    }
+
+    code {
+      border: var(--border-width) solid var(--border);
+      background-color: var(--accent-bg);
+      padding-left: 0.5ch;
+      padding-right: 0.5ch;
+    }
+
+    .links > * {
+      margin-right: 1vw;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <h1>Luanti Mods</h1>
+
+<p>
+  Aggregated using Github topic <code>luanti-mod</code>, the Gitlab topic <code>Luanti</code> and the Codeberg query <code>luanti-mod</code>.
+</p>
+
+<main role="main">
+{{#items}}
+
+
+<article>
+
+  <div class="relative">
+    <h2>{{repo_name}}</h2>
+    <figure>
+
+<img src="{{{image_raw}}}"
+     alt="Screenshot of {{full_name}} mod"
+     width="600" height="400"
+     loading="lazy"
+     onerror="this.onerror=null;this.src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZGRkIi8+PHBvbHlnb24gcG9pbnRzPSIzMDAsMTAwIDQwMCwxNTAgMzAwLDIwMCAyMDAsMTUwIiBmaWxsPSIjN2JjOTY4Ii8+PHBvbHlnb24gcG9pbnRzPSIyMDAsMTUwIDMwMCwyMDAgMzAwLDMwMCAyMDAsMjUwIiBmaWxsPSIjOGI1YTJiIi8+PHBvbHlnb24gcG9pbnRzPSIzMDAsMjAwIDQwMCwxNTAgNDAwLDI1MCAzMDAsMzAwIiBmaWxsPSIjNmE0MDIwIi8+PC9zdmc+';">    
+    </figure>
+  </div>
+
+  <p class="links">
+    {{#homepage}}<a href="{{{homepage}}}" target="_blank" rel="noopener">Website</a>{{/homepage}}
+    <a href="{{{html_url}}}" target="_blank" rel="noopener">{{hosted_on}}</a>
+    <a href="{{{issues_url}}}" target="_blank" rel="noopener">Issues</a>
+    <a href="https://content.luanti.org/packages/{{{full_name}}}" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+    <a href="{{{html_url}}}/archive/{{default_branch}}.zip" download="{{{repo_name}}}.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
+  </p>
+
+  {{#description}}
+  <p>{{description}}</p>
+  {{/description}}
+
+  <dl>
+    {{#license}}
+    <dt>License<dt>
+    <dd>{{license.name}}</dd>
+    {{/license}}
+
+    <dt>Updated</dt>
+    <dd>
+      <time-duration data-largest-unit="month" data-smallest-unit="hour" data-style="long">
+        <time datetime="{{updated_at}}">{{updated_at}}</time>
+      </time-duration> ago
+      </dd>
+
+    <dt>Topics</dt>
+
+    <dd>
+    {{#topics}}
+    {{#.}}<code class="topic">{{.}}</code>{{/.}}
+    {{/topics}}
+    </dd>
+
+    <dt>Author</dt>
+    <dd>
+    {{author}}
+    </dd>
+    
+  </dl>
+
+ <details>
+  <summary>README</summary>
+  <object data="https://corsproxy.io/?{{{readme_url}}}"
+          type="text/plain"
+          width="100%"
+          height="400">
+    <p>Failed to load README</p>
+  </object>
+</details> 
+
+
+</article>
+{{/items}}
+</main>
+
+<footer>
+  <p>Data sourced from GitHub topics API.</p>
+</footer>
+</body>
+
+</html>
