@@ -2,6 +2,8 @@
  
 set -euo pipefail
 
+
+
 JQ_NORMALIZE_GITHUB='
 {
   items: .items | map({
@@ -13,6 +15,9 @@ JQ_NORMALIZE_GITHUB='
     repo_name: .name,
     html_url: .html_url,
     issues_url: (.html_url + "/issues"),
+    open_issues: (.open_issues_count // 0),
+    stars: (.stargazers_count // 0),
+    forks: (.forks_count // 0),
     zip_url: ("https://github.com/" + .full_name + "/archive/refs/heads/" + (.default_branch // "main") + "/" + (.full_name | split("/")[-1]) + ".zip"),
     description: (.description // ""),
     default_branch: (.default_branch // "main"),
@@ -36,6 +41,9 @@ JQ_NORMALIZE_GITLAB='
     repo_name: .name,
     html_url: .web_url,
     issues_url: (.web_url + "/-/issues"),
+    open_issues: (.open_issues_count // 0),
+    stars: (.star_count // 0),
+    forks: (.forks_count // 0),
     zip_url: (.web_url + "/-/archive/" + (.default_branch // "main") + "/" + (.path_with_namespace | split("/")[-1]) + ".zip"),
     readme_url: (.web_url + "/-/raw/" + (.default_branch // "main") + "/README.md"),
     description: (.description // ""),
@@ -59,6 +67,9 @@ JQ_NORMALIZE_CODEBERG='
     repo_name: .name,
     html_url: .html_url,
     issues_url: (.html_url + "/issues"),
+    open_issues: (.open_issues_count // 0),
+    stars: (.stars_count // 0),
+    forks: (.forks_count // 0),
     zip_url: (.html_url + "/archive/refs/heads/" + (.default_branch // "main") + "/" + .name + ".zip"),
     readme_url: (.html_url + "/raw/" + (.default_branch // "main") + "/README.md"),
     description: (.description // ""),
@@ -68,6 +79,16 @@ JQ_NORMALIZE_CODEBERG='
     topics: (.topics // []),
     image_raw: (.html_url + "/raw/" + (.default_branch // "main") + "/screenshot.png")
   })
+}
+'
+
+JQ_COMPUTE='
+{
+  items: (.items | map(
+    . + {
+      has_stats: (((.stars // 0) + (.forks // 0) + (.open_issues // 0)) > 0)
+    }
+  ))
 }
 '
 
@@ -97,7 +118,7 @@ fetch_codeberg() {
 fetch_all() {
   jq -s '{
     items: (.[0].items + .[1].items + .[2].items | sort_by(.updated_at) | reverse)
-  }' <(fetch_github) <(fetch_gitlab) <(fetch_codeberg)
+  }' <(fetch_github) <(fetch_gitlab) <(fetch_codeberg) | jq "$JQ_COMPUTE"
 }
 
 fetch_all | tee data.json >(mustache - feed.mustache > feed.xml) | mustache - index.mustache > index.html
