@@ -56,6 +56,36 @@
     <pubDate>2026-03-19T20:57:25</pubDate>
   </item>
   <item>
+    <title>CraftoPlus (Gitlab)</title>
+    <link>https://gitlab.com/Mish7913/craftoplus</link>
+    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-19T20:18:42.811</pubDate>
+  </item>
+  <item>
+    <title>m7a (Gitlab)</title>
+    <link>https://gitlab.com/Mish7913/m7a</link>
+    <guid>https://gitlab.com/Mish7913/m7a</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      API for Lianti Game<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-19T19:38:25.616</pubDate>
+  </item>
+  <item>
     <title>circuits (Codeberg)</title>
     <link>https://codeberg.org/Sheriff_U3/circuits</link>
     <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
@@ -116,6 +146,81 @@
     <pubDate>2026-03-18T14:32:29</pubDate>
   </item>
   <item>
+    <title>arena_lib (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/arena_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library working as a core manager for any minigame you have in mind<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-18T12:29:29.446</pubDate>
+  </item>
+  <item>
+    <title>Collectible skins (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/collectible-skins</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/collectible-skins</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Wear and unlock skins on Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-17T13:29:42.852</pubDate>
+  </item>
+  <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-17T13:29:26.817</pubDate>
+  </item>
+  <item>
+    <title>audio_lib (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/audio_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/audio_lib</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library to easily manage audio files<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-16T14:55:49.917</pubDate>
+  </item>
+  <item>
+    <title>Magic Compass (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/magic-compass</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/magic-compass</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Teleport system for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/magic-compass/-/archive/master/magic-compass.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-15T00:45:29.527</pubDate>
+  </item>
+  <item>
     <title>plots (Github)</title>
     <link>https://github.com/bookgirlxoxo/plots</link>
     <guid>https://github.com/bookgirlxoxo/plots</guid>
@@ -129,6 +234,36 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-12T22:49:51</pubDate>
+  </item>
+  <item>
+    <title>weapons_lib (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/weapons_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library to easily register new weapons<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-11T22:02:34.885</pubDate>
+  </item>
+  <item>
+    <title>Natural Habitat (Gitlab)</title>
+    <link>https://gitlab.com/Mish7913/natural_habitat</link>
+    <guid>https://gitlab.com/Mish7913/natural_habitat</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for &quot;Minetest Game&quot; and &quot;MineClonia&quot;.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-11T10:33:55.027</pubDate>
   </item>
   <item>
     <title>energy_drinks (Codeberg)</title>
@@ -146,6 +281,51 @@
     <pubDate>2026-03-10T18:57:39+01:00</pubDate>
   </item>
   <item>
+    <title>Whitelist (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/whitelist</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/whitelist</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/21154006/whitelist-icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Filter who can enter a Luanti server and who can&#39;t through a whitelist<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/whitelist/-/archive/master/whitelist.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-10T11:29:30.791</pubDate>
+  </item>
+  <item>
+    <title>Hub (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/hub</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      A mod to easily manage your minigames server on Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-09T20:29:16.849</pubDate>
+  </item>
+  <item>
+    <title>achievements_lib (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/achievements_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/achievements_lib</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/20515418/achievements.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Achievements API for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/archive/master/achievements_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-07T16:29:16.366</pubDate>
+  </item>
+  <item>
     <title>areas (Github)</title>
     <link>https://github.com/minetest-mods/areas</link>
     <guid>https://github.com/minetest-mods/areas</guid>
@@ -161,6 +341,21 @@
     <pubDate>2026-03-05T08:11:06</pubDate>
   </item>
   <item>
+    <title>Parties (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/parties</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/parties</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/19639678/party.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Minimalist party mod for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/parties/-/archive/master/parties.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-04T20:29:21.723</pubDate>
+  </item>
+  <item>
     <title>musician (Github)</title>
     <link>https://github.com/fancyfinn9/musician</link>
     <guid>https://github.com/fancyfinn9/musician</guid>
@@ -174,6 +369,36 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/fancyfinn9/musician/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-04T10:53:40</pubDate>
+  </item>
+  <item>
+    <title>Warp Portal (Gitlab)</title>
+    <link>https://gitlab.com/Mish7913/warp-portal</link>
+    <guid>https://gitlab.com/Mish7913/warp-portal</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/78029762/warp_portal.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/warp-portal/-/archive/main/warp-portal.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-02T11:15:14.285</pubDate>
+  </item>
+  <item>
+    <title>country_lib (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/country_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      small util library for Luanti, providing country localised names and flags<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-02T10:29:26.241</pubDate>
   </item>
   <item>
     <title>simple_replace (Github)</title>
@@ -221,6 +446,21 @@
     <pubDate>2026-02-28T13:53:15</pubDate>
   </item>
   <item>
+    <title>ShameGPT (Gitlab)</title>
+    <link>https://gitlab.com/lichenseed/ShameGPT</link>
+    <guid>https://gitlab.com/lichenseed/ShameGPT</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/79573730/Gemini_Generated_Image_n8oz0ln8oz0ln8oz_1_.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>lichenseed</strong><br>
+      AI chatbot integration for Luanti (Minetest) using Ollama models.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/lichenseed/ShameGPT/-/archive/main/ShameGPT.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-02-25T19:57:36.975</pubDate>
+  </item>
+  <item>
     <title>technic (Github)</title>
     <link>https://github.com/minetest-mods/technic</link>
     <guid>https://github.com/minetest-mods/technic</guid>
@@ -266,6 +506,21 @@
     <pubDate>2026-02-21T14:53:11</pubDate>
   </item>
   <item>
+    <title>ldap1 (Gitlab)</title>
+    <link>https://gitlab.com/bgstack15/ldap1</link>
+    <guid>https://gitlab.com/bgstack15/ldap1</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bgstack15</strong><br>
+      Luanti mod for using ldap as 2fa<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/bgstack15/ldap1/-/archive/master/ldap1.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-02-16T19:45:57.611</pubDate>
+  </item>
+  <item>
     <title>homedecor_modpack (Github)</title>
     <link>https://github.com/mt-mods/homedecor_modpack</link>
     <guid>https://github.com/mt-mods/homedecor_modpack</guid>
@@ -294,6 +549,21 @@
     ]]></description>
     <enclosure url="https://codeberg.org/TPH/events_api/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-02-12T01:04:25+01:00</pubDate>
+  </item>
+  <item>
+    <title>Dialogues (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/dialogues</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/dialogues</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/67800245/dialogues_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Dialogue mod for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/dialogues/-/archive/main/dialogues.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/dialogues/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/dialogues/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-02-11T22:31:31.580</pubDate>
   </item>
   <item>
     <title>dungeonsplus (Codeberg)</title>
@@ -384,6 +654,36 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/TSFBCE24RhythmHeaveners/papyrus-ladders/main/screenshot.png" type="image/png" />
     <pubDate>2026-01-31T05:03:54</pubDate>
+  </item>
+  <item>
+    <title>areas_helper_tools (Gitlab)</title>
+    <link>https://gitlab.com/rangeTonic/areas_helper_tools</link>
+    <guid>https://gitlab.com/rangeTonic/areas_helper_tools</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>rangeTonic</strong><br>
+      Convenience tools for Areas protection mod<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/rangeTonic/areas_helper_tools/-/archive/main/areas_helper_tools.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-01-28T21:41:17.356</pubDate>
+  </item>
+  <item>
+    <title>Soothing 32 (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/soothing-32</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/soothing-32</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/soothing-32/-/archive/master/soothing-32.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-01-14T20:19:49.065</pubDate>
   </item>
   <item>
     <title>leads (Codeberg)</title>
