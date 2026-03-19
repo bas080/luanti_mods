@@ -2,12 +2,12 @@
 <rss version="2.0">
 <channel>
   <title>Luanti Mods Feed</title>
-  <link>https://yourdomain.org/</link>
+  <link>https://bas080.github.io/luanti_mods/</link>
   <description>Latest Luanti mods from Github, Gitlab, and Codeberg</description>
   <image>
-    <url>data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZGRkIi8+PHBvbHlnb24gcG9pbnRzPSIzMDAsMTAwIDQwMCwxNTAgMzAwLDIwMCAyMDAsMTUwIiBmaWxsPSIjN2JjOTY4Ii8+PHBvbHlnb24gcG9pbnRzPSIyMDAsMTUwIDMwMCwyMDAgMzAwLDMwMCAyMDAsMjUwIiBmaWxsPSIjOGI1YTJiIi8+PHBvbHlnb24gcG9pbnRzPSIzMDAsMjAwIDQwMCwxNTAgNDAwLDI1MCAzMDAsMzAwIiBmaWxsPSIjNmE0MDIwIi8+PC9zdmc+</url>
+    <url>https://bas080.github.io/luanti_mods/favicon.png</url>
     <title>Luanti Mods Feed</title>
-    <link>https://yourdomain.org/</link>
+    <link>https://bas080.github.io/luanti_mods/</link>
   </image>
 
   {{#items}}
@@ -16,14 +16,20 @@
     <link>{{{html_url}}}</link>
     <guid>{{{html_url}}}</guid>
     <description><![CDATA[
+      {{#if avatar_url}}
       <img src="{{{avatar_url}}}" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      {{/if}}
       <strong>{{author}}</strong><br>
       {{description}}<br>
       License: {{license.name}}<br>
       <a href="{{{zip_url}}}">Download ZIP</a><br>
+      {{#if image_raw}}
       <img src="{{{image_raw}}}" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      {{/if}}
     ]]></description>
+    {{#if image_raw}}
     <enclosure url="{{{image_raw}}}" type="image/png" />
+    {{/if}}
     <pubDate>{{updated_at}}</pubDate>
   </item>
   {{/items}}
