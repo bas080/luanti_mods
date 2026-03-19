@@ -94,4 +94,4 @@ fetch_all() {
   }' <(fetch_github) <(fetch_gitlab) <(fetch_codeberg)
 }
 
-fetch_all | tee data.json | mustache - index.mustache | tee index.html
+fetch_all | tee data.json >(mustache - feed.mustache > feed.xml) | mustache - index.mustache > index.html

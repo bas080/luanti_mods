@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Luanti Mods Feed</title>
+  <link>https://yourdomain.org/</link>
+  <description>Latest Luanti mods from Github, Gitlab, and Codeberg</description>
+  {{#items}}
+  <item>
+    <title>{{repo_name}} ({{hosted_on}})</title>
+    <link>{{html_url}}</link>
+    <guid>{{html_url}}</guid>
+    <description><![CDATA[
+      {{description}}<br>
+      Author: {{author}}<br>
+      License: {{license.name}}<br>
+      <a href="{{zip_url}}">Download ZIP</a><br>
+      <img src="{{image_raw}}" alt="Screenshot" />
+    ]]></description>
+    <pubDate>{{updated_at}}</pubDate>
+  </item>
+  {{/items}}
+</channel>
+</rss>
