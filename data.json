@@ -2,17 +2,40 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "bas080/luanti_utils",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://bas080.github.io/luanti_utils/",
+      "repo_name": "luanti_utils",
+      "html_url": "https://github.com/bas080/luanti_utils",
+      "issues_url": "https://github.com/bas080/luanti_utils/issues",
+      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-03-19T04:04:39",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "utility-library"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md"
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "bas080/vines",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "https://forum.minetest.net/viewtopic.php?id=2344",
+      "website": "",
       "repo_name": "vines",
       "html_url": "https://github.com/bas080/vines",
       "issues_url": "https://github.com/bas080/vines/issues",
       "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
-      "description": "Vines mod for minetest. Also adds ropes.",
+      "description": "Climbable vines, shears to harvest them and a rope box to help you climb.",
       "default_branch": "master",
-      "updated_at": "2026-03-19T01:17:47",
+      "updated_at": "2026-03-19T04:00:02",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -68,28 +91,6 @@
         "minetest-modpack"
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png"
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/luanti_utils",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "https://bas080.github.io/luanti_utils/",
-      "repo_name": "luanti_utils",
-      "html_url": "https://github.com/bas080/luanti_utils",
-      "issues_url": "https://github.com/bas080/luanti_utils/issues",
-      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
-      "description": "",
-      "default_branch": "master",
-      "updated_at": "2026-03-18T14:33:50",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md"
     },
     {
       "hosted_on": "Github",
