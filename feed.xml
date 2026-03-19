@@ -11,6 +11,21 @@
   </image>
 
   <item>
+    <title>m7a (Gitlab)</title>
+    <link>https://gitlab.com/Mish7913/m7a</link>
+    <guid>https://gitlab.com/Mish7913/m7a</guid>
+    <description><![CDATA[
+      <img src="/uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      API for Lianti Game<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-19T14:50:57.569</pubDate>
+  </item>
+  <item>
     <title>luanti_utils (Github)</title>
     <link>https://github.com/bas080/luanti_utils</link>
     <guid>https://github.com/bas080/luanti_utils</guid>
@@ -23,7 +38,7 @@
       <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-19T11:58:03</pubDate>
+    <pubDate>2026-03-19T12:16:11</pubDate>
   </item>
   <item>
     <title>circuits (Codeberg)</title>
@@ -174,21 +189,6 @@
     ]]></description>
     <enclosure url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-16T14:55:49.917</pubDate>
-  </item>
-  <item>
-    <title>m7a (Gitlab)</title>
-    <link>https://gitlab.com/Mish7913/m7a</link>
-    <guid>https://gitlab.com/Mish7913/m7a</guid>
-    <description><![CDATA[
-      <img src="/uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      API for Lianti Game<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-15T19:06:02.981</pubDate>
   </item>
   <item>
     <title>Magic Compass (Gitlab)</title>
