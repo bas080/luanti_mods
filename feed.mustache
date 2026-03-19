@@ -4,6 +4,12 @@
   <title>Luanti Mods Feed</title>
   <link>https://yourdomain.org/</link>
   <description>Latest Luanti mods from Github, Gitlab, and Codeberg</description>
+  <image>
+    <url>data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iNDAwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZGRkIi8+PHBvbHlnb24gcG9pbnRzPSIzMDAsMTAwIDQwMCwxNTAgMzAwLDIwMCAyMDAsMTUwIiBmaWxsPSIjN2JjOTY4Ii8+PHBvbHlnb24gcG9pbnRzPSIyMDAsMTUwIDMwMCwyMDAgMzAwLDMwMCAyMDAsMjUwIiBmaWxsPSIjOGI1YTJiIi8+PHBvbHlnb24gcG9pbnRzPSIzMDAsMjAwIDQwMCwxNTAgNDAwLDI1MCAzMDAsMzAwIiBmaWxsPSIjNmE0MDIwIi8+PC9zdmc+</url>
+    <title>Luanti Mods Feed</title>
+    <link>https://yourdomain.org/</link>
+  </image>
+
   {{#items}}
   <item>
     <title>{{repo_name}} ({{hosted_on}})</title>
@@ -17,6 +23,7 @@
       <a href="{{{zip_url}}}">Download ZIP</a><br>
       <img src="{{{image_raw}}}" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+    <enclosure url="{{{image_raw}}}" type="image/png" />
     <pubDate>{{updated_at}}</pubDate>
   </item>
   {{/items}}
