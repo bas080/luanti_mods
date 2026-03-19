@@ -113,7 +113,7 @@
   <p class="links">
     {{#website}}<a href="{{{website}}}" target="_blank" rel="noopener">Webpage</a>{{/website}}
     <a href="{{{html_url}}}" target="_blank" rel="noopener">{{hosted_on}}</a>
-    <a href="{{{issues_url}}}" target="_blank" rel="noopener">Issues</a>
+    <a href="{{{issues_url}}}" target="_blank" rel="noopener">Issues{{#open_issues}}[{{open_issues}}]{{/open_issues}}</a>
     <a href="https://content.luanti.org/packages/{{{full_name}}}" class="check-url" target="_blank" rel="noopener">ContentDB</a>
     <a href="{{{html_url}}}/archive/{{default_branch}}.zip" download="{{{repo_name}}}.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
   </p>
@@ -134,6 +134,16 @@
         <time datetime="{{updated_at}}">{{updated_at}}</time>
       </time-duration> ago
       </dd>
+
+
+    {{#has_stats}}
+    <dt>Stats</dt>
+    <dd>
+      {{#stars}}⭐ {{stars}}{{/stars}}{{#stars}}{{#forks}} · {{/forks}}{{/stars}}
+      {{#forks}}🍴 {{forks}}{{/forks}}{{#forks}}{{#open_issues}} · {{/open_issues}}{{/forks}}
+      {{#open_issues}}🐞 {{open_issues}}{{/open_issues}}
+    </dd>
+    {{/has_stats}}
 
     <dt>Topics</dt>
 

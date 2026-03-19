@@ -23,7 +23,37 @@
       <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-19T04:04:39</pubDate>
+    <pubDate>2026-03-19T11:58:03</pubDate>
+  </item>
+  <item>
+    <title>circuits (Codeberg)</title>
+    <link>https://codeberg.org/Sheriff_U3/circuits</link>
+    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A circuitry mod for Luanti<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-19T11:29:13+01:00</pubDate>
+  </item>
+  <item>
+    <title>fluid_lib (Github)</title>
+    <link>https://github.com/LunaSquee/fluid_lib</link>
+    <guid>https://github.com/LunaSquee/fluid_lib</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>LunaSquee</strong><br>
+      Universal Fluid API for Luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/LunaSquee/fluid_lib/archive/refs/heads/master/fluid_lib.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-19T11:08:14</pubDate>
   </item>
   <item>
     <title>vines (Github)</title>
@@ -54,21 +84,6 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-18T17:22:01</pubDate>
-  </item>
-  <item>
-    <title>circuits (Codeberg)</title>
-    <link>https://codeberg.org/Sheriff_U3/circuits</link>
-    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A circuitry mod for Luanti<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-18T14:47:45+01:00</pubDate>
   </item>
   <item>
     <title>trudged (Github)</title>
@@ -594,21 +609,6 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/Yukitty/luanti-bright_night/master/screenshot.png" type="image/png" />
     <pubDate>2026-02-02T07:03:44</pubDate>
-  </item>
-  <item>
-    <title>signlike_letters (Github)</title>
-    <link>https://github.com/limafresh/signlike_letters</link>
-    <guid>https://github.com/limafresh/signlike_letters</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/173814432?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>limafresh</strong><br>
-      A mod for Luanti that adds sign-like letters in various colors, with and without light<br>
-      License: Creative Commons Zero v1.0 Universal<br>
-      <a href="https://github.com/limafresh/signlike_letters/archive/refs/heads/main/signlike_letters.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" type="image/png" />
-    <pubDate>2026-02-01T10:25:49</pubDate>
   </item>
   <item>
     <title>autobuilder (Github)</title>
