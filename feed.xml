@@ -23,7 +23,37 @@
       <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-19T12:16:11</pubDate>
+    <pubDate>2026-03-19T21:38:53</pubDate>
+  </item>
+  <item>
+    <title>vines (Github)</title>
+    <link>https://github.com/bas080/vines</link>
+    <guid>https://github.com/bas080/vines</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-19T21:23:54</pubDate>
+  </item>
+  <item>
+    <title>playervault (Github)</title>
+    <link>https://github.com/bookgirlxoxo/playervault</link>
+    <guid>https://github.com/bookgirlxoxo/playervault</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/116229905?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bookgirlxoxo</strong><br>
+      virtual playervault mod for luanti servers<br>
+      License: MIT License<br>
+      <a href="https://github.com/bookgirlxoxo/playervault/archive/refs/heads/main/playervault.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-19T20:57:25</pubDate>
   </item>
   <item>
     <title>circuits (Codeberg)</title>
@@ -54,21 +84,6 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-19T11:08:14</pubDate>
-  </item>
-  <item>
-    <title>vines (Github)</title>
-    <link>https://github.com/bas080/vines</link>
-    <guid>https://github.com/bas080/vines</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-19T04:00:02</pubDate>
   </item>
   <item>
     <title>little_lake (Github)</title>
@@ -114,21 +129,6 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-12T22:49:51</pubDate>
-  </item>
-  <item>
-    <title>playervault (Github)</title>
-    <link>https://github.com/bookgirlxoxo/playervault</link>
-    <guid>https://github.com/bookgirlxoxo/playervault</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/116229905?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bookgirlxoxo</strong><br>
-      virtual playervault playervault mod for luanti servers<br>
-      License: MIT License<br>
-      <a href="https://github.com/bookgirlxoxo/playervault/archive/refs/heads/main/playervault.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-11T17:36:25</pubDate>
   </item>
   <item>
     <title>energy_drinks (Codeberg)</title>
