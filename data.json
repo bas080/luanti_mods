@@ -2,6 +2,26 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "bas080/vines",
+      "author": "bas080",
+      "repo_name": "vines",
+      "html_url": "https://github.com/bas080/vines",
+      "issues_url": "https://github.com/bas080/vines/issues",
+      "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
+      "description": "Vines mod for minetest. Also adds ropes.",
+      "default_branch": "master",
+      "updated_at": "2026-03-19T01:17:47Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/vines/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/vines/master/README.md"
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "bas080/little_lake",
       "author": "bas080",
       "repo_name": "little_lake",
@@ -82,26 +102,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/trudged/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/trudged/master/README.md"
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/vines",
-      "author": "bas080",
-      "repo_name": "vines",
-      "html_url": "https://github.com/bas080/vines",
-      "issues_url": "https://github.com/bas080/vines/issues",
-      "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
-      "description": "Vines mod for minetest. Also adds ropes.",
-      "default_branch": "master",
-      "updated_at": "2026-03-18T14:28:50Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/vines/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/vines/master/README.md"
     },
     {
       "hosted_on": "Gitlab",
