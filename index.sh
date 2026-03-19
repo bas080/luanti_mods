@@ -117,6 +117,7 @@ fetch_codeberg() {
 
 fetch_all() {
   jq -s '{
+    now: (now | strftime("%Y-%m-%dT%H:%M:%S")),
     items: (.[0].items + .[1].items + .[2].items | sort_by(.updated_at) | reverse)
   }' <(fetch_github) <(fetch_gitlab) <(fetch_codeberg) | jq "$JQ_COMPUTE"
 }
