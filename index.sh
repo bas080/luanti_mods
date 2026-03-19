@@ -83,7 +83,8 @@ JQ_NORMALIZE_CODEBERG='
 '
 
 JQ_COMPUTE='
-{
+. + {
+  now: (now | strftime("%Y-%m-%dT%H:%M:%S")),
   items: (.items | map(
     . + {
       has_stats: (((.stars // 0) + (.forks // 0) + (.open_issues // 0)) > 0)
