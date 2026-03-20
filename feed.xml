@@ -11,6 +11,36 @@
   </image>
 
   <item>
+    <title>luanti_utils (Github)</title>
+    <link>https://github.com/bas080/luanti_utils</link>
+    <guid>https://github.com/bas080/luanti_utils</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      <br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-20T07:29:09</pubDate>
+  </item>
+  <item>
+    <title>luanti_check (Github)</title>
+    <link>https://github.com/bas080/luanti_check</link>
+    <guid>https://github.com/bas080/luanti_check</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      In world generative testing for Luanti.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/luanti_check/archive/refs/heads/master/luanti_check.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/luanti_check/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_check/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-20T03:13:51</pubDate>
+  </item>
+  <item>
     <title>vines (Github)</title>
     <link>https://github.com/bas080/vines</link>
     <guid>https://github.com/bas080/vines</guid>
@@ -39,21 +69,6 @@
     ]]></description>
     <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-19T22:49:42.603</pubDate>
-  </item>
-  <item>
-    <title>luanti_utils (Github)</title>
-    <link>https://github.com/bas080/luanti_utils</link>
-    <guid>https://github.com/bas080/luanti_utils</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      <br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-19T21:38:53</pubDate>
   </item>
   <item>
     <title>playervault (Github)</title>
@@ -609,21 +624,6 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/Yukitty/luanti-bright_night/master/screenshot.png" type="image/png" />
     <pubDate>2026-02-02T07:03:44</pubDate>
-  </item>
-  <item>
-    <title>autobuilder (Github)</title>
-    <link>https://github.com/limafresh/autobuilder</link>
-    <guid>https://github.com/limafresh/autobuilder</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/173814432?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>limafresh</strong><br>
-      A simple mod for Luanti that automates the construction of cubes with customizable width, length, and height, and allows you to make the cube empty or filled<br>
-      License: Creative Commons Zero v1.0 Universal<br>
-      <a href="https://github.com/limafresh/autobuilder/archive/refs/heads/main/autobuilder.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/limafresh/autobuilder/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/limafresh/autobuilder/main/screenshot.png" type="image/png" />
-    <pubDate>2026-02-01T10:23:37</pubDate>
   </item>
   <item>
     <title>farmtools (Codeberg)</title>
