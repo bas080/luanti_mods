@@ -15,7 +15,7 @@
       "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
       "description": "Climbable vines, shears to harvest them and a rope box to help you climb.",
       "default_branch": "master",
-      "updated_at": "2026-03-20T08:08:53",
+      "updated_at": "2026-03-20T08:08:53Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -41,7 +41,7 @@
       "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
       "description": "",
       "default_branch": "master",
-      "updated_at": "2026-03-20T07:29:09",
+      "updated_at": "2026-03-20T07:29:09Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -68,7 +68,7 @@
       "zip_url": "https://github.com/bas080/luanti_check/archive/refs/heads/master/luanti_check.zip",
       "description": "In world generative testing for Luanti.",
       "default_branch": "master",
-      "updated_at": "2026-03-20T03:13:51",
+      "updated_at": "2026-03-20T03:13:51Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -97,7 +97,7 @@
       "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
       "description": "Mod for Luanti games.",
       "default_branch": "main",
-      "updated_at": "2026-03-19T22:49:42.603",
+      "updated_at": "2026-03-19T22:49:42.603Z",
       "license": {
         "name": "Unknown"
       },
@@ -124,7 +124,7 @@
       "zip_url": "https://github.com/bookgirlxoxo/playervault/archive/refs/heads/main/playervault.zip",
       "description": "virtual playervault mod for luanti servers",
       "default_branch": "main",
-      "updated_at": "2026-03-19T20:57:25",
+      "updated_at": "2026-03-19T20:57:25Z",
       "license": {
         "name": "MIT License"
       },
@@ -154,7 +154,7 @@
       "readme_url": "https://gitlab.com/Mish7913/m7a/-/raw/main/README.md",
       "description": "API for Lianti Game",
       "default_branch": "main",
-      "updated_at": "2026-03-19T19:38:25.616",
+      "updated_at": "2026-03-19T19:38:25.616Z",
       "license": {
         "name": "Unknown"
       },
@@ -210,7 +210,7 @@
       "zip_url": "https://github.com/LunaSquee/fluid_lib/archive/refs/heads/master/fluid_lib.zip",
       "description": "Universal Fluid API for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-03-19T11:08:14",
+      "updated_at": "2026-03-19T11:08:14Z",
       "license": {
         "name": "MIT License"
       },
@@ -239,7 +239,7 @@
       "zip_url": "https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip",
       "description": "Simple mod that spawns little lakes in caves near the surface and on mountains.",
       "default_branch": "master",
-      "updated_at": "2026-03-18T17:22:01",
+      "updated_at": "2026-03-18T17:22:01Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -265,7 +265,7 @@
       "zip_url": "https://github.com/bas080/trudged/archive/refs/heads/master/trudged.zip",
       "description": "",
       "default_branch": "master",
-      "updated_at": "2026-03-18T14:32:29",
+      "updated_at": "2026-03-18T14:32:29Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -292,7 +292,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
       "description": "Luanti library working as a core manager for any minigame you have in mind",
       "default_branch": "master",
-      "updated_at": "2026-03-18T12:29:29.446",
+      "updated_at": "2026-03-18T12:29:29.446Z",
       "license": {
         "name": "Unknown"
       },
@@ -321,7 +321,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/README.md",
       "description": "Wear and unlock skins on Luanti",
       "default_branch": "master",
-      "updated_at": "2026-03-17T13:29:42.852",
+      "updated_at": "2026-03-17T13:29:42.852Z",
       "license": {
         "name": "Unknown"
       },
@@ -349,7 +349,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-03-17T13:29:26.817",
+      "updated_at": "2026-03-17T13:29:26.817Z",
       "license": {
         "name": "Unknown"
       },
@@ -377,7 +377,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/README.md",
       "description": "Luanti library to easily manage audio files",
       "default_branch": "main",
-      "updated_at": "2026-03-16T14:55:49.917",
+      "updated_at": "2026-03-16T14:55:49.917Z",
       "license": {
         "name": "Unknown"
       },
@@ -407,7 +407,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/README.md",
       "description": "Teleport system for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-03-15T00:45:29.527",
+      "updated_at": "2026-03-15T00:45:29.527Z",
       "license": {
         "name": "Unknown"
       },
@@ -434,7 +434,7 @@
       "zip_url": "https://github.com/bookgirlxoxo/plots/archive/refs/heads/main/plots.zip",
       "description": "a mod for luanti servers insprired by 'plotsquared'",
       "default_branch": "main",
-      "updated_at": "2026-03-12T22:49:51",
+      "updated_at": "2026-03-12T22:49:51Z",
       "license": {
         "name": "MIT License"
       },
@@ -464,7 +464,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
       "description": "Luanti library to easily register new weapons",
       "default_branch": "main",
-      "updated_at": "2026-03-11T22:02:34.885",
+      "updated_at": "2026-03-11T22:02:34.885Z",
       "license": {
         "name": "Unknown"
       },
@@ -494,7 +494,7 @@
       "readme_url": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/README.md",
       "description": "Mod for \"Minetest Game\" and \"MineClonia\".",
       "default_branch": "main",
-      "updated_at": "2026-03-11T10:33:55.027",
+      "updated_at": "2026-03-11T10:33:55.027Z",
       "license": {
         "name": "Unknown"
       },
@@ -551,7 +551,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/README.md",
       "description": "Filter who can enter a Luanti server and who can't through a whitelist",
       "default_branch": "master",
-      "updated_at": "2026-03-10T11:29:30.791",
+      "updated_at": "2026-03-10T11:29:30.791Z",
       "license": {
         "name": "Unknown"
       },
@@ -578,7 +578,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
       "description": "A mod to easily manage your minigames server on Luanti",
       "default_branch": "master",
-      "updated_at": "2026-03-09T20:29:16.849",
+      "updated_at": "2026-03-09T20:29:16.849Z",
       "license": {
         "name": "Unknown"
       },
@@ -606,7 +606,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/README.md",
       "description": "Achievements API for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-03-07T16:29:16.366",
+      "updated_at": "2026-03-07T16:29:16.366Z",
       "license": {
         "name": "Unknown"
       },
@@ -633,7 +633,7 @@
       "zip_url": "https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip",
       "description": "Luanti/Minetest mod that provides protected areas and management tools.",
       "default_branch": "master",
-      "updated_at": "2026-03-05T08:11:06",
+      "updated_at": "2026-03-05T08:11:06Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -663,7 +663,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/README.md",
       "description": "Minimalist party mod for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-03-04T20:29:21.723",
+      "updated_at": "2026-03-04T20:29:21.723Z",
       "license": {
         "name": "Unknown"
       },
@@ -689,7 +689,7 @@
       "zip_url": "https://github.com/fancyfinn9/musician/archive/refs/heads/main/musician.zip",
       "description": "Music mod for Luanti",
       "default_branch": "main",
-      "updated_at": "2026-03-04T10:53:40",
+      "updated_at": "2026-03-04T10:53:40Z",
       "license": {
         "name": "GNU Affero General Public License v3.0"
       },
@@ -718,7 +718,7 @@
       "readme_url": "https://gitlab.com/Mish7913/warp-portal/-/raw/main/README.md",
       "description": "Mod for Luanti games.",
       "default_branch": "main",
-      "updated_at": "2026-03-02T11:15:14.285",
+      "updated_at": "2026-03-02T11:15:14.285Z",
       "license": {
         "name": "Unknown"
       },
@@ -747,7 +747,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/README.md",
       "description": "small util library for Luanti, providing country localised names and flags",
       "default_branch": "main",
-      "updated_at": "2026-03-02T10:29:26.241",
+      "updated_at": "2026-03-02T10:29:26.241Z",
       "license": {
         "name": "Unknown"
       },
@@ -774,7 +774,7 @@
       "zip_url": "https://github.com/TheSilverStone/simple_replace/archive/refs/heads/main/simple_replace.zip",
       "description": "This mod for Luanti allows users to add blocks using the commands /fill /pos1 /pos2 /setnode.",
       "default_branch": "main",
-      "updated_at": "2026-03-02T06:54:00",
+      "updated_at": "2026-03-02T06:54:00Z",
       "license": {
         "name": "Unknown"
       },
@@ -801,7 +801,7 @@
       "zip_url": "https://github.com/luk3yx/minetest-flow/archive/refs/heads/main/minetest-flow.zip",
       "description": "Yet another formspec library for ~~Minetest~~ Luanti",
       "default_branch": "main",
-      "updated_at": "2026-03-02T05:22:43",
+      "updated_at": "2026-03-02T05:22:43Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -830,7 +830,7 @@
       "zip_url": "https://github.com/minetest-mods/castle_masonry/archive/refs/heads/master/castle_masonry.zip",
       "description": "A Luanti/Minetest mod - all about creating castles and castle dungeons.",
       "default_branch": "master",
-      "updated_at": "2026-02-28T13:53:15",
+      "updated_at": "2026-02-28T13:53:15Z",
       "license": {
         "name": "MIT License"
       },
@@ -862,7 +862,7 @@
       "readme_url": "https://gitlab.com/lichenseed/ShameGPT/-/raw/main/README.md",
       "description": "AI chatbot integration for Luanti (Minetest) using Ollama models.",
       "default_branch": "main",
-      "updated_at": "2026-02-25T19:57:36.975",
+      "updated_at": "2026-02-25T19:57:36.975Z",
       "license": {
         "name": "Unknown"
       },
@@ -894,7 +894,7 @@
       "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
       "description": "Technic mod for Luanti/Minetest",
       "default_branch": "master",
-      "updated_at": "2026-02-25T08:17:53",
+      "updated_at": "2026-02-25T08:17:53Z",
       "license": {
         "name": "Other"
       },
@@ -921,7 +921,7 @@
       "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
       "description": "More Blocks",
       "default_branch": "master",
-      "updated_at": "2026-02-23T22:46:29",
+      "updated_at": "2026-02-23T22:46:29Z",
       "license": {
         "name": "zlib License"
       },
@@ -949,7 +949,7 @@
       "zip_url": "https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip",
       "description": "core.register_on_chat_message()",
       "default_branch": "main",
-      "updated_at": "2026-02-21T14:53:11",
+      "updated_at": "2026-02-21T14:53:11Z",
       "license": {
         "name": "Other"
       },
@@ -981,7 +981,7 @@
       "readme_url": "https://gitlab.com/bgstack15/ldap1/-/raw/master/README.md",
       "description": "Luanti mod for using ldap as 2fa",
       "default_branch": "master",
-      "updated_at": "2026-02-16T19:45:57.611",
+      "updated_at": "2026-02-16T19:45:57.611Z",
       "license": {
         "name": "Unknown"
       },
@@ -1008,7 +1008,7 @@
       "zip_url": "https://github.com/mt-mods/homedecor_modpack/archive/refs/heads/master/homedecor_modpack.zip",
       "description": "A fairly feature-filled home decor modpack that is game agnostic.",
       "default_branch": "master",
-      "updated_at": "2026-02-15T00:00:46",
+      "updated_at": "2026-02-15T00:00:46Z",
       "license": {
         "name": "Other"
       },
@@ -1070,7 +1070,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/dialogues/-/raw/main/README.md",
       "description": "Dialogue mod for Luanti",
       "default_branch": "main",
-      "updated_at": "2026-02-11T22:31:31.580",
+      "updated_at": "2026-02-11T22:31:31.580Z",
       "license": {
         "name": "Unknown"
       },
@@ -1126,7 +1126,7 @@
       "zip_url": "https://github.com/mt-mods/jumpdrive/archive/refs/heads/master/jumpdrive.zip",
       "description": " Luanti (Minetest) jumpdrive mod",
       "default_branch": "master",
-      "updated_at": "2026-02-04T15:53:18",
+      "updated_at": "2026-02-04T15:53:18Z",
       "license": {
         "name": "Other"
       },
@@ -1159,7 +1159,7 @@
       "zip_url": "https://github.com/Yukitty/luanti-bright_night/archive/refs/heads/master/luanti-bright_night.zip",
       "description": "Luanti mod - Seamlessly overrides night time sunlight level for all players to provide more visibility outdoors without affecting cave lighting or gameplay.",
       "default_branch": "master",
-      "updated_at": "2026-02-02T07:03:44",
+      "updated_at": "2026-02-02T07:03:44Z",
       "license": {
         "name": "The Unlicense"
       },
@@ -1216,7 +1216,7 @@
       "zip_url": "https://github.com/TSFBCE24RhythmHeaveners/papyrus-ladders/archive/refs/heads/main/papyrus-ladders.zip",
       "description": "A Luanti mod that tweaks the Papyrus (aka Sugar Cane).",
       "default_branch": "main",
-      "updated_at": "2026-01-31T05:03:54",
+      "updated_at": "2026-01-31T05:03:54Z",
       "license": {
         "name": "Unknown"
       },
@@ -1246,7 +1246,7 @@
       "readme_url": "https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/README.md",
       "description": "Convenience tools for Areas protection mod",
       "default_branch": "main",
-      "updated_at": "2026-01-28T21:41:17.356",
+      "updated_at": "2026-01-28T21:41:17.356Z",
       "license": {
         "name": "Unknown"
       },
@@ -1274,7 +1274,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/README.md",
       "description": "Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!",
       "default_branch": "master",
-      "updated_at": "2026-01-14T20:19:49.065",
+      "updated_at": "2026-01-14T20:19:49.065Z",
       "license": {
         "name": "Unknown"
       },
@@ -1721,5 +1721,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-20T18:42:01"
+  "now": "2026-03-20T23:34:38"
 }

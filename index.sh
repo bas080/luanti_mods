@@ -21,7 +21,7 @@ JQ_NORMALIZE_GITHUB='
     zip_url: ("https://github.com/" + .full_name + "/archive/refs/heads/" + (.default_branch // "main") + "/" + (.full_name | split("/")[-1]) + ".zip"),
     description: (.description // ""),
     default_branch: (.default_branch // "main"),
-    updated_at: (.updated_at | sub("Z$"; "")),
+    updated_at: .updated_at,
     license: { name: (.license.name // "Unknown") },
     topics: (.topics // []),
     image_raw: ("https://raw.githubusercontent.com/" + .full_name + "/" + (.default_branch // "main") + "/screenshot.png"),
@@ -48,7 +48,7 @@ JQ_NORMALIZE_GITLAB='
     readme_url: (.web_url + "/-/raw/" + (.default_branch // "main") + "/README.md"),
     description: (.description // ""),
     default_branch: (.default_branch // "main"),
-    updated_at: (.last_activity_at | sub("Z$"; "")),
+    updated_at: .last_activity_at,
     license: { name: (.license // "Unknown") },
     topics: (.tag_list // []),
     image_raw: (.web_url + "/-/raw/" + (.default_branch // "main") + "/screenshot.png")
@@ -74,7 +74,7 @@ JQ_NORMALIZE_CODEBERG='
     readme_url: (.html_url + "/raw/" + (.default_branch // "main") + "/README.md"),
     description: (.description // ""),
     default_branch: (.default_branch // "main"),
-    updated_at: (.updated_at // ""),
+    updated_at: .updated_at,
     license: { name: (.license.name // "Unknown") },
     topics: (.topics // []),
     image_raw: (.html_url + "/raw/" + (.default_branch // "main") + "/screenshot.png")
