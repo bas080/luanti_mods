@@ -11,6 +11,21 @@
   </image>
 
   <item>
+    <title>vines (Github)</title>
+    <link>https://github.com/bas080/vines</link>
+    <guid>https://github.com/bas080/vines</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-20T08:08:53</pubDate>
+  </item>
+  <item>
     <title>luanti_utils (Github)</title>
     <link>https://github.com/bas080/luanti_utils</link>
     <guid>https://github.com/bas080/luanti_utils</guid>
@@ -39,21 +54,6 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_check/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-20T03:13:51</pubDate>
-  </item>
-  <item>
-    <title>vines (Github)</title>
-    <link>https://github.com/bas080/vines</link>
-    <guid>https://github.com/bas080/vines</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-20T00:32:50</pubDate>
   </item>
   <item>
     <title>CraftoPlus (Gitlab)</title>
