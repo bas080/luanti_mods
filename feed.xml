@@ -11,6 +11,36 @@
   </image>
 
   <item>
+    <title>vines (Github)</title>
+    <link>https://github.com/bas080/vines</link>
+    <guid>https://github.com/bas080/vines</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-20T00:32:50</pubDate>
+  </item>
+  <item>
+    <title>CraftoPlus (Gitlab)</title>
+    <link>https://gitlab.com/Mish7913/craftoplus</link>
+    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-19T22:49:42.603</pubDate>
+  </item>
+  <item>
     <title>luanti_utils (Github)</title>
     <link>https://github.com/bas080/luanti_utils</link>
     <guid>https://github.com/bas080/luanti_utils</guid>
@@ -24,21 +54,6 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-19T21:38:53</pubDate>
-  </item>
-  <item>
-    <title>vines (Github)</title>
-    <link>https://github.com/bas080/vines</link>
-    <guid>https://github.com/bas080/vines</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-19T21:23:54</pubDate>
   </item>
   <item>
     <title>playervault (Github)</title>
@@ -56,26 +71,11 @@
     <pubDate>2026-03-19T20:57:25</pubDate>
   </item>
   <item>
-    <title>CraftoPlus (Gitlab)</title>
-    <link>https://gitlab.com/Mish7913/craftoplus</link>
-    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
-    <description><![CDATA[
-      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      Mod for Luanti games.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-19T20:18:42.811</pubDate>
-  </item>
-  <item>
     <title>m7a (Gitlab)</title>
     <link>https://gitlab.com/Mish7913/m7a</link>
     <guid>https://gitlab.com/Mish7913/m7a</guid>
     <description><![CDATA[
-      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       API for Lianti Game<br>
       License: Unknown<br>
@@ -150,7 +150,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/arena_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Luanti library working as a core manager for any minigame you have in mind<br>
       License: Unknown<br>
@@ -165,7 +165,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/collectible-skins</link>
     <guid>https://gitlab.com/zughy-friends-minetest/collectible-skins</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Wear and unlock skins on Luanti<br>
       License: Unknown<br>
@@ -180,7 +180,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       S4 League inspired shooter minigame for Luanti<br>
       License: Unknown<br>
@@ -195,7 +195,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/audio_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/audio_lib</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Luanti library to easily manage audio files<br>
       License: Unknown<br>
@@ -210,7 +210,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/magic-compass</link>
     <guid>https://gitlab.com/zughy-friends-minetest/magic-compass</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Teleport system for Luanti<br>
       License: Unknown<br>
@@ -240,7 +240,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/weapons_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Luanti library to easily register new weapons<br>
       License: Unknown<br>
@@ -255,7 +255,7 @@
     <link>https://gitlab.com/Mish7913/natural_habitat</link>
     <guid>https://gitlab.com/Mish7913/natural_habitat</guid>
     <description><![CDATA[
-      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for &quot;Minetest Game&quot; and &quot;MineClonia&quot;.<br>
       License: Unknown<br>
@@ -285,7 +285,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/whitelist</link>
     <guid>https://gitlab.com/zughy-friends-minetest/whitelist</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/21154006/whitelist-icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Filter who can enter a Luanti server and who can&#39;t through a whitelist<br>
       License: Unknown<br>
@@ -300,7 +300,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/hub</link>
     <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       A mod to easily manage your minigames server on Luanti<br>
       License: Unknown<br>
@@ -315,7 +315,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/achievements_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/achievements_lib</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/20515418/achievements.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Achievements API for Luanti<br>
       License: Unknown<br>
@@ -345,7 +345,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/parties</link>
     <guid>https://gitlab.com/zughy-friends-minetest/parties</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/19639678/party.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Minimalist party mod for Luanti<br>
       License: Unknown<br>
@@ -375,7 +375,7 @@
     <link>https://gitlab.com/Mish7913/warp-portal</link>
     <guid>https://gitlab.com/Mish7913/warp-portal</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/78029762/warp_portal.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for Luanti games.<br>
       License: Unknown<br>
@@ -390,7 +390,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/country_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       small util library for Luanti, providing country localised names and flags<br>
       License: Unknown<br>
@@ -450,7 +450,7 @@
     <link>https://gitlab.com/lichenseed/ShameGPT</link>
     <guid>https://gitlab.com/lichenseed/ShameGPT</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/79573730/Gemini_Generated_Image_n8oz0ln8oz0ln8oz_1_.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/group/avatar/125205119/zapatero.jpg" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>lichenseed</strong><br>
       AI chatbot integration for Luanti (Minetest) using Ollama models.<br>
       License: Unknown<br>
@@ -510,7 +510,7 @@
     <link>https://gitlab.com/bgstack15/ldap1</link>
     <guid>https://gitlab.com/bgstack15/ldap1</guid>
     <description><![CDATA[
-      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/2361646/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bgstack15</strong><br>
       Luanti mod for using ldap as 2fa<br>
       License: Unknown<br>
@@ -555,7 +555,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/dialogues</link>
     <guid>https://gitlab.com/zughy-friends-minetest/dialogues</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/67800245/dialogues_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Dialogue mod for Luanti<br>
       License: Unknown<br>
@@ -660,7 +660,7 @@
     <link>https://gitlab.com/rangeTonic/areas_helper_tools</link>
     <guid>https://gitlab.com/rangeTonic/areas_helper_tools</guid>
     <description><![CDATA[
-      <img src="https://gitlab.com" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/2222587/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>rangeTonic</strong><br>
       Convenience tools for Areas protection mod<br>
       License: Unknown<br>
@@ -675,7 +675,7 @@
     <link>https://gitlab.com/zughy-friends-minetest/soothing-32</link>
     <guid>https://gitlab.com/zughy-friends-minetest/soothing-32</guid>
     <description><![CDATA[
-      <img src="https://gitlab.comhttps://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!<br>
       License: Unknown<br>
