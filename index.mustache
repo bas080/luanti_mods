@@ -15,7 +15,6 @@
 <link rel="icon" type="image/svg+xml" href="./favicon.svg">
 <title>Luanti Mods</title>
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
-<script type="module" src="https://esm.sh/@rbardini/time-duration@1.0.0/register"></script>
 
 <style>
   .topic  {
@@ -89,7 +88,7 @@
   <h1>Luanti Mods</h1>
 
 <p>
-  Aggregated <time-duration data-largest-unit="hour" data-smallest-unit="minute"><time datetime="{{now}}">{{now}}</time><time-duration> ago using Github topic <code>luanti-mod</code>, the Gitlab topic <code>Luanti</code> and the Codeberg query <code>luanti-mod</code>.
+  Aggregated <time data-duration data-largest-unit="hour" data-smallest-unit="minute" datetime="{{now}}">{{now}}</time> ago using Github topic <code>luanti-mod</code>, the Gitlab topic <code>Luanti</code> and the Codeberg query <code>luanti-mod</code>.
 </p>
 
 <p>
@@ -139,9 +138,7 @@
 
     <dt>Updated</dt>
     <dd>
-      <time-duration data-largest-unit="month" data-smallest-unit="hour" data-style="long">
-        <time datetime="{{updated_at}}">{{updated_at}}</time>
-      </time-duration> ago
+      <time data-duration data-largest-unit="month" data-smallest-unit="hour" data-style="long" datetime="{{updated_at}}">{{updated_at}}</time>
       </dd>
 
 
@@ -171,11 +168,107 @@
 
 </article>
 {{/items}}
+
+<a id="refresh-btn" href="?v={{{now}}}" hidden>
+  Feed Updated
+</a>
+
+<style>
+#refresh-btn {
+  position: fixed;
+  bottom: 4vh;
+  right: 4vw;
+  padding: 2vw 2vh;
+
+  background-color: var(--bg);
+}
+</style>
+
+<script type="module">
+const btn = document.getElementById("refresh-btn");
+
+let lastCheck = Number(localStorage.getItem("lastCheck") || 0);
+const MIN_INTERVAL = 10 * 60 * 1000; // 10m
+
+
+async function check() {
+  const now = Date.now();
+  if (now - lastCheck < MIN_INTERVAL) return;
+
+  localStorage.setItem("lastCheck", now);
+
+  try {
+    const res = await fetch("./", {
+      method: "HEAD",
+      cache: "no-cache"
+    });
+
+    if (res.status === 200) {
+      btn.hidden = false;
+    }
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+check();
+
+window.addEventListener("focus", check);
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") check();
+});
+</script>
 </main>
 
 <footer>
   <p><a href="https://github.com/bas080/luanti_mods">https://github.com/bas080/luanti_mods</a></p>
 </footer>
 </body>
+
+<script type="module">
+
+function updateDurations() {
+  const now = new Date();
+
+  document.querySelectorAll("time[data-duration]").forEach(el => {
+    const str = el.getAttribute("datetime") || el.textContent;
+    if (!str) return;
+
+    const date = new Date(str);
+    if (isNaN(date)) {
+      console.warn("Failed to parse date:", str);
+      return;
+    }
+
+    let diffSec = (now - date) / 1000;
+
+    const units = [
+      { name: "year", seconds: 31536000 },
+      { name: "month", seconds: 2592000 },
+      { name: "day", seconds: 86400 },
+      { name: "hour", seconds: 3600 },
+      { name: "minute", seconds: 60 },
+      { name: "second", seconds: 1 },
+    ];
+
+    for (const { name, seconds } of units) {
+      const val = Math.floor(diffSec / seconds);
+      if (Math.abs(val) >= 1) {
+        const rtf = new Intl.RelativeTimeFormat(navigator.language, { numeric: "auto" });
+        el.textContent = rtf.format(-val, name);
+        return;
+      }
+    }
+
+    el.textContent = "just now";
+  });
+}
+
+// run once immediately
+updateDurations();
+
+// update every second
+setInterval(updateDurations, 1000);
+</script>
 
 </html>
