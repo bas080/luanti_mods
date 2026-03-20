@@ -52,6 +52,10 @@
 
   <style>
 
+    .box-shadow {
+      box-shadow: 0 0 6rem var(--text);
+    }
+
     * h2 {
       position: absolute;
       z-index: 10;
@@ -169,8 +173,8 @@
 </article>
 {{/items}}
 
-<a id="refresh-btn" href="?v={{{now}}}" hidden>
-  Feed Updated
+<a id="refresh-btn" class="box-shadow"  href="?v={{{now}}}" hidden>
+  Update
 </a>
 
 <style>
