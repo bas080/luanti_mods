@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/circuits",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "https://codeberg.org/Sheriff_U3/circuits/wiki",
+      "repo_name": "circuits",
+      "html_url": "https://codeberg.org/Sheriff_U3/circuits",
+      "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
+      "description": "A circuitry mod for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-03-21T17:07:23+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-modpack",
+        "minetest",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/weapons_lib",
       "author": "zughy-friends-minetest",
@@ -194,35 +223,6 @@
         "lua"
       ],
       "image_raw": "https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/circuits",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "https://codeberg.org/Sheriff_U3/circuits/wiki",
-      "repo_name": "circuits",
-      "html_url": "https://codeberg.org/Sheriff_U3/circuits",
-      "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
-      "description": "A circuitry mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-03-19T11:29:13+01:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti",
-        "luanti-modpack",
-        "minetest",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
       "has_stats": false
     },
     {
@@ -1721,5 +1721,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-21T15:41:57"
+  "now": "2026-03-21T16:48:01"
 }
