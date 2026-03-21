@@ -11,6 +11,21 @@
   </image>
 
   <item>
+    <title>CraftoPlus (Gitlab)</title>
+    <link>https://gitlab.com/Mish7913/craftoplus</link>
+    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-21T18:58:31.544Z</pubDate>
+  </item>
+  <item>
     <title>arena_lib (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/arena_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
@@ -54,21 +69,6 @@
     ]]></description>
     <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T17:07:23+01:00</pubDate>
-  </item>
-  <item>
-    <title>CraftoPlus (Gitlab)</title>
-    <link>https://gitlab.com/Mish7913/craftoplus</link>
-    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      Mod for Luanti games.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-21T16:53:11.511Z</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>
