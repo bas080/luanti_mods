@@ -11,6 +11,21 @@
   </image>
 
   <item>
+    <title>arena_lib (Gitlab)</title>
+    <link>https://gitlab.com/zughy-friends-minetest/arena_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library working as a core manager for any minigame you have in mind<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-21T19:48:43.092Z</pubDate>
+  </item>
+  <item>
     <title>CraftoPlus (Gitlab)</title>
     <link>https://gitlab.com/Mish7913/craftoplus</link>
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
@@ -24,21 +39,6 @@
     ]]></description>
     <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T18:58:31.544Z</pubDate>
-  </item>
-  <item>
-    <title>arena_lib (Gitlab)</title>
-    <link>https://gitlab.com/zughy-friends-minetest/arena_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Luanti library working as a core manager for any minigame you have in mind<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-21T18:46:15.492Z</pubDate>
   </item>
   <item>
     <title>m7a (Gitlab)</title>
