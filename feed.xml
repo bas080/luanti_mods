@@ -11,6 +11,36 @@
   </image>
 
   <item>
+    <title>corruptionmt (Github)</title>
+    <link>https://github.com/TheAirplaneMan/corruptionmt</link>
+    <guid>https://github.com/TheAirplaneMan/corruptionmt</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/213837125?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>TheAirplaneMan</strong><br>
+      Adds the Corruption Biome from Terraria to your Minetest Worlds<br>
+      License: MIT License<br>
+      <a href="https://github.com/TheAirplaneMan/corruptionmt/archive/refs/heads/main/corruptionmt.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/TheAirplaneMan/corruptionmt/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/TheAirplaneMan/corruptionmt/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-22T23:27:51Z</pubDate>
+  </item>
+  <item>
+    <title>crimsonmt (Github)</title>
+    <link>https://github.com/TheAirplaneMan/crimsonmt</link>
+    <guid>https://github.com/TheAirplaneMan/crimsonmt</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/213837125?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>TheAirplaneMan</strong><br>
+      Adds the Crimson Biome from Terraria to your Minetest Worlds<br>
+      License: MIT License<br>
+      <a href="https://github.com/TheAirplaneMan/crimsonmt/archive/refs/heads/main/crimsonmt.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-22T23:25:06Z</pubDate>
+  </item>
+  <item>
     <title>arena_lib (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/arena_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
@@ -386,21 +416,6 @@
     <pubDate>2026-03-07T16:29:16.366Z</pubDate>
   </item>
   <item>
-    <title>areas (Github)</title>
-    <link>https://github.com/minetest-mods/areas</link>
-    <guid>https://github.com/minetest-mods/areas</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Luanti&#x2F;Minetest mod that provides protected areas and management tools.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-05T08:11:06Z</pubDate>
-  </item>
-  <item>
     <title>Parties (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/parties</link>
     <guid>https://gitlab.com/zughy-friends-minetest/parties</guid>
@@ -624,21 +639,6 @@
     ]]></description>
     <enclosure url="https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/screenshot.png" type="image/png" />
     <pubDate>2026-02-07T22:57:45+01:00</pubDate>
-  </item>
-  <item>
-    <title>jumpdrive (Github)</title>
-    <link>https://github.com/mt-mods/jumpdrive</link>
-    <guid>https://github.com/mt-mods/jumpdrive</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>mt-mods</strong><br>
-       Luanti (Minetest) jumpdrive mod<br>
-      License: Other<br>
-      <a href="https://github.com/mt-mods/jumpdrive/archive/refs/heads/master/jumpdrive.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/mt-mods/jumpdrive/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/mt-mods/jumpdrive/master/screenshot.png" type="image/png" />
-    <pubDate>2026-02-04T15:53:18Z</pubDate>
   </item>
   <item>
     <title>farmtools (Codeberg)</title>
