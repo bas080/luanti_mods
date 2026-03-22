@@ -2,6 +2,64 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "Rainy428/edu_bricks",
+      "author": "Rainy428",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268611124?v=4",
+      "website": "",
+      "repo_name": "edu_bricks",
+      "html_url": "https://github.com/Rainy428/edu_bricks",
+      "issues_url": "https://github.com/Rainy428/edu_bricks/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Rainy428/edu_bricks/archive/refs/heads/main/edu_bricks.zip",
+      "description": "Protected nodes for classroom use in Luanti (bricks, signs, torches)",
+      "default_branch": "main",
+      "updated_at": "2026-03-22T09:34:48Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "education",
+        "luanti",
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Rainy428/edu_bricks/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Rainy428/edu_bricks/main/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Rainy428/reset_stage",
+      "author": "Rainy428",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268611124?v=4",
+      "website": "",
+      "repo_name": "reset_stage",
+      "html_url": "https://github.com/Rainy428/reset_stage",
+      "issues_url": "https://github.com/Rainy428/reset_stage/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Rainy428/reset_stage/archive/refs/heads/main/reset_stage.zip",
+      "description": "Simple area reset mod for Luanti. Save a region with markers and restore it instantly.",
+      "default_branch": "main",
+      "updated_at": "2026-03-22T09:34:24Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "education",
+        "luanti",
+        "luanti-mod",
+        "minetest"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Rainy428/reset_stage/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Rainy428/reset_stage/main/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "bas080/at",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
@@ -907,33 +965,6 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 65,
-      "stars": 151,
-      "forks": 158,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-02-25T08:17:53Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
       "full_name": "minetest-mods/moreblocks",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -1168,33 +1199,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/mt-mods/jumpdrive/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/mt-mods/jumpdrive/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Yukitty/luanti-bright_night",
-      "author": "Yukitty",
-      "avatar_url": "https://avatars.githubusercontent.com/u/8621403?v=4",
-      "website": "",
-      "repo_name": "luanti-bright_night",
-      "html_url": "https://github.com/Yukitty/luanti-bright_night",
-      "issues_url": "https://github.com/Yukitty/luanti-bright_night/issues",
-      "open_issues": 1,
-      "stars": 6,
-      "forks": 3,
-      "zip_url": "https://github.com/Yukitty/luanti-bright_night/archive/refs/heads/master/luanti-bright_night.zip",
-      "description": "Luanti mod - Seamlessly overrides night time sunlight level for all players to provide more visibility outdoors without affecting cave lighting or gameplay.",
-      "default_branch": "master",
-      "updated_at": "2026-02-02T07:03:44Z",
-      "license": {
-        "name": "The Unlicense"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Yukitty/luanti-bright_night/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Yukitty/luanti-bright_night/master/README.md",
       "has_stats": true
     },
     {
@@ -1718,5 +1722,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-22T08:52:05"
+  "now": "2026-03-22T09:48:26"
 }

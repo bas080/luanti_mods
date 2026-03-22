@@ -11,6 +11,36 @@
   </image>
 
   <item>
+    <title>edu_bricks (Github)</title>
+    <link>https://github.com/Rainy428/edu_bricks</link>
+    <guid>https://github.com/Rainy428/edu_bricks</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/268611124?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Rainy428</strong><br>
+      Protected nodes for classroom use in Luanti (bricks, signs, torches)<br>
+      License: MIT License<br>
+      <a href="https://github.com/Rainy428/edu_bricks/archive/refs/heads/main/edu_bricks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Rainy428/edu_bricks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/Rainy428/edu_bricks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-22T09:34:48Z</pubDate>
+  </item>
+  <item>
+    <title>reset_stage (Github)</title>
+    <link>https://github.com/Rainy428/reset_stage</link>
+    <guid>https://github.com/Rainy428/reset_stage</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/268611124?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Rainy428</strong><br>
+      Simple area reset mod for Luanti. Save a region with markers and restore it instantly.<br>
+      License: MIT License<br>
+      <a href="https://github.com/Rainy428/reset_stage/archive/refs/heads/main/reset_stage.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Rainy428/reset_stage/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/Rainy428/reset_stage/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-22T09:34:24Z</pubDate>
+  </item>
+  <item>
     <title>at (Github)</title>
     <link>https://github.com/bas080/at</link>
     <guid>https://github.com/bas080/at</guid>
@@ -491,21 +521,6 @@
     <pubDate>2026-02-25T19:57:36.975Z</pubDate>
   </item>
   <item>
-    <title>technic (Github)</title>
-    <link>https://github.com/minetest-mods/technic</link>
-    <guid>https://github.com/minetest-mods/technic</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Technic mod for Luanti&#x2F;Minetest<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
-    <pubDate>2026-02-25T08:17:53Z</pubDate>
-  </item>
-  <item>
     <title>moreblocks (Github)</title>
     <link>https://github.com/minetest-mods/moreblocks</link>
     <guid>https://github.com/minetest-mods/moreblocks</guid>
@@ -624,21 +639,6 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/mt-mods/jumpdrive/master/screenshot.png" type="image/png" />
     <pubDate>2026-02-04T15:53:18Z</pubDate>
-  </item>
-  <item>
-    <title>luanti-bright_night (Github)</title>
-    <link>https://github.com/Yukitty/luanti-bright_night</link>
-    <guid>https://github.com/Yukitty/luanti-bright_night</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/8621403?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Yukitty</strong><br>
-      Luanti mod - Seamlessly overrides night time sunlight level for all players to provide more visibility outdoors without affecting cave lighting or gameplay.<br>
-      License: The Unlicense<br>
-      <a href="https://github.com/Yukitty/luanti-bright_night/archive/refs/heads/master/luanti-bright_night.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Yukitty/luanti-bright_night/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/Yukitty/luanti-bright_night/master/screenshot.png" type="image/png" />
-    <pubDate>2026-02-02T07:03:44Z</pubDate>
   </item>
   <item>
     <title>farmtools (Codeberg)</title>
