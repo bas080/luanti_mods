@@ -11,6 +11,21 @@
   </image>
 
   <item>
+    <title>CraftoPlus (Gitlab)</title>
+    <link>https://gitlab.com/Mish7913/craftoplus</link>
+    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-22T11:44:44.434Z</pubDate>
+  </item>
+  <item>
     <title>fluid_lib (Github)</title>
     <link>https://github.com/LunaSquee/fluid_lib</link>
     <guid>https://github.com/LunaSquee/fluid_lib</guid>
@@ -84,21 +99,6 @@
     ]]></description>
     <enclosure url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T23:59:02.720Z</pubDate>
-  </item>
-  <item>
-    <title>CraftoPlus (Gitlab)</title>
-    <link>https://gitlab.com/Mish7913/craftoplus</link>
-    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      Mod for Luanti games.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-21T23:53:25.149Z</pubDate>
   </item>
   <item>
     <title>Block League (Gitlab)</title>
