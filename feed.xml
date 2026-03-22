@@ -11,6 +11,21 @@
   </image>
 
   <item>
+    <title>fluid_lib (Github)</title>
+    <link>https://github.com/LunaSquee/fluid_lib</link>
+    <guid>https://github.com/LunaSquee/fluid_lib</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>LunaSquee</strong><br>
+      Universal Fluid API for Luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/LunaSquee/fluid_lib/archive/refs/heads/master/fluid_lib.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-22T09:51:36Z</pubDate>
+  </item>
+  <item>
     <title>edu_bricks (Github)</title>
     <link>https://github.com/Rainy428/edu_bricks</link>
     <guid>https://github.com/Rainy428/edu_bricks</guid>
@@ -219,21 +234,6 @@
     ]]></description>
     <enclosure url="https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-19T20:57:25Z</pubDate>
-  </item>
-  <item>
-    <title>fluid_lib (Github)</title>
-    <link>https://github.com/LunaSquee/fluid_lib</link>
-    <guid>https://github.com/LunaSquee/fluid_lib</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>LunaSquee</strong><br>
-      Universal Fluid API for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/LunaSquee/fluid_lib/archive/refs/heads/master/fluid_lib.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-19T11:08:14Z</pubDate>
   </item>
   <item>
     <title>little_lake (Github)</title>
