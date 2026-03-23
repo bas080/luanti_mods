@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>just_wind (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/just_wind</link>
+    <guid>https://github.com/bas080/just_wind</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      <br>
+      License: Unknown<br>
+      <a href="https://github.com/bas080/just_wind/archive/refs/heads/master/just_wind.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/just_wind/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/just_wind/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/just_wind/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T20:53:27Z</pubDate>
+  </item>
+  <item>
     <title>energy_drinks (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
     <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
@@ -26,7 +44,7 @@
 
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-23T20:02:39+01:00</pubDate>
+    <pubDate>2026-03-23T20:33:05+01:00</pubDate>
   </item>
   <item>
     <title>luanti_utils (Github)</title>
@@ -693,24 +711,6 @@
     <media:thumbnail url="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-02-25T19:57:36.975Z</pubDate>
-  </item>
-  <item>
-    <title>moreblocks (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/moreblocks</link>
-    <guid>https://github.com/minetest-mods/moreblocks</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      More Blocks<br>
-      License: zlib License<br>
-      <a href="https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" type="image/png" />
-    <pubDate>2026-02-23T22:46:29Z</pubDate>
   </item>
   <item>
     <title>ldap1 (Gitlab)</title>
