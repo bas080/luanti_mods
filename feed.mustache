@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Luanti Mods Feed</title>
   <link>https://bas080.github.io/luanti_mods/</link>
@@ -15,6 +15,7 @@
     <title>{{repo_name}} ({{hosted_on}})</title>
     <link>{{{html_url}}}</link>
     <guid>{{{html_url}}}</guid>
+    <author>{{author}}</author>
     <description><![CDATA[
       {{#avatar_url}}
       <img src="{{{avatar_url}}}" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
@@ -27,6 +28,10 @@
       <img src="{{{image_raw}}}" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
       {{/image_raw}}
     ]]></description>
+
+    {{#image_raw}}
+    <media:thumbnail url="{{{image_raw}}}" width="150" height="150" />
+    {{/image_raw}}
     {{#image_raw}}
     <enclosure url="{{{image_raw}}}" type="image/png" />
     {{/image_raw}}
