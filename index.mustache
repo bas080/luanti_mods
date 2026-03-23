@@ -35,7 +35,7 @@
 
 
 <style>
-  * article {
+  article {
     border: none;
     margin-top: 8rem;
     padding: 0;
@@ -137,7 +137,7 @@
 
   <dl>
     {{#license}}
-    <dt>License<dt>
+    <dt>License</dt>
     <dd>{{license.name}}</dd>
     {{/license}}
 
@@ -160,7 +160,7 @@
 
     <dd>
     {{#topics}}
-    {{#.}}<code class="topic">{{.}}</code>{{/.}}
+    <code class="topic">{{.}}</code>
     {{/topics}}
     </dd>
 
@@ -174,7 +174,7 @@
 </article>
 {{/items}}
 
-<a id="refresh-btn" href="?v={{{now}}}" aria-label="Refresh" hidden>⟳</a>
+<a role="button" id="refresh-btn" href="?v={{now}}" aria-label="Refresh" hidden>⟳</a>
 
 <style>
 
@@ -221,30 +221,33 @@
 </body>
 
 
-
 <script type="module">
 const btn = document.getElementById("refresh-btn");
 
 let lastCheck = Number(localStorage.getItem("lastCheck") || 0);
 const MIN_INTERVAL = 10 * 60 * 1000; // 10m
 
+const normalize = (v) => v?.replace(/^W\//, "").replace(/"/g, "").trim();
+
 async function check() {
   const now = Date.now();
   if (now - lastCheck < MIN_INTERVAL) return;
 
+  lastCheck = now;
   localStorage.setItem("lastCheck", now);
 
   try {
-    const res = await fetch("./", {
+    const res = await fetch(window.location.href, {
       method: "HEAD",
       cache: "no-cache"
     });
 
-    const etag = res.headers.get("etag");
-    const lastSeen = localStorage.getItem("etag");
+    const etag = normalize(res.headers.get("etag"));
+    const lastSeen = normalize(localStorage.getItem("etag"));
+
+    console.log({ etag, lastSeen });
 
     if (etag) {
-      // only show if we've seen a previous value AND it changed
       if (lastSeen && etag !== lastSeen) {
         btn.hidden = false;
       }
