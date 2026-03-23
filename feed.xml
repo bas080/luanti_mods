@@ -11,6 +11,21 @@
   </image>
 
   <item>
+    <title>mtpaint (Github)</title>
+    <link>https://github.com/bas080/mtpaint</link>
+    <guid>https://github.com/bas080/mtpaint</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Paint like you would in paint, but in 3d.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T14:04:02Z</pubDate>
+  </item>
+  <item>
     <title>weapons_lib (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/weapons_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
@@ -54,21 +69,6 @@
     ]]></description>
     <enclosure url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" type="image/png" />
     <pubDate>2026-03-23T10:22:47.113Z</pubDate>
-  </item>
-  <item>
-    <title>mtpaint (Github)</title>
-    <link>https://github.com/bas080/mtpaint</link>
-    <guid>https://github.com/bas080/mtpaint</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Paint like you would in paint, but in 3d.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-23T02:49:04Z</pubDate>
   </item>
   <item>
     <title>vines (Github)</title>

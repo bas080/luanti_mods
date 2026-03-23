@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "bas080/mtpaint",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=5674",
+      "repo_name": "mtpaint",
+      "html_url": "https://github.com/bas080/mtpaint",
+      "issues_url": "https://github.com/bas080/mtpaint/issues",
+      "open_issues": 3,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip",
+      "description": "Paint like you would in paint, but in 3d.",
+      "default_branch": "master",
+      "updated_at": "2026-03-23T14:04:02Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/mtpaint/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/weapons_lib",
       "author": "zughy-friends-minetest",
@@ -81,32 +107,6 @@
       ],
       "image_raw": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/mtpaint",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=5674",
-      "repo_name": "mtpaint",
-      "html_url": "https://github.com/bas080/mtpaint",
-      "issues_url": "https://github.com/bas080/mtpaint/issues",
-      "open_issues": 3,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip",
-      "description": "Paint like you would in paint, but in 3d.",
-      "default_branch": "master",
-      "updated_at": "2026-03-23T02:49:04Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/mtpaint/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1724,5 +1724,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-23T13:58:58"
+  "now": "2026-03-23T14:07:46"
 }
