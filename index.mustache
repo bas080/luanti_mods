@@ -174,19 +174,40 @@
 </article>
 {{/items}}
 
-<a id="refresh-btn" class="box-shadow"  href="?v={{{now}}}" hidden>
-  Update
-</a>
+<a id="refresh-btn" href="?v={{{now}}}" aria-label="Refresh" hidden>⟳</a>
 
 <style>
+
 #refresh-btn {
   position: fixed;
-  bottom: 4vh;
-  right: 4vw;
-  padding: 2vw 2vh;
+  bottom: 1.5rem;
+  right: 1.5rem;
 
-  background-color: var(--bg);
+  width: 52px;
+  height: 52px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+
+  cursor: pointer;
+  transition: all 0.2s ease;
 }
+
+#refresh-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+}
+
+
 </style>
 
 <script type="module">
