@@ -2,6 +2,59 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "bas080/mtpaint",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=5674",
+      "repo_name": "mtpaint",
+      "html_url": "https://github.com/bas080/mtpaint",
+      "issues_url": "https://github.com/bas080/mtpaint/issues",
+      "open_issues": 3,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip",
+      "description": "Paint like you would in paint, but in 3d.",
+      "default_branch": "master",
+      "updated_at": "2026-03-23T02:49:04Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/mtpaint/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/vines",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "vines",
+      "html_url": "https://github.com/bas080/vines",
+      "issues_url": "https://github.com/bas080/vines/issues",
+      "open_issues": 9,
+      "stars": 9,
+      "forks": 9,
+      "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
+      "description": "Climbable vines, shears to harvest them and a rope box to help you climb.",
+      "default_branch": "master",
+      "updated_at": "2026-03-23T01:08:36Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "vines"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/vines/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/vines/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "TheAirplaneMan/corruptionmt",
       "author": "TheAirplaneMan",
       "avatar_url": "https://avatars.githubusercontent.com/u/213837125?v=4",
@@ -385,32 +438,6 @@
         "weapons"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/vines",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "vines",
-      "html_url": "https://github.com/bas080/vines",
-      "issues_url": "https://github.com/bas080/vines/issues",
-      "open_issues": 9,
-      "stars": 9,
-      "forks": 9,
-      "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
-      "description": "Climbable vines, shears to harvest them and a rope box to help you climb.",
-      "default_branch": "master",
-      "updated_at": "2026-03-20T08:08:53Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/vines/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/vines/master/README.md",
       "has_stats": true
     },
     {
@@ -1096,36 +1123,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/homedecor_modpack",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "homedecor_modpack",
-      "html_url": "https://github.com/mt-mods/homedecor_modpack",
-      "issues_url": "https://github.com/mt-mods/homedecor_modpack/issues",
-      "open_issues": 9,
-      "stars": 4,
-      "forks": 15,
-      "zip_url": "https://github.com/mt-mods/homedecor_modpack/archive/refs/heads/master/homedecor_modpack.zip",
-      "description": "A fairly feature-filled home decor modpack that is game agnostic.",
-      "default_branch": "master",
-      "updated_at": "2026-02-15T00:00:46Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "TPH/events_api",
       "author": "TPH",
@@ -1734,5 +1731,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-22T23:45:41"
+  "now": "2026-03-23T03:24:31"
 }

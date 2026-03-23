@@ -11,6 +11,36 @@
   </image>
 
   <item>
+    <title>mtpaint (Github)</title>
+    <link>https://github.com/bas080/mtpaint</link>
+    <guid>https://github.com/bas080/mtpaint</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Paint like you would in paint, but in 3d.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T02:49:04Z</pubDate>
+  </item>
+  <item>
+    <title>vines (Github)</title>
+    <link>https://github.com/bas080/vines</link>
+    <guid>https://github.com/bas080/vines</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T01:08:36Z</pubDate>
+  </item>
+  <item>
     <title>corruptionmt (Github)</title>
     <link>https://github.com/TheAirplaneMan/corruptionmt</link>
     <guid>https://github.com/TheAirplaneMan/corruptionmt</guid>
@@ -204,21 +234,6 @@
     ]]></description>
     <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-20T23:35:38.792Z</pubDate>
-  </item>
-  <item>
-    <title>vines (Github)</title>
-    <link>https://github.com/bas080/vines</link>
-    <guid>https://github.com/bas080/vines</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-20T08:08:53Z</pubDate>
   </item>
   <item>
     <title>luanti_utils (Github)</title>
@@ -579,21 +594,6 @@
     ]]></description>
     <enclosure url="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-02-16T19:45:57.611Z</pubDate>
-  </item>
-  <item>
-    <title>homedecor_modpack (Github)</title>
-    <link>https://github.com/mt-mods/homedecor_modpack</link>
-    <guid>https://github.com/mt-mods/homedecor_modpack</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>mt-mods</strong><br>
-      A fairly feature-filled home decor modpack that is game agnostic.<br>
-      License: Other<br>
-      <a href="https://github.com/mt-mods/homedecor_modpack/archive/refs/heads/master/homedecor_modpack.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/screenshot.png" type="image/png" />
-    <pubDate>2026-02-15T00:00:46Z</pubDate>
   </item>
   <item>
     <title>events_api (Codeberg)</title>
