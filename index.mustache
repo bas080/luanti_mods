@@ -272,8 +272,11 @@ function updateDurations() {
 // run once immediately
 updateDurations();
 
-// update every second
-setInterval(updateDurations, 1000);
+window.addEventListener("focus", updateDurations);
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") updateDurations();
+});
+
 </script>
 
 <script>
