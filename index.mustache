@@ -178,7 +178,6 @@
 
 <style>
 
-
 #refresh-btn {
   text-decoration: none;
   color: inherit;
@@ -188,10 +187,6 @@
 
   width: 52px;
   height: 52px;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
 
   border-radius: 50%;
   border: 1px solid rgba(255, 255, 255, 0.2);
@@ -203,13 +198,22 @@
 
   cursor: pointer;
   transition: all 0.2s ease;
+
+  /* hidden by default */
+  display: none;
+}
+
+/* show when hidden attribute is NOT present */
+#refresh-btn:not([hidden]) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #refresh-btn:hover {
   background: rgba(255, 255, 255, 0.15);
   transform: translateY(-2px);
 }
-
 
 </style>
 
