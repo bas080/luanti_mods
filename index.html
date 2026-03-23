@@ -92,7 +92,7 @@
   <h1>Luanti Mods</h1>
 
 <p>
-  Aggregated <time data-duration data-largest-unit="hour" data-smallest-unit="minute" datetime="2026-03-23T13:32:58">2026-03-23T13:32:58</time> ago using Github topic <code>luanti-mod</code>, the Gitlab topic <code>Luanti</code> and the Codeberg query <code>luanti-mod</code>.
+  Aggregated <time data-duration data-largest-unit="hour" data-smallest-unit="minute" datetime="2026-03-23T13:46:35">2026-03-23T13:46:35</time> ago using Github topic <code>luanti-mod</code>, the Gitlab topic <code>Luanti</code> and the Codeberg query <code>luanti-mod</code>.
 </p>
 
 <p>
@@ -3833,11 +3833,14 @@ registered nodes.</p>
 
 </article>
 
-<a id="refresh-btn" href="?v=2026-03-23T13:32:58" aria-label="Refresh" hidden>⟳</a>
+<a id="refresh-btn" href="?v=2026-03-23T13:46:35" aria-label="Refresh" hidden>⟳</a>
 
 <style>
 
+
 #refresh-btn {
+  text-decoration: none;
+  color: inherit;
   position: fixed;
   bottom: 1.5rem;
   right: 1.5rem;
@@ -3869,12 +3872,20 @@ registered nodes.</p>
 
 </style>
 
+</main>
+
+<footer>
+  <p><a href="https://github.com/bas080/luanti_mods">https://github.com/bas080/luanti_mods</a></p>
+</footer>
+</body>
+
+
+
 <script type="module">
 const btn = document.getElementById("refresh-btn");
 
 let lastCheck = Number(localStorage.getItem("lastCheck") || 0);
 const MIN_INTERVAL = 10 * 60 * 1000; // 10m
-
 
 async function check() {
   const now = Date.now();
@@ -3888,8 +3899,16 @@ async function check() {
       cache: "no-cache"
     });
 
-    if (res.status === 200) {
-      btn.hidden = false;
+    const etag = res.headers.get("etag");
+    const lastSeen = localStorage.getItem("etag");
+
+    if (etag) {
+      // only show if we've seen a previous value AND it changed
+      if (lastSeen && etag !== lastSeen) {
+        btn.hidden = false;
+      }
+
+      localStorage.setItem("etag", etag);
     }
   } catch (e) {
     console.error(e);
@@ -3903,12 +3922,6 @@ document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "visible") check();
 });
 </script>
-</main>
-
-<footer>
-  <p><a href="https://github.com/bas080/luanti_mods">https://github.com/bas080/luanti_mods</a></p>
-</footer>
-</body>
 
 <script type="module">
 
