@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>weapons_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/weapons_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library to easily register new weapons<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T15:14:49.248Z</pubDate>
+  </item>
+  <item>
+    <title>MariaNewPlayerWelcome (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Luiz-no-Luanti/MariaNewPlayerWelcome</link>
+    <guid>https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome</guid>
+    <author>Luiz-no-Luanti</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Luiz-no-Luanti</strong><br>
+      Dê uma boas-vindas aos seus novos membros!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T15:03:13.902Z</pubDate>
+  </item>
+  <item>
     <title>mtpaint (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/mtpaint</link>
     <guid>https://github.com/bas080/mtpaint</guid>
@@ -29,24 +65,6 @@
     <pubDate>2026-03-23T14:04:02Z</pubDate>
   </item>
   <item>
-    <title>weapons_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/weapons_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Luanti library to easily register new weapons<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-23T13:01:36.074Z</pubDate>
-  </item>
-  <item>
     <title>register_timer (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/register_timer</link>
     <guid>https://github.com/bas080/register_timer</guid>
@@ -63,24 +81,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-23T11:55:31Z</pubDate>
-  </item>
-  <item>
-    <title>MariaNewPlayerWelcome (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Luiz-no-Luanti/MariaNewPlayerWelcome</link>
-    <guid>https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome</guid>
-    <author>Luiz-no-Luanti</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Luiz-no-Luanti</strong><br>
-      Dê uma boas-vindas aos seus novos membros!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" type="image/png" />
-    <pubDate>2026-03-23T10:22:47.113Z</pubDate>
   </item>
   <item>
     <title>vines (Github)</title>
