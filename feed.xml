@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>Luanti Mods Feed</title>
   <link>https://bas080.github.io/luanti_mods/</link>
@@ -14,6 +14,7 @@
     <title>mtpaint (Github)</title>
     <link>https://github.com/bas080/mtpaint</link>
     <guid>https://github.com/bas080/mtpaint</guid>
+    <author>bas080</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
@@ -22,6 +23,8 @@
       <a href="https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-23T14:04:02Z</pubDate>
   </item>
@@ -29,6 +32,7 @@
     <title>weapons_lib (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/weapons_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -37,6 +41,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-23T13:01:36.074Z</pubDate>
   </item>
@@ -44,6 +50,7 @@
     <title>register_timer (Github)</title>
     <link>https://github.com/bas080/register_timer</link>
     <guid>https://github.com/bas080/register_timer</guid>
+    <author>bas080</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
@@ -52,6 +59,8 @@
       <a href="https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-23T11:55:31Z</pubDate>
   </item>
@@ -59,6 +68,7 @@
     <title>MariaNewPlayerWelcome (Gitlab)</title>
     <link>https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome</link>
     <guid>https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome</guid>
+    <author>Luiz-no-Luanti</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Luiz-no-Luanti</strong><br>
@@ -67,6 +77,8 @@
       <a href="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" type="image/png" />
     <pubDate>2026-03-23T10:22:47.113Z</pubDate>
   </item>
@@ -74,6 +86,7 @@
     <title>vines (Github)</title>
     <link>https://github.com/bas080/vines</link>
     <guid>https://github.com/bas080/vines</guid>
+    <author>bas080</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
@@ -82,6 +95,8 @@
       <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-23T01:08:36Z</pubDate>
   </item>
@@ -89,6 +104,7 @@
     <title>corruptionmt (Github)</title>
     <link>https://github.com/TheAirplaneMan/corruptionmt</link>
     <guid>https://github.com/TheAirplaneMan/corruptionmt</guid>
+    <author>TheAirplaneMan</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/213837125?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>TheAirplaneMan</strong><br>
@@ -97,6 +113,8 @@
       <a href="https://github.com/TheAirplaneMan/corruptionmt/archive/refs/heads/main/corruptionmt.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/TheAirplaneMan/corruptionmt/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/TheAirplaneMan/corruptionmt/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/TheAirplaneMan/corruptionmt/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-22T23:27:51Z</pubDate>
   </item>
@@ -104,6 +122,7 @@
     <title>crimsonmt (Github)</title>
     <link>https://github.com/TheAirplaneMan/crimsonmt</link>
     <guid>https://github.com/TheAirplaneMan/crimsonmt</guid>
+    <author>TheAirplaneMan</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/213837125?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>TheAirplaneMan</strong><br>
@@ -112,6 +131,8 @@
       <a href="https://github.com/TheAirplaneMan/crimsonmt/archive/refs/heads/main/crimsonmt.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-22T23:25:06Z</pubDate>
   </item>
@@ -119,6 +140,7 @@
     <title>arena_lib (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/arena_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -127,6 +149,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-22T15:13:43.688Z</pubDate>
   </item>
@@ -134,6 +158,7 @@
     <title>at (Github)</title>
     <link>https://github.com/bas080/at</link>
     <guid>https://github.com/bas080/at</guid>
+    <author>bas080</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
@@ -142,6 +167,8 @@
       <a href="https://github.com/bas080/at/archive/refs/heads/master/at.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-22T14:57:27Z</pubDate>
   </item>
@@ -149,6 +176,7 @@
     <title>CraftoPlus (Gitlab)</title>
     <link>https://gitlab.com/Mish7913/craftoplus</link>
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
+    <author>Mish7913</author>
     <description><![CDATA[
       <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
@@ -157,6 +185,8 @@
       <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-22T11:44:44.434Z</pubDate>
   </item>
@@ -164,6 +194,7 @@
     <title>fluid_lib (Github)</title>
     <link>https://github.com/LunaSquee/fluid_lib</link>
     <guid>https://github.com/LunaSquee/fluid_lib</guid>
+    <author>LunaSquee</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>LunaSquee</strong><br>
@@ -172,6 +203,8 @@
       <a href="https://github.com/LunaSquee/fluid_lib/archive/refs/heads/master/fluid_lib.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-22T09:51:36Z</pubDate>
   </item>
@@ -179,6 +212,7 @@
     <title>edu_bricks (Github)</title>
     <link>https://github.com/Rainy428/edu_bricks</link>
     <guid>https://github.com/Rainy428/edu_bricks</guid>
+    <author>Rainy428</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/268611124?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Rainy428</strong><br>
@@ -187,6 +221,8 @@
       <a href="https://github.com/Rainy428/edu_bricks/archive/refs/heads/main/edu_bricks.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/Rainy428/edu_bricks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Rainy428/edu_bricks/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Rainy428/edu_bricks/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-22T09:34:48Z</pubDate>
   </item>
@@ -194,6 +230,7 @@
     <title>reset_stage (Github)</title>
     <link>https://github.com/Rainy428/reset_stage</link>
     <guid>https://github.com/Rainy428/reset_stage</guid>
+    <author>Rainy428</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/268611124?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Rainy428</strong><br>
@@ -202,6 +239,8 @@
       <a href="https://github.com/Rainy428/reset_stage/archive/refs/heads/main/reset_stage.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/Rainy428/reset_stage/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Rainy428/reset_stage/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Rainy428/reset_stage/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-22T09:34:24Z</pubDate>
   </item>
@@ -209,6 +248,7 @@
     <title>Natural Habitat (Gitlab)</title>
     <link>https://gitlab.com/Mish7913/natural_habitat</link>
     <guid>https://gitlab.com/Mish7913/natural_habitat</guid>
+    <author>Mish7913</author>
     <description><![CDATA[
       <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
@@ -217,6 +257,8 @@
       <a href="https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T23:59:02.720Z</pubDate>
   </item>
@@ -224,6 +266,7 @@
     <title>Block League (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -232,6 +275,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T20:50:20.019Z</pubDate>
   </item>
@@ -239,6 +284,7 @@
     <title>m7a (Gitlab)</title>
     <link>https://gitlab.com/Mish7913/m7a</link>
     <guid>https://gitlab.com/Mish7913/m7a</guid>
+    <author>Mish7913</author>
     <description><![CDATA[
       <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
@@ -247,6 +293,8 @@
       <a href="https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T18:21:29.166Z</pubDate>
   </item>
@@ -254,6 +302,7 @@
     <title>circuits (Codeberg)</title>
     <link>https://codeberg.org/Sheriff_U3/circuits</link>
     <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
+    <author>Sheriff_U3</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Sheriff_U3</strong><br>
@@ -262,6 +311,8 @@
       <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T17:07:23+01:00</pubDate>
   </item>
@@ -269,6 +320,7 @@
     <title>luanti_utils (Github)</title>
     <link>https://github.com/bas080/luanti_utils</link>
     <guid>https://github.com/bas080/luanti_utils</guid>
+    <author>bas080</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
@@ -277,6 +329,8 @@
       <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-20T07:29:09Z</pubDate>
   </item>
@@ -284,6 +338,7 @@
     <title>luanti_check (Github)</title>
     <link>https://github.com/bas080/luanti_check</link>
     <guid>https://github.com/bas080/luanti_check</guid>
+    <author>bas080</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
@@ -292,6 +347,8 @@
       <a href="https://github.com/bas080/luanti_check/archive/refs/heads/master/luanti_check.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bas080/luanti_check/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_check/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_check/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-20T03:13:51Z</pubDate>
   </item>
@@ -299,6 +356,7 @@
     <title>playervault (Github)</title>
     <link>https://github.com/bookgirlxoxo/playervault</link>
     <guid>https://github.com/bookgirlxoxo/playervault</guid>
+    <author>bookgirlxoxo</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/116229905?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bookgirlxoxo</strong><br>
@@ -307,6 +365,8 @@
       <a href="https://github.com/bookgirlxoxo/playervault/archive/refs/heads/main/playervault.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-19T20:57:25Z</pubDate>
   </item>
@@ -314,6 +374,7 @@
     <title>little_lake (Github)</title>
     <link>https://github.com/bas080/little_lake</link>
     <guid>https://github.com/bas080/little_lake</guid>
+    <author>bas080</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
@@ -322,6 +383,8 @@
       <a href="https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-18T17:22:01Z</pubDate>
   </item>
@@ -329,6 +392,7 @@
     <title>trudged (Github)</title>
     <link>https://github.com/bas080/trudged</link>
     <guid>https://github.com/bas080/trudged</guid>
+    <author>bas080</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
@@ -337,6 +401,8 @@
       <a href="https://github.com/bas080/trudged/archive/refs/heads/master/trudged.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bas080/trudged/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/trudged/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/trudged/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-18T14:32:29Z</pubDate>
   </item>
@@ -344,6 +410,7 @@
     <title>Collectible skins (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/collectible-skins</link>
     <guid>https://gitlab.com/zughy-friends-minetest/collectible-skins</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -352,6 +419,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-17T13:29:42.852Z</pubDate>
   </item>
@@ -359,6 +428,7 @@
     <title>audio_lib (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/audio_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/audio_lib</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -367,6 +437,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-16T14:55:49.917Z</pubDate>
   </item>
@@ -374,6 +446,7 @@
     <title>Magic Compass (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/magic-compass</link>
     <guid>https://gitlab.com/zughy-friends-minetest/magic-compass</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -382,6 +455,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/magic-compass/-/archive/master/magic-compass.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-15T00:45:29.527Z</pubDate>
   </item>
@@ -389,6 +464,7 @@
     <title>plots (Github)</title>
     <link>https://github.com/bookgirlxoxo/plots</link>
     <guid>https://github.com/bookgirlxoxo/plots</guid>
+    <author>bookgirlxoxo</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/116229905?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bookgirlxoxo</strong><br>
@@ -397,6 +473,8 @@
       <a href="https://github.com/bookgirlxoxo/plots/archive/refs/heads/main/plots.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-12T22:49:51Z</pubDate>
   </item>
@@ -404,6 +482,7 @@
     <title>energy_drinks (Codeberg)</title>
     <link>https://codeberg.org/Sheriff_U3/energy_drinks</link>
     <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
+    <author>Sheriff_U3</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Sheriff_U3</strong><br>
@@ -412,6 +491,8 @@
       <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-10T18:57:39+01:00</pubDate>
   </item>
@@ -419,6 +500,7 @@
     <title>Whitelist (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/whitelist</link>
     <guid>https://gitlab.com/zughy-friends-minetest/whitelist</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/21154006/whitelist-icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -427,6 +509,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/whitelist/-/archive/master/whitelist.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-10T11:29:30.791Z</pubDate>
   </item>
@@ -434,6 +518,7 @@
     <title>Hub (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/hub</link>
     <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -442,6 +527,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-09T20:29:16.849Z</pubDate>
   </item>
@@ -449,6 +536,7 @@
     <title>achievements_lib (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/achievements_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/achievements_lib</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/20515418/achievements.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -457,6 +545,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/archive/master/achievements_lib.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-07T16:29:16.366Z</pubDate>
   </item>
@@ -464,6 +554,7 @@
     <title>Parties (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/parties</link>
     <guid>https://gitlab.com/zughy-friends-minetest/parties</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/19639678/party.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -472,6 +563,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/parties/-/archive/master/parties.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-04T20:29:21.723Z</pubDate>
   </item>
@@ -479,6 +572,7 @@
     <title>musician (Github)</title>
     <link>https://github.com/fancyfinn9/musician</link>
     <guid>https://github.com/fancyfinn9/musician</guid>
+    <author>fancyfinn9</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/142792026?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>fancyfinn9</strong><br>
@@ -487,6 +581,8 @@
       <a href="https://github.com/fancyfinn9/musician/archive/refs/heads/main/musician.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/fancyfinn9/musician/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/fancyfinn9/musician/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/fancyfinn9/musician/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-04T10:53:40Z</pubDate>
   </item>
@@ -494,6 +590,7 @@
     <title>Warp Portal (Gitlab)</title>
     <link>https://gitlab.com/Mish7913/warp-portal</link>
     <guid>https://gitlab.com/Mish7913/warp-portal</guid>
+    <author>Mish7913</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/78029762/warp_portal.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
@@ -502,6 +599,8 @@
       <a href="https://gitlab.com/Mish7913/warp-portal/-/archive/main/warp-portal.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-02T11:15:14.285Z</pubDate>
   </item>
@@ -509,6 +608,7 @@
     <title>country_lib (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/country_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -517,6 +617,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-02T10:29:26.241Z</pubDate>
   </item>
@@ -524,6 +626,7 @@
     <title>simple_replace (Github)</title>
     <link>https://github.com/TheSilverStone/simple_replace</link>
     <guid>https://github.com/TheSilverStone/simple_replace</guid>
+    <author>TheSilverStone</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/178652409?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>TheSilverStone</strong><br>
@@ -532,6 +635,8 @@
       <a href="https://github.com/TheSilverStone/simple_replace/archive/refs/heads/main/simple_replace.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/TheSilverStone/simple_replace/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/TheSilverStone/simple_replace/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/TheSilverStone/simple_replace/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-02T06:54:00Z</pubDate>
   </item>
@@ -539,6 +644,7 @@
     <title>minetest-flow (Github)</title>
     <link>https://github.com/luk3yx/minetest-flow</link>
     <guid>https://github.com/luk3yx/minetest-flow</guid>
+    <author>luk3yx</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/3182651?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>luk3yx</strong><br>
@@ -547,6 +653,8 @@
       <a href="https://github.com/luk3yx/minetest-flow/archive/refs/heads/main/minetest-flow.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/luk3yx/minetest-flow/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/luk3yx/minetest-flow/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/luk3yx/minetest-flow/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-02T05:22:43Z</pubDate>
   </item>
@@ -554,6 +662,7 @@
     <title>castle_masonry (Github)</title>
     <link>https://github.com/minetest-mods/castle_masonry</link>
     <guid>https://github.com/minetest-mods/castle_masonry</guid>
+    <author>minetest-mods</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>minetest-mods</strong><br>
@@ -562,6 +671,8 @@
       <a href="https://github.com/minetest-mods/castle_masonry/archive/refs/heads/master/castle_masonry.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/screenshot.png" type="image/png" />
     <pubDate>2026-02-28T13:53:15Z</pubDate>
   </item>
@@ -569,6 +680,7 @@
     <title>ShameGPT (Gitlab)</title>
     <link>https://gitlab.com/lichenseed/ShameGPT</link>
     <guid>https://gitlab.com/lichenseed/ShameGPT</guid>
+    <author>lichenseed</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/79573730/Gemini_Generated_Image_n8oz0ln8oz0ln8oz_1_.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>lichenseed</strong><br>
@@ -577,6 +689,8 @@
       <a href="https://gitlab.com/lichenseed/ShameGPT/-/archive/main/ShameGPT.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-02-25T19:57:36.975Z</pubDate>
   </item>
@@ -584,6 +698,7 @@
     <title>moreblocks (Github)</title>
     <link>https://github.com/minetest-mods/moreblocks</link>
     <guid>https://github.com/minetest-mods/moreblocks</guid>
+    <author>minetest-mods</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>minetest-mods</strong><br>
@@ -592,6 +707,8 @@
       <a href="https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" type="image/png" />
     <pubDate>2026-02-23T22:46:29Z</pubDate>
   </item>
@@ -599,6 +716,7 @@
     <title>ldap1 (Gitlab)</title>
     <link>https://gitlab.com/bgstack15/ldap1</link>
     <guid>https://gitlab.com/bgstack15/ldap1</guid>
+    <author>bgstack15</author>
     <description><![CDATA[
       <img src="https://gitlab.com//uploads/-/system/user/avatar/2361646/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bgstack15</strong><br>
@@ -607,6 +725,8 @@
       <a href="https://gitlab.com/bgstack15/ldap1/-/archive/master/ldap1.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-02-16T19:45:57.611Z</pubDate>
   </item>
@@ -614,6 +734,7 @@
     <title>events_api (Codeberg)</title>
     <link>https://codeberg.org/TPH/events_api</link>
     <guid>https://codeberg.org/TPH/events_api</guid>
+    <author>TPH</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/0b4a008971f9c5fb4659a78b99ea7bc59f843dfc8ffe00e172fe965b3385a1e5" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>TPH</strong><br>
@@ -622,6 +743,8 @@
       <a href="https://codeberg.org/TPH/events_api/archive/refs/heads/master/events_api.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/TPH/events_api/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/TPH/events_api/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/TPH/events_api/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-02-12T01:04:25+01:00</pubDate>
   </item>
@@ -629,6 +752,7 @@
     <title>Dialogues (Gitlab)</title>
     <link>https://gitlab.com/zughy-friends-minetest/dialogues</link>
     <guid>https://gitlab.com/zughy-friends-minetest/dialogues</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
       <img src="https://gitlab.com/uploads/-/system/project/avatar/67800245/dialogues_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
@@ -637,6 +761,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/dialogues/-/archive/main/dialogues.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/zughy-friends-minetest/dialogues/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/dialogues/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/dialogues/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-02-11T22:31:31.580Z</pubDate>
   </item>
@@ -644,6 +770,7 @@
     <title>dungeonsplus (Codeberg)</title>
     <link>https://codeberg.org/Stoabrogga/dungeonsplus</link>
     <guid>https://codeberg.org/Stoabrogga/dungeonsplus</guid>
+    <author>Stoabrogga</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/e9f57c67e292368b2d85d26e24b429a2830c93e75195aeba95f6291a91322ed9" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Stoabrogga</strong><br>
@@ -652,6 +779,8 @@
       <a href="https://codeberg.org/Stoabrogga/dungeonsplus/archive/refs/heads/root/dungeonsplus.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/screenshot.png" type="image/png" />
     <pubDate>2026-02-07T22:57:45+01:00</pubDate>
   </item>
@@ -659,6 +788,7 @@
     <title>farmtools (Codeberg)</title>
     <link>https://codeberg.org/camelia/farmtools</link>
     <guid>https://codeberg.org/camelia/farmtools</guid>
+    <author>camelia</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/dc96c7ac6afd4317e4a965e883017c2ad9eacd2e44a91ce35f0143351de581eb" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>camelia</strong><br>
@@ -667,6 +797,8 @@
       <a href="https://codeberg.org/camelia/farmtools/archive/refs/heads/main/farmtools.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-02-01T09:21:46+01:00</pubDate>
   </item>
@@ -674,6 +806,7 @@
     <title>areas_helper_tools (Gitlab)</title>
     <link>https://gitlab.com/rangeTonic/areas_helper_tools</link>
     <guid>https://gitlab.com/rangeTonic/areas_helper_tools</guid>
+    <author>rangeTonic</author>
     <description><![CDATA[
       <img src="https://gitlab.com//uploads/-/system/user/avatar/2222587/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>rangeTonic</strong><br>
@@ -682,6 +815,8 @@
       <a href="https://gitlab.com/rangeTonic/areas_helper_tools/-/archive/main/areas_helper_tools.zip">Download ZIP</a><br>
       <img src="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-01-28T21:41:17.356Z</pubDate>
   </item>
@@ -689,6 +824,7 @@
     <title>leads (Codeberg)</title>
     <link>https://codeberg.org/SilverSandstone/leads</link>
     <guid>https://codeberg.org/SilverSandstone/leads</guid>
+    <author>SilverSandstone</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>SilverSandstone</strong><br>
@@ -697,6 +833,8 @@
       <a href="https://codeberg.org/SilverSandstone/leads/archive/refs/heads/main/leads.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/SilverSandstone/leads/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/SilverSandstone/leads/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/SilverSandstone/leads/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-12-31T11:10:40+01:00</pubDate>
   </item>
@@ -704,6 +842,7 @@
     <title>exile_songs (Codeberg)</title>
     <link>https://codeberg.org/TPH/exile_songs</link>
     <guid>https://codeberg.org/TPH/exile_songs</guid>
+    <author>TPH</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/0b4a008971f9c5fb4659a78b99ea7bc59f843dfc8ffe00e172fe965b3385a1e5" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>TPH</strong><br>
@@ -712,6 +851,8 @@
       <a href="https://codeberg.org/TPH/exile_songs/archive/refs/heads/master/exile_songs.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/TPH/exile_songs/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/TPH/exile_songs/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/TPH/exile_songs/raw/master/screenshot.png" type="image/png" />
     <pubDate>2025-12-17T16:44:57+01:00</pubDate>
   </item>
@@ -719,6 +860,7 @@
     <title>drawers (Codeberg)</title>
     <link>https://codeberg.org/Codiac/drawers</link>
     <guid>https://codeberg.org/Codiac/drawers</guid>
+    <author>Codiac</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Codiac</strong><br>
@@ -727,6 +869,8 @@
       <a href="https://codeberg.org/Codiac/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/Codiac/drawers/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Codiac/drawers/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Codiac/drawers/raw/master/screenshot.png" type="image/png" />
     <pubDate>2025-12-16T12:46:49+01:00</pubDate>
   </item>
@@ -734,6 +878,7 @@
     <title>alone (Codeberg)</title>
     <link>https://codeberg.org/Codiac/alone</link>
     <guid>https://codeberg.org/Codiac/alone</guid>
+    <author>Codiac</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Codiac</strong><br>
@@ -742,6 +887,8 @@
       <a href="https://codeberg.org/Codiac/alone/archive/refs/heads/main/alone.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-12-15T07:02:28+01:00</pubDate>
   </item>
@@ -749,6 +896,7 @@
     <title>itemstore_api (Codeberg)</title>
     <link>https://codeberg.org/perfect_city_game_studio/itemstore_api</link>
     <guid>https://codeberg.org/perfect_city_game_studio/itemstore_api</guid>
+    <author>perfect_city_game_studio</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/9c29d92d303c69fab4ccbe6941c29a6438683754cb8a98cbe674ced7b1e770d5" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>perfect_city_game_studio</strong><br>
@@ -758,6 +906,8 @@ items as entities in a node-dependent fashion.<br>
       <a href="https://codeberg.org/perfect_city_game_studio/itemstore_api/archive/refs/heads/master/itemstore_api.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/perfect_city_game_studio/itemstore_api/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/perfect_city_game_studio/itemstore_api/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/perfect_city_game_studio/itemstore_api/raw/master/screenshot.png" type="image/png" />
     <pubDate>2025-11-09T03:33:48+01:00</pubDate>
   </item>
@@ -765,6 +915,7 @@ items as entities in a node-dependent fashion.<br>
     <title>ejection (Codeberg)</title>
     <link>https://codeberg.org/yof/ejection</link>
     <guid>https://codeberg.org/yof/ejection</guid>
+    <author>yof</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/b209aa300f178b67c9abc640fc2bad25" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>yof</strong><br>
@@ -773,6 +924,8 @@ items as entities in a node-dependent fashion.<br>
       <a href="https://codeberg.org/yof/ejection/archive/refs/heads/main/ejection.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/yof/ejection/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/yof/ejection/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/yof/ejection/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-10-28T12:08:38+01:00</pubDate>
   </item>
@@ -780,6 +933,7 @@ items as entities in a node-dependent fashion.<br>
     <title>avantisavoia (Codeberg)</title>
     <link>https://codeberg.org/JetpackJackson/avantisavoia</link>
     <guid>https://codeberg.org/JetpackJackson/avantisavoia</guid>
+    <author>JetpackJackson</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/a892831a59fe193fdad0e38ceaa1f74e9a0116fc9f56de8c2ce16e6c6ad56f8e" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>JetpackJackson</strong><br>
@@ -788,6 +942,8 @@ items as entities in a node-dependent fashion.<br>
       <a href="https://codeberg.org/JetpackJackson/avantisavoia/archive/refs/heads/main/avantisavoia.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/JetpackJackson/avantisavoia/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/JetpackJackson/avantisavoia/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/JetpackJackson/avantisavoia/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-10-16T22:39:28+02:00</pubDate>
   </item>
@@ -795,6 +951,7 @@ items as entities in a node-dependent fashion.<br>
     <title>DrWho_Tardis (Codeberg)</title>
     <link>https://codeberg.org/Skivling/DrWho_Tardis</link>
     <guid>https://codeberg.org/Skivling/DrWho_Tardis</guid>
+    <author>Skivling</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/21b310789915765d687d827860cdc797ea3ea2be206f89497b385123635b1679" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Skivling</strong><br>
@@ -803,6 +960,8 @@ items as entities in a node-dependent fashion.<br>
       <a href="https://codeberg.org/Skivling/DrWho_Tardis/archive/refs/heads/main/DrWho_Tardis.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/Skivling/DrWho_Tardis/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Skivling/DrWho_Tardis/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Skivling/DrWho_Tardis/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-08-22T11:53:05+02:00</pubDate>
   </item>
@@ -810,6 +969,7 @@ items as entities in a node-dependent fashion.<br>
     <title>advtrains_horntrack (Codeberg)</title>
     <link>https://codeberg.org/SilverSandstone/advtrains_horntrack</link>
     <guid>https://codeberg.org/SilverSandstone/advtrains_horntrack</guid>
+    <author>SilverSandstone</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>SilverSandstone</strong><br>
@@ -818,6 +978,8 @@ items as entities in a node-dependent fashion.<br>
       <a href="https://codeberg.org/SilverSandstone/advtrains_horntrack/archive/refs/heads/main/advtrains_horntrack.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/SilverSandstone/advtrains_horntrack/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/SilverSandstone/advtrains_horntrack/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/SilverSandstone/advtrains_horntrack/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-08-21T07:26:08+02:00</pubDate>
   </item>
@@ -825,6 +987,7 @@ items as entities in a node-dependent fashion.<br>
     <title>copper_pipes (Codeberg)</title>
     <link>https://codeberg.org/Codiac/copper_pipes</link>
     <guid>https://codeberg.org/Codiac/copper_pipes</guid>
+    <author>Codiac</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Codiac</strong><br>
@@ -833,6 +996,8 @@ items as entities in a node-dependent fashion.<br>
       <a href="https://codeberg.org/Codiac/copper_pipes/archive/refs/heads/main/copper_pipes.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/Codiac/copper_pipes/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Codiac/copper_pipes/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Codiac/copper_pipes/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-07-17T03:37:15+02:00</pubDate>
   </item>
@@ -840,6 +1005,7 @@ items as entities in a node-dependent fashion.<br>
     <title>flamegraph_register_node (Codeberg)</title>
     <link>https://codeberg.org/Desour/flamegraph_register_node</link>
     <guid>https://codeberg.org/Desour/flamegraph_register_node</guid>
+    <author>Desour</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/70e9f49ac0763f676f0520c7156faefec7db7bf97bd7deb01175711245c3be28" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Desour</strong><br>
@@ -849,6 +1015,8 @@ registered nodes.<br>
       <a href="https://codeberg.org/Desour/flamegraph_register_node/archive/refs/heads/master/flamegraph_register_node.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/Desour/flamegraph_register_node/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Desour/flamegraph_register_node/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Desour/flamegraph_register_node/raw/master/screenshot.png" type="image/png" />
     <pubDate>2025-07-06T20:45:36+02:00</pubDate>
   </item>
@@ -856,6 +1024,7 @@ registered nodes.<br>
     <title>epoxied_concrete (Codeberg)</title>
     <link>https://codeberg.org/somedumbguy/epoxied_concrete</link>
     <guid>https://codeberg.org/somedumbguy/epoxied_concrete</guid>
+    <author>somedumbguy</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/34298df361c480ae912a2b47c1f2171e" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>somedumbguy</strong><br>
@@ -864,6 +1033,8 @@ registered nodes.<br>
       <a href="https://codeberg.org/somedumbguy/epoxied_concrete/archive/refs/heads/master/epoxied_concrete.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png" type="image/png" />
     <pubDate>2025-03-18T19:28:17+01:00</pubDate>
   </item>
@@ -871,6 +1042,7 @@ registered nodes.<br>
     <title>growdrygrass (Codeberg)</title>
     <link>https://codeberg.org/SilverSandstone/growdrygrass</link>
     <guid>https://codeberg.org/SilverSandstone/growdrygrass</guid>
+    <author>SilverSandstone</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>SilverSandstone</strong><br>
@@ -879,6 +1051,8 @@ registered nodes.<br>
       <a href="https://codeberg.org/SilverSandstone/growdrygrass/archive/refs/heads/main/growdrygrass.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/SilverSandstone/growdrygrass/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/SilverSandstone/growdrygrass/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/SilverSandstone/growdrygrass/raw/main/screenshot.png" type="image/png" />
     <pubDate>2024-11-28T15:02:09+01:00</pubDate>
   </item>
@@ -886,6 +1060,7 @@ registered nodes.<br>
     <title>blockhead (Codeberg)</title>
     <link>https://codeberg.org/SilverSandstone/blockhead</link>
     <guid>https://codeberg.org/SilverSandstone/blockhead</guid>
+    <author>SilverSandstone</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>SilverSandstone</strong><br>
@@ -894,6 +1069,8 @@ registered nodes.<br>
       <a href="https://codeberg.org/SilverSandstone/blockhead/archive/refs/heads/main/blockhead.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/SilverSandstone/blockhead/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/SilverSandstone/blockhead/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/SilverSandstone/blockhead/raw/main/screenshot.png" type="image/png" />
     <pubDate>2024-11-28T14:59:54+01:00</pubDate>
   </item>
@@ -901,6 +1078,7 @@ registered nodes.<br>
     <title>bed_rock (Codeberg)</title>
     <link>https://codeberg.org/Desour/bed_rock</link>
     <guid>https://codeberg.org/Desour/bed_rock</guid>
+    <author>Desour</author>
     <description><![CDATA[
       <img src="https://codeberg.org/avatars/70e9f49ac0763f676f0520c7156faefec7db7bf97bd7deb01175711245c3be28" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Desour</strong><br>
@@ -909,6 +1087,8 @@ registered nodes.<br>
       <a href="https://codeberg.org/Desour/bed_rock/archive/refs/heads/master/bed_rock.zip">Download ZIP</a><br>
       <img src="https://codeberg.org/Desour/bed_rock/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Desour/bed_rock/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Desour/bed_rock/raw/master/screenshot.png" type="image/png" />
     <pubDate>2024-11-18T08:52:38+01:00</pubDate>
   </item>
