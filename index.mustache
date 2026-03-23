@@ -103,7 +103,7 @@
 {{#items}}
 
 
-<article>
+<article id="{{full_name}}">
 
   <div class="relative">
 
@@ -128,6 +128,7 @@
     <a href="{{{issues_url}}}" target="_blank" rel="noopener">Issues{{#open_issues}}[{{open_issues}}]{{/open_issues}}</a>
     <a href="https://content.luanti.org/packages/{{{full_name}}}" class="check-url" target="_blank" rel="noopener">ContentDB</a>
     <a href="{{{html_url}}}/archive/{{default_branch}}.zip" download="{{{repo_name}}}.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
+    <a href="#{{full_name}}" class="share-link" title="Click to copy this article's URL">Share</a>
   </p>
 
   {{#description}}
@@ -273,6 +274,23 @@ updateDurations();
 
 // update every second
 setInterval(updateDurations, 1000);
+</script>
+
+<script>
+document.querySelectorAll(".share-link").forEach(link => {
+  link.addEventListener("click", async (e) => {
+    e.preventDefault();
+    const url = window.location.origin + window.location.pathname + link.getAttribute("href");
+    try {
+      await navigator.clipboard.writeText(url);
+      link.textContent = "Copied!";
+      setTimeout(() => link.textContent = "Share", 1500);
+    } catch (err) {
+      console.error("Failed to copy URL:", err);
+      alert("Failed to copy URL. Right-click and copy manually.");
+    }
+  });
+});
 </script>
 
 </html>
