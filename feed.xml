@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>energy_drinks (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
+    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A mod that adds energy drinks to the luanti game engine.<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T20:02:39+01:00</pubDate>
+  </item>
+  <item>
+    <title>luanti_utils (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/luanti_utils</link>
+    <guid>https://github.com/bas080/luanti_utils</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      <br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T18:51:10Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -317,24 +353,6 @@
     <pubDate>2026-03-21T17:07:23+01:00</pubDate>
   </item>
   <item>
-    <title>luanti_utils (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/luanti_utils</link>
-    <guid>https://github.com/bas080/luanti_utils</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      <br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-20T07:29:09Z</pubDate>
-  </item>
-  <item>
     <title>luanti_check (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/luanti_check</link>
     <guid>https://github.com/bas080/luanti_check</guid>
@@ -477,24 +495,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-12T22:49:51Z</pubDate>
-  </item>
-  <item>
-    <title>energy_drinks (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
-    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A mod that adds energy drinks to the luanti game engine.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-10T18:57:39+01:00</pubDate>
   </item>
   <item>
     <title>Whitelist (Gitlab)</title>

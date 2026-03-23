@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/energy_drinks",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "",
+      "repo_name": "energy_drinks",
+      "html_url": "https://codeberg.org/Sheriff_U3/energy_drinks",
+      "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
+      "description": "A mod that adds energy drinks to the luanti game engine.",
+      "default_branch": "main",
+      "updated_at": "2026-03-23T20:02:39+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/luanti_utils",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://bas080.github.io/luanti_utils/",
+      "repo_name": "luanti_utils",
+      "html_url": "https://github.com/bas080/luanti_utils",
+      "issues_url": "https://github.com/bas080/luanti_utils/issues",
+      "open_issues": 2,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-03-23T18:51:10Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "utility-library"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -494,33 +550,6 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "bas080/luanti_utils",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "https://bas080.github.io/luanti_utils/",
-      "repo_name": "luanti_utils",
-      "html_url": "https://github.com/bas080/luanti_utils",
-      "issues_url": "https://github.com/bas080/luanti_utils/issues",
-      "open_issues": 2,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
-      "description": "",
-      "default_branch": "master",
-      "updated_at": "2026-03-20T07:29:09Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "utility-library"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
       "full_name": "bas080/luanti_check",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
@@ -741,35 +770,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bookgirlxoxo/plots/main/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/energy_drinks",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "",
-      "repo_name": "energy_drinks",
-      "html_url": "https://codeberg.org/Sheriff_U3/energy_drinks",
-      "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
-      "description": "A mod that adds energy drinks to the luanti game engine.",
-      "default_branch": "main",
-      "updated_at": "2026-03-10T18:57:39+01:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
       "has_stats": false
     },
     {
@@ -1724,5 +1724,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-23T18:05:03"
+  "now": "2026-03-23T19:14:07"
 }
