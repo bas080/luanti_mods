@@ -11,6 +11,36 @@
   </image>
 
   <item>
+    <title>register_timer (Github)</title>
+    <link>https://github.com/bas080/register_timer</link>
+    <guid>https://github.com/bas080/register_timer</guid>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      <br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T11:55:31Z</pubDate>
+  </item>
+  <item>
+    <title>MariaNewPlayerWelcome (Gitlab)</title>
+    <link>https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome</link>
+    <guid>https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome</guid>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Luiz-no-Luanti</strong><br>
+      Dê uma boas-vindas aos seus novos membros!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+    <enclosure url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" type="image/png" />
+    <pubDate>2026-03-23T10:22:47.113Z</pubDate>
+  </item>
+  <item>
     <title>mtpaint (Github)</title>
     <link>https://github.com/bas080/mtpaint</link>
     <guid>https://github.com/bas080/mtpaint</guid>
@@ -566,21 +596,6 @@
     <pubDate>2026-02-23T22:46:29Z</pubDate>
   </item>
   <item>
-    <title>filterplus (Github)</title>
-    <link>https://github.com/monk-afk/filterplus</link>
-    <guid>https://github.com/monk-afk/filterplus</guid>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/37543743?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>monk-afk</strong><br>
-      core.register_on_chat_message()<br>
-      License: Other<br>
-      <a href="https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" type="image/png" />
-    <pubDate>2026-02-21T14:53:11Z</pubDate>
-  </item>
-  <item>
     <title>ldap1 (Gitlab)</title>
     <link>https://gitlab.com/bgstack15/ldap1</link>
     <guid>https://gitlab.com/bgstack15/ldap1</guid>
@@ -669,21 +684,6 @@
     ]]></description>
     <enclosure url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-01-28T21:41:17.356Z</pubDate>
-  </item>
-  <item>
-    <title>Soothing 32 (Gitlab)</title>
-    <link>https://gitlab.com/zughy-friends-minetest/soothing-32</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/soothing-32</guid>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/soothing-32/-/archive/master/soothing-32.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-01-14T20:19:49.065Z</pubDate>
   </item>
   <item>
     <title>leads (Codeberg)</title>

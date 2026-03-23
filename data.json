@@ -2,6 +2,58 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "bas080/register_timer",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "register_timer",
+      "html_url": "https://github.com/bas080/register_timer",
+      "issues_url": "https://github.com/bas080/register_timer/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-03-23T11:55:31Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/register_timer/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Luiz-no-Luanti/MariaNewPlayerWelcome",
+      "author": "Luiz-no-Luanti",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png",
+      "website": "",
+      "repo_name": "MariaNewPlayerWelcome",
+      "html_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome",
+      "issues_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip",
+      "readme_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/README.md",
+      "description": "Dê uma boas-vindas aos seus novos membros!",
+      "default_branch": "dev",
+      "updated_at": "2026-03-23T10:22:47.113Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti"
+      ],
+      "image_raw": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "bas080/mtpaint",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
@@ -1064,37 +1116,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "monk-afk/filterplus",
-      "author": "monk-afk",
-      "avatar_url": "https://avatars.githubusercontent.com/u/37543743?v=4",
-      "website": "",
-      "repo_name": "filterplus",
-      "html_url": "https://github.com/monk-afk/filterplus",
-      "issues_url": "https://github.com/monk-afk/filterplus/issues",
-      "open_issues": 0,
-      "stars": 2,
-      "forks": 0,
-      "zip_url": "https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip",
-      "description": "core.register_on_chat_message()",
-      "default_branch": "main",
-      "updated_at": "2026-02-21T14:53:11Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "censor",
-        "chat",
-        "filter",
-        "lua",
-        "luanti-mod",
-        "luanti-modding"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/monk-afk/filterplus/main/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "bgstack15/ldap1",
       "author": "bgstack15",
@@ -1267,34 +1288,6 @@
       ],
       "image_raw": "https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/soothing-32",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png",
-      "website": "",
-      "repo_name": "Soothing 32",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/soothing-32",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/issues",
-      "open_issues": 0,
-      "stars": 2,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/archive/master/soothing-32.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/README.md",
-      "description": "Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!",
-      "default_branch": "master",
-      "updated_at": "2026-01-14T20:19:49.065Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "Textures",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1731,5 +1724,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-23T10:16:47"
+  "now": "2026-03-23T11:55:43"
 }
