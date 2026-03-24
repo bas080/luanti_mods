@@ -126,11 +126,9 @@
 
   <p class="links">
     {{#website}}<a href="{{{website}}}" target="_blank" rel="noopener">Webpage</a>{{/website}}
-    <a href="{{{html_url}}}" target="_blank" rel="noopener">{{hosted_on}}</a>
-    <a href="{{{issues_url}}}" target="_blank" rel="noopener">Issues{{#open_issues}}[{{open_issues}}]{{/open_issues}}</a>
     <a href="https://content.luanti.org/packages/{{{full_name}}}" class="check-url" target="_blank" rel="noopener">ContentDB</a>
     <a href="{{{html_url}}}/archive/{{default_branch}}.zip" download="{{{repo_name}}}.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#{{full_name}}" class="share-link" title="Click to copy this article's URL">Share</a>
+    <a href="#{{full_name}}" class="copy-link" title="Click to copy this article's URL">Share</a>
   </p>
 
   {{#description}}
@@ -138,6 +136,18 @@
   {{/description}}
 
   <dl>
+    <dt>Repository</dt>
+    <dd>
+      <a href="{{{html_url}}}" target="_blank" rel="noopener">{{hosted_on}}</a>
+      ·
+      <a href="{{{issues_url}}}" target="_blank" rel="noopener">
+        Issues{{#open_issues}} [{{open_issues}}]{{/open_issues}}
+      </a>
+      ·
+      <a href="{{{html_url}}}.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
+      ·
+      <a href="git@{{host_domain}}:{{full_name}}.git" class="copy-link">SSH</a>
+    </dd>
     {{#license}}
     <dt>License</dt>
     <dd>{{license.name}}</dd>
@@ -322,21 +332,35 @@ document.addEventListener("visibilitychange", () => {
 
 </script>
 
+
 <script>
-document.querySelectorAll(".share-link").forEach(link => {
+
+document.querySelectorAll(".copy-link").forEach(link => {
   link.addEventListener("click", async (e) => {
     e.preventDefault();
-    const url = window.location.origin + window.location.pathname + link.getAttribute("href");
+
+    const raw = link.getAttribute("href");
+
+    // detect schemes or git@ style
+    const isScheme = /^[a-zA-Z][a-zA-Z0-9+.-]*:/.test(raw);
+    const isSSH = /^git@/.test(raw);
+
+    const text = (isScheme || isSSH)
+      ? raw
+      : new URL(raw, window.location.href).href;
+
     try {
-      await navigator.clipboard.writeText(url);
+      await navigator.clipboard.writeText(text);
+      const old = link.textContent;
       link.textContent = "Copied!";
-      setTimeout(() => link.textContent = "Share", 1500);
+      setTimeout(() => link.textContent = old, 1500);
     } catch (err) {
-      console.error("Failed to copy URL:", err);
-      alert("Failed to copy URL. Right-click and copy manually.");
+      console.error("Failed to copy:", err);
+      alert("Failed to copy.");
     }
   });
 });
 </script>
+
 
 </html>
