@@ -15,7 +15,7 @@
       "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
       "description": "A mod that will tell you what the wind is like at a position.",
       "default_branch": "master",
-      "updated_at": "2026-03-24T15:37:15Z",
+      "updated_at": "2026-03-24T16:14:20Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -1722,5 +1722,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-24T15:42:08"
+  "now": "2026-03-24T17:14:52"
 }
