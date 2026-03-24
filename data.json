@@ -1,6 +1,87 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "Luiz-no-Luanti/MariaNewPlayerWelcome",
+      "author": "Luiz-no-Luanti",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png",
+      "website": "",
+      "repo_name": "MariaNewPlayerWelcome",
+      "html_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome",
+      "issues_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip",
+      "readme_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/README.md",
+      "description": "Dê uma boas-vindas aos seus novos membros!",
+      "default_branch": "dev",
+      "updated_at": "2026-03-24T18:27:07.432Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti"
+      ],
+      "image_raw": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 15,
+      "forks": 14,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-03-24T17:44:17.289Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/register_timer",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "register_timer",
+      "html_url": "https://github.com/bas080/register_timer",
+      "issues_url": "https://github.com/bas080/register_timer/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip",
+      "description": "Persistent timers for Luanti mods.",
+      "default_branch": "master",
+      "updated_at": "2026-03-24T17:37:31Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/register_timer/master/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "bas080/breasy",
       "author": "bas080",
@@ -24,32 +105,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Luiz-no-Luanti/MariaNewPlayerWelcome",
-      "author": "Luiz-no-Luanti",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png",
-      "website": "",
-      "repo_name": "MariaNewPlayerWelcome",
-      "html_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome",
-      "issues_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip",
-      "readme_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/README.md",
-      "description": "Dê uma boas-vindas aos seus novos membros!",
-      "default_branch": "dev",
-      "updated_at": "2026-03-24T15:13:53.116Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti"
-      ],
-      "image_raw": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png",
       "has_stats": false
     },
     {
@@ -250,32 +305,6 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "bas080/register_timer",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "register_timer",
-      "html_url": "https://github.com/bas080/register_timer",
-      "issues_url": "https://github.com/bas080/register_timer/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip",
-      "description": "",
-      "default_branch": "master",
-      "updated_at": "2026-03-23T11:55:31Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/register_timer/master/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
       "full_name": "bas080/vines",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
@@ -374,35 +403,6 @@
       "image_raw": "https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 15,
-      "forks": 14,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-03-22T15:13:43.688Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1722,5 +1722,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-24T17:33:43"
+  "now": "2026-03-24T19:30:14"
 }
