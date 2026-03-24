@@ -11,22 +11,22 @@
   </image>
 
   <item>
-    <title>MariaNewPlayerWelcome (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Luiz-no-Luanti/MariaNewPlayerWelcome</link>
-    <guid>https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome</guid>
-    <author>Luiz-no-Luanti</author>
+    <title>register_timer (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/register_timer</link>
+    <guid>https://github.com/bas080/register_timer</guid>
+    <author>bas080</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Luiz-no-Luanti</strong><br>
-      Dê uma boas-vindas aos seus novos membros!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Persistent timers for Luanti mods.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" type="image/png" />
-    <pubDate>2026-03-24T18:27:07.432Z</pubDate>
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-24T21:50:53Z</pubDate>
   </item>
   <item>
     <title>arena_lib (Gitlab)</title>
@@ -44,25 +44,25 @@
 
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-24T17:44:17.289Z</pubDate>
+    <pubDate>2026-03-24T21:10:58.468Z</pubDate>
   </item>
   <item>
-    <title>register_timer (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/register_timer</link>
-    <guid>https://github.com/bas080/register_timer</guid>
-    <author>bas080</author>
+    <title>MariaNewPlayerWelcome (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Luiz-no-Luanti/MariaNewPlayerWelcome</link>
+    <guid>https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome</guid>
+    <author>Luiz-no-Luanti</author>
     <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Persistent timers for Luanti mods.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Luiz-no-Luanti</strong><br>
+      Dê uma boas-vindas aos seus novos membros!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-24T17:37:31Z</pubDate>
+    <media:thumbnail url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" type="image/png" />
+    <pubDate>2026-03-24T18:27:07.432Z</pubDate>
   </item>
   <item>
     <title>breasy (Github)</title>
