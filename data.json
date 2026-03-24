@@ -2,6 +2,34 @@
   "items": [
     {
       "hosted_on": "Gitlab",
+      "full_name": "Mish7913/craftoplus",
+      "author": "Mish7913",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png",
+      "website": "",
+      "repo_name": "CraftoPlus",
+      "html_url": "https://gitlab.com/Mish7913/craftoplus",
+      "issues_url": "https://gitlab.com/Mish7913/craftoplus/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip",
+      "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
+      "description": "Mod for Luanti games.",
+      "default_branch": "main",
+      "updated_at": "2026-03-24T09:35:35.742Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "craft",
+        "mod"
+      ],
+      "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
       "full_name": "Mish7913/m7a",
       "author": "Mish7913",
       "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png",
@@ -27,34 +55,6 @@
       ],
       "image_raw": "https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Mish7913/craftoplus",
-      "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png",
-      "website": "",
-      "repo_name": "CraftoPlus",
-      "html_url": "https://gitlab.com/Mish7913/craftoplus",
-      "issues_url": "https://gitlab.com/Mish7913/craftoplus/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip",
-      "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
-      "description": "Mod for Luanti games.",
-      "default_branch": "main",
-      "updated_at": "2026-03-23T21:30:43.788Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "craft",
-        "mod"
-      ],
-      "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1722,5 +1722,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-24T09:09:09"
+  "now": "2026-03-24T10:10:25"
 }
