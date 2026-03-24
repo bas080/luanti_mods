@@ -2,28 +2,54 @@
   "items": [
     {
       "hosted_on": "Github",
-      "full_name": "bas080/just_wind",
+      "full_name": "bas080/breasy",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
       "website": "",
-      "repo_name": "just_wind",
-      "html_url": "https://github.com/bas080/just_wind",
-      "issues_url": "https://github.com/bas080/just_wind/issues",
+      "repo_name": "breasy",
+      "html_url": "https://github.com/bas080/breasy",
+      "issues_url": "https://github.com/bas080/breasy/issues",
       "open_issues": 0,
       "stars": 0,
       "forks": 0,
-      "zip_url": "https://github.com/bas080/just_wind/archive/refs/heads/master/just_wind.zip",
+      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
       "description": "A mod that will tell you what the wind is like at a position.",
       "default_branch": "master",
-      "updated_at": "2026-03-24T13:33:12Z",
+      "updated_at": "2026-03-24T15:15:09Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
       "topics": [
         "luanti-mod"
       ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/just_wind/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/just_wind/master/README.md",
+      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Luiz-no-Luanti/MariaNewPlayerWelcome",
+      "author": "Luiz-no-Luanti",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png",
+      "website": "",
+      "repo_name": "MariaNewPlayerWelcome",
+      "html_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome",
+      "issues_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip",
+      "readme_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/README.md",
+      "description": "Dê uma boas-vindas aos seus novos membros!",
+      "default_branch": "dev",
+      "updated_at": "2026-03-24T15:13:53.116Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti"
+      ],
+      "image_raw": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png",
       "has_stats": false
     },
     {
@@ -195,32 +221,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Luiz-no-Luanti/MariaNewPlayerWelcome",
-      "author": "Luiz-no-Luanti",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png",
-      "website": "",
-      "repo_name": "MariaNewPlayerWelcome",
-      "html_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome",
-      "issues_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip",
-      "readme_url": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/README.md",
-      "description": "Dê uma boas-vindas aos seus novos membros!",
-      "default_branch": "dev",
-      "updated_at": "2026-03-23T15:03:13.902Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti"
-      ],
-      "image_raw": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1722,5 +1722,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-24T13:51:52"
+  "now": "2026-03-24T15:20:51"
 }
