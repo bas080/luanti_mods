@@ -15,7 +15,7 @@
       "zip_url": "https://github.com/bas080/gift_wrapped/archive/refs/heads/master/gift_wrapped.zip",
       "description": "Wrap nodes in gift wrapping and place a ribbon ontop to show you really care.",
       "default_branch": "master",
-      "updated_at": "2026-03-25T21:27:51Z",
+      "updated_at": "2026-03-25T23:46:18Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -1719,5 +1719,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-25T22:57:02Z"
+  "now": "2026-03-25T23:51:19Z"
 }
