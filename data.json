@@ -1,6 +1,59 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "bas080/breasy",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "breasy",
+      "html_url": "https://github.com/bas080/breasy",
+      "issues_url": "https://github.com/bas080/breasy/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
+      "description": "A mod that will tell you what the wind is like at a position.",
+      "default_branch": "master",
+      "updated_at": "2026-03-25T01:53:00Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/luanti_utils",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://bas080.github.io/luanti_utils/",
+      "repo_name": "luanti_utils",
+      "html_url": "https://github.com/bas080/luanti_utils",
+      "issues_url": "https://github.com/bas080/luanti_utils/issues",
+      "open_issues": 2,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
+      "description": "High level Luanti lua modding utilities that will bring your mods to the next level.",
+      "default_branch": "master",
+      "updated_at": "2026-03-25T00:17:06Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "utility-library"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/arena_lib",
       "author": "zughy-friends-minetest",
@@ -28,32 +81,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/breasy",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "breasy",
-      "html_url": "https://github.com/bas080/breasy",
-      "issues_url": "https://github.com/bas080/breasy/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
-      "description": "A mod that will tell you what the wind is like at a position.",
-      "default_branch": "master",
-      "updated_at": "2026-03-24T22:49:44Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -106,33 +133,6 @@
       ],
       "image_raw": "https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/luanti_utils",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "https://bas080.github.io/luanti_utils/",
-      "repo_name": "luanti_utils",
-      "html_url": "https://github.com/bas080/luanti_utils",
-      "issues_url": "https://github.com/bas080/luanti_utils/issues",
-      "open_issues": 2,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
-      "description": "",
-      "default_branch": "master",
-      "updated_at": "2026-03-24T11:42:58Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "utility-library"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1722,5 +1722,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-24T23:47:10"
+  "now": "2026-03-25T03:19:15"
 }
