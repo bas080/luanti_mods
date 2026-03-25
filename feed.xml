@@ -137,24 +137,6 @@
     <pubDate>2026-03-24T21:50:53Z</pubDate>
   </item>
   <item>
-    <title>MariaNewPlayerWelcome (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Luiz-no-Luanti/MariaNewPlayerWelcome</link>
-    <guid>https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome</guid>
-    <author>Luiz-no-Luanti</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/80473006/MNPW.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Luiz-no-Luanti</strong><br>
-      Dê uma boas-vindas aos seus novos membros!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/archive/dev/MariaNewPlayerWelcome.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Luiz-no-Luanti/MariaNewPlayerWelcome/-/raw/dev/screenshot.png" type="image/png" />
-    <pubDate>2026-03-24T18:27:07.432Z</pubDate>
-  </item>
-  <item>
     <title>energy_drinks (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
     <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
@@ -819,6 +801,24 @@
     <media:thumbnail url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-01-28T21:41:17.356Z</pubDate>
+  </item>
+  <item>
+    <title>Soothing 32 (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/soothing-32</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/soothing-32</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/soothing-32/-/archive/master/soothing-32.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-01-14T20:19:49.065Z</pubDate>
   </item>
   <item>
     <title>leads (Codeberg)</title>
