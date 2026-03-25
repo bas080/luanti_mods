@@ -604,17 +604,17 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "bookgirlxoxo/playervault",
-      "author": "bookgirlxoxo",
+      "full_name": "lilacbyte/playervault",
+      "author": "lilacbyte",
       "avatar_url": "https://avatars.githubusercontent.com/u/116229905?v=4",
       "website": "",
       "repo_name": "playervault",
-      "html_url": "https://github.com/bookgirlxoxo/playervault",
-      "issues_url": "https://github.com/bookgirlxoxo/playervault/issues",
+      "html_url": "https://github.com/lilacbyte/playervault",
+      "issues_url": "https://github.com/lilacbyte/playervault/issues",
       "open_issues": 0,
       "stars": 0,
       "forks": 0,
-      "zip_url": "https://github.com/bookgirlxoxo/playervault/archive/refs/heads/main/playervault.zip",
+      "zip_url": "https://github.com/lilacbyte/playervault/archive/refs/heads/main/playervault.zip",
       "description": "virtual playervault mod for luanti servers",
       "default_branch": "main",
       "updated_at": "2026-03-19T20:57:25Z",
@@ -627,8 +627,8 @@
         "luanti-server",
         "minetest"
       ],
-      "image_raw": "https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bookgirlxoxo/playervault/main/README.md",
+      "image_raw": "https://raw.githubusercontent.com/lilacbyte/playervault/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/lilacbyte/playervault/main/README.md",
       "has_stats": false
     },
     {
@@ -771,17 +771,17 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "bookgirlxoxo/plots",
-      "author": "bookgirlxoxo",
+      "full_name": "lilacbyte/plots",
+      "author": "lilacbyte",
       "avatar_url": "https://avatars.githubusercontent.com/u/116229905?v=4",
       "website": "",
       "repo_name": "plots",
-      "html_url": "https://github.com/bookgirlxoxo/plots",
-      "issues_url": "https://github.com/bookgirlxoxo/plots/issues",
+      "html_url": "https://github.com/lilacbyte/plots",
+      "issues_url": "https://github.com/lilacbyte/plots/issues",
       "open_issues": 0,
       "stars": 0,
       "forks": 0,
-      "zip_url": "https://github.com/bookgirlxoxo/plots/archive/refs/heads/main/plots.zip",
+      "zip_url": "https://github.com/lilacbyte/plots/archive/refs/heads/main/plots.zip",
       "description": "a mod for luanti servers insprired by 'plotsquared'",
       "default_branch": "main",
       "updated_at": "2026-03-12T22:49:51Z",
@@ -794,8 +794,8 @@
         "luanti-mod",
         "minetest"
       ],
-      "image_raw": "https://raw.githubusercontent.com/bookgirlxoxo/plots/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bookgirlxoxo/plots/main/README.md",
+      "image_raw": "https://raw.githubusercontent.com/lilacbyte/plots/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/lilacbyte/plots/main/README.md",
       "has_stats": false
     },
     {
@@ -1722,5 +1722,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-25T09:09:05"
+  "now": "2026-03-25T10:10:06"
 }
