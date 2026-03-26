@@ -1,6 +1,62 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "krabNchous/whoopsy-cushion",
+      "author": "krabNchous",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/75547981/wc_main_leather.png",
+      "website": "",
+      "repo_name": "Whoopsy Cushion",
+      "html_url": "https://gitlab.com/krabNchous/whoopsy-cushion",
+      "issues_url": "https://gitlab.com/krabNchous/whoopsy-cushion/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 1,
+      "zip_url": "https://gitlab.com/krabNchous/whoopsy-cushion/-/archive/main/whoopsy-cushion.zip",
+      "readme_url": "https://gitlab.com/krabNchous/whoopsy-cushion/-/raw/main/README.md",
+      "description": "Adds a practical joke device (Whoopee Cushion) for your wild potty humor and hilarious fart jokes in Mineclonia game",
+      "default_branch": "main",
+      "updated_at": "2026-03-26T13:39:36.697Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "game",
+        "lua",
+        "mineclonia",
+        "mod"
+      ],
+      "image_raw": "https://gitlab.com/krabNchous/whoopsy-cushion/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/breasy",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "breasy",
+      "html_url": "https://github.com/bas080/breasy",
+      "issues_url": "https://github.com/bas080/breasy/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
+      "description": "A mod that will tell you what the wind is like at a position.",
+      "default_branch": "master",
+      "updated_at": "2026-03-26T13:21:12Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "bas080/register_timer",
       "author": "bas080",
@@ -24,32 +80,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/register_timer/master/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/breasy",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "breasy",
-      "html_url": "https://github.com/bas080/breasy",
-      "issues_url": "https://github.com/bas080/breasy/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
-      "description": "A mod that will tell you what the wind is like at a position.",
-      "default_branch": "master",
-      "updated_at": "2026-03-26T11:13:15Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
       "has_stats": false
     },
     {
@@ -1257,34 +1287,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/soothing-32",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png",
-      "website": "",
-      "repo_name": "Soothing 32",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/soothing-32",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/issues",
-      "open_issues": 0,
-      "stars": 2,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/archive/master/soothing-32.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/README.md",
-      "description": "Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!",
-      "default_branch": "master",
-      "updated_at": "2026-01-14T20:19:49.065Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "Textures",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "SilverSandstone/leads",
       "author": "SilverSandstone",
@@ -1719,5 +1721,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-26T12:02:29Z"
+  "now": "2026-03-26T13:51:42Z"
 }
