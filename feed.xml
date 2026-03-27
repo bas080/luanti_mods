@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>mtpaint (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/mtpaint</link>
+    <guid>https://github.com/bas080/mtpaint</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Paint like you would in paint, but in 3d.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-27T09:54:46Z</pubDate>
+  </item>
+  <item>
+    <title>vines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/vines</link>
+    <guid>https://github.com/bas080/vines</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-27T09:36:44Z</pubDate>
+  </item>
+  <item>
     <title>small_fall (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/small_fall</link>
     <guid>https://github.com/bas080/small_fall</guid>
@@ -63,24 +99,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-27T00:13:55.028Z</pubDate>
-  </item>
-  <item>
-    <title>vines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/vines</link>
-    <guid>https://github.com/bas080/vines</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-26T20:27:29Z</pubDate>
   </item>
   <item>
     <title>breasy (Github)</title>
@@ -171,24 +189,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-26T00:39:21Z</pubDate>
-  </item>
-  <item>
-    <title>mtpaint (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/mtpaint</link>
-    <guid>https://github.com/bas080/mtpaint</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Paint like you would in paint, but in 3d.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-25T23:59:57Z</pubDate>
   </item>
   <item>
     <title>gift_wrapped (Github)</title>

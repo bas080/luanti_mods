@@ -2,6 +2,59 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "bas080/mtpaint",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=5674",
+      "repo_name": "mtpaint",
+      "html_url": "https://github.com/bas080/mtpaint",
+      "issues_url": "https://github.com/bas080/mtpaint/issues",
+      "open_issues": 3,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip",
+      "description": "Paint like you would in paint, but in 3d.",
+      "default_branch": "master",
+      "updated_at": "2026-03-27T09:54:46Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/mtpaint/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/vines",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "vines",
+      "html_url": "https://github.com/bas080/vines",
+      "issues_url": "https://github.com/bas080/vines/issues",
+      "open_issues": 12,
+      "stars": 9,
+      "forks": 9,
+      "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
+      "description": "Climbable vines, shears to harvest them and a rope box to help you climb.",
+      "default_branch": "master",
+      "updated_at": "2026-03-27T09:36:44Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "vines"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/vines/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/vines/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "bas080/small_fall",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
@@ -78,33 +131,6 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/vines",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "vines",
-      "html_url": "https://github.com/bas080/vines",
-      "issues_url": "https://github.com/bas080/vines/issues",
-      "open_issues": 12,
-      "stars": 9,
-      "forks": 9,
-      "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
-      "description": "Climbable vines, shears to harvest them and a rope box to help you climb.",
-      "default_branch": "master",
-      "updated_at": "2026-03-26T20:27:29Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "vines"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/vines/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/vines/master/README.md",
       "has_stats": true
     },
     {
@@ -242,32 +268,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/mtpaint",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=5674",
-      "repo_name": "mtpaint",
-      "html_url": "https://github.com/bas080/mtpaint",
-      "issues_url": "https://github.com/bas080/mtpaint/issues",
-      "open_issues": 3,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip",
-      "description": "Paint like you would in paint, but in 3d.",
-      "default_branch": "master",
-      "updated_at": "2026-03-25T23:59:57Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/mtpaint/master/README.md",
       "has_stats": true
     },
     {
@@ -1718,5 +1718,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-27T09:08:45Z"
+  "now": "2026-03-27T10:07:39Z"
 }
