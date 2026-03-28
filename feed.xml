@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>wrench (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/wrench</link>
+    <guid>https://github.com/mt-mods/wrench</guid>
+    <author>mt-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      The wrench tool allows you to pick up nodes with inventories or other metadata, such as chests, signs, drawers, machines, etc, and transport them intact to another location.<br>
+      License: Other<br>
+      <a href="https://github.com/mt-mods/wrench/archive/refs/heads/master/wrench.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-28T20:30:57Z</pubDate>
+  </item>
+  <item>
     <title>weapons_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/weapons_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
@@ -675,24 +693,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-02T10:29:26.241Z</pubDate>
-  </item>
-  <item>
-    <title>simple_replace (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#TheSilverStone/simple_replace</link>
-    <guid>https://github.com/TheSilverStone/simple_replace</guid>
-    <author>TheSilverStone</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/178652409?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>TheSilverStone</strong><br>
-      This mod for Luanti allows users to add blocks using the commands &#x2F;fill &#x2F;pos1 &#x2F;pos2 &#x2F;setnode.<br>
-      License: Unknown<br>
-      <a href="https://github.com/TheSilverStone/simple_replace/archive/refs/heads/main/simple_replace.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/TheSilverStone/simple_replace/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/TheSilverStone/simple_replace/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/TheSilverStone/simple_replace/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-02T06:54:00Z</pubDate>
   </item>
   <item>
     <title>ShameGPT (Gitlab)</title>

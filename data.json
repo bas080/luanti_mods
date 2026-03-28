@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/wrench",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "wrench",
+      "html_url": "https://github.com/mt-mods/wrench",
+      "issues_url": "https://github.com/mt-mods/wrench/issues",
+      "open_issues": 5,
+      "stars": 5,
+      "forks": 5,
+      "zip_url": "https://github.com/mt-mods/wrench/archive/refs/heads/master/wrench.zip",
+      "description": "The wrench tool allows you to pick up nodes with inventories or other metadata, such as chests, signs, drawers, machines, etc, and transport them intact to another location.",
+      "default_branch": "master",
+      "updated_at": "2026-03-28T20:30:57Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/wrench/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/weapons_lib",
       "author": "zughy-friends-minetest",
@@ -1050,33 +1079,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "TheSilverStone/simple_replace",
-      "author": "TheSilverStone",
-      "avatar_url": "https://avatars.githubusercontent.com/u/178652409?v=4",
-      "website": "",
-      "repo_name": "simple_replace",
-      "html_url": "https://github.com/TheSilverStone/simple_replace",
-      "issues_url": "https://github.com/TheSilverStone/simple_replace/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/TheSilverStone/simple_replace/archive/refs/heads/main/simple_replace.zip",
-      "description": "This mod for Luanti allows users to add blocks using the commands /fill /pos1 /pos2 /setnode.",
-      "default_branch": "main",
-      "updated_at": "2026-03-02T06:54:00Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/TheSilverStone/simple_replace/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/TheSilverStone/simple_replace/main/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "lichenseed/ShameGPT",
       "author": "lichenseed",
@@ -1718,5 +1720,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-28T19:45:36Z"
+  "now": "2026-03-28T20:49:12Z"
 }
