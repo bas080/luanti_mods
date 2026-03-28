@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-28T15:19:42.094Z</pubDate>
+  </item>
+  <item>
     <title>small_fall (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/small_fall</link>
     <guid>https://github.com/bas080/small_fall</guid>
@@ -27,24 +45,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-28T10:35:25Z</pubDate>
-  </item>
-  <item>
-    <title>MariaWelcome (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Luiz-no-Luanti/MariaWelcome</link>
-    <guid>https://gitlab.com/Luiz-no-Luanti/MariaWelcome</guid>
-    <author>Luiz-no-Luanti</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/80590946/MNPW.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Luiz-no-Luanti</strong><br>
-      Welcome your fellow new server member!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Luiz-no-Luanti/MariaWelcome/-/archive/dev/MariaWelcome.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Luiz-no-Luanti/MariaWelcome/-/raw/dev/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Luiz-no-Luanti/MariaWelcome/-/raw/dev/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Luiz-no-Luanti/MariaWelcome/-/raw/dev/screenshot.png" type="image/png" />
-    <pubDate>2026-03-28T09:53:10.213Z</pubDate>
   </item>
   <item>
     <title>arena_lib (Gitlab)</title>
@@ -135,24 +135,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-27T03:53:07Z</pubDate>
-  </item>
-  <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-27T00:13:55.028Z</pubDate>
   </item>
   <item>
     <title>CraftoPlus (Gitlab)</title>
@@ -819,6 +801,24 @@
     <media:thumbnail url="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-02-01T09:21:46+01:00</pubDate>
+  </item>
+  <item>
+    <title>areas_helper_tools (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#rangeTonic/areas_helper_tools</link>
+    <guid>https://gitlab.com/rangeTonic/areas_helper_tools</guid>
+    <author>rangeTonic</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/2222587/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>rangeTonic</strong><br>
+      Convenience tools for Areas protection mod<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/rangeTonic/areas_helper_tools/-/archive/main/areas_helper_tools.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-01-28T21:41:17.356Z</pubDate>
   </item>
   <item>
     <title>leads (Codeberg)</title>
