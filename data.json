@@ -16,7 +16,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
       "description": "Luanti library working as a core manager for any minigame you have in mind",
       "default_branch": "master",
-      "updated_at": "2026-03-27T20:01:36.158Z",
+      "updated_at": "2026-03-28T00:40:39.598Z",
       "license": {
         "name": "Unknown"
       },
@@ -28,6 +28,32 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Luiz-no-Luanti/MariaWelcome",
+      "author": "Luiz-no-Luanti",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/80590946/MNPW.png",
+      "website": "",
+      "repo_name": "MariaWelcome",
+      "html_url": "https://gitlab.com/Luiz-no-Luanti/MariaWelcome",
+      "issues_url": "https://gitlab.com/Luiz-no-Luanti/MariaWelcome/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Luiz-no-Luanti/MariaWelcome/-/archive/dev/MariaWelcome.zip",
+      "readme_url": "https://gitlab.com/Luiz-no-Luanti/MariaWelcome/-/raw/dev/README.md",
+      "description": "Welcome your fellow new server member!",
+      "default_branch": "dev",
+      "updated_at": "2026-03-27T22:45:58.323Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti"
+      ],
+      "image_raw": "https://gitlab.com/Luiz-no-Luanti/MariaWelcome/-/raw/dev/screenshot.png",
+      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1256,34 +1282,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "rangeTonic/areas_helper_tools",
-      "author": "rangeTonic",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/2222587/avatar.png",
-      "website": "",
-      "repo_name": "areas_helper_tools",
-      "html_url": "https://gitlab.com/rangeTonic/areas_helper_tools",
-      "issues_url": "https://gitlab.com/rangeTonic/areas_helper_tools/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/rangeTonic/areas_helper_tools/-/archive/main/areas_helper_tools.zip",
-      "readme_url": "https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/README.md",
-      "description": "Convenience tools for Areas protection mod",
-      "default_branch": "main",
-      "updated_at": "2026-01-28T21:41:17.356Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "SilverSandstone/leads",
       "author": "SilverSandstone",
@@ -1718,5 +1716,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-27T23:47:04Z"
+  "now": "2026-03-28T03:16:20Z"
 }
