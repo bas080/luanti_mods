@@ -2,6 +2,32 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/worldedge",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?f=11&t=10753",
+      "repo_name": "worldedge",
+      "html_url": "https://github.com/minetest-mods/worldedge",
+      "issues_url": "https://github.com/minetest-mods/worldedge/issues",
+      "open_issues": 0,
+      "stars": 14,
+      "forks": 3,
+      "zip_url": "https://github.com/minetest-mods/worldedge/archive/refs/heads/master/worldedge.zip",
+      "description": "Set world size in Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-03-29T08:04:58Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/worldedge/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/worldedge/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "bas080/breasy",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
@@ -994,34 +1020,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "fancyfinn9/musician",
-      "author": "fancyfinn9",
-      "avatar_url": "https://avatars.githubusercontent.com/u/142792026?v=4",
-      "website": "",
-      "repo_name": "musician",
-      "html_url": "https://github.com/fancyfinn9/musician",
-      "issues_url": "https://github.com/fancyfinn9/musician/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/fancyfinn9/musician/archive/refs/heads/main/musician.zip",
-      "description": "Music mod for Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-03-04T10:53:40Z",
-      "license": {
-        "name": "GNU Affero General Public License v3.0"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "music"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/fancyfinn9/musician/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/fancyfinn9/musician/main/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/warp-portal",
       "author": "Mish7913",
@@ -1720,5 +1718,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-29T07:19:26Z"
+  "now": "2026-03-29T08:59:33Z"
 }
