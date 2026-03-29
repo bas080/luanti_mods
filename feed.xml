@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>breasy (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/breasy</link>
+    <guid>https://github.com/bas080/breasy</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      A mod that will tell you what the wind is like at a position.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" type="image/png" />
+    <pubDate>2026-03-29T01:43:00Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -27,24 +45,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-28T22:47:45.735Z</pubDate>
-  </item>
-  <item>
-    <title>breasy (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/breasy</link>
-    <guid>https://github.com/bas080/breasy</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      A mod that will tell you what the wind is like at a position.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-28T21:06:39Z</pubDate>
   </item>
   <item>
     <title>wrench (Github)</title>

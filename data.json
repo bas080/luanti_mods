@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "bas080/breasy",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "breasy",
+      "html_url": "https://github.com/bas080/breasy",
+      "issues_url": "https://github.com/bas080/breasy/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
+      "description": "A mod that will tell you what the wind is like at a position.",
+      "default_branch": "master",
+      "updated_at": "2026-03-29T01:43:00Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -27,32 +53,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/breasy",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "breasy",
-      "html_url": "https://github.com/bas080/breasy",
-      "issues_url": "https://github.com/bas080/breasy/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
-      "description": "A mod that will tell you what the wind is like at a position.",
-      "default_branch": "master",
-      "updated_at": "2026-03-28T21:06:39Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1720,5 +1720,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-28T23:47:01Z"
+  "now": "2026-03-29T03:35:19Z"
 }
