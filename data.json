@@ -1,6 +1,64 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/energy_drinks",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "",
+      "repo_name": "energy_drinks",
+      "html_url": "https://codeberg.org/Sheriff_U3/energy_drinks",
+      "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
+      "description": "A mod that adds energy drinks to the luanti game engine.",
+      "default_branch": "main",
+      "updated_at": "2026-03-29T17:17:08+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 15,
+      "forks": 14,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-03-29T15:31:11.345Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/worldedge",
       "author": "minetest-mods",
@@ -163,35 +221,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/small_fall/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 15,
-      "forks": 14,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-03-28T00:40:39.598Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -436,35 +465,6 @@
         "lua"
       ],
       "image_raw": "https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/energy_drinks",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "",
-      "repo_name": "energy_drinks",
-      "html_url": "https://codeberg.org/Sheriff_U3/energy_drinks",
-      "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
-      "description": "A mod that adds energy drinks to the luanti game engine.",
-      "default_branch": "main",
-      "updated_at": "2026-03-23T20:33:05+01:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
       "has_stats": false
     },
     {
@@ -1718,5 +1718,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-29T14:53:27Z"
+  "now": "2026-03-29T15:46:57Z"
 }
