@@ -10,13 +10,13 @@
       "html_url": "https://codeberg.org/MatyasP/cobanisters",
       "issues_url": "https://codeberg.org/MatyasP/cobanisters/issues",
       "open_issues": 0,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "zip_url": "https://codeberg.org/MatyasP/cobanisters/archive/refs/heads/main/cobanisters.zip",
       "readme_url": "https://codeberg.org/MatyasP/cobanisters/raw/main/README.md",
       "description": "Colorable banisters - mod for Luanti",
       "default_branch": "main",
-      "updated_at": "2026-03-30T22:11:32+02:00",
+      "updated_at": "2026-03-30T23:31:39+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -26,7 +26,7 @@
         "luanti-mod"
       ],
       "image_raw": "https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png",
-      "has_stats": false
+      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1719,5 +1719,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-30T21:02:26Z"
+  "now": "2026-03-30T21:58:06Z"
 }
