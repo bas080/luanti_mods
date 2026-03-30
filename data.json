@@ -1141,7 +1141,7 @@
       "hosted_on": "Codeberg",
       "full_name": "TPH/events_api",
       "author": "TPH",
-      "avatar_url": "https://codeberg.org/avatars/b00382bec18d30fc46515455e436fbd86785ede60be7efec1fb4853ec325f03d",
+      "avatar_url": "https://codeberg.org/avatars/a63854eb89eb1dab089001b174e601762cc42d3816347e9175f72372af2c80f0",
       "website": "",
       "repo_name": "events_api",
       "html_url": "https://codeberg.org/TPH/events_api",
@@ -1314,7 +1314,7 @@
       "hosted_on": "Codeberg",
       "full_name": "TPH/exile_songs",
       "author": "TPH",
-      "avatar_url": "https://codeberg.org/avatars/b00382bec18d30fc46515455e436fbd86785ede60be7efec1fb4853ec325f03d",
+      "avatar_url": "https://codeberg.org/avatars/a63854eb89eb1dab089001b174e601762cc42d3816347e9175f72372af2c80f0",
       "website": "",
       "repo_name": "exile_songs",
       "html_url": "https://codeberg.org/TPH/exile_songs",
@@ -1718,5 +1718,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-30T14:03:20Z"
+  "now": "2026-03-30T15:41:53Z"
 }
