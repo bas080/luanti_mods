@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>cobanisters (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#MatyasP/cobanisters</link>
+    <guid>https://codeberg.org/MatyasP/cobanisters</guid>
+    <author>MatyasP</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/ad74e342bcdd5c816577777f3bdd1f96db1943f1c6fce00f71aece6d7f60fc6e" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>MatyasP</strong><br>
+      Colorable banisters - mod for Luanti<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/MatyasP/cobanisters/archive/refs/heads/main/cobanisters.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-30T22:11:32+02:00</pubDate>
+  </item>
+  <item>
     <title>energy_drinks (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
     <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
@@ -819,24 +837,6 @@
     <media:thumbnail url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/rangeTonic/areas_helper_tools/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-01-28T21:41:17.356Z</pubDate>
-  </item>
-  <item>
-    <title>leads (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#SilverSandstone/leads</link>
-    <guid>https://codeberg.org/SilverSandstone/leads</guid>
-    <author>SilverSandstone</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>SilverSandstone</strong><br>
-      Adds leads to Luanti for moving and tethering animals.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/SilverSandstone/leads/archive/refs/heads/main/leads.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/SilverSandstone/leads/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/SilverSandstone/leads/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/SilverSandstone/leads/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2025-12-31T11:10:40+01:00</pubDate>
   </item>
   <item>
     <title>exile_songs (Codeberg)</title>
