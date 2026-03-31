@@ -15,7 +15,7 @@
       "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
       "description": "High level Luanti lua modding utilities that will bring your mods to the next level.",
       "default_branch": "master",
-      "updated_at": "2026-03-31T15:24:39Z",
+      "updated_at": "2026-03-31T15:48:06Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -1719,5 +1719,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-03-31T15:36:19Z"
+  "now": "2026-03-31T17:14:24Z"
 }
