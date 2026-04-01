@@ -11,6 +11,78 @@
   </image>
 
   <item>
+    <title>breasy_particles (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/breasy_particles</link>
+    <guid>https://github.com/bas080/breasy_particles</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      <br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/breasy_particles/archive/refs/heads/master/breasy_particles.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-01T09:16:35Z</pubDate>
+  </item>
+  <item>
+    <title>breasy_player (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/breasy_player</link>
+    <guid>https://github.com/bas080/breasy_player</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      <br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/breasy_player/archive/refs/heads/master/breasy_player.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-01T09:12:50Z</pubDate>
+  </item>
+  <item>
+    <title>breasy (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/breasy</link>
+    <guid>https://github.com/bas080/breasy</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      A mod that will tell you what the wind is like at a position.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-01T08:17:19Z</pubDate>
+  </item>
+  <item>
+    <title>at (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/at</link>
+    <guid>https://github.com/bas080/at</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      jQuery like wrapper for position&#x2F;vector<br>
+      License: Unknown<br>
+      <a href="https://github.com/bas080/at/archive/refs/heads/master/at.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-01T07:58:36Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -171,24 +243,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/worldedge/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/worldedge/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-29T08:04:58Z</pubDate>
-  </item>
-  <item>
-    <title>breasy (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/breasy</link>
-    <guid>https://github.com/bas080/breasy</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      A mod that will tell you what the wind is like at a position.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-29T01:43:00Z</pubDate>
   </item>
   <item>
     <title>wrench (Github)</title>
@@ -425,24 +479,6 @@
     <pubDate>2026-03-22T23:25:06Z</pubDate>
   </item>
   <item>
-    <title>at (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/at</link>
-    <guid>https://github.com/bas080/at</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      jQuery like wrapper for position&#x2F;vector<br>
-      License: Unknown<br>
-      <a href="https://github.com/bas080/at/archive/refs/heads/master/at.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-22T14:57:27Z</pubDate>
-  </item>
-  <item>
     <title>fluid_lib (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#LunaSquee/fluid_lib</link>
     <guid>https://github.com/LunaSquee/fluid_lib</guid>
@@ -551,24 +587,6 @@
     <pubDate>2026-03-20T03:13:51Z</pubDate>
   </item>
   <item>
-    <title>playervault (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#lilacbyte/playervault</link>
-    <guid>https://github.com/lilacbyte/playervault</guid>
-    <author>lilacbyte</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/116229905?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>lilacbyte</strong><br>
-      virtual playervault mod for luanti servers<br>
-      License: MIT License<br>
-      <a href="https://github.com/lilacbyte/playervault/archive/refs/heads/main/playervault.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/lilacbyte/playervault/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/lilacbyte/playervault/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/lilacbyte/playervault/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-19T20:57:25Z</pubDate>
-  </item>
-  <item>
     <title>trudged (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/trudged</link>
     <guid>https://github.com/bas080/trudged</guid>
@@ -603,24 +621,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-15T00:45:29.527Z</pubDate>
-  </item>
-  <item>
-    <title>plots (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#lilacbyte/plots</link>
-    <guid>https://github.com/lilacbyte/plots</guid>
-    <author>lilacbyte</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/116229905?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>lilacbyte</strong><br>
-      a mod for luanti servers insprired by &#39;plotsquared&#39;<br>
-      License: MIT License<br>
-      <a href="https://github.com/lilacbyte/plots/archive/refs/heads/main/plots.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/lilacbyte/plots/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/lilacbyte/plots/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/lilacbyte/plots/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-12T22:49:51Z</pubDate>
   </item>
   <item>
     <title>Whitelist (Gitlab)</title>
