@@ -11,22 +11,22 @@
   </image>
 
   <item>
-    <title>breasy_particles (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/breasy_particles</link>
-    <guid>https://github.com/bas080/breasy_particles</guid>
+    <title>luanti_utils (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/luanti_utils</link>
+    <guid>https://github.com/bas080/luanti_utils</guid>
     <author>bas080</author>
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
-      <br>
+      High level Luanti lua modding utilities that will bring your mods to the next level.<br>
       License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/breasy_particles/archive/refs/heads/master/breasy_particles.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-01T09:16:35Z</pubDate>
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-01T09:57:05Z</pubDate>
   </item>
   <item>
     <title>breasy_player (Github)</title>
@@ -36,7 +36,7 @@
     <description><![CDATA[
       <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>bas080</strong><br>
-      <br>
+      Breasy player adds wind physics to the player.<br>
       License: GNU Lesser General Public License v2.1<br>
       <a href="https://github.com/bas080/breasy_player/archive/refs/heads/master/breasy_player.zip">Download ZIP</a><br>
       <img src="https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
@@ -44,7 +44,25 @@
 
     <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-01T09:12:50Z</pubDate>
+    <pubDate>2026-04-01T09:46:07Z</pubDate>
+  </item>
+  <item>
+    <title>breasy_particles (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/breasy_particles</link>
+    <guid>https://github.com/bas080/breasy_particles</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Creates the effect of blizzards, sandstorms and leaves being ripped from trees.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/breasy_particles/archive/refs/heads/master/breasy_particles.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-01T09:45:58Z</pubDate>
   </item>
   <item>
     <title>breasy (Github)</title>
@@ -99,24 +117,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-31T19:52:25.757Z</pubDate>
-  </item>
-  <item>
-    <title>luanti_utils (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/luanti_utils</link>
-    <guid>https://github.com/bas080/luanti_utils</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      High level Luanti lua modding utilities that will bring your mods to the next level.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-31T15:48:06Z</pubDate>
   </item>
   <item>
     <title>Collectible skins (Gitlab)</title>

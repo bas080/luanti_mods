@@ -2,29 +2,30 @@
   "items": [
     {
       "hosted_on": "Github",
-      "full_name": "bas080/breasy_particles",
+      "full_name": "bas080/luanti_utils",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "breasy_particles",
-      "html_url": "https://github.com/bas080/breasy_particles",
-      "issues_url": "https://github.com/bas080/breasy_particles/issues",
-      "open_issues": 0,
-      "stars": 0,
+      "website": "https://bas080.github.io/luanti_utils/",
+      "repo_name": "luanti_utils",
+      "html_url": "https://github.com/bas080/luanti_utils",
+      "issues_url": "https://github.com/bas080/luanti_utils/issues",
+      "open_issues": 2,
+      "stars": 1,
       "forks": 0,
-      "zip_url": "https://github.com/bas080/breasy_particles/archive/refs/heads/master/breasy_particles.zip",
-      "description": "",
+      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
+      "description": "High level Luanti lua modding utilities that will bring your mods to the next level.",
       "default_branch": "master",
-      "updated_at": "2026-04-01T09:16:35Z",
+      "updated_at": "2026-04-01T09:57:05Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
       "topics": [
-        "luanti-mod"
+        "luanti-mod",
+        "utility-library"
       ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/breasy_particles/master/README.md",
-      "has_stats": false
+      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
+      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -39,9 +40,9 @@
       "stars": 0,
       "forks": 0,
       "zip_url": "https://github.com/bas080/breasy_player/archive/refs/heads/master/breasy_player.zip",
-      "description": "",
+      "description": "Breasy player adds wind physics to the player.",
       "default_branch": "master",
-      "updated_at": "2026-04-01T09:12:50Z",
+      "updated_at": "2026-04-01T09:46:07Z",
       "license": {
         "name": "GNU Lesser General Public License v2.1"
       },
@@ -50,6 +51,32 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/breasy_player/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/breasy_particles",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "breasy_particles",
+      "html_url": "https://github.com/bas080/breasy_particles",
+      "issues_url": "https://github.com/bas080/breasy_particles/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/breasy_particles/archive/refs/heads/master/breasy_particles.zip",
+      "description": "Creates the effect of blizzards, sandstorms and leaves being ripped from trees.",
+      "default_branch": "master",
+      "updated_at": "2026-04-01T09:45:58Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/breasy_particles/master/README.md",
       "has_stats": false
     },
     {
@@ -130,33 +157,6 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/luanti_utils",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "https://bas080.github.io/luanti_utils/",
-      "repo_name": "luanti_utils",
-      "html_url": "https://github.com/bas080/luanti_utils",
-      "issues_url": "https://github.com/bas080/luanti_utils/issues",
-      "open_issues": 2,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
-      "description": "High level Luanti lua modding utilities that will bring your mods to the next level.",
-      "default_branch": "master",
-      "updated_at": "2026-03-31T15:48:06Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "utility-library"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
       "has_stats": true
     },
     {
@@ -1713,5 +1713,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-01T09:36:05Z"
+  "now": "2026-04-01T11:13:50Z"
 }
