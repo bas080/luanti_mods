@@ -47,6 +47,42 @@
     <pubDate>2026-04-02T21:33:30+02:00</pubDate>
   </item>
   <item>
+    <title>CraftoPlus (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Mish7913/craftoplus</link>
+    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
+    <author>Mish7913</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-02T21:26:36.428Z</pubDate>
+  </item>
+  <item>
+    <title>m7a (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Mish7913/m7a</link>
+    <guid>https://gitlab.com/Mish7913/m7a</guid>
+    <author>Mish7913</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      API for Lianti Game<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-02T21:15:32.451Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -389,24 +425,6 @@
     <pubDate>2026-03-27T03:53:07Z</pubDate>
   </item>
   <item>
-    <title>CraftoPlus (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Mish7913/craftoplus</link>
-    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
-    <author>Mish7913</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      Mod for Luanti games.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-26T17:45:56.203Z</pubDate>
-  </item>
-  <item>
     <title>Whoopsy Cushion (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#krabNchous/whoopsy-cushion</link>
     <guid>https://gitlab.com/krabNchous/whoopsy-cushion</guid>
@@ -459,24 +477,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/bas080/gift_wrapped/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/gift_wrapped/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-25T23:46:18Z</pubDate>
-  </item>
-  <item>
-    <title>m7a (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Mish7913/m7a</link>
-    <guid>https://gitlab.com/Mish7913/m7a</guid>
-    <author>Mish7913</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      API for Lianti Game<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-25T13:58:59.845Z</pubDate>
   </item>
   <item>
     <title>corruptionmt (Github)</title>
