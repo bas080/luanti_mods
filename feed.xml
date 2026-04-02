@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>cobanisters (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#MatyasP/cobanisters</link>
+    <guid>https://codeberg.org/MatyasP/cobanisters</guid>
+    <author>MatyasP</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/ad74e342bcdd5c816577777f3bdd1f96db1943f1c6fce00f71aece6d7f60fc6e" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>MatyasP</strong><br>
+      Colorable banisters - mod for Luanti<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/MatyasP/cobanisters/archive/refs/heads/main/cobanisters.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-03T01:49:02+02:00</pubDate>
+  </item>
+  <item>
     <title>farmtools (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#camelia/farmtools</link>
     <guid>https://codeberg.org/camelia/farmtools</guid>
@@ -27,24 +45,6 @@
     <media:thumbnail url="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-04-02T22:23:32+02:00</pubDate>
-  </item>
-  <item>
-    <title>cobanisters (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#MatyasP/cobanisters</link>
-    <guid>https://codeberg.org/MatyasP/cobanisters</guid>
-    <author>MatyasP</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/ad74e342bcdd5c816577777f3bdd1f96db1943f1c6fce00f71aece6d7f60fc6e" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>MatyasP</strong><br>
-      Colorable banisters - mod for Luanti<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/MatyasP/cobanisters/archive/refs/heads/main/cobanisters.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-04-02T21:33:30+02:00</pubDate>
   </item>
   <item>
     <title>CraftoPlus (Gitlab)</title>
