@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/drawers",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "",
+      "repo_name": "drawers",
+      "html_url": "https://github.com/minetest-mods/drawers",
+      "issues_url": "https://github.com/minetest-mods/drawers/issues",
+      "open_issues": 21,
+      "stars": 20,
+      "forks": 28,
+      "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
+      "description": "[MTG/MCL2] A Luanti/Minetest Mod adding storage drawers in different sizes and wood types.",
+      "default_branch": "master",
+      "updated_at": "2026-04-03T13:22:55Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "i18n",
+        "intllib",
+        "luanti-mod",
+        "mineclone",
+        "mineclone2",
+        "minetest",
+        "minetest-mod",
+        "mod",
+        "pipeworks",
+        "screwdriver",
+        "storage"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/drawers/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -818,35 +854,6 @@
       "image_raw": "https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Rainy428/edu_bricks",
-      "author": "Rainy428",
-      "avatar_url": "https://avatars.githubusercontent.com/u/268611124?v=4",
-      "website": "",
-      "repo_name": "edu_bricks",
-      "html_url": "https://github.com/Rainy428/edu_bricks",
-      "issues_url": "https://github.com/Rainy428/edu_bricks/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Rainy428/edu_bricks/archive/refs/heads/main/edu_bricks.zip",
-      "description": "Protected nodes for classroom use in Luanti (bricks, signs, torches)",
-      "default_branch": "main",
-      "updated_at": "2026-03-22T09:34:48Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "education",
-        "luanti",
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Rainy428/edu_bricks/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Rainy428/edu_bricks/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1713,5 +1720,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-03T11:53:42Z"
+  "now": "2026-04-03T13:38:14Z"
 }
