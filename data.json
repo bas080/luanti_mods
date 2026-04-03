@@ -16,7 +16,7 @@
       "readme_url": "https://codeberg.org/MatyasP/cobanisters/raw/main/README.md",
       "description": "Colorable banisters - mod for Luanti",
       "default_branch": "main",
-      "updated_at": "2026-04-03T01:49:02+02:00",
+      "updated_at": "2026-04-03T02:13:54+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -1713,5 +1713,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-02T23:51:00Z"
+  "now": "2026-04-03T03:28:35Z"
 }
