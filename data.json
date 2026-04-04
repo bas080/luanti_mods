@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/circuits",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "https://codeberg.org/Sheriff_U3/circuits/wiki",
+      "repo_name": "circuits",
+      "html_url": "https://codeberg.org/Sheriff_U3/circuits",
+      "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
+      "description": "A circuitry mod for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-04T21:57:30+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-modpack",
+        "minetest",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/breasy",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "breasy",
+      "html_url": "https://github.com/bas080/breasy",
+      "issues_url": "https://github.com/bas080/breasy/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
+      "description": "A mod that will tell you what the wind is like at a position.",
+      "default_branch": "master",
+      "updated_at": "2026-04-04T20:15:08Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "sfan5/luanti-developerconsole",
       "author": "sfan5",
@@ -393,32 +448,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/breasy_particles/master/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/breasy",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "breasy",
-      "html_url": "https://github.com/bas080/breasy",
-      "issues_url": "https://github.com/bas080/breasy/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
-      "description": "A mod that will tell you what the wind is like at a position.",
-      "default_branch": "master",
-      "updated_at": "2026-04-01T08:17:19Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
       "has_stats": false
     },
     {
@@ -965,35 +994,6 @@
         "nature"
       ],
       "image_raw": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/circuits",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "https://codeberg.org/Sheriff_U3/circuits/wiki",
-      "repo_name": "circuits",
-      "html_url": "https://codeberg.org/Sheriff_U3/circuits",
-      "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
-      "description": "A circuitry mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-03-21T17:07:23+01:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti",
-        "luanti-modpack",
-        "minetest",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
       "has_stats": false
     },
     {
@@ -1721,5 +1721,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-04T19:46:19Z"
+  "now": "2026-04-04T20:50:09Z"
 }
