@@ -26,7 +26,25 @@
 
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-04T14:52:37.005Z</pubDate>
+    <pubDate>2026-04-04T16:42:56.483Z</pubDate>
+  </item>
+  <item>
+    <title>luanti-developerconsole (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#sfan5/luanti-developerconsole</link>
+    <guid>https://github.com/sfan5/luanti-developerconsole</guid>
+    <author>sfan5</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1042418?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>sfan5</strong><br>
+      Web-based REPL for Luanti<br>
+      License: Unknown<br>
+      <a href="https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-04T16:31:50Z</pubDate>
   </item>
   <item>
     <title>nether (Github)</title>
@@ -621,24 +639,6 @@
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T17:07:23+01:00</pubDate>
-  </item>
-  <item>
-    <title>luanti_check (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/luanti_check</link>
-    <guid>https://github.com/bas080/luanti_check</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      In world generative testing for Luanti.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/luanti_check/archive/refs/heads/master/luanti_check.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/luanti_check/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_check/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_check/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-20T03:13:51Z</pubDate>
   </item>
   <item>
     <title>Magic Compass (Gitlab)</title>
