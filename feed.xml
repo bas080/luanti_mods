@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>country_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/country_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      small util library for Luanti, providing country localised names and flags<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-05T17:57:30.176Z</pubDate>
+  </item>
+  <item>
+    <title>luanti-developerconsole (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#sfan5/luanti-developerconsole</link>
+    <guid>https://github.com/sfan5/luanti-developerconsole</guid>
+    <author>sfan5</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1042418?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>sfan5</strong><br>
+      Web-based REPL for Luanti<br>
+      License: Unknown<br>
+      <a href="https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-05T17:55:21Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -81,24 +117,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
     <pubDate>2026-04-05T12:28:16Z</pubDate>
-  </item>
-  <item>
-    <title>luanti-developerconsole (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#sfan5/luanti-developerconsole</link>
-    <guid>https://github.com/sfan5/luanti-developerconsole</guid>
-    <author>sfan5</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1042418?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>sfan5</strong><br>
-      Web-based REPL for Luanti<br>
-      License: Unknown<br>
-      <a href="https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-05T10:19:26Z</pubDate>
   </item>
   <item>
     <title>circuits (Codeberg)</title>
@@ -711,24 +729,6 @@
     <media:thumbnail url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-02T11:15:14.285Z</pubDate>
-  </item>
-  <item>
-    <title>country_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/country_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      small util library for Luanti, providing country localised names and flags<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-02T10:29:26.241Z</pubDate>
   </item>
   <item>
     <title>ShameGPT (Gitlab)</title>
