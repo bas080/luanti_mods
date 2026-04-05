@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>luanti_utils (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/luanti_utils</link>
+    <guid>https://github.com/bas080/luanti_utils</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      High level Luanti lua modding utilities that will bring your mods to the next level.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-05T12:28:16Z</pubDate>
+  </item>
+  <item>
+    <title>little_lake (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/little_lake</link>
+    <guid>https://github.com/bas080/little_lake</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Simple mod that spawns little lakes in caves near the surface and on mountains.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-05T12:16:51Z</pubDate>
+  </item>
+  <item>
     <title>luanti-developerconsole (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#sfan5/luanti-developerconsole</link>
     <guid>https://github.com/sfan5/luanti-developerconsole</guid>
@@ -245,24 +281,6 @@
     <pubDate>2026-04-01T13:30:43Z</pubDate>
   </item>
   <item>
-    <title>luanti_utils (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/luanti_utils</link>
-    <guid>https://github.com/bas080/luanti_utils</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      High level Luanti lua modding utilities that will bring your mods to the next level.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-01T12:33:10Z</pubDate>
-  </item>
-  <item>
     <title>breasy_player (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/breasy_player</link>
     <guid>https://github.com/bas080/breasy_player</guid>
@@ -477,24 +495,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-27T09:54:46Z</pubDate>
-  </item>
-  <item>
-    <title>little_lake (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/little_lake</link>
-    <guid>https://github.com/bas080/little_lake</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Simple mod that spawns little lakes in caves near the surface and on mountains.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-27T03:53:07Z</pubDate>
   </item>
   <item>
     <title>Whoopsy Cushion (Gitlab)</title>
