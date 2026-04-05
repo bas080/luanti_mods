@@ -2,6 +2,58 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "bas080/little_lake",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "little_lake",
+      "html_url": "https://github.com/bas080/little_lake",
+      "issues_url": "https://github.com/bas080/little_lake/issues",
+      "open_issues": 2,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip",
+      "description": "Simple mod that spawns little lakes in caves near the surface and on mountains.",
+      "default_branch": "master",
+      "updated_at": "2026-04-05T14:48:30Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/little_lake/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/small_fall",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "small_fall",
+      "html_url": "https://github.com/bas080/small_fall",
+      "issues_url": "https://github.com/bas080/small_fall/issues",
+      "open_issues": 3,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/small_fall/archive/refs/heads/master/small_fall.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-04-05T14:47:06Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/small_fall/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "bas080/luanti_utils",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
@@ -25,32 +77,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/little_lake",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "little_lake",
-      "html_url": "https://github.com/bas080/little_lake",
-      "issues_url": "https://github.com/bas080/little_lake/issues",
-      "open_issues": 2,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip",
-      "description": "Simple mod that spawns little lakes in caves near the surface and on mountains.",
-      "default_branch": "master",
-      "updated_at": "2026-04-05T12:16:51Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/little_lake/master/README.md",
       "has_stats": true
     },
     {
@@ -700,32 +726,6 @@
         "weapons"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/small_fall",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "small_fall",
-      "html_url": "https://github.com/bas080/small_fall",
-      "issues_url": "https://github.com/bas080/small_fall/issues",
-      "open_issues": 3,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/small_fall/archive/refs/heads/master/small_fall.zip",
-      "description": "",
-      "default_branch": "master",
-      "updated_at": "2026-03-28T10:35:25Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/small_fall/master/README.md",
       "has_stats": true
     },
     {
@@ -1721,5 +1721,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-05T13:30:44Z"
+  "now": "2026-04-05T14:54:33Z"
 }

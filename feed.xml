@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>little_lake (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/little_lake</link>
+    <guid>https://github.com/bas080/little_lake</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Simple mod that spawns little lakes in caves near the surface and on mountains.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-05T14:48:30Z</pubDate>
+  </item>
+  <item>
+    <title>small_fall (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/small_fall</link>
+    <guid>https://github.com/bas080/small_fall</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      <br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/small_fall/archive/refs/heads/master/small_fall.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-05T14:47:06Z</pubDate>
+  </item>
+  <item>
     <title>luanti_utils (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/luanti_utils</link>
     <guid>https://github.com/bas080/luanti_utils</guid>
@@ -27,24 +63,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
     <pubDate>2026-04-05T12:28:16Z</pubDate>
-  </item>
-  <item>
-    <title>little_lake (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/little_lake</link>
-    <guid>https://github.com/bas080/little_lake</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Simple mod that spawns little lakes in caves near the surface and on mountains.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-05T12:16:51Z</pubDate>
   </item>
   <item>
     <title>luanti-developerconsole (Github)</title>
@@ -459,24 +477,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-28T16:09:22.230Z</pubDate>
-  </item>
-  <item>
-    <title>small_fall (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/small_fall</link>
-    <guid>https://github.com/bas080/small_fall</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      <br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/small_fall/archive/refs/heads/master/small_fall.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-28T10:35:25Z</pubDate>
   </item>
   <item>
     <title>mtpaint (Github)</title>
