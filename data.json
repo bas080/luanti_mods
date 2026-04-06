@@ -2,6 +2,33 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "sfan5/luanti-developerconsole",
+      "author": "sfan5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1042418?v=4",
+      "website": "",
+      "repo_name": "luanti-developerconsole",
+      "html_url": "https://github.com/sfan5/luanti-developerconsole",
+      "issues_url": "https://github.com/sfan5/luanti-developerconsole/issues",
+      "open_issues": 0,
+      "stars": 2,
+      "forks": 0,
+      "zip_url": "https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip",
+      "description": "Web-based REPL for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-06T15:50:24Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "bas080/vines",
       "author": "bas080",
       "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
@@ -51,33 +78,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/little_lake/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "sfan5/luanti-developerconsole",
-      "author": "sfan5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1042418?v=4",
-      "website": "",
-      "repo_name": "luanti-developerconsole",
-      "html_url": "https://github.com/sfan5/luanti-developerconsole",
-      "issues_url": "https://github.com/sfan5/luanti-developerconsole/issues",
-      "open_issues": 0,
-      "stars": 2,
-      "forks": 0,
-      "zip_url": "https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip",
-      "description": "Web-based REPL for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-04-06T06:19:22Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
       "has_stats": true
     },
     {
@@ -1726,5 +1726,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-06T15:06:54Z"
+  "now": "2026-04-06T16:01:39Z"
 }
