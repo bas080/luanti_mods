@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>coins (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#kmdev/coins</link>
+    <guid>https://codeberg.org/kmdev/coins</guid>
+    <author>kmdev</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>kmdev</strong><br>
+      A mod for Luanti that adds coins in to the game<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/kmdev/coins/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/kmdev/coins/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/kmdev/coins/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-06T18:20:54+02:00</pubDate>
+  </item>
+  <item>
+    <title>digital_storage (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#kmdev/digital_storage</link>
+    <guid>https://codeberg.org/kmdev/digital_storage</guid>
+    <author>kmdev</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>kmdev</strong><br>
+      A Luanti mod that brings Digital Storage to the game. Inspired by Refined Storage<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/kmdev/digital_storage/archive/refs/heads/main/digital_storage.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/kmdev/digital_storage/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/kmdev/digital_storage/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/kmdev/digital_storage/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-06T18:20:23+02:00</pubDate>
+  </item>
+  <item>
     <title>luanti-developerconsole (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#sfan5/luanti-developerconsole</link>
     <guid>https://github.com/sfan5/luanti-developerconsole</guid>
@@ -26,7 +62,7 @@
 
     <media:thumbnail url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-06T15:50:24Z</pubDate>
+    <pubDate>2026-04-06T16:05:18Z</pubDate>
   </item>
   <item>
     <title>vines (Github)</title>
@@ -893,25 +929,6 @@
     <pubDate>2025-12-15T07:02:28+01:00</pubDate>
   </item>
   <item>
-    <title>itemstore_api (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#perfect_city_game_studio/itemstore_api</link>
-    <guid>https://codeberg.org/perfect_city_game_studio/itemstore_api</guid>
-    <author>perfect_city_game_studio</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/9c29d92d303c69fab4ccbe6941c29a6438683754cb8a98cbe674ced7b1e770d5" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>perfect_city_game_studio</strong><br>
-      Itemstore API is a Luanti mod that exposes an API that allows placing
-items as entities in a node-dependent fashion.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/perfect_city_game_studio/itemstore_api/archive/refs/heads/master/itemstore_api.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/perfect_city_game_studio/itemstore_api/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/perfect_city_game_studio/itemstore_api/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/perfect_city_game_studio/itemstore_api/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2025-11-09T03:33:48+01:00</pubDate>
-  </item>
-  <item>
     <title>ejection (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#yof/ejection</link>
     <guid>https://codeberg.org/yof/ejection</guid>
@@ -1037,24 +1054,6 @@ registered nodes.<br>
     <media:thumbnail url="https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png" type="image/png" />
     <pubDate>2025-03-18T19:28:17+01:00</pubDate>
-  </item>
-  <item>
-    <title>growdrygrass (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#SilverSandstone/growdrygrass</link>
-    <guid>https://codeberg.org/SilverSandstone/growdrygrass</guid>
-    <author>SilverSandstone</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>SilverSandstone</strong><br>
-      Makes dry grass spread on savanna dirt in Luanti.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/SilverSandstone/growdrygrass/archive/refs/heads/main/growdrygrass.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/SilverSandstone/growdrygrass/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/SilverSandstone/growdrygrass/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/SilverSandstone/growdrygrass/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2024-11-28T15:02:09+01:00</pubDate>
   </item>
   <item>
     <title>blockhead (Codeberg)</title>
