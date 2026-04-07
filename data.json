@@ -1180,7 +1180,7 @@
       "issues_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/issues",
       "open_issues": 0,
       "stars": 0,
-      "forks": 4,
+      "forks": 3,
       "zip_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/archive/master/whitelist.zip",
       "readme_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/README.md",
       "description": "Filter who can enter a Luanti server and who can't through a whitelist",
@@ -1721,5 +1721,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-07T11:14:44Z"
+  "now": "2026-04-07T14:01:24Z"
 }
