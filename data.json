@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "bas080/place_names",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "place_names",
+      "html_url": "https://github.com/bas080/place_names",
+      "issues_url": "https://github.com/bas080/place_names/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip",
+      "description": "Luanti Mod that adds command to create, edit place names that are visible on player hud.",
+      "default_branch": "master",
+      "updated_at": "2026-04-09T17:20:24Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/place_names/master/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/panel_lib",
       "author": "zughy-friends-minetest",
@@ -1085,35 +1111,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "Rainy428/reset_stage",
-      "author": "Rainy428",
-      "avatar_url": "https://avatars.githubusercontent.com/u/268611124?v=4",
-      "website": "",
-      "repo_name": "reset_stage",
-      "html_url": "https://github.com/Rainy428/reset_stage",
-      "issues_url": "https://github.com/Rainy428/reset_stage/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Rainy428/reset_stage/archive/refs/heads/main/reset_stage.zip",
-      "description": "Simple area reset mod for Luanti. Save a region with markers and restore it instantly.",
-      "default_branch": "main",
-      "updated_at": "2026-03-22T09:34:24Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "education",
-        "luanti",
-        "luanti-mod",
-        "minetest"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Rainy428/reset_stage/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Rainy428/reset_stage/main/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/natural_habitat",
       "author": "Mish7913",
@@ -1721,5 +1718,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-09T16:43:06Z"
+  "now": "2026-04-09T18:10:48Z"
 }
