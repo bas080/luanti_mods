@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "bas080/place_names",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "place_names",
+      "html_url": "https://github.com/bas080/place_names",
+      "issues_url": "https://github.com/bas080/place_names/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip",
+      "description": "Luanti Mod that adds command to create, edit place names that are visible on player hud.",
+      "default_branch": "master",
+      "updated_at": "2026-04-09T22:56:05Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/place_names/master/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/arena_lib",
       "author": "zughy-friends-minetest",
@@ -28,32 +54,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/place_names",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "place_names",
-      "html_url": "https://github.com/bas080/place_names",
-      "issues_url": "https://github.com/bas080/place_names/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip",
-      "description": "Luanti Mod that adds command to create, edit place names that are visible on player hud.",
-      "default_branch": "master",
-      "updated_at": "2026-04-09T17:20:24Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/place_names/master/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1718,5 +1718,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-09T21:58:09Z"
+  "now": "2026-04-09T23:01:23Z"
 }
