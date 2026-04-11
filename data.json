@@ -9,7 +9,7 @@
       "repo_name": "place_names",
       "html_url": "https://github.com/bas080/place_names",
       "issues_url": "https://github.com/bas080/place_names/issues",
-      "open_issues": 0,
+      "open_issues": 2,
       "stars": 0,
       "forks": 0,
       "zip_url": "https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip",
@@ -24,7 +24,7 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/place_names/master/README.md",
-      "has_stats": false
+      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1718,5 +1718,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-11T19:05:10Z"
+  "now": "2026-04-11T19:49:57Z"
 }
