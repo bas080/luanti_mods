@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>balls (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/balls</link>
+    <guid>https://codeberg.org/Sheriff_U3/balls</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A Luanti mod that adds balls<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-12T05:07:22+02:00</pubDate>
+  </item>
+  <item>
+    <title>energy_drinks (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
+    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A mod that adds energy drinks to the luanti game engine.<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-12T03:44:24+02:00</pubDate>
+  </item>
+  <item>
     <title>place_names (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/place_names</link>
     <guid>https://github.com/bas080/place_names</guid>
@@ -63,24 +99,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-04-07T09:32:54.601Z</pubDate>
-  </item>
-  <item>
-    <title>energy_drinks (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
-    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A mod that adds energy drinks to the luanti game engine.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-04-06T22:57:34+02:00</pubDate>
   </item>
   <item>
     <title>luanti-developerconsole (Github)</title>
@@ -1017,25 +1035,6 @@
     <media:thumbnail url="https://codeberg.org/Codiac/copper_pipes/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Codiac/copper_pipes/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-07-17T03:37:15+02:00</pubDate>
-  </item>
-  <item>
-    <title>flamegraph_register_node (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Desour/flamegraph_register_node</link>
-    <guid>https://codeberg.org/Desour/flamegraph_register_node</guid>
-    <author>Desour</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/70e9f49ac0763f676f0520c7156faefec7db7bf97bd7deb01175711245c3be28" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Desour</strong><br>
-      Luanti mod that should help users that are hitting the upper limit on number of
-registered nodes.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Desour/flamegraph_register_node/archive/refs/heads/master/flamegraph_register_node.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Desour/flamegraph_register_node/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Desour/flamegraph_register_node/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Desour/flamegraph_register_node/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2025-07-06T20:45:36+02:00</pubDate>
   </item>
   <item>
     <title>epoxied_concrete (Codeberg)</title>
