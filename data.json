@@ -15,7 +15,7 @@
       "zip_url": "https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip",
       "description": "Web-based REPL for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-04-12T15:17:51Z",
+      "updated_at": "2026-04-12T18:36:59Z",
       "license": {
         "name": "Unknown"
       },
@@ -1720,5 +1720,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-12T17:52:23Z"
+  "now": "2026-04-12T19:08:48Z"
 }
