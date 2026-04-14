@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>circuits (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/circuits</link>
+    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A circuitry mod for Luanti<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-14T23:57:32+02:00</pubDate>
+  </item>
+  <item>
     <title>luanti-developerconsole (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#sfan5/luanti-developerconsole</link>
     <guid>https://github.com/sfan5/luanti-developerconsole</guid>
@@ -153,24 +171,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-04-14T07:20:23.700Z</pubDate>
-  </item>
-  <item>
-    <title>circuits (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/circuits</link>
-    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A circuitry mod for Luanti<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-14T05:12:57+02:00</pubDate>
   </item>
   <item>
     <title>Block League (Gitlab)</title>
