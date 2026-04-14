@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/circuits",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "https://codeberg.org/Sheriff_U3/circuits/wiki",
+      "repo_name": "circuits",
+      "html_url": "https://codeberg.org/Sheriff_U3/circuits",
+      "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
+      "description": "A circuitry mod for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-14T05:12:57+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-modpack",
+        "minetest",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -335,36 +365,6 @@
       "image_raw": "https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/little_lake/master/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/circuits",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "https://codeberg.org/Sheriff_U3/circuits/wiki",
-      "repo_name": "circuits",
-      "html_url": "https://codeberg.org/Sheriff_U3/circuits",
-      "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
-      "description": "A circuitry mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-04-06T05:49:36+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-modpack",
-        "minetest",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1720,5 +1720,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-13T23:59:43Z"
+  "now": "2026-04-14T03:42:39Z"
 }
