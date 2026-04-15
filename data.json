@@ -2,6 +2,37 @@
   "items": [
     {
       "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/balls",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "",
+      "repo_name": "balls",
+      "html_url": "https://codeberg.org/Sheriff_U3/balls",
+      "issues_url": "https://codeberg.org/Sheriff_U3/balls/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/balls/raw/master/README.md",
+      "description": "A Luanti mod that adds balls",
+      "default_branch": "master",
+      "updated_at": "2026-04-15T02:14:00+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod",
+        "wip"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/circuits",
       "author": "Sheriff_U3",
       "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
@@ -312,37 +343,6 @@
       ],
       "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/balls",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "",
-      "repo_name": "balls",
-      "html_url": "https://codeberg.org/Sheriff_U3/balls",
-      "issues_url": "https://codeberg.org/Sheriff_U3/balls/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/balls/raw/master/README.md",
-      "description": "A Luanti mod that adds balls",
-      "default_branch": "master",
-      "updated_at": "2026-04-13T19:47:46+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod",
-        "wip"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1720,5 +1720,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-15T00:00:11Z"
+  "now": "2026-04-15T03:41:19Z"
 }
