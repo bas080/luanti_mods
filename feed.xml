@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>country_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/country_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      small util library for Luanti, providing country localised names and flags<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-16T06:19:20.545Z</pubDate>
+  </item>
+  <item>
     <title>cobanisters (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#MatyasP/cobanisters</link>
     <guid>https://codeberg.org/MatyasP/cobanisters</guid>
@@ -171,24 +189,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-04-14T07:53:44.568Z</pubDate>
-  </item>
-  <item>
-    <title>country_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/country_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      small util library for Luanti, providing country localised names and flags<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-04-14T07:47:00.668Z</pubDate>
   </item>
   <item>
     <title>Whitelist (Gitlab)</title>
