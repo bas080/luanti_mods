@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>cmcla_soups (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#YCaTGameRT/cmcla_soups</link>
+    <guid>https://codeberg.org/YCaTGameRT/cmcla_soups</guid>
+    <author>YCaTGameRT</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/cb36e8d170ea17e7f8499f4eb16450f221803288f6c58e2e385c5ad5c22be3fb" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>YCaTGameRT</strong><br>
+      This mod add soups to Mineclonia<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/YCaTGameRT/cmcla_soups/archive/refs/heads/master/cmcla_soups.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-18T00:36:22+02:00</pubDate>
+  </item>
+  <item>
     <title>balls (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/balls</link>
     <guid>https://codeberg.org/Sheriff_U3/balls</guid>
@@ -477,24 +495,6 @@
     <media:thumbnail url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-04-03T17:16:26.455Z</pubDate>
-  </item>
-  <item>
-    <title>farmtools (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#camelia/farmtools</link>
-    <guid>https://codeberg.org/camelia/farmtools</guid>
-    <author>camelia</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/dc96c7ac6afd4317e4a965e883017c2ad9eacd2e44a91ce35f0143351de581eb" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>camelia</strong><br>
-      Based on the Scythes &amp; Sickles mod by TestificateMods, this (WIP) mod adds various tools to make farming more convenient.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/camelia/farmtools/archive/refs/heads/main/farmtools.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/camelia/farmtools/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-04-02T22:23:32+02:00</pubDate>
   </item>
   <item>
     <title>m7a (Gitlab)</title>

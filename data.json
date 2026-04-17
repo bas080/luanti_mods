@@ -2,6 +2,38 @@
   "items": [
     {
       "hosted_on": "Codeberg",
+      "full_name": "YCaTGameRT/cmcla_soups",
+      "author": "YCaTGameRT",
+      "avatar_url": "https://codeberg.org/avatars/cb36e8d170ea17e7f8499f4eb16450f221803288f6c58e2e385c5ad5c22be3fb",
+      "website": "",
+      "repo_name": "cmcla_soups",
+      "html_url": "https://codeberg.org/YCaTGameRT/cmcla_soups",
+      "issues_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/archive/refs/heads/master/cmcla_soups.zip",
+      "readme_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/README.md",
+      "description": "This mod add soups to Mineclonia",
+      "default_branch": "master",
+      "updated_at": "2026-04-18T00:36:22+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "mineclonia",
+        "mineclonia-mod",
+        "mineclonia-mods",
+        "minetest"
+      ],
+      "image_raw": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/balls",
       "author": "Sheriff_U3",
       "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
@@ -737,36 +769,6 @@
         "mod"
       ],
       "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "camelia/farmtools",
-      "author": "camelia",
-      "avatar_url": "https://codeberg.org/avatars/dc96c7ac6afd4317e4a965e883017c2ad9eacd2e44a91ce35f0143351de581eb",
-      "website": "https://forum.luanti.org/viewtopic.php?t=31826",
-      "repo_name": "farmtools",
-      "html_url": "https://codeberg.org/camelia/farmtools",
-      "issues_url": "https://codeberg.org/camelia/farmtools/issues",
-      "open_issues": 4,
-      "stars": 3,
-      "forks": 1,
-      "zip_url": "https://codeberg.org/camelia/farmtools/archive/refs/heads/main/farmtools.zip",
-      "readme_url": "https://codeberg.org/camelia/farmtools/raw/main/README.md",
-      "description": "Based on the Scythes & Sickles mod by TestificateMods, this (WIP) mod adds various tools to make farming more convenient.",
-      "default_branch": "main",
-      "updated_at": "2026-04-02T22:23:32+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://codeberg.org/camelia/farmtools/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -1720,5 +1722,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-17T22:01:25Z"
+  "now": "2026-04-17T23:01:29Z"
 }
