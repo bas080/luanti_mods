@@ -16,7 +16,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/balls/raw/master/README.md",
       "description": "A Luanti mod that adds balls",
       "default_branch": "master",
-      "updated_at": "2026-04-17T11:57:31+02:00",
+      "updated_at": "2026-04-17T14:33:37+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -1720,5 +1720,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-17T12:04:25Z"
+  "now": "2026-04-17T13:58:54Z"
 }
