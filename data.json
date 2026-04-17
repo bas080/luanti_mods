@@ -16,7 +16,7 @@
       "readme_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/README.md",
       "description": "This mod add soups to Mineclonia",
       "default_branch": "master",
-      "updated_at": "2026-04-18T00:36:22+02:00",
+      "updated_at": "2026-04-18T01:55:31+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -1722,5 +1722,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-17T23:01:29Z"
+  "now": "2026-04-17T23:55:57Z"
 }
