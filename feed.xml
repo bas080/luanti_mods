@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>colored_names (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#SmallJoker/colored_names</link>
+    <guid>https://github.com/SmallJoker/colored_names</guid>
+    <author>SmallJoker</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1497498?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>SmallJoker</strong><br>
+      Luanti&#x2F;Minetest CSM: Colorized nicknames and mention marker<br>
+      License: MIT License<br>
+      <a href="https://github.com/SmallJoker/colored_names/archive/refs/heads/master/colored_names.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png" type="image/png" />
+    <pubDate>2026-04-18T07:18:32Z</pubDate>
+  </item>
+  <item>
     <title>cmcla_soups (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#YCaTGameRT/cmcla_soups</link>
     <guid>https://codeberg.org/YCaTGameRT/cmcla_soups</guid>
@@ -747,24 +765,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-22T23:25:06Z</pubDate>
-  </item>
-  <item>
-    <title>fluid_lib (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#LunaSquee/fluid_lib</link>
-    <guid>https://github.com/LunaSquee/fluid_lib</guid>
-    <author>LunaSquee</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>LunaSquee</strong><br>
-      Universal Fluid API for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/LunaSquee/fluid_lib/archive/refs/heads/master/fluid_lib.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-22T09:51:36Z</pubDate>
   </item>
   <item>
     <title>Natural Habitat (Gitlab)</title>
