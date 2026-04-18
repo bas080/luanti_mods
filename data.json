@@ -2,6 +2,34 @@
   "items": [
     {
       "hosted_on": "Codeberg",
+      "full_name": "kmdev/coins",
+      "author": "kmdev",
+      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
+      "website": "",
+      "repo_name": "coins",
+      "html_url": "https://codeberg.org/kmdev/coins",
+      "issues_url": "https://codeberg.org/kmdev/coins/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip",
+      "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
+      "description": "A mod for Luanti that adds coins in to the game",
+      "default_branch": "main",
+      "updated_at": "2026-04-18T22:04:59+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
       "full_name": "YCaTGameRT/cmcla_soups",
       "author": "YCaTGameRT",
       "avatar_url": "https://codeberg.org/avatars/cb36e8d170ea17e7f8499f4eb16450f221803288f6c58e2e385c5ad5c22be3fb",
@@ -437,34 +465,6 @@
         "weapons"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "kmdev/coins",
-      "author": "kmdev",
-      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
-      "website": "",
-      "repo_name": "coins",
-      "html_url": "https://codeberg.org/kmdev/coins",
-      "issues_url": "https://codeberg.org/kmdev/coins/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip",
-      "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
-      "description": "A mod for Luanti that adds coins in to the game",
-      "default_branch": "main",
-      "updated_at": "2026-04-13T21:57:28+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -1720,5 +1720,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-18T19:54:40Z"
+  "now": "2026-04-18T20:54:22Z"
 }
