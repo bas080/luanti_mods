@@ -48,7 +48,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-04-18T16:26:32.766Z",
+      "updated_at": "2026-04-18T19:16:19.809Z",
       "license": {
         "name": "Unknown"
       },
@@ -478,7 +478,7 @@
       "issues_url": "https://github.com/minetest-mods/nether/issues",
       "open_issues": 5,
       "stars": 24,
-      "forks": 26,
+      "forks": 27,
       "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
       "description": "Nether mod for Luanti/Minetest",
       "default_branch": "master",
@@ -1720,5 +1720,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-18T19:09:54Z"
+  "now": "2026-04-18T19:54:40Z"
 }
