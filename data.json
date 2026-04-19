@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/digistuff",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "digistuff",
+      "html_url": "https://github.com/mt-mods/digistuff",
+      "issues_url": "https://github.com/mt-mods/digistuff/issues",
+      "open_issues": 13,
+      "stars": 3,
+      "forks": 12,
+      "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
+      "description": "Fork of http://cheapiesystems.com/git/digistuff",
+      "default_branch": "master",
+      "updated_at": "2026-04-19T01:51:32Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "digilines",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/digistuff/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Codeberg",
       "full_name": "YCaTGameRT/cmcla_soups",
       "author": "YCaTGameRT",
@@ -476,7 +506,7 @@
       "repo_name": "nether",
       "html_url": "https://github.com/minetest-mods/nether",
       "issues_url": "https://github.com/minetest-mods/nether/issues",
-      "open_issues": 5,
+      "open_issues": 6,
       "stars": 24,
       "forks": 27,
       "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
@@ -1159,44 +1189,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "TheAirplaneMan/crimsonmt",
-      "author": "TheAirplaneMan",
-      "avatar_url": "https://avatars.githubusercontent.com/u/213837125?v=4",
-      "website": "",
-      "repo_name": "crimsonmt",
-      "html_url": "https://github.com/TheAirplaneMan/crimsonmt",
-      "issues_url": "https://github.com/TheAirplaneMan/crimsonmt/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/TheAirplaneMan/crimsonmt/archive/refs/heads/main/crimsonmt.zip",
-      "description": "Adds the Crimson Biome from Terraria to your Minetest Worlds",
-      "default_branch": "main",
-      "updated_at": "2026-03-22T23:25:06Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "biomes",
-        "luanti",
-        "luanti-mod",
-        "luanti-modding",
-        "minetest",
-        "minetest-biome",
-        "minetest-game",
-        "minetest-mod",
-        "mod",
-        "mods",
-        "mtg",
-        "terraria",
-        "what-the-heck-is-a-luanti"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/TheAirplaneMan/crimsonmt/main/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/natural_habitat",
       "author": "Mish7913",
@@ -1720,5 +1712,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-18T23:51:25Z"
+  "now": "2026-04-19T03:50:19Z"
 }
