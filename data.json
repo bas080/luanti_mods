@@ -67,9 +67,9 @@
       "repo_name": "digistuff",
       "html_url": "https://github.com/mt-mods/digistuff",
       "issues_url": "https://github.com/mt-mods/digistuff/issues",
-      "open_issues": 14,
+      "open_issues": 15,
       "stars": 3,
-      "forks": 12,
+      "forks": 13,
       "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
       "description": "Fork of http://cheapiesystems.com/git/digistuff",
       "default_branch": "master",
@@ -1712,5 +1712,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-19T19:09:24Z"
+  "now": "2026-04-19T19:55:18Z"
 }
