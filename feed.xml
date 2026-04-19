@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>audio_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/audio_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/audio_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library to easily manage audio files<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-19T19:08:53.033Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -26,7 +44,7 @@
 
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-19T08:39:42.622Z</pubDate>
+    <pubDate>2026-04-19T18:42:05.129Z</pubDate>
   </item>
   <item>
     <title>digistuff (Github)</title>
@@ -261,24 +279,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-04-14T07:54:48.848Z</pubDate>
-  </item>
-  <item>
-    <title>audio_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/audio_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/audio_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Luanti library to easily manage audio files<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-04-14T07:53:44.568Z</pubDate>
   </item>
   <item>
     <title>Whitelist (Gitlab)</title>
