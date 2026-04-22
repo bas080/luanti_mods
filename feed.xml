@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>Fapti (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#lichenseedovercrown/fapti</link>
+    <guid>https://gitlab.com/lichenseedovercrown/fapti</guid>
+    <author>lichenseedovercrown</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/81529651/Render.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>lichenseedovercrown</strong><br>
+      Integration of the character Jenny Belle (by SlipperyT) into Luanti Engine (Experimental). This script uses the Mobs Redo API to make the NPC work.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/lichenseedovercrown/fapti/-/archive/main/fapti.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-04-22T01:57:13.363Z</pubDate>
+  </item>
+  <item>
     <title>moreblocks (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/moreblocks</link>
     <guid>https://github.com/minetest-mods/moreblocks</guid>
@@ -837,24 +855,6 @@
     <media:thumbnail url="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-02-25T19:57:36.975Z</pubDate>
-  </item>
-  <item>
-    <title>ldap1 (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#bgstack15/ldap1</link>
-    <guid>https://gitlab.com/bgstack15/ldap1</guid>
-    <author>bgstack15</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/2361646/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bgstack15</strong><br>
-      Luanti mod for using ldap as 2fa<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/bgstack15/ldap1/-/archive/master/ldap1.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-02-16T19:45:57.611Z</pubDate>
   </item>
   <item>
     <title>events_api (Codeberg)</title>

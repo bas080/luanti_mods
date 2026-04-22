@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "lichenseedovercrown/fapti",
+      "author": "lichenseedovercrown",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/81529651/Render.png",
+      "website": "",
+      "repo_name": "Fapti",
+      "html_url": "https://gitlab.com/lichenseedovercrown/fapti",
+      "issues_url": "https://gitlab.com/lichenseedovercrown/fapti/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseedovercrown/fapti/-/archive/main/fapti.zip",
+      "readme_url": "https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/README.md",
+      "description": "Integration of the character Jenny Belle (by SlipperyT) into Luanti Engine (Experimental). This script uses the Mobs Redo API to make the NPC work.",
+      "default_branch": "main",
+      "updated_at": "2026-04-22T01:57:13.363Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "3D",
+        "Irrlicht",
+        "Jenny",
+        "Luanti",
+        "animated",
+        "gamedev",
+        "gamemodding",
+        "lua",
+        "minetest",
+        "minetest mod",
+        "minetest-mod",
+        "minetestmod",
+        "mod",
+        "modding",
+        "script",
+        "voxel"
+      ],
+      "image_raw": "https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/moreblocks",
       "author": "minetest-mods",
@@ -1299,34 +1340,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "bgstack15/ldap1",
-      "author": "bgstack15",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/2361646/avatar.png",
-      "website": "",
-      "repo_name": "ldap1",
-      "html_url": "https://gitlab.com/bgstack15/ldap1",
-      "issues_url": "https://gitlab.com/bgstack15/ldap1/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/bgstack15/ldap1/-/archive/master/ldap1.zip",
-      "readme_url": "https://gitlab.com/bgstack15/ldap1/-/raw/master/README.md",
-      "description": "Luanti mod for using ldap as 2fa",
-      "default_branch": "master",
-      "updated_at": "2026-02-16T19:45:57.611Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "ldap",
-        "mod"
-      ],
-      "image_raw": "https://gitlab.com/bgstack15/ldap1/-/raw/master/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "TPH/events_api",
       "author": "TPH",
@@ -1704,5 +1717,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-21T23:52:16Z"
+  "now": "2026-04-22T03:43:42Z"
 }
