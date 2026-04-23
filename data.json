@@ -2,6 +2,47 @@
   "items": [
     {
       "hosted_on": "Gitlab",
+      "full_name": "lichenseedovercrown/fapti",
+      "author": "lichenseedovercrown",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/81529651/Render.png",
+      "website": "",
+      "repo_name": "Fapti",
+      "html_url": "https://gitlab.com/lichenseedovercrown/fapti",
+      "issues_url": "https://gitlab.com/lichenseedovercrown/fapti/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseedovercrown/fapti/-/archive/main/fapti.zip",
+      "readme_url": "https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/README.md",
+      "description": "Integration of the character Jenny Belle (by SlipperyT) into Luanti Engine (Experimental). This script uses the Mobs Redo API to make the NPC work.",
+      "default_branch": "main",
+      "updated_at": "2026-04-23T04:19:27.967Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "3D",
+        "Irrlicht",
+        "Jenny",
+        "Luanti",
+        "animated",
+        "gamedev",
+        "gamemodding",
+        "lua",
+        "minetest",
+        "minetest mod",
+        "minetest-mod",
+        "minetestmod",
+        "mod",
+        "modding",
+        "script",
+        "voxel"
+      ],
+      "image_raw": "https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
@@ -27,47 +68,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "lichenseedovercrown/fapti",
-      "author": "lichenseedovercrown",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/81529651/Render.png",
-      "website": "",
-      "repo_name": "Fapti",
-      "html_url": "https://gitlab.com/lichenseedovercrown/fapti",
-      "issues_url": "https://gitlab.com/lichenseedovercrown/fapti/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/lichenseedovercrown/fapti/-/archive/main/fapti.zip",
-      "readme_url": "https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/README.md",
-      "description": "Integration of the character Jenny Belle (by SlipperyT) into Luanti Engine (Experimental). This script uses the Mobs Redo API to make the NPC work.",
-      "default_branch": "main",
-      "updated_at": "2026-04-22T01:57:13.363Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "3D",
-        "Irrlicht",
-        "Jenny",
-        "Luanti",
-        "animated",
-        "gamedev",
-        "gamemodding",
-        "lua",
-        "minetest",
-        "minetest mod",
-        "minetest-mod",
-        "minetestmod",
-        "mod",
-        "modding",
-        "script",
-        "voxel"
-      ],
-      "image_raw": "https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1717,5 +1717,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-23T03:47:25Z"
+  "now": "2026-04-23T06:17:14Z"
 }
