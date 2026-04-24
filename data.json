@@ -1316,7 +1316,7 @@
       "html_url": "https://gitlab.com/lichenseed/ShameGPT",
       "issues_url": "https://gitlab.com/lichenseed/ShameGPT/-/issues",
       "open_issues": 0,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "zip_url": "https://gitlab.com/lichenseed/ShameGPT/-/archive/main/ShameGPT.zip",
       "readme_url": "https://gitlab.com/lichenseed/ShameGPT/-/raw/main/README.md",
@@ -1337,7 +1337,7 @@
         "vibe-code"
       ],
       "image_raw": "https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png",
-      "has_stats": false
+      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1717,5 +1717,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-24T10:46:35Z"
+  "now": "2026-04-24T12:06:19Z"
 }
