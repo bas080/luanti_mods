@@ -80,7 +80,7 @@
       "issues_url": "https://github.com/minetest-mods/moreblocks/issues",
       "open_issues": 24,
       "stars": 48,
-      "forks": 72,
+      "forks": 71,
       "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
       "description": "More Blocks",
       "default_branch": "master",
@@ -1717,5 +1717,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-25T19:11:55Z"
+  "now": "2026-04-25T19:56:20Z"
 }
