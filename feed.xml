@@ -47,24 +47,6 @@
     <pubDate>2026-04-23T22:05:37.729Z</pubDate>
   </item>
   <item>
-    <title>moreblocks (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/moreblocks</link>
-    <guid>https://github.com/minetest-mods/moreblocks</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      More Blocks<br>
-      License: zlib License<br>
-      <a href="https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-21T14:13:11Z</pubDate>
-  </item>
-  <item>
     <title>arena_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
@@ -101,60 +83,6 @@
     <pubDate>2026-04-19T19:08:53.033Z</pubDate>
   </item>
   <item>
-    <title>digistuff (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#mt-mods/digistuff</link>
-    <guid>https://github.com/mt-mods/digistuff</guid>
-    <author>mt-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>mt-mods</strong><br>
-      Fork of http:&#x2F;&#x2F;cheapiesystems.com&#x2F;git&#x2F;digistuff<br>
-      License: Unknown<br>
-      <a href="https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-19T01:51:32Z</pubDate>
-  </item>
-  <item>
-    <title>colored_names (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#SmallJoker/colored_names</link>
-    <guid>https://github.com/SmallJoker/colored_names</guid>
-    <author>SmallJoker</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1497498?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>SmallJoker</strong><br>
-      Luanti&#x2F;Minetest CSM: Colorized nicknames and mention marker<br>
-      License: MIT License<br>
-      <a href="https://github.com/SmallJoker/colored_names/archive/refs/heads/master/colored_names.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-18T07:18:32Z</pubDate>
-  </item>
-  <item>
-    <title>drawers (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
-    <guid>https://github.com/minetest-mods/drawers</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      [MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-17T03:04:05Z</pubDate>
-  </item>
-  <item>
     <title>country_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/country_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
@@ -171,24 +99,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-04-16T06:19:20.545Z</pubDate>
-  </item>
-  <item>
-    <title>luanti-developerconsole (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#sfan5/luanti-developerconsole</link>
-    <guid>https://github.com/sfan5/luanti-developerconsole</guid>
-    <author>sfan5</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1042418?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>sfan5</strong><br>
-      Web-based REPL for Luanti<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-14T20:26:44Z</pubDate>
   </item>
   <item>
     <title>Hub (Gitlab)</title>
@@ -263,42 +173,6 @@
     <pubDate>2026-04-14T07:20:23.700Z</pubDate>
   </item>
   <item>
-    <title>nether (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
-    <guid>https://github.com/minetest-mods/nether</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Nether mod for Luanti&#x2F;Minetest<br>
-      License: Unknown<br>
-      <a href="https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-12T22:50:47Z</pubDate>
-  </item>
-  <item>
-    <title>place_names (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/place_names</link>
-    <guid>https://github.com/bas080/place_names</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Luanti Mod that adds command to create, edit place names that are visible on player hud.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-09T22:56:05Z</pubDate>
-  </item>
-  <item>
     <title>panel_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/panel_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/panel_lib</guid>
@@ -317,42 +191,6 @@
     <pubDate>2026-04-07T09:32:54.601Z</pubDate>
   </item>
   <item>
-    <title>vines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/vines</link>
-    <guid>https://github.com/bas080/vines</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-06T15:01:51Z</pubDate>
-  </item>
-  <item>
-    <title>little_lake (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/little_lake</link>
-    <guid>https://github.com/bas080/little_lake</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Simple mod that spawns little lakes in caves near the surface and on mountains.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-06T14:46:13Z</pubDate>
-  </item>
-  <item>
     <title>welcome (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#luno_luanti/welcome</link>
     <guid>https://gitlab.com/luno_luanti/welcome</guid>
@@ -369,60 +207,6 @@
     <media:thumbnail url="https://gitlab.com/luno_luanti/welcome/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/luno_luanti/welcome/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-04-06T00:26:49.194Z</pubDate>
-  </item>
-  <item>
-    <title>small_fall (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/small_fall</link>
-    <guid>https://github.com/bas080/small_fall</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      <br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/small_fall/archive/refs/heads/master/small_fall.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-05T14:47:06Z</pubDate>
-  </item>
-  <item>
-    <title>luanti_utils (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/luanti_utils</link>
-    <guid>https://github.com/bas080/luanti_utils</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      High level Luanti lua modding utilities that will bring your mods to the next level.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-05T12:28:16Z</pubDate>
-  </item>
-  <item>
-    <title>breasy (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/breasy</link>
-    <guid>https://github.com/bas080/breasy</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      A mod that will tell you what the wind is like at a position.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-04T20:15:08Z</pubDate>
   </item>
   <item>
     <title>CraftoPlus (Gitlab)</title>
@@ -479,60 +263,6 @@
     <pubDate>2026-04-01T17:57:32.350Z</pubDate>
   </item>
   <item>
-    <title>breasy_player (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/breasy_player</link>
-    <guid>https://github.com/bas080/breasy_player</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Breasy player adds wind physics to the player.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/breasy_player/archive/refs/heads/master/breasy_player.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-01T09:46:07Z</pubDate>
-  </item>
-  <item>
-    <title>breasy_particles (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/breasy_particles</link>
-    <guid>https://github.com/bas080/breasy_particles</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Creates the effect of blizzards, sandstorms and leaves being ripped from trees.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/breasy_particles/archive/refs/heads/master/breasy_particles.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-01T09:45:58Z</pubDate>
-  </item>
-  <item>
-    <title>at (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/at</link>
-    <guid>https://github.com/bas080/at</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      jQuery like wrapper for position&#x2F;vector<br>
-      License: Unknown<br>
-      <a href="https://github.com/bas080/at/archive/refs/heads/master/at.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/at/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-01T07:58:36Z</pubDate>
-  </item>
-  <item>
     <title>Collectible skins (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/collectible-skins</link>
     <guid>https://gitlab.com/zughy-friends-minetest/collectible-skins</guid>
@@ -551,60 +281,6 @@
     <pubDate>2026-03-31T15:07:38.583Z</pubDate>
   </item>
   <item>
-    <title>worldedge (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/worldedge</link>
-    <guid>https://github.com/minetest-mods/worldedge</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Set world size in Minetest<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/worldedge/archive/refs/heads/master/worldedge.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/worldedge/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/worldedge/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/worldedge/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-29T08:04:58Z</pubDate>
-  </item>
-  <item>
-    <title>wrench (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#mt-mods/wrench</link>
-    <guid>https://github.com/mt-mods/wrench</guid>
-    <author>mt-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>mt-mods</strong><br>
-      The wrench tool allows you to pick up nodes with inventories or other metadata, such as chests, signs, drawers, machines, etc, and transport them intact to another location.<br>
-      License: Other<br>
-      <a href="https://github.com/mt-mods/wrench/archive/refs/heads/master/wrench.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-28T20:30:57Z</pubDate>
-  </item>
-  <item>
-    <title>mtpaint (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/mtpaint</link>
-    <guid>https://github.com/bas080/mtpaint</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Paint like you would in paint, but in 3d.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-27T09:54:46Z</pubDate>
-  </item>
-  <item>
     <title>Whoopsy Cushion (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#krabNchous/whoopsy-cushion</link>
     <guid>https://gitlab.com/krabNchous/whoopsy-cushion</guid>
@@ -621,42 +297,6 @@
     <media:thumbnail url="https://gitlab.com/krabNchous/whoopsy-cushion/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/krabNchous/whoopsy-cushion/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-26T13:39:36.697Z</pubDate>
-  </item>
-  <item>
-    <title>register_timer (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/register_timer</link>
-    <guid>https://github.com/bas080/register_timer</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Persistent timers for Luanti mods.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-26T11:41:48Z</pubDate>
-  </item>
-  <item>
-    <title>gift_wrapped (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/gift_wrapped</link>
-    <guid>https://github.com/bas080/gift_wrapped</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Wrap nodes in gift wrapping and place a ribbon ontop to show you really care.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/gift_wrapped/archive/refs/heads/master/gift_wrapped.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/gift_wrapped/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/gift_wrapped/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/gift_wrapped/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-25T23:46:18Z</pubDate>
   </item>
   <item>
     <title>Natural Habitat (Gitlab)</title>
