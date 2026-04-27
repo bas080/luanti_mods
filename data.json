@@ -70,6 +70,34 @@
       "has_stats": true
     },
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/moreblocks",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.minetest.net/packages/Calinou/moreblocks/",
+      "repo_name": "moreblocks",
+      "html_url": "https://github.com/minetest-mods/moreblocks",
+      "issues_url": "https://github.com/minetest-mods/moreblocks/issues",
+      "open_issues": 24,
+      "stars": 48,
+      "forks": 71,
+      "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
+      "description": "More Blocks",
+      "default_branch": "master",
+      "updated_at": "2026-04-21T14:13:11Z",
+      "license": {
+        "name": "zlib License"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/arena_lib",
       "author": "zughy-friends-minetest",
@@ -96,6 +124,34 @@
         "minigames"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "kmdev/coins",
+      "author": "kmdev",
+      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
+      "website": "",
+      "repo_name": "coins",
+      "html_url": "https://codeberg.org/kmdev/coins",
+      "issues_url": "https://codeberg.org/kmdev/coins/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip",
+      "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
+      "description": "A mod for Luanti that adds coins in to the game",
+      "default_branch": "main",
+      "updated_at": "2026-04-19T21:57:33+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -129,6 +185,192 @@
       "has_stats": true
     },
     {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/digistuff",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "digistuff",
+      "html_url": "https://github.com/mt-mods/digistuff",
+      "issues_url": "https://github.com/mt-mods/digistuff/issues",
+      "open_issues": 15,
+      "stars": 3,
+      "forks": 12,
+      "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
+      "description": "Fork of http://cheapiesystems.com/git/digistuff",
+      "default_branch": "master",
+      "updated_at": "2026-04-19T01:51:32Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "digilines",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/digistuff/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "YCaTGameRT/cmcla_soups",
+      "author": "YCaTGameRT",
+      "avatar_url": "https://codeberg.org/avatars/cb36e8d170ea17e7f8499f4eb16450f221803288f6c58e2e385c5ad5c22be3fb",
+      "website": "",
+      "repo_name": "cmcla_soups",
+      "html_url": "https://codeberg.org/YCaTGameRT/cmcla_soups",
+      "issues_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/archive/refs/heads/master/cmcla_soups.zip",
+      "readme_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/README.md",
+      "description": "This mod add soups to Mineclonia",
+      "default_branch": "master",
+      "updated_at": "2026-04-18T23:28:29+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "mineclonia",
+        "mineclonia-mod",
+        "mineclonia-mods",
+        "minetest"
+      ],
+      "image_raw": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "SmallJoker/colored_names",
+      "author": "SmallJoker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1497498?v=4",
+      "website": "",
+      "repo_name": "colored_names",
+      "html_url": "https://github.com/SmallJoker/colored_names",
+      "issues_url": "https://github.com/SmallJoker/colored_names/issues",
+      "open_issues": 0,
+      "stars": 3,
+      "forks": 1,
+      "zip_url": "https://github.com/SmallJoker/colored_names/archive/refs/heads/master/colored_names.zip",
+      "description": "Luanti/Minetest CSM: Colorized nicknames and mention marker",
+      "default_branch": "master",
+      "updated_at": "2026-04-18T07:18:32Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/SmallJoker/colored_names/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/balls",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "",
+      "repo_name": "balls",
+      "html_url": "https://codeberg.org/Sheriff_U3/balls",
+      "issues_url": "https://codeberg.org/Sheriff_U3/balls/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/balls/raw/master/README.md",
+      "description": "A Luanti mod that adds balls",
+      "default_branch": "master",
+      "updated_at": "2026-04-17T16:45:53+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod",
+        "wip"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/circuits",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "https://codeberg.org/Sheriff_U3/circuits/wiki",
+      "repo_name": "circuits",
+      "html_url": "https://codeberg.org/Sheriff_U3/circuits",
+      "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
+      "description": "A circuitry mod for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-17T16:45:38+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-modpack",
+        "minetest",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/drawers",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "",
+      "repo_name": "drawers",
+      "html_url": "https://github.com/minetest-mods/drawers",
+      "issues_url": "https://github.com/minetest-mods/drawers/issues",
+      "open_issues": 22,
+      "stars": 21,
+      "forks": 28,
+      "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
+      "description": "[MTG/MCL2] A Luanti/Minetest Mod adding storage drawers in different sizes and wood types.",
+      "default_branch": "master",
+      "updated_at": "2026-04-17T03:04:05Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "i18n",
+        "intllib",
+        "luanti-mod",
+        "mineclone",
+        "mineclone2",
+        "minetest",
+        "minetest-mod",
+        "mod",
+        "pipeworks",
+        "screwdriver",
+        "storage"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/drawers/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/country_lib",
       "author": "zughy-friends-minetest",
@@ -155,6 +397,61 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png",
       "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "MatyasP/cobanisters",
+      "author": "MatyasP",
+      "avatar_url": "https://codeberg.org/avatars/ad74e342bcdd5c816577777f3bdd1f96db1943f1c6fce00f71aece6d7f60fc6e",
+      "website": "",
+      "repo_name": "cobanisters",
+      "html_url": "https://codeberg.org/MatyasP/cobanisters",
+      "issues_url": "https://codeberg.org/MatyasP/cobanisters/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/MatyasP/cobanisters/archive/refs/heads/main/cobanisters.zip",
+      "readme_url": "https://codeberg.org/MatyasP/cobanisters/raw/main/README.md",
+      "description": "Colorable banisters - mod for Luanti",
+      "default_branch": "main",
+      "updated_at": "2026-04-15T23:40:50+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "sfan5/luanti-developerconsole",
+      "author": "sfan5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1042418?v=4",
+      "website": "",
+      "repo_name": "luanti-developerconsole",
+      "html_url": "https://github.com/sfan5/luanti-developerconsole",
+      "issues_url": "https://github.com/sfan5/luanti-developerconsole/issues",
+      "open_issues": 0,
+      "stars": 2,
+      "forks": 0,
+      "zip_url": "https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip",
+      "description": "Web-based REPL for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-14T20:26:44Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
+      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -270,6 +567,90 @@
       "has_stats": true
     },
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/nether",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
+      "repo_name": "nether",
+      "html_url": "https://github.com/minetest-mods/nether",
+      "issues_url": "https://github.com/minetest-mods/nether/issues",
+      "open_issues": 6,
+      "stars": 24,
+      "forks": 27,
+      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
+      "description": "Nether mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-04-12T22:50:47Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod",
+        "nether"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/energy_drinks",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "",
+      "repo_name": "energy_drinks",
+      "html_url": "https://codeberg.org/Sheriff_U3/energy_drinks",
+      "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
+      "description": "A mod that adds energy drinks to the luanti game engine.",
+      "default_branch": "main",
+      "updated_at": "2026-04-12T03:44:24+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/place_names",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "place_names",
+      "html_url": "https://github.com/bas080/place_names",
+      "issues_url": "https://github.com/bas080/place_names/issues",
+      "open_issues": 2,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip",
+      "description": "Luanti Mod that adds command to create, edit place names that are visible on player hud.",
+      "default_branch": "master",
+      "updated_at": "2026-04-09T22:56:05Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/place_names/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/panel_lib",
       "author": "zughy-friends-minetest",
@@ -295,6 +676,87 @@
         "minetest"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "kmdev/digital_storage",
+      "author": "kmdev",
+      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
+      "website": "",
+      "repo_name": "digital_storage",
+      "html_url": "https://codeberg.org/kmdev/digital_storage",
+      "issues_url": "https://codeberg.org/kmdev/digital_storage/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/kmdev/digital_storage/archive/refs/heads/main/digital_storage.zip",
+      "readme_url": "https://codeberg.org/kmdev/digital_storage/raw/main/README.md",
+      "description": "A Luanti mod that brings Digital Storage to the game. Inspired by Refined Storage",
+      "default_branch": "main",
+      "updated_at": "2026-04-06T18:20:23+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/kmdev/digital_storage/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/vines",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "vines",
+      "html_url": "https://github.com/bas080/vines",
+      "issues_url": "https://github.com/bas080/vines/issues",
+      "open_issues": 12,
+      "stars": 9,
+      "forks": 9,
+      "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
+      "description": "Climbable vines, shears to harvest them and a rope box to help you climb.",
+      "default_branch": "master",
+      "updated_at": "2026-04-06T15:01:51Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "vines"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/vines/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/vines/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/little_lake",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "little_lake",
+      "html_url": "https://github.com/bas080/little_lake",
+      "issues_url": "https://github.com/bas080/little_lake/issues",
+      "open_issues": 2,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip",
+      "description": "Simple mod that spawns little lakes in caves near the surface and on mountains.",
+      "default_branch": "master",
+      "updated_at": "2026-04-06T14:46:13Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/little_lake/master/README.md",
       "has_stats": true
     },
     {
@@ -326,6 +788,85 @@
         "minetest mod"
       ],
       "image_raw": "https://gitlab.com/luno_luanti/welcome/-/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/small_fall",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "small_fall",
+      "html_url": "https://github.com/bas080/small_fall",
+      "issues_url": "https://github.com/bas080/small_fall/issues",
+      "open_issues": 3,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/small_fall/archive/refs/heads/master/small_fall.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-04-05T14:47:06Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/small_fall/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/luanti_utils",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://bas080.github.io/luanti_utils/",
+      "repo_name": "luanti_utils",
+      "html_url": "https://github.com/bas080/luanti_utils",
+      "issues_url": "https://github.com/bas080/luanti_utils/issues",
+      "open_issues": 2,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
+      "description": "High level Luanti lua modding utilities that will bring your mods to the next level.",
+      "default_branch": "master",
+      "updated_at": "2026-04-05T12:28:16Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "utility-library"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/breasy",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "breasy",
+      "html_url": "https://github.com/bas080/breasy",
+      "issues_url": "https://github.com/bas080/breasy/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
+      "description": "A mod that will tell you what the wind is like at a position.",
+      "default_branch": "master",
+      "updated_at": "2026-04-04T20:15:08Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
       "has_stats": false
     },
     {
@@ -412,6 +953,84 @@
       "has_stats": true
     },
     {
+      "hosted_on": "Github",
+      "full_name": "bas080/breasy_player",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "breasy_player",
+      "html_url": "https://github.com/bas080/breasy_player",
+      "issues_url": "https://github.com/bas080/breasy_player/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/breasy_player/archive/refs/heads/master/breasy_player.zip",
+      "description": "Breasy player adds wind physics to the player.",
+      "default_branch": "master",
+      "updated_at": "2026-04-01T09:46:07Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/breasy_player/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/breasy_player/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/breasy_particles",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "breasy_particles",
+      "html_url": "https://github.com/bas080/breasy_particles",
+      "issues_url": "https://github.com/bas080/breasy_particles/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/breasy_particles/archive/refs/heads/master/breasy_particles.zip",
+      "description": "Creates the effect of blizzards, sandstorms and leaves being ripped from trees.",
+      "default_branch": "master",
+      "updated_at": "2026-04-01T09:45:58Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/breasy_particles/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/at",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "at",
+      "html_url": "https://github.com/bas080/at",
+      "issues_url": "https://github.com/bas080/at/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/at/archive/refs/heads/master/at.zip",
+      "description": "jQuery like wrapper for position/vector",
+      "default_branch": "master",
+      "updated_at": "2026-04-01T07:58:36Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/at/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/at/master/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/collectible-skins",
       "author": "zughy-friends-minetest",
@@ -437,6 +1056,87 @@
         "videogames"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/worldedge",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?f=11&t=10753",
+      "repo_name": "worldedge",
+      "html_url": "https://github.com/minetest-mods/worldedge",
+      "issues_url": "https://github.com/minetest-mods/worldedge/issues",
+      "open_issues": 0,
+      "stars": 14,
+      "forks": 3,
+      "zip_url": "https://github.com/minetest-mods/worldedge/archive/refs/heads/master/worldedge.zip",
+      "description": "Set world size in Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-03-29T08:04:58Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/worldedge/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/worldedge/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/wrench",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "wrench",
+      "html_url": "https://github.com/mt-mods/wrench",
+      "issues_url": "https://github.com/mt-mods/wrench/issues",
+      "open_issues": 7,
+      "stars": 5,
+      "forks": 5,
+      "zip_url": "https://github.com/mt-mods/wrench/archive/refs/heads/master/wrench.zip",
+      "description": "The wrench tool allows you to pick up nodes with inventories or other metadata, such as chests, signs, drawers, machines, etc, and transport them intact to another location.",
+      "default_branch": "master",
+      "updated_at": "2026-03-28T20:30:57Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/wrench/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/mtpaint",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=5674",
+      "repo_name": "mtpaint",
+      "html_url": "https://github.com/bas080/mtpaint",
+      "issues_url": "https://github.com/bas080/mtpaint/issues",
+      "open_issues": 4,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip",
+      "description": "Paint like you would in paint, but in 3d.",
+      "default_branch": "master",
+      "updated_at": "2026-03-27T09:54:46Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/mtpaint/master/README.md",
       "has_stats": true
     },
     {
@@ -467,6 +1167,58 @@
         "mod"
       ],
       "image_raw": "https://gitlab.com/krabNchous/whoopsy-cushion/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/register_timer",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "register_timer",
+      "html_url": "https://github.com/bas080/register_timer",
+      "issues_url": "https://github.com/bas080/register_timer/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip",
+      "description": "Persistent timers for Luanti mods.",
+      "default_branch": "master",
+      "updated_at": "2026-03-26T11:41:48Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/register_timer/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/gift_wrapped",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "",
+      "repo_name": "gift_wrapped",
+      "html_url": "https://github.com/bas080/gift_wrapped",
+      "issues_url": "https://github.com/bas080/gift_wrapped/issues",
+      "open_issues": 6,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/gift_wrapped/archive/refs/heads/master/gift_wrapped.zip",
+      "description": "Wrap nodes in gift wrapping and place a ribbon ontop to show you really care.",
+      "default_branch": "master",
+      "updated_at": "2026-03-25T23:46:18Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/gift_wrapped/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/gift_wrapped/master/README.md",
       "has_stats": true
     },
     {
@@ -586,7 +1338,384 @@
       ],
       "image_raw": "https://gitlab.com/lichenseed/ShameGPT/-/raw/main/screenshot.png",
       "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "TPH/events_api",
+      "author": "TPH",
+      "avatar_url": "https://codeberg.org/avatars/a63854eb89eb1dab089001b174e601762cc42d3816347e9175f72372af2c80f0",
+      "website": "",
+      "repo_name": "events_api",
+      "html_url": "https://codeberg.org/TPH/events_api",
+      "issues_url": "https://codeberg.org/TPH/events_api/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/TPH/events_api/archive/refs/heads/master/events_api.zip",
+      "readme_url": "https://codeberg.org/TPH/events_api/raw/master/README.md",
+      "description": "API for creating, handling, and permitting function registration calls for custom events for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-02-12T01:04:25+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod",
+        "mit"
+      ],
+      "image_raw": "https://codeberg.org/TPH/events_api/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Stoabrogga/dungeonsplus",
+      "author": "Stoabrogga",
+      "avatar_url": "https://codeberg.org/avatars/e9f57c67e292368b2d85d26e24b429a2830c93e75195aeba95f6291a91322ed9",
+      "website": "",
+      "repo_name": "dungeonsplus",
+      "html_url": "https://codeberg.org/Stoabrogga/dungeonsplus",
+      "issues_url": "https://codeberg.org/Stoabrogga/dungeonsplus/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Stoabrogga/dungeonsplus/archive/refs/heads/root/dungeonsplus.zip",
+      "readme_url": "https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/README.md",
+      "description": "Fork of the Luanti mod \"dungeonsplus\" with a few customizations",
+      "default_branch": "root",
+      "updated_at": "2026-02-07T22:57:45+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "TPH/exile_songs",
+      "author": "TPH",
+      "avatar_url": "https://codeberg.org/avatars/a63854eb89eb1dab089001b174e601762cc42d3816347e9175f72372af2c80f0",
+      "website": "",
+      "repo_name": "exile_songs",
+      "html_url": "https://codeberg.org/TPH/exile_songs",
+      "issues_url": "https://codeberg.org/TPH/exile_songs/issues",
+      "open_issues": 2,
+      "stars": 1,
+      "forks": 1,
+      "zip_url": "https://codeberg.org/TPH/exile_songs/archive/refs/heads/master/exile_songs.zip",
+      "readme_url": "https://codeberg.org/TPH/exile_songs/raw/master/README.md",
+      "description": "Plays songs in the background while you play Exile :3",
+      "default_branch": "master",
+      "updated_at": "2025-12-17T16:44:57+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "gplv3",
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-exile",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/TPH/exile_songs/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Codiac/drawers",
+      "author": "Codiac",
+      "avatar_url": "https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf",
+      "website": "",
+      "repo_name": "drawers",
+      "html_url": "https://codeberg.org/Codiac/drawers",
+      "issues_url": "https://codeberg.org/Codiac/drawers/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Codiac/drawers/archive/refs/heads/master/drawers.zip",
+      "readme_url": "https://codeberg.org/Codiac/drawers/raw/master/README.md",
+      "description": "Fork of https://github.com/minetest-mods/drawers.git",
+      "default_branch": "master",
+      "updated_at": "2025-12-16T12:46:49+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/Codiac/drawers/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Codiac/alone",
+      "author": "Codiac",
+      "avatar_url": "https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf",
+      "website": "",
+      "repo_name": "alone",
+      "html_url": "https://codeberg.org/Codiac/alone",
+      "issues_url": "https://codeberg.org/Codiac/alone/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Codiac/alone/archive/refs/heads/main/alone.zip",
+      "readme_url": "https://codeberg.org/Codiac/alone/raw/main/README.md",
+      "description": "A Luanti mod to disperse players around the world.",
+      "default_branch": "main",
+      "updated_at": "2025-12-15T07:02:28+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mods"
+      ],
+      "image_raw": "https://codeberg.org/Codiac/alone/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "yof/ejection",
+      "author": "yof",
+      "avatar_url": "https://codeberg.org/avatars/b209aa300f178b67c9abc640fc2bad25",
+      "website": "",
+      "repo_name": "ejection",
+      "html_url": "https://codeberg.org/yof/ejection",
+      "issues_url": "https://codeberg.org/yof/ejection/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/yof/ejection/archive/refs/heads/main/ejection.zip",
+      "readme_url": "https://codeberg.org/yof/ejection/raw/main/README.md",
+      "description": "Luanti movement mod.",
+      "default_branch": "main",
+      "updated_at": "2025-10-28T12:08:38+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/yof/ejection/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "JetpackJackson/avantisavoia",
+      "author": "JetpackJackson",
+      "avatar_url": "https://codeberg.org/avatars/a892831a59fe193fdad0e38ceaa1f74e9a0116fc9f56de8c2ce16e6c6ad56f8e",
+      "website": "",
+      "repo_name": "avantisavoia",
+      "html_url": "https://codeberg.org/JetpackJackson/avantisavoia",
+      "issues_url": "https://codeberg.org/JetpackJackson/avantisavoia/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/JetpackJackson/avantisavoia/archive/refs/heads/main/avantisavoia.zip",
+      "readme_url": "https://codeberg.org/JetpackJackson/avantisavoia/raw/main/README.md",
+      "description": "A mod for Luanti that adds various WW1-related weapons, tools, and structures.",
+      "default_branch": "main",
+      "updated_at": "2025-10-16T22:39:28+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/JetpackJackson/avantisavoia/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Skivling/DrWho_Tardis",
+      "author": "Skivling",
+      "avatar_url": "https://codeberg.org/avatars/21b310789915765d687d827860cdc797ea3ea2be206f89497b385123635b1679",
+      "website": "",
+      "repo_name": "DrWho_Tardis",
+      "html_url": "https://codeberg.org/Skivling/DrWho_Tardis",
+      "issues_url": "https://codeberg.org/Skivling/DrWho_Tardis/issues",
+      "open_issues": 28,
+      "stars": 3,
+      "forks": 5,
+      "zip_url": "https://codeberg.org/Skivling/DrWho_Tardis/archive/refs/heads/main/DrWho_Tardis.zip",
+      "readme_url": "https://codeberg.org/Skivling/DrWho_Tardis/raw/main/README.md",
+      "description": "A Doctor Who themed Luanti mod that adds various items and nodes, including a working TARDIS. Forked from https://github.com/PiDemon/Taridis_New , which is unmaintained. ",
+      "default_branch": "main",
+      "updated_at": "2025-08-22T11:53:05+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "drwho",
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod",
+        "minetest-mods"
+      ],
+      "image_raw": "https://codeberg.org/Skivling/DrWho_Tardis/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "SilverSandstone/advtrains_horntrack",
+      "author": "SilverSandstone",
+      "avatar_url": "https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17",
+      "website": "https://content.luanti.org/packages/SilverSandstone/advtrains_horntrack/",
+      "repo_name": "advtrains_horntrack",
+      "html_url": "https://codeberg.org/SilverSandstone/advtrains_horntrack",
+      "issues_url": "https://codeberg.org/SilverSandstone/advtrains_horntrack/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/SilverSandstone/advtrains_horntrack/archive/refs/heads/main/advtrains_horntrack.zip",
+      "readme_url": "https://codeberg.org/SilverSandstone/advtrains_horntrack/raw/main/README.md",
+      "description": "Adds a track for automatically activating train horns in Luanti.",
+      "default_branch": "main",
+      "updated_at": "2025-08-21T07:26:08+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "advtrains",
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/SilverSandstone/advtrains_horntrack/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Codiac/copper_pipes",
+      "author": "Codiac",
+      "avatar_url": "https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf",
+      "website": "",
+      "repo_name": "copper_pipes",
+      "html_url": "https://codeberg.org/Codiac/copper_pipes",
+      "issues_url": "https://codeberg.org/Codiac/copper_pipes/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Codiac/copper_pipes/archive/refs/heads/main/copper_pipes.zip",
+      "readme_url": "https://codeberg.org/Codiac/copper_pipes/raw/main/README.md",
+      "description": "Replaces blocks and plastic tubes in Pipeworks with copper versions",
+      "default_branch": "main",
+      "updated_at": "2025-07-17T03:37:15+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/Codiac/copper_pipes/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "somedumbguy/epoxied_concrete",
+      "author": "somedumbguy",
+      "avatar_url": "https://codeberg.org/avatars/34298df361c480ae912a2b47c1f2171e",
+      "website": "",
+      "repo_name": "epoxied_concrete",
+      "html_url": "https://codeberg.org/somedumbguy/epoxied_concrete",
+      "issues_url": "https://codeberg.org/somedumbguy/epoxied_concrete/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/somedumbguy/epoxied_concrete/archive/refs/heads/master/epoxied_concrete.zip",
+      "readme_url": "https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/README.md",
+      "description": "Luanti Mod that uses epoxy from techage to create colored concrete blocks.",
+      "default_branch": "master",
+      "updated_at": "2025-03-18T19:28:17+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti-mod",
+        "techage"
+      ],
+      "image_raw": "https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "SilverSandstone/blockhead",
+      "author": "SilverSandstone",
+      "avatar_url": "https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17",
+      "website": "https://content.luanti.org/packages/SilverSandstone/blockhead/",
+      "repo_name": "blockhead",
+      "html_url": "https://codeberg.org/SilverSandstone/blockhead",
+      "issues_url": "https://codeberg.org/SilverSandstone/blockhead/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/SilverSandstone/blockhead/archive/refs/heads/main/blockhead.zip",
+      "readme_url": "https://codeberg.org/SilverSandstone/blockhead/raw/main/README.md",
+      "description": "Lets you put a block on your head in Luanti.",
+      "default_branch": "main",
+      "updated_at": "2024-11-28T14:59:54+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/SilverSandstone/blockhead/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Desour/bed_rock",
+      "author": "Desour",
+      "avatar_url": "https://codeberg.org/avatars/70e9f49ac0763f676f0520c7156faefec7db7bf97bd7deb01175711245c3be28",
+      "website": "",
+      "repo_name": "bed_rock",
+      "html_url": "https://codeberg.org/Desour/bed_rock",
+      "issues_url": "https://codeberg.org/Desour/bed_rock/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Desour/bed_rock/archive/refs/heads/master/bed_rock.zip",
+      "readme_url": "https://codeberg.org/Desour/bed_rock/raw/master/README.md",
+      "description": "Luanti mod for a rock that you can use as bed",
+      "default_branch": "master",
+      "updated_at": "2024-11-18T08:52:38+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/Desour/bed_rock/raw/master/screenshot.png",
+      "has_stats": false
     }
   ],
-  "now": "2026-04-27T18:20:25Z"
+  "now": "2026-04-27T20:19:06Z"
 }
