@@ -1,6 +1,317 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/weapons_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png",
+      "website": "",
+      "repo_name": "weapons_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
+      "description": "Luanti library to easily register new weapons",
+      "default_branch": "main",
+      "updated_at": "2026-04-30T16:29:26.068Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library",
+        "minetest",
+        "weapons"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/country_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png",
+      "website": "",
+      "repo_name": "country_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/country_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/README.md",
+      "description": "small util library for Luanti, providing country localised names and flags",
+      "default_branch": "main",
+      "updated_at": "2026-04-30T16:29:23.475Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/audio_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png",
+      "website": "",
+      "repo_name": "audio_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/audio_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/README.md",
+      "description": "Luanti library to easily manage audio files",
+      "default_branch": "main",
+      "updated_at": "2026-04-30T16:29:22.083Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library",
+        "minetest",
+        "sound"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 15,
+      "forks": 14,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-04-30T16:29:19.694Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/achievements_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/20515418/achievements.png",
+      "website": "",
+      "repo_name": "achievements_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/achievements_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/achievements_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 5,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/achievements_lib/-/archive/master/achievements_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/README.md",
+      "description": "Achievements API for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-30T16:29:18.381Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/whitelist",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/21154006/whitelist-icon.png",
+      "website": "",
+      "repo_name": "Whitelist",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/whitelist",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 3,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/archive/master/whitelist.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/README.md",
+      "description": "Filter who can enter a Luanti server and who can't through a whitelist",
+      "default_branch": "master",
+      "updated_at": "2026-04-30T16:29:15.911Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/parties",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/19639678/party.png",
+      "website": "",
+      "repo_name": "Parties",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/parties",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/parties/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/parties/-/archive/master/parties.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/README.md",
+      "description": "Minimalist party mod for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-30T16:29:07.627Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/magic-compass",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png",
+      "website": "",
+      "repo_name": "Magic Compass",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/magic-compass",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/archive/master/magic-compass.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/README.md",
+      "description": "Teleport system for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-30T16:28:57.640Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest",
+        "mod"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/hub",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png",
+      "website": "",
+      "repo_name": "Hub",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/hub",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/hub/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
+      "description": "A mod to easily manage your minigames server on Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-30T16:28:53.312Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/collectible-skins",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png",
+      "website": "",
+      "repo_name": "Collectible skins",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/issues",
+      "open_issues": 0,
+      "stars": 2,
+      "forks": 3,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/README.md",
+      "description": "Wear and unlock skins on Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-30T16:28:43.179Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "mod",
+        "videogames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-04-30T16:28:38.769Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "bas080/breasy",
       "author": "bas080",
@@ -68,34 +379,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-04-23T22:05:37.729Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/moreblocks",
       "author": "minetest-mods",
@@ -124,35 +407,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 15,
-      "forks": 14,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-04-21T09:57:31.662Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "kmdev/coins",
       "author": "kmdev",
@@ -178,36 +432,6 @@
         "luanti-mod"
       ],
       "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/audio_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png",
-      "website": "",
-      "repo_name": "audio_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/audio_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/README.md",
-      "description": "Luanti library to easily manage audio files",
-      "default_branch": "main",
-      "updated_at": "2026-04-19T19:08:53.033Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "api",
-        "library",
-        "minetest",
-        "sound"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -397,34 +621,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/country_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png",
-      "website": "",
-      "repo_name": "country_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/country_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/README.md",
-      "description": "small util library for Luanti, providing country localised names and flags",
-      "default_branch": "main",
-      "updated_at": "2026-04-16T06:19:20.545Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "api",
-        "library"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "MatyasP/cobanisters",
       "author": "MatyasP",
@@ -477,119 +673,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/hub",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png",
-      "website": "",
-      "repo_name": "Hub",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/hub",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/hub/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
-      "description": "A mod to easily manage your minigames server on Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-04-14T08:22:11.020Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/achievements_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/20515418/achievements.png",
-      "website": "",
-      "repo_name": "achievements_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/achievements_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/achievements_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 5,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/achievements_lib/-/archive/master/achievements_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/README.md",
-      "description": "Achievements API for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-04-14T07:54:48.848Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/whitelist",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/21154006/whitelist-icon.png",
-      "website": "",
-      "repo_name": "Whitelist",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/whitelist",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 3,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/archive/master/whitelist.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/README.md",
-      "description": "Filter who can enter a Luanti server and who can't through a whitelist",
-      "default_branch": "master",
-      "updated_at": "2026-04-14T07:24:06.647Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/weapons_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png",
-      "website": "",
-      "repo_name": "weapons_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
-      "description": "Luanti library to easily register new weapons",
-      "default_branch": "main",
-      "updated_at": "2026-04-14T07:20:23.700Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "api",
-        "library",
-        "minetest",
-        "weapons"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -926,33 +1009,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/parties",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/19639678/party.png",
-      "website": "",
-      "repo_name": "Parties",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/parties",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/parties/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/parties/-/archive/master/parties.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/README.md",
-      "description": "Minimalist party mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-04-01T17:57:32.350Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Github",
       "full_name": "bas080/breasy_player",
       "author": "bas080",
@@ -1029,34 +1085,6 @@
       "image_raw": "https://raw.githubusercontent.com/bas080/at/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/at/master/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/collectible-skins",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png",
-      "website": "",
-      "repo_name": "Collectible skins",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/issues",
-      "open_issues": 0,
-      "stars": 2,
-      "forks": 3,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/README.md",
-      "description": "Wear and unlock skins on Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-03-31T15:07:38.583Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "mod",
-        "videogames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1248,34 +1276,6 @@
       ],
       "image_raw": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/magic-compass",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png",
-      "website": "",
-      "repo_name": "Magic Compass",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/magic-compass",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/archive/master/magic-compass.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/README.md",
-      "description": "Teleport system for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-03-15T00:45:29.527Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest",
-        "mod"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1717,5 +1717,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-04-30T14:24:07Z"
+  "now": "2026-04-30T16:47:42Z"
 }
