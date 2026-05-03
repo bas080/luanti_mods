@@ -16,7 +16,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-05-03T09:19:04.845Z",
+      "updated_at": "2026-05-03T13:10:06.020Z",
       "license": {
         "name": "Unknown"
       },
@@ -527,7 +527,7 @@
       "repo_name": "digistuff",
       "html_url": "https://github.com/mt-mods/digistuff",
       "issues_url": "https://github.com/mt-mods/digistuff/issues",
-      "open_issues": 15,
+      "open_issues": 17,
       "stars": 3,
       "forks": 12,
       "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
@@ -1718,5 +1718,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-03T11:57:43Z"
+  "now": "2026-05-03T13:49:28Z"
 }
