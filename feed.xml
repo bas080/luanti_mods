@@ -11,22 +11,22 @@
   </image>
 
   <item>
-    <title>place_names (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/place_names</link>
-    <guid>https://github.com/bas080/place_names</guid>
-    <author>bas080</author>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Luanti Mod that adds command to create, edit place names that are visible on player hud.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-03T21:26:55Z</pubDate>
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-04T08:18:39.936Z</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>
@@ -44,25 +44,25 @@
 
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-05-03T18:24:48.824Z</pubDate>
+    <pubDate>2026-05-04T07:48:17.376Z</pubDate>
   </item>
   <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
+    <title>place_names (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/place_names</link>
+    <guid>https://github.com/bas080/place_names</guid>
+    <author>bas080</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Luanti Mod that adds command to create, edit place names that are visible on player hud.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-03T17:36:52.789Z</pubDate>
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-03T21:26:55Z</pubDate>
   </item>
   <item>
     <title>balls (Codeberg)</title>
