@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "TheAirplaneMan/apm_dimensionpack",
+      "author": "TheAirplaneMan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/213837125?v=4",
+      "website": "",
+      "repo_name": "apm_dimensionpack",
+      "html_url": "https://github.com/TheAirplaneMan/apm_dimensionpack",
+      "issues_url": "https://github.com/TheAirplaneMan/apm_dimensionpack/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/TheAirplaneMan/apm_dimensionpack/archive/refs/heads/main/apm_dimensionpack.zip",
+      "description": "Random Dimensions for Minetest, why? I'm not sure.",
+      "default_branch": "main",
+      "updated_at": "2026-05-06T03:57:38Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "dimensions",
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "minecraft",
+        "minetest",
+        "minetest-game",
+        "minetest-mod",
+        "minetest-modding",
+        "modding",
+        "voxel",
+        "what-the-heck-is-a-luanti"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/TheAirplaneMan/apm_dimensionpack/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/TheAirplaneMan/apm_dimensionpack/main/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/weapons_lib",
       "author": "zughy-friends-minetest",
@@ -1225,32 +1263,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "bas080/register_timer",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "register_timer",
-      "html_url": "https://github.com/bas080/register_timer",
-      "issues_url": "https://github.com/bas080/register_timer/issues",
-      "open_issues": 1,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip",
-      "description": "Persistent timers for Luanti mods.",
-      "default_branch": "master",
-      "updated_at": "2026-03-26T11:41:48Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/register_timer/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/natural_habitat",
       "author": "Mish7913",
@@ -1718,5 +1730,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-05T23:13:29Z"
+  "now": "2026-05-06T04:05:49Z"
 }
