@@ -565,7 +565,7 @@
       "repo_name": "digistuff",
       "html_url": "https://github.com/mt-mods/digistuff",
       "issues_url": "https://github.com/mt-mods/digistuff/issues",
-      "open_issues": 17,
+      "open_issues": 18,
       "stars": 3,
       "forks": 12,
       "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
@@ -1730,5 +1730,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-08T22:11:30Z"
+  "now": "2026-05-08T23:12:08Z"
 }
