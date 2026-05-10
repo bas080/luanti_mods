@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>digilines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/digilines</link>
+    <guid>https://github.com/minetest-mods/digilines</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Digilines is a mod for Luanti&#x2F;Minetest which adds data bus wires<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/digilines/archive/refs/heads/master/digilines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-10T13:58:00Z</pubDate>
+  </item>
+  <item>
     <title>drawers (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
     <guid>https://github.com/minetest-mods/drawers</guid>
@@ -765,24 +783,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-28T20:30:57Z</pubDate>
-  </item>
-  <item>
-    <title>mtpaint (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/mtpaint</link>
-    <guid>https://github.com/bas080/mtpaint</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Paint like you would in paint, but in 3d.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-27T09:54:46Z</pubDate>
   </item>
   <item>
     <title>Whoopsy Cushion (Gitlab)</title>

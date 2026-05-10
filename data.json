@@ -2,6 +2,35 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/digilines",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "",
+      "repo_name": "digilines",
+      "html_url": "https://github.com/minetest-mods/digilines",
+      "issues_url": "https://github.com/minetest-mods/digilines/issues",
+      "open_issues": 15,
+      "stars": 44,
+      "forks": 43,
+      "zip_url": "https://github.com/minetest-mods/digilines/archive/refs/heads/master/digilines.zip",
+      "description": "Digilines is a mod for Luanti/Minetest which adds data bus wires",
+      "default_branch": "master",
+      "updated_at": "2026-05-10T13:58:00Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "communication-systems",
+        "logic",
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digilines/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "minetest-mods/drawers",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -1207,32 +1236,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "bas080/mtpaint",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=5674",
-      "repo_name": "mtpaint",
-      "html_url": "https://github.com/bas080/mtpaint",
-      "issues_url": "https://github.com/bas080/mtpaint/issues",
-      "open_issues": 4,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://github.com/bas080/mtpaint/archive/refs/heads/master/mtpaint.zip",
-      "description": "Paint like you would in paint, but in 3d.",
-      "default_branch": "master",
-      "updated_at": "2026-03-27T09:54:46Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/mtpaint/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/mtpaint/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "krabNchous/whoopsy-cushion",
       "author": "krabNchous",
@@ -1730,5 +1733,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-10T13:56:18Z"
+  "now": "2026-05-10T15:13:57Z"
 }
