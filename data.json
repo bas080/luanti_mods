@@ -428,7 +428,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/balls/raw/master/README.md",
       "description": "A Luanti mod that adds balls",
       "default_branch": "master",
-      "updated_at": "2026-05-02T03:57:25+02:00",
+      "updated_at": "2026-05-02T01:57:25Z",
       "license": {
         "name": "Unknown"
       },
@@ -639,7 +639,7 @@
       "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
       "description": "A mod for Luanti that adds coins in to the game",
       "default_branch": "main",
-      "updated_at": "2026-04-19T21:57:33+02:00",
+      "updated_at": "2026-04-19T19:57:33Z",
       "license": {
         "name": "Unknown"
       },
@@ -667,7 +667,7 @@
       "readme_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/README.md",
       "description": "This mod add soups to Mineclonia",
       "default_branch": "master",
-      "updated_at": "2026-04-18T23:28:29+02:00",
+      "updated_at": "2026-04-18T21:28:29Z",
       "license": {
         "name": "Unknown"
       },
@@ -726,7 +726,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
       "description": "A circuitry mod for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-04-17T16:45:38+02:00",
+      "updated_at": "2026-04-17T14:45:38Z",
       "license": {
         "name": "Unknown"
       },
@@ -756,7 +756,7 @@
       "readme_url": "https://codeberg.org/MatyasP/cobanisters/raw/main/README.md",
       "description": "Colorable banisters - mod for Luanti",
       "default_branch": "main",
-      "updated_at": "2026-04-15T23:40:50+02:00",
+      "updated_at": "2026-04-15T21:40:50Z",
       "license": {
         "name": "Unknown"
       },
@@ -839,7 +839,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
       "description": "A mod that adds energy drinks to the luanti game engine.",
       "default_branch": "main",
-      "updated_at": "2026-04-12T03:44:24+02:00",
+      "updated_at": "2026-04-12T01:44:24Z",
       "license": {
         "name": "Unknown"
       },
@@ -897,7 +897,7 @@
       "readme_url": "https://codeberg.org/kmdev/digital_storage/raw/main/README.md",
       "description": "A Luanti mod that brings Digital Storage to the game. Inspired by Refined Storage",
       "default_branch": "main",
-      "updated_at": "2026-04-06T18:20:23+02:00",
+      "updated_at": "2026-04-06T16:20:23Z",
       "license": {
         "name": "Unknown"
       },
@@ -1371,7 +1371,7 @@
       "readme_url": "https://codeberg.org/TPH/events_api/raw/master/README.md",
       "description": "API for creating, handling, and permitting function registration calls for custom events for Luanti/Minetest",
       "default_branch": "master",
-      "updated_at": "2026-02-12T01:04:25+01:00",
+      "updated_at": "2026-02-12T00:04:25Z",
       "license": {
         "name": "Unknown"
       },
@@ -1402,7 +1402,7 @@
       "readme_url": "https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/README.md",
       "description": "Fork of the Luanti mod \"dungeonsplus\" with a few customizations",
       "default_branch": "root",
-      "updated_at": "2026-02-07T22:57:45+01:00",
+      "updated_at": "2026-02-07T21:57:45Z",
       "license": {
         "name": "Unknown"
       },
@@ -1431,7 +1431,7 @@
       "readme_url": "https://codeberg.org/TPH/exile_songs/raw/master/README.md",
       "description": "Plays songs in the background while you play Exile :3",
       "default_branch": "master",
-      "updated_at": "2025-12-17T16:44:57+01:00",
+      "updated_at": "2025-12-17T15:44:57Z",
       "license": {
         "name": "Unknown"
       },
@@ -1463,7 +1463,7 @@
       "readme_url": "https://codeberg.org/Codiac/drawers/raw/master/README.md",
       "description": "Fork of https://github.com/minetest-mods/drawers.git",
       "default_branch": "master",
-      "updated_at": "2025-12-16T12:46:49+01:00",
+      "updated_at": "2025-12-16T11:46:49Z",
       "license": {
         "name": "Unknown"
       },
@@ -1492,7 +1492,7 @@
       "readme_url": "https://codeberg.org/Codiac/alone/raw/main/README.md",
       "description": "A Luanti mod to disperse players around the world.",
       "default_branch": "main",
-      "updated_at": "2025-12-15T07:02:28+01:00",
+      "updated_at": "2025-12-15T06:02:28Z",
       "license": {
         "name": "Unknown"
       },
@@ -1521,7 +1521,7 @@
       "readme_url": "https://codeberg.org/yof/ejection/raw/main/README.md",
       "description": "Luanti movement mod.",
       "default_branch": "main",
-      "updated_at": "2025-10-28T12:08:38+01:00",
+      "updated_at": "2025-10-28T11:08:38Z",
       "license": {
         "name": "Unknown"
       },
@@ -1548,7 +1548,7 @@
       "readme_url": "https://codeberg.org/JetpackJackson/avantisavoia/raw/main/README.md",
       "description": "A mod for Luanti that adds various WW1-related weapons, tools, and structures.",
       "default_branch": "main",
-      "updated_at": "2025-10-16T22:39:28+02:00",
+      "updated_at": "2025-10-16T20:39:28Z",
       "license": {
         "name": "Unknown"
       },
@@ -1575,7 +1575,7 @@
       "readme_url": "https://codeberg.org/Skivling/DrWho_Tardis/raw/main/README.md",
       "description": "A Doctor Who themed Luanti mod that adds various items and nodes, including a working TARDIS. Forked from https://github.com/PiDemon/Taridis_New , which is unmaintained. ",
       "default_branch": "main",
-      "updated_at": "2025-08-22T11:53:05+02:00",
+      "updated_at": "2025-08-22T09:53:05Z",
       "license": {
         "name": "Unknown"
       },
@@ -1607,7 +1607,7 @@
       "readme_url": "https://codeberg.org/SilverSandstone/advtrains_horntrack/raw/main/README.md",
       "description": "Adds a track for automatically activating train horns in Luanti.",
       "default_branch": "main",
-      "updated_at": "2025-08-21T07:26:08+02:00",
+      "updated_at": "2025-08-21T05:26:08Z",
       "license": {
         "name": "Unknown"
       },
@@ -1635,7 +1635,7 @@
       "readme_url": "https://codeberg.org/Codiac/copper_pipes/raw/main/README.md",
       "description": "Replaces blocks and plastic tubes in Pipeworks with copper versions",
       "default_branch": "main",
-      "updated_at": "2025-07-17T03:37:15+02:00",
+      "updated_at": "2025-07-17T01:37:15Z",
       "license": {
         "name": "Unknown"
       },
@@ -1664,7 +1664,7 @@
       "readme_url": "https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/README.md",
       "description": "Luanti Mod that uses epoxy from techage to create colored concrete blocks.",
       "default_branch": "master",
-      "updated_at": "2025-03-18T19:28:17+01:00",
+      "updated_at": "2025-03-18T18:28:17Z",
       "license": {
         "name": "Unknown"
       },
@@ -1692,7 +1692,7 @@
       "readme_url": "https://codeberg.org/SilverSandstone/blockhead/raw/main/README.md",
       "description": "Lets you put a block on your head in Luanti.",
       "default_branch": "main",
-      "updated_at": "2024-11-28T14:59:54+01:00",
+      "updated_at": "2024-11-28T13:59:54Z",
       "license": {
         "name": "Unknown"
       },
@@ -1719,7 +1719,7 @@
       "readme_url": "https://codeberg.org/Desour/bed_rock/raw/master/README.md",
       "description": "Luanti mod for a rock that you can use as bed",
       "default_branch": "master",
-      "updated_at": "2024-11-18T08:52:38+01:00",
+      "updated_at": "2024-11-18T07:52:38Z",
       "license": {
         "name": "Unknown"
       },
@@ -1733,5 +1733,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-15T23:13:39Z"
+  "now": "2026-05-16T04:02:12Z"
 }
