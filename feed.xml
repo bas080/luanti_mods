@@ -11,22 +11,22 @@
   </image>
 
   <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
+    <title>wrench (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/wrench</link>
+    <guid>https://github.com/mt-mods/wrench</guid>
+    <author>mt-mods</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      The wrench tool allows you to pick up nodes with inventories or other metadata, such as chests, signs, drawers, machines, etc, and transport them intact to another location.<br>
+      License: Other<br>
+      <a href="https://github.com/mt-mods/wrench/archive/refs/heads/master/wrench.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-16T16:01:37.936Z</pubDate>
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-17T13:13:28Z</pubDate>
   </item>
   <item>
     <title>balls (Codeberg)</title>
@@ -44,7 +44,25 @@
 
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-16T12:36:18Z</pubDate>
+    <pubDate>2026-05-17T12:58:32Z</pubDate>
+  </item>
+  <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-16T16:01:37.936Z</pubDate>
   </item>
   <item>
     <title>drawers (Github)</title>
@@ -765,24 +783,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/worldedge/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/worldedge/master/screenshot.png" type="image/png" />
     <pubDate>2026-03-29T08:04:58Z</pubDate>
-  </item>
-  <item>
-    <title>wrench (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#mt-mods/wrench</link>
-    <guid>https://github.com/mt-mods/wrench</guid>
-    <author>mt-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>mt-mods</strong><br>
-      The wrench tool allows you to pick up nodes with inventories or other metadata, such as chests, signs, drawers, machines, etc, and transport them intact to another location.<br>
-      License: Other<br>
-      <a href="https://github.com/mt-mods/wrench/archive/refs/heads/master/wrench.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" type="image/png" />
-    <pubDate>2026-03-28T20:30:57Z</pubDate>
   </item>
   <item>
     <title>Whoopsy Cushion (Gitlab)</title>
