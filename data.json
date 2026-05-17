@@ -833,9 +833,9 @@
       "repo_name": "nether",
       "html_url": "https://github.com/minetest-mods/nether",
       "issues_url": "https://github.com/minetest-mods/nether/issues",
-      "open_issues": 6,
+      "open_issues": 7,
       "stars": 24,
-      "forks": 26,
+      "forks": 27,
       "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
       "description": "Nether mod for Luanti/Minetest",
       "default_branch": "master",
@@ -1733,5 +1733,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-17T13:57:12Z"
+  "now": "2026-05-17T15:17:11Z"
 }
