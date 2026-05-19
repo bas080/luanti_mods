@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "sfan5/luanti-developerconsole",
+      "author": "sfan5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1042418?v=4",
+      "website": "",
+      "repo_name": "luanti-developerconsole",
+      "html_url": "https://github.com/sfan5/luanti-developerconsole",
+      "issues_url": "https://github.com/sfan5/luanti-developerconsole/issues",
+      "open_issues": 0,
+      "stars": 3,
+      "forks": 0,
+      "zip_url": "https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip",
+      "description": "Web-based REPL for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-19T12:38:00Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "lichenseed/pluton_mapgen",
       "author": "lichenseed",
@@ -881,33 +908,6 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "sfan5/luanti-developerconsole",
-      "author": "sfan5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1042418?v=4",
-      "website": "",
-      "repo_name": "luanti-developerconsole",
-      "html_url": "https://github.com/sfan5/luanti-developerconsole",
-      "issues_url": "https://github.com/sfan5/luanti-developerconsole/issues",
-      "open_issues": 0,
-      "stars": 2,
-      "forks": 0,
-      "zip_url": "https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip",
-      "description": "Web-based REPL for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-04-14T20:26:44Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
       "full_name": "minetest-mods/nether",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -1753,5 +1753,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-19T12:20:13Z"
+  "now": "2026-05-19T16:31:14Z"
 }
