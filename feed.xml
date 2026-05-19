@@ -26,7 +26,7 @@
 
     <media:thumbnail url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-19T12:38:00Z</pubDate>
+    <pubDate>2026-05-19T17:31:24Z</pubDate>
   </item>
   <item>
     <title>Plutón Mapgen (Gitlab)</title>
@@ -45,24 +45,6 @@
     <media:thumbnail url="https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-05-19T03:49:53.060Z</pubDate>
-  </item>
-  <item>
-    <title>Plutón Mapgen-deletion_scheduled-82324310 (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#lichenseedovercrown/pluton_mapgen-deletion_scheduled-82324310</link>
-    <guid>https://gitlab.com/lichenseedovercrown/pluton_mapgen-deletion_scheduled-82324310</guid>
-    <author>lichenseedovercrown</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/82324310/pluto_planet_cinematic_shot_dy.jpeg" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>lichenseedovercrown</strong><br>
-      En este mod para Minetest Game, el contraste entre el terreno helado, los volcanes y ese cielo negro estrellado permanente captura a la perfección la atmósfera desolada y misteriosa de Plutón. La baja gravedad le debe dar el toque final a la jugabilidad.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/lichenseedovercrown/pluton_mapgen-deletion_scheduled-82324310/-/archive/main/pluton_mapgen-deletion_scheduled-82324310.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/lichenseedovercrown/pluton_mapgen-deletion_scheduled-82324310/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/lichenseedovercrown/pluton_mapgen-deletion_scheduled-82324310/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/lichenseedovercrown/pluton_mapgen-deletion_scheduled-82324310/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-05-19T01:58:44.742Z</pubDate>
   </item>
   <item>
     <title>balls (Codeberg)</title>
@@ -855,6 +837,24 @@
     <media:thumbnail url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T23:59:02.720Z</pubDate>
+  </item>
+  <item>
+    <title>Warp Portal (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Mish7913/warp-portal</link>
+    <guid>https://gitlab.com/Mish7913/warp-portal</guid>
+    <author>Mish7913</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/78029762/warp_portal.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/warp-portal/-/archive/main/warp-portal.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-03-02T11:15:14.285Z</pubDate>
   </item>
   <item>
     <title>events_api (Codeberg)</title>
