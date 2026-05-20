@@ -820,7 +820,7 @@
       "html_url": "https://codeberg.org/Sheriff_U3/circuits",
       "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
       "open_issues": 0,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
       "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
@@ -838,7 +838,7 @@
         "minetest-modpack"
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
-      "has_stats": false
+      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1744,5 +1744,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-20T12:03:29Z"
+  "now": "2026-05-20T15:56:31Z"
 }
