@@ -1,6 +1,90 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "kmdev/coins",
+      "author": "kmdev",
+      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
+      "website": "",
+      "repo_name": "coins",
+      "html_url": "https://codeberg.org/kmdev/coins",
+      "issues_url": "https://codeberg.org/kmdev/coins/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip",
+      "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
+      "description": "A mod for Luanti that adds coins in to the game",
+      "default_branch": "main",
+      "updated_at": "2026-05-20T22:58:12+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/hub",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png",
+      "website": "",
+      "repo_name": "Hub",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/hub",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/hub/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
+      "description": "A mod to easily manage your minigames server on Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-20T20:15:44.203Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-20T20:12:33.106Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "sfan5/luanti-developerconsole",
       "author": "sfan5",
@@ -129,34 +213,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/mt-mods/wrench/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-05-16T16:01:37.936Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -601,34 +657,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/hub",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png",
-      "website": "",
-      "repo_name": "Hub",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/hub",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/hub/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
-      "description": "A mod to easily manage your minigames server on Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-04-30T16:28:53.312Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Github",
       "full_name": "bas080/breasy",
       "author": "bas080",
@@ -721,34 +749,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "kmdev/coins",
-      "author": "kmdev",
-      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
-      "website": "",
-      "repo_name": "coins",
-      "html_url": "https://codeberg.org/kmdev/coins",
-      "issues_url": "https://codeberg.org/kmdev/coins/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip",
-      "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
-      "description": "A mod for Luanti that adds coins in to the game",
-      "default_branch": "main",
-      "updated_at": "2026-04-19T21:57:33+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -1744,5 +1744,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-20T18:31:12Z"
+  "now": "2026-05-20T21:13:21Z"
 }
