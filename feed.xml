@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>Talk with core (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#lichenseed/talk-with-core</link>
+    <guid>https://gitlab.com/lichenseed/talk-with-core</guid>
+    <author>lichenseed</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/82489096/yellow_gem_floating_around_cos.jpeg" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>lichenseed</strong><br>
+      A secure, hardened mathematical engine and chat terminal mod for Luanti (formerly Minetest). This mod introduces an in-game terminal item that allows players to communicate with an AI-themed mathematical &quot;Core&quot; capable of solving complex algebraic expressions, precalculus functions, and equations using numeric methods directly inside the game environment.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/lichenseed/talk-with-core/-/archive/main/talk-with-core.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-05-23T21:02:03.188Z</pubDate>
+  </item>
+  <item>
     <title>coins (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#kmdev/coins</link>
     <guid>https://codeberg.org/kmdev/coins</guid>
@@ -837,24 +855,6 @@
     <media:thumbnail url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-21T23:59:02.720Z</pubDate>
-  </item>
-  <item>
-    <title>Warp Portal (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Mish7913/warp-portal</link>
-    <guid>https://gitlab.com/Mish7913/warp-portal</guid>
-    <author>Mish7913</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/78029762/warp_portal.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      Mod for Luanti games.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/warp-portal/-/archive/main/warp-portal.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-02T11:15:14.285Z</pubDate>
   </item>
   <item>
     <title>events_api (Codeberg)</title>
