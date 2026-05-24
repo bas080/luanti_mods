@@ -2,6 +2,40 @@
   "items": [
     {
       "hosted_on": "Gitlab",
+      "full_name": "lichenseed/portable-calculator",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png",
+      "website": "",
+      "repo_name": "Simple Calculator",
+      "html_url": "https://gitlab.com/lichenseed/portable-calculator",
+      "issues_url": "https://gitlab.com/lichenseed/portable-calculator/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/portable-calculator/-/archive/main/portable-calculator.zip",
+      "readme_url": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/README.md",
+      "description": "Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.",
+      "default_branch": "main",
+      "updated_at": "2026-05-23T23:44:08.554Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "ai-assisted-development",
+        "calculator",
+        "gamemodding",
+        "lua",
+        "minetest",
+        "minetest mod",
+        "mod",
+        "vibecoded"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
       "full_name": "lichenseed/talk-with-core",
       "author": "lichenseed",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82489096/yellow_gem_floating_around_cos.jpeg",
@@ -1359,34 +1393,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "Mish7913/natural_habitat",
-      "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png",
-      "website": "",
-      "repo_name": "Natural Habitat",
-      "html_url": "https://gitlab.com/Mish7913/natural_habitat",
-      "issues_url": "https://gitlab.com/Mish7913/natural_habitat/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip",
-      "readme_url": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/README.md",
-      "description": "Mod for \"Minetest Game\" and \"MineClonia\".",
-      "default_branch": "main",
-      "updated_at": "2026-03-21T23:59:02.720Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "mod",
-        "nature"
-      ],
-      "image_raw": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "TPH/events_api",
       "author": "TPH",
@@ -1764,5 +1770,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-23T23:11:26Z"
+  "now": "2026-05-24T00:14:00Z"
 }

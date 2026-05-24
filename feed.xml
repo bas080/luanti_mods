@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>Simple Calculator (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#lichenseed/portable-calculator</link>
+    <guid>https://gitlab.com/lichenseed/portable-calculator</guid>
+    <author>lichenseed</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>lichenseed</strong><br>
+      Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/lichenseed/portable-calculator/-/archive/main/portable-calculator.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-05-23T23:44:08.554Z</pubDate>
+  </item>
+  <item>
     <title>Talk with core (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#lichenseed/talk-with-core</link>
     <guid>https://gitlab.com/lichenseed/talk-with-core</guid>
@@ -837,24 +855,6 @@
     <media:thumbnail url="https://gitlab.com/krabNchous/whoopsy-cushion/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/krabNchous/whoopsy-cushion/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-03-26T13:39:36.697Z</pubDate>
-  </item>
-  <item>
-    <title>Natural Habitat (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Mish7913/natural_habitat</link>
-    <guid>https://gitlab.com/Mish7913/natural_habitat</guid>
-    <author>Mish7913</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      Mod for &quot;Minetest Game&quot; and &quot;MineClonia&quot;.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-03-21T23:59:02.720Z</pubDate>
   </item>
   <item>
     <title>events_api (Codeberg)</title>
