@@ -2,6 +2,38 @@
   "items": [
     {
       "hosted_on": "Gitlab",
+      "full_name": "lichenseed/portable-console-snake",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82492635/Glen_Keane_character_concept_a.jpeg",
+      "website": "",
+      "repo_name": "Snake in Minetest",
+      "html_url": "https://gitlab.com/lichenseed/portable-console-snake",
+      "issues_url": "https://gitlab.com/lichenseed/portable-console-snake/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/portable-console-snake/-/archive/main/portable-console-snake.zip",
+      "readme_url": "https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/README.md",
+      "description": "Running Snake in Minetest Game.",
+      "default_branch": "main",
+      "updated_at": "2026-05-24T00:28:07.014Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "gui",
+        "lua",
+        "minetest",
+        "mod",
+        "snake-game",
+        "vibecoded"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
       "full_name": "lichenseed/portable-calculator",
       "author": "lichenseed",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png",
@@ -25,6 +57,7 @@
         "ai-assisted-development",
         "calculator",
         "gamemodding",
+        "gui",
         "lua",
         "minetest",
         "minetest mod",
@@ -63,6 +96,7 @@
         "calculus",
         "chatbot",
         "gamemodding",
+        "gui",
         "local",
         "lua",
         "math",
@@ -374,7 +408,7 @@
       "issues_url": "https://github.com/minetest-mods/digilines/issues",
       "open_issues": 15,
       "stars": 44,
-      "forks": 43,
+      "forks": 42,
       "zip_url": "https://github.com/minetest-mods/digilines/archive/refs/heads/master/digilines.zip",
       "description": "Digilines is a mod for Luanti/Minetest which adds data bus wires",
       "default_branch": "master",
@@ -817,7 +851,7 @@
       "issues_url": "https://github.com/minetest-mods/moreblocks/issues",
       "open_issues": 24,
       "stars": 48,
-      "forks": 70,
+      "forks": 69,
       "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
       "description": "More Blocks",
       "default_branch": "master",
@@ -1363,36 +1397,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "krabNchous/whoopsy-cushion",
-      "author": "krabNchous",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/75547981/wc_main_leather.png",
-      "website": "",
-      "repo_name": "Whoopsy Cushion",
-      "html_url": "https://gitlab.com/krabNchous/whoopsy-cushion",
-      "issues_url": "https://gitlab.com/krabNchous/whoopsy-cushion/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 1,
-      "zip_url": "https://gitlab.com/krabNchous/whoopsy-cushion/-/archive/main/whoopsy-cushion.zip",
-      "readme_url": "https://gitlab.com/krabNchous/whoopsy-cushion/-/raw/main/README.md",
-      "description": "Adds a practical joke device (Whoopee Cushion) for your wild potty humor and hilarious fart jokes in Mineclonia game",
-      "default_branch": "main",
-      "updated_at": "2026-03-26T13:39:36.697Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "game",
-        "lua",
-        "mineclonia",
-        "mod"
-      ],
-      "image_raw": "https://gitlab.com/krabNchous/whoopsy-cushion/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "TPH/events_api",
       "author": "TPH",
@@ -1770,5 +1774,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-24T00:14:00Z"
+  "now": "2026-05-24T05:12:18Z"
 }
