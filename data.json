@@ -16,7 +16,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-05-25T19:30:44.629Z",
+      "updated_at": "2026-05-25T21:29:36.339Z",
       "license": {
         "name": "Unknown"
       },
@@ -44,7 +44,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
       "description": "Luanti library to easily register new weapons",
       "default_branch": "main",
-      "updated_at": "2026-05-24T23:04:15.473Z",
+      "updated_at": "2026-05-25T20:16:32.625Z",
       "license": {
         "name": "Unknown"
       },
@@ -371,7 +371,7 @@
       "repo_name": "drawers",
       "html_url": "https://github.com/minetest-mods/drawers",
       "issues_url": "https://github.com/minetest-mods/drawers/issues",
-      "open_issues": 26,
+      "open_issues": 27,
       "stars": 21,
       "forks": 29,
       "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
@@ -1774,5 +1774,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-25T19:58:38Z"
+  "now": "2026-05-25T21:33:31Z"
 }
