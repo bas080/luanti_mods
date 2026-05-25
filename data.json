@@ -16,7 +16,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-05-24T23:28:39.293Z",
+      "updated_at": "2026-05-25T13:49:38.289Z",
       "license": {
         "name": "Unknown"
       },
@@ -1700,7 +1700,7 @@
       "issues_url": "https://codeberg.org/somedumbguy/epoxied_concrete/issues",
       "open_issues": 0,
       "stars": 0,
-      "forks": 0,
+      "forks": 1,
       "zip_url": "https://codeberg.org/somedumbguy/epoxied_concrete/archive/refs/heads/master/epoxied_concrete.zip",
       "readme_url": "https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/README.md",
       "description": "Luanti Mod that uses epoxy from techage to create colored concrete blocks.",
@@ -1715,7 +1715,7 @@
         "techage"
       ],
       "image_raw": "https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png",
-      "has_stats": false
+      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1774,5 +1774,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-25T12:44:48Z"
+  "now": "2026-05-25T16:02:53Z"
 }
