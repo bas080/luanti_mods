@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>mod-asm_spawneggs (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#AntumMT/mod-asm_spawneggs</link>
+    <guid>https://github.com/AntumMT/mod-asm_spawneggs</guid>
+    <author>AntumMT</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>AntumMT</strong><br>
+      Spawneggs for adding entities to Luanti games.<br>
+      License: MIT License<br>
+      <a href="https://github.com/AntumMT/mod-asm_spawneggs/archive/refs/heads/master/mod-asm_spawneggs.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/AntumMT/mod-asm_spawneggs/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/AntumMT/mod-asm_spawneggs/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/AntumMT/mod-asm_spawneggs/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-28T22:53:20Z</pubDate>
+  </item>
+  <item>
+    <title>mod-asm_spawneggs (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#AntumMT/mod-asm_spawneggs</link>
+    <guid>https://gitlab.com/AntumMT/mod-asm_spawneggs</guid>
+    <author>AntumMT</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>AntumMT</strong><br>
+      Spawneggs for adding entities to Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/archive/master/mod-asm_spawneggs.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-28T22:53:18.123Z</pubDate>
+  </item>
+  <item>
     <title>technic_many_machines (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
     <guid>https://github.com/Opons1/technic_many_machines</guid>
@@ -153,42 +189,6 @@
     <media:thumbnail url="https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-05-27T01:41:34.329Z</pubDate>
-  </item>
-  <item>
-    <title>mod-asm_spawneggs (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#AntumMT/mod-asm_spawneggs</link>
-    <guid>https://github.com/AntumMT/mod-asm_spawneggs</guid>
-    <author>AntumMT</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>AntumMT</strong><br>
-      Spawneggs for adding entities to Luanti games.<br>
-      License: MIT License<br>
-      <a href="https://github.com/AntumMT/mod-asm_spawneggs/archive/refs/heads/master/mod-asm_spawneggs.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/AntumMT/mod-asm_spawneggs/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/AntumMT/mod-asm_spawneggs/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/AntumMT/mod-asm_spawneggs/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-27T00:06:59Z</pubDate>
-  </item>
-  <item>
-    <title>mod-asm_spawneggs (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#AntumMT/mod-asm_spawneggs</link>
-    <guid>https://gitlab.com/AntumMT/mod-asm_spawneggs</guid>
-    <author>AntumMT</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>AntumMT</strong><br>
-      Spawneggs for adding entities to Luanti games.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/archive/master/mod-asm_spawneggs.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-26T23:37:11.700Z</pubDate>
   </item>
   <item>
     <title>Block League (Gitlab)</title>
