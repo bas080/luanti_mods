@@ -600,7 +600,7 @@
       "repo_name": "drawers",
       "html_url": "https://github.com/minetest-mods/drawers",
       "issues_url": "https://github.com/minetest-mods/drawers/issues",
-      "open_issues": 27,
+      "open_issues": 28,
       "stars": 21,
       "forks": 29,
       "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
@@ -1785,5 +1785,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-29T19:40:27Z"
+  "now": "2026-05-29T22:04:37Z"
 }
