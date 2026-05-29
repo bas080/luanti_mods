@@ -1,6 +1,85 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "lichenseed/talk-with-core",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82489096/yellow_gem_floating_around_cos.jpeg",
+      "website": "",
+      "repo_name": "Talk with core",
+      "html_url": "https://gitlab.com/lichenseed/talk-with-core",
+      "issues_url": "https://gitlab.com/lichenseed/talk-with-core/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/talk-with-core/-/archive/main/talk-with-core.zip",
+      "readme_url": "https://gitlab.com/lichenseed/talk-with-core/-/raw/main/README.md",
+      "description": "A secure, hardened mathematical engine and chat terminal mod for Luanti (formerly Minetest). This mod introduces an in-game terminal item that allows players to communicate with an AI-themed mathematical \"Core\" capable of solving complex algebraic expressions, precalculus functions, and equations using numeric methods directly inside the game environment.",
+      "default_branch": "main",
+      "updated_at": "2026-05-29T16:37:27.943Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "AI",
+        "Luanti",
+        "ai-assisted-development",
+        "arithmetic",
+        "calculator",
+        "calculus",
+        "chatbot",
+        "gamemodding",
+        "gui",
+        "local",
+        "lua",
+        "math",
+        "mathematics",
+        "minetest",
+        "minetest mod",
+        "minetest-mod",
+        "minetestmod",
+        "modding",
+        "numerical mathematics",
+        "numerical methods",
+        "offline",
+        "offline tool",
+        "prototype",
+        "vibe-code",
+        "vibe-coding"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 15,
+      "forks": 14,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-05-29T15:14:44.611Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "AntumMT/mod-asm_spawneggs",
       "author": "AntumMT",
@@ -171,35 +250,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 15,
-      "forks": 14,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-05-27T20:26:28.390Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Github",
       "full_name": "AntumMT/mod-simple_models",
       "author": "AntumMT",
@@ -255,56 +305,6 @@
         "minetest mod"
       ],
       "image_raw": "https://gitlab.com/AntumMT/mod-simple_models/-/raw/master/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "lichenseed/talk-with-core",
-      "author": "lichenseed",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82489096/yellow_gem_floating_around_cos.jpeg",
-      "website": "",
-      "repo_name": "Talk with core",
-      "html_url": "https://gitlab.com/lichenseed/talk-with-core",
-      "issues_url": "https://gitlab.com/lichenseed/talk-with-core/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/lichenseed/talk-with-core/-/archive/main/talk-with-core.zip",
-      "readme_url": "https://gitlab.com/lichenseed/talk-with-core/-/raw/main/README.md",
-      "description": "A secure, hardened mathematical engine and chat terminal mod for Luanti (formerly Minetest). This mod introduces an in-game terminal item that allows players to communicate with an AI-themed mathematical \"Core\" capable of solving complex algebraic expressions, precalculus functions, and equations using numeric methods directly inside the game environment.",
-      "default_branch": "main",
-      "updated_at": "2026-05-27T01:41:34.329Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "AI",
-        "Luanti",
-        "ai-assisted-development",
-        "arithmetic",
-        "calculator",
-        "calculus",
-        "chatbot",
-        "gamemodding",
-        "gui",
-        "local",
-        "lua",
-        "math",
-        "mathematics",
-        "minetest",
-        "minetest mod",
-        "minetest-mod",
-        "minetestmod",
-        "modding",
-        "numerical mathematics",
-        "numerical methods",
-        "offline",
-        "offline tool",
-        "prototype",
-        "vibe-code",
-        "vibe-coding"
-      ],
-      "image_raw": "https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png",
       "has_stats": false
     },
     {
@@ -1785,5 +1785,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-29T12:27:16Z"
+  "now": "2026-05-29T16:53:19Z"
 }
