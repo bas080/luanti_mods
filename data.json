@@ -2,6 +2,69 @@
   "items": [
     {
       "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-29T19:26:25.051Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "lichenseed/portable-calculator",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png",
+      "website": "",
+      "repo_name": "Simple Calculator",
+      "html_url": "https://gitlab.com/lichenseed/portable-calculator",
+      "issues_url": "https://gitlab.com/lichenseed/portable-calculator/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/portable-calculator/-/archive/main/portable-calculator.zip",
+      "readme_url": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/README.md",
+      "description": "Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.",
+      "default_branch": "main",
+      "updated_at": "2026-05-29T16:58:16.526Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "ai-assisted-development",
+        "calculator",
+        "gamemodding",
+        "gui",
+        "lua",
+        "minetest",
+        "minetest mod",
+        "mod",
+        "vibecoded"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
       "full_name": "lichenseed/talk-with-core",
       "author": "lichenseed",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82489096/yellow_gem_floating_around_cos.jpeg",
@@ -309,34 +372,6 @@
     },
     {
       "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-05-26T09:15:02.649Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/weapons_lib",
       "author": "zughy-friends-minetest",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png",
@@ -395,41 +430,6 @@
         "vibecoded"
       ],
       "image_raw": "https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "lichenseed/portable-calculator",
-      "author": "lichenseed",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png",
-      "website": "",
-      "repo_name": "Simple Calculator",
-      "html_url": "https://gitlab.com/lichenseed/portable-calculator",
-      "issues_url": "https://gitlab.com/lichenseed/portable-calculator/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/lichenseed/portable-calculator/-/archive/main/portable-calculator.zip",
-      "readme_url": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/README.md",
-      "description": "Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.",
-      "default_branch": "main",
-      "updated_at": "2026-05-23T23:44:08.554Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "ai-assisted-development",
-        "calculator",
-        "gamemodding",
-        "gui",
-        "lua",
-        "minetest",
-        "minetest mod",
-        "mod",
-        "vibecoded"
-      ],
-      "image_raw": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png",
       "has_stats": false
     },
     {
@@ -1785,5 +1785,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-29T16:53:19Z"
+  "now": "2026-05-29T19:40:27Z"
 }
