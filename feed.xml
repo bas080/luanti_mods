@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>drawers (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
+    <guid>https://github.com/minetest-mods/drawers</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      [MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-30T11:37:27Z</pubDate>
+  </item>
+  <item>
     <title>circuits (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/circuits</link>
     <guid>https://github.com/Sheriff-Unit-3/circuits</guid>
@@ -405,24 +423,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" type="image/png" />
     <pubDate>2026-05-17T13:13:28Z</pubDate>
-  </item>
-  <item>
-    <title>drawers (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
-    <guid>https://github.com/minetest-mods/drawers</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      [MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-15T16:53:16Z</pubDate>
   </item>
   <item>
     <title>digilines (Github)</title>
