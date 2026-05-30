@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/circuits",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "https://codeberg.org/Sheriff_U3/circuits",
+      "repo_name": "circuits",
+      "html_url": "https://github.com/Sheriff-Unit-3/circuits",
+      "issues_url": "https://github.com/Sheriff-Unit-3/circuits/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip",
+      "description": "(Mirror) A circuitry mod for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-30T00:49:53Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "lua",
+        "luanti-mod",
+        "luanti-modpack",
+        "minetest",
+        "minetest-mod",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/toolranks",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "https://codeberg.org/Sheriff_U3/toolranks",
+      "repo_name": "toolranks",
+      "html_url": "https://github.com/Sheriff-Unit-3/toolranks",
+      "issues_url": "https://github.com/Sheriff-Unit-3/toolranks/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/toolranks/archive/refs/heads/main/toolranks.zip",
+      "description": "(Mirror) A tool rank mod for the voxel game engine luanti",
+      "default_branch": "main",
+      "updated_at": "2026-05-30T00:35:23Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/energy_drinks",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "https://codeberg.org/Sheriff_U3/energy_drinks",
+      "repo_name": "energy_drinks",
+      "html_url": "https://github.com/Sheriff-Unit-3/energy_drinks",
+      "issues_url": "https://github.com/Sheriff-Unit-3/energy_drinks/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
+      "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
+      "default_branch": "main",
+      "updated_at": "2026-05-30T00:34:54Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "launti",
+        "lua",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -919,32 +1010,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "bas080/breasy",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "breasy",
-      "html_url": "https://github.com/bas080/breasy",
-      "issues_url": "https://github.com/bas080/breasy/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/breasy/archive/refs/heads/master/breasy.zip",
-      "description": "A mod that will tell you what the wind is like at a position.",
-      "default_branch": "master",
-      "updated_at": "2026-04-28T12:01:16Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/breasy/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/breasy/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "lichenseedovercrown/fapti",
       "author": "lichenseedovercrown",
@@ -1355,59 +1420,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "bas080/luanti_utils",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "https://bas080.github.io/luanti_utils/",
-      "repo_name": "luanti_utils",
-      "html_url": "https://github.com/bas080/luanti_utils",
-      "issues_url": "https://github.com/bas080/luanti_utils/issues",
-      "open_issues": 2,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
-      "description": "High level Luanti lua modding utilities that will bring your mods to the next level.",
-      "default_branch": "master",
-      "updated_at": "2026-04-05T12:28:16Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "utility-library"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/breasy_particles",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "breasy_particles",
-      "html_url": "https://github.com/bas080/breasy_particles",
-      "issues_url": "https://github.com/bas080/breasy_particles/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/breasy_particles/archive/refs/heads/master/breasy_particles.zip",
-      "description": "Creates the effect of blizzards, sandstorms and leaves being ripped from trees.",
-      "default_branch": "master",
-      "updated_at": "2026-04-01T09:45:58Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/breasy_particles/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/breasy_particles/master/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "TPH/events_api",
       "author": "TPH",
@@ -1785,5 +1797,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-29T23:41:43Z"
+  "now": "2026-05-30T04:17:31Z"
 }
