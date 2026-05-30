@@ -9,13 +9,13 @@
       "repo_name": "drawers",
       "html_url": "https://github.com/minetest-mods/drawers",
       "issues_url": "https://github.com/minetest-mods/drawers/issues",
-      "open_issues": 29,
+      "open_issues": 28,
       "stars": 21,
       "forks": 30,
       "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
       "description": "[MTG/MCL2] A Luanti/Minetest Mod adding storage drawers in different sizes and wood types.",
       "default_branch": "master",
-      "updated_at": "2026-05-30T11:37:27Z",
+      "updated_at": "2026-05-30T12:46:34Z",
       "license": {
         "name": "Other"
       },
@@ -1797,5 +1797,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-30T12:16:11Z"
+  "now": "2026-05-30T14:47:34Z"
 }
