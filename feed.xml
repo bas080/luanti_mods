@@ -11,6 +11,60 @@
   </image>
 
   <item>
+    <title>balls (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/balls</link>
+    <guid>https://codeberg.org/Sheriff_U3/balls</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A Luanti mod that adds balls<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-31T20:10:30+02:00</pubDate>
+  </item>
+  <item>
+    <title>digilines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/digilines</link>
+    <guid>https://github.com/minetest-mods/digilines</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Digilines is a mod for Luanti&#x2F;Minetest which adds data bus wires<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/digilines/archive/refs/heads/master/digilines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-31T17:14:03Z</pubDate>
+  </item>
+  <item>
+    <title>drawers (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
+    <guid>https://github.com/minetest-mods/drawers</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      [MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
+    <pubDate>2026-05-31T17:09:31Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -63,24 +117,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
     <pubDate>2026-05-30T21:41:20Z</pubDate>
-  </item>
-  <item>
-    <title>drawers (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
-    <guid>https://github.com/minetest-mods/drawers</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      [MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-30T12:46:34Z</pubDate>
   </item>
   <item>
     <title>circuits (Github)</title>
@@ -389,24 +425,6 @@
     <pubDate>2026-05-19T03:49:53.060Z</pubDate>
   </item>
   <item>
-    <title>balls (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/balls</link>
-    <guid>https://codeberg.org/Sheriff_U3/balls</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A Luanti mod that adds balls<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-17T23:23:07+02:00</pubDate>
-  </item>
-  <item>
     <title>wrench (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#mt-mods/wrench</link>
     <guid>https://github.com/mt-mods/wrench</guid>
@@ -423,24 +441,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" type="image/png" />
     <pubDate>2026-05-17T13:13:28Z</pubDate>
-  </item>
-  <item>
-    <title>digilines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/digilines</link>
-    <guid>https://github.com/minetest-mods/digilines</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Digilines is a mod for Luanti&#x2F;Minetest which adds data bus wires<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/digilines/archive/refs/heads/master/digilines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-10T13:58:00Z</pubDate>
   </item>
   <item>
     <title>apm_dimensionpack (Github)</title>
