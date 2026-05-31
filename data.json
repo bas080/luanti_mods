@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "lichenseed/portable-calculator",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png",
+      "website": "",
+      "repo_name": "Simple Calculator",
+      "html_url": "https://gitlab.com/lichenseed/portable-calculator",
+      "issues_url": "https://gitlab.com/lichenseed/portable-calculator/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/portable-calculator/-/archive/main/portable-calculator.zip",
+      "readme_url": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/README.md",
+      "description": "Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.",
+      "default_branch": "main",
+      "updated_at": "2026-05-31T20:13:41.459Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "ai-assisted-development",
+        "calculator",
+        "gamemodding",
+        "gui",
+        "lua",
+        "minetest",
+        "minetest mod",
+        "mod",
+        "vibecoded"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/balls",
       "author": "Sheriff_U3",
@@ -29,6 +64,36 @@
         "wip"
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/handholds",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "https://codeberg.org/Sheriff_U3/handholds",
+      "repo_name": "handholds",
+      "html_url": "https://github.com/Sheriff-Unit-3/handholds",
+      "issues_url": "https://github.com/Sheriff-Unit-3/handholds/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/handholds/archive/refs/heads/master/handholds.zip",
+      "description": "(Mirror) Mountain climbing for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-31T18:58:09Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/README.md",
       "has_stats": false
     },
     {
@@ -269,41 +334,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "lichenseed/portable-calculator",
-      "author": "lichenseed",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png",
-      "website": "",
-      "repo_name": "Simple Calculator",
-      "html_url": "https://gitlab.com/lichenseed/portable-calculator",
-      "issues_url": "https://gitlab.com/lichenseed/portable-calculator/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/lichenseed/portable-calculator/-/archive/main/portable-calculator.zip",
-      "readme_url": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/README.md",
-      "description": "Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.",
-      "default_branch": "main",
-      "updated_at": "2026-05-29T16:58:16.526Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "ai-assisted-development",
-        "calculator",
-        "gamemodding",
-        "gui",
-        "lua",
-        "minetest",
-        "minetest mod",
-        "mod",
-        "vibecoded"
-      ],
-      "image_raw": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png",
       "has_stats": false
     },
     {
@@ -1394,32 +1424,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "bas080/small_fall",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "small_fall",
-      "html_url": "https://github.com/bas080/small_fall",
-      "issues_url": "https://github.com/bas080/small_fall/issues",
-      "open_issues": 3,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/small_fall/archive/refs/heads/master/small_fall.zip",
-      "description": "",
-      "default_branch": "master",
-      "updated_at": "2026-04-05T14:47:06Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/small_fall/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/small_fall/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "TPH/events_api",
       "author": "TPH",
@@ -1797,5 +1801,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-05-31T18:17:17Z"
+  "now": "2026-05-31T20:20:36Z"
 }
