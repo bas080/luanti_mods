@@ -11,6 +11,96 @@
   </image>
 
   <item>
+    <title>energy_drinks (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
+    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A mod that adds energy drinks to the luanti game engine.<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-01T23:26:06+02:00</pubDate>
+  </item>
+  <item>
+    <title>circuits (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/circuits</link>
+    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A circuitry mod for Luanti<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-01T23:24:39+02:00</pubDate>
+  </item>
+  <item>
+    <title>balls (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/balls</link>
+    <guid>https://codeberg.org/Sheriff_U3/balls</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A Luanti mod that adds balls<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-01T22:24:31+02:00</pubDate>
+  </item>
+  <item>
+    <title>energy_drinks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/energy_drinks</link>
+    <guid>https://github.com/Sheriff-Unit-3/energy_drinks</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A mod that adds energy drinks to the luanti game engine.<br>
+      License: MIT License<br>
+      <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-01T21:26:13Z</pubDate>
+  </item>
+  <item>
+    <title>circuits (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/circuits</link>
+    <guid>https://github.com/Sheriff-Unit-3/circuits</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A circuitry mod for Luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-01T21:24:39Z</pubDate>
+  </item>
+  <item>
     <title>handholds (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/handholds</link>
     <guid>https://github.com/Sheriff-Unit-3/handholds</guid>
@@ -26,7 +116,43 @@
 
     <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-01T15:36:46Z</pubDate>
+    <pubDate>2026-06-01T21:23:51Z</pubDate>
+  </item>
+  <item>
+    <title>arena_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library working as a core manager for any minigame you have in mind<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-01T21:16:35.773Z</pubDate>
+  </item>
+  <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-01T20:29:33.067Z</pubDate>
   </item>
   <item>
     <title>toolranks (Github)</title>
@@ -83,24 +209,6 @@
     <pubDate>2026-05-31T20:13:41.459Z</pubDate>
   </item>
   <item>
-    <title>balls (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/balls</link>
-    <guid>https://codeberg.org/Sheriff_U3/balls</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A Luanti mod that adds balls<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-31T20:10:30+02:00</pubDate>
-  </item>
-  <item>
     <title>digilines (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/digilines</link>
     <guid>https://github.com/minetest-mods/digilines</guid>
@@ -137,42 +245,6 @@
     <pubDate>2026-05-31T17:09:31Z</pubDate>
   </item>
   <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-31T14:46:10.444Z</pubDate>
-  </item>
-  <item>
-    <title>arena_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Luanti library working as a core manager for any minigame you have in mind<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-30T23:12:29.136Z</pubDate>
-  </item>
-  <item>
     <title>technic_many_machines (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
     <guid>https://github.com/Opons1/technic_many_machines</guid>
@@ -189,42 +261,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
     <pubDate>2026-05-30T21:41:20Z</pubDate>
-  </item>
-  <item>
-    <title>circuits (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/circuits</link>
-    <guid>https://github.com/Sheriff-Unit-3/circuits</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) A circuitry mod for Luanti<br>
-      License: Other<br>
-      <a href="https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-30T00:49:53Z</pubDate>
-  </item>
-  <item>
-    <title>energy_drinks (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/energy_drinks</link>
-    <guid>https://github.com/Sheriff-Unit-3/energy_drinks</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) A mod that adds energy drinks to the luanti game engine.<br>
-      License: MIT License<br>
-      <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
-    <pubDate>2026-05-30T00:34:54Z</pubDate>
   </item>
   <item>
     <title>Talk with core (Gitlab)</title>
@@ -713,24 +749,6 @@
     <pubDate>2026-04-18T07:18:32Z</pubDate>
   </item>
   <item>
-    <title>circuits (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/circuits</link>
-    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A circuitry mod for Luanti<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-17T16:45:38+02:00</pubDate>
-  </item>
-  <item>
     <title>cobanisters (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#MatyasP/cobanisters</link>
     <guid>https://codeberg.org/MatyasP/cobanisters</guid>
@@ -765,24 +783,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
     <pubDate>2026-04-12T22:50:47Z</pubDate>
-  </item>
-  <item>
-    <title>energy_drinks (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
-    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A mod that adds energy drinks to the luanti game engine.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-04-12T03:44:24+02:00</pubDate>
   </item>
   <item>
     <title>panel_lib (Gitlab)</title>
