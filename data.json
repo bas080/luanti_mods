@@ -1180,9 +1180,9 @@
       "repo_name": "moreblocks",
       "html_url": "https://github.com/minetest-mods/moreblocks",
       "issues_url": "https://github.com/minetest-mods/moreblocks/issues",
-      "open_issues": 24,
+      "open_issues": 25,
       "stars": 48,
-      "forks": 69,
+      "forks": 70,
       "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
       "description": "More Blocks",
       "default_branch": "master",
@@ -1801,5 +1801,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-02T11:42:25Z"
+  "now": "2026-06-02T16:54:57Z"
 }
