@@ -16,7 +16,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-06-03T11:54:58.517Z",
+      "updated_at": "2026-06-03T20:27:41.217Z",
       "license": {
         "name": "Unknown"
       },
@@ -26,6 +26,35 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 15,
+      "forks": 14,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-06-03T18:07:55.370Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -268,35 +297,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 15,
-      "forks": 14,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-06-01T21:16:35.773Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -1799,5 +1799,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-03T18:04:02Z"
+  "now": "2026-06-03T21:29:55Z"
 }
