@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/technic",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
+      "repo_name": "technic",
+      "html_url": "https://github.com/minetest-mods/technic",
+      "issues_url": "https://github.com/minetest-mods/technic/issues",
+      "open_issues": 65,
+      "stars": 152,
+      "forks": 156,
+      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
+      "description": "Technic mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-06-05T19:54:43Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/nether",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
+      "repo_name": "nether",
+      "html_url": "https://github.com/minetest-mods/nether",
+      "issues_url": "https://github.com/minetest-mods/nether/issues",
+      "open_issues": 6,
+      "stars": 24,
+      "forks": 27,
+      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
+      "description": "Nether mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-06-05T19:49:44Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod",
+        "nether"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -1345,34 +1400,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/nether",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
-      "repo_name": "nether",
-      "html_url": "https://github.com/minetest-mods/nether",
-      "issues_url": "https://github.com/minetest-mods/nether/issues",
-      "open_issues": 7,
-      "stars": 24,
-      "forks": 27,
-      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
-      "description": "Nether mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-04-12T22:50:47Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod",
-        "nether"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "kmdev/digital_storage",
       "author": "kmdev",
@@ -1425,32 +1452,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/bas080/vines/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/bas080/vines/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/little_lake",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "little_lake",
-      "html_url": "https://github.com/bas080/little_lake",
-      "issues_url": "https://github.com/bas080/little_lake/issues",
-      "open_issues": 2,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/little_lake/archive/refs/heads/master/little_lake.zip",
-      "description": "Simple mod that spawns little lakes in caves near the surface and on mountains.",
-      "default_branch": "master",
-      "updated_at": "2026-04-06T14:46:13Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/little_lake/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/little_lake/master/README.md",
       "has_stats": true
     },
     {
@@ -1799,5 +1800,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-05T18:10:15Z"
+  "now": "2026-06-05T20:14:02Z"
 }
