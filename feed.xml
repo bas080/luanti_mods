@@ -11,6 +11,60 @@
   </image>
 
   <item>
+    <title>mod-rocket (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#AntumMT/mod-rocket</link>
+    <guid>https://github.com/AntumMT/mod-rocket</guid>
+    <author>AntumMT</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>AntumMT</strong><br>
+      Space shuttle mod for Luanti.<br>
+      License: MIT License<br>
+      <a href="https://github.com/AntumMT/mod-rocket/archive/refs/heads/master/mod-rocket.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/AntumMT/mod-rocket/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/AntumMT/mod-rocket/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/AntumMT/mod-rocket/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-05T22:03:46Z</pubDate>
+  </item>
+  <item>
+    <title>technic_many_machines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
+    <guid>https://github.com/Opons1/technic_many_machines</guid>
+    <author>Opons1</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Opons1</strong><br>
+      <br>
+      License: Other<br>
+      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-05T21:36:21Z</pubDate>
+  </item>
+  <item>
+    <title>Luanti Rocket Mod (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#AntumMT/mod-rocket</link>
+    <guid>https://gitlab.com/AntumMT/mod-rocket</guid>
+    <author>AntumMT</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>AntumMT</strong><br>
+      Space shuttle mod for Luanti.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/AntumMT/mod-rocket/-/archive/master/mod-rocket.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/AntumMT/mod-rocket/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/AntumMT/mod-rocket/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/AntumMT/mod-rocket/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-05T21:29:53.138Z</pubDate>
+  </item>
+  <item>
     <title>technic (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
     <guid>https://github.com/minetest-mods/technic</guid>
@@ -315,24 +369,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
     <pubDate>2026-05-31T17:09:31Z</pubDate>
-  </item>
-  <item>
-    <title>technic_many_machines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
-    <guid>https://github.com/Opons1/technic_many_machines</guid>
-    <author>Opons1</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Opons1</strong><br>
-      <br>
-      License: Other<br>
-      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
-    <pubDate>2026-05-30T21:41:20Z</pubDate>
   </item>
   <item>
     <title>Talk with core (Gitlab)</title>
@@ -749,24 +785,6 @@
     <pubDate>2026-04-30T16:29:22.083Z</pubDate>
   </item>
   <item>
-    <title>Fapti (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#lichenseedovercrown/fapti</link>
-    <guid>https://gitlab.com/lichenseedovercrown/fapti</guid>
-    <author>lichenseedovercrown</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/81529651/Render.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>lichenseedovercrown</strong><br>
-      Integration of the character Jenny Belle (by SlipperyT) into Luanti Engine (Experimental). This script uses the Mobs Redo API to make the NPC work.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/lichenseedovercrown/fapti/-/archive/main/fapti.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/lichenseedovercrown/fapti/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-04-27T02:21:04.549Z</pubDate>
-  </item>
-  <item>
     <title>moreblocks (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/moreblocks</link>
     <guid>https://github.com/minetest-mods/moreblocks</guid>
@@ -855,24 +873,6 @@
     <media:thumbnail url="https://codeberg.org/kmdev/digital_storage/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/kmdev/digital_storage/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-04-06T18:20:23+02:00</pubDate>
-  </item>
-  <item>
-    <title>vines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/vines</link>
-    <guid>https://github.com/bas080/vines</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-06T15:01:51Z</pubDate>
   </item>
   <item>
     <title>events_api (Codeberg)</title>
