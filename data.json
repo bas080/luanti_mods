@@ -15,7 +15,7 @@
       "zip_url": "https://github.com/AntumMT/mod-rocket/archive/refs/heads/master/mod-rocket.zip",
       "description": "Space shuttle mod for Luanti.",
       "default_branch": "master",
-      "updated_at": "2026-06-05T22:03:46Z",
+      "updated_at": "2026-06-05T23:15:17Z",
       "license": {
         "name": "MIT License"
       },
@@ -27,6 +27,37 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/AntumMT/mod-rocket/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/AntumMT/mod-rocket/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumMT/mod-rocket",
+      "author": "AntumMT",
+      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
+      "website": "",
+      "repo_name": "Luanti Rocket Mod",
+      "html_url": "https://gitlab.com/AntumMT/mod-rocket",
+      "issues_url": "https://gitlab.com/AntumMT/mod-rocket/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumMT/mod-rocket/-/archive/master/mod-rocket.zip",
+      "readme_url": "https://gitlab.com/AntumMT/mod-rocket/-/raw/master/README.md",
+      "description": "Space shuttle mod for Luanti.",
+      "default_branch": "master",
+      "updated_at": "2026-06-05T23:15:15.937Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Luanti mod",
+        "Luanti-mod",
+        "minetest",
+        "minetest mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://gitlab.com/AntumMT/mod-rocket/-/raw/master/screenshot.png",
       "has_stats": false
     },
     {
@@ -55,37 +86,6 @@
       "image_raw": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "AntumMT/mod-rocket",
-      "author": "AntumMT",
-      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
-      "website": "",
-      "repo_name": "Luanti Rocket Mod",
-      "html_url": "https://gitlab.com/AntumMT/mod-rocket",
-      "issues_url": "https://gitlab.com/AntumMT/mod-rocket/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/AntumMT/mod-rocket/-/archive/master/mod-rocket.zip",
-      "readme_url": "https://gitlab.com/AntumMT/mod-rocket/-/raw/master/README.md",
-      "description": "Space shuttle mod for Luanti.",
-      "default_branch": "master",
-      "updated_at": "2026-06-05T21:29:53.138Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "Luanti mod",
-        "Luanti-mod",
-        "minetest",
-        "minetest mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://gitlab.com/AntumMT/mod-rocket/-/raw/master/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1792,5 +1792,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-05T22:35:11Z"
+  "now": "2026-06-06T00:19:42Z"
 }
