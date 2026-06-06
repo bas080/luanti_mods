@@ -2,32 +2,31 @@
   "items": [
     {
       "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/audio_lib",
+      "full_name": "zughy-friends-minetest/arena_lib",
       "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
       "website": "",
-      "repo_name": "audio_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/audio_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/issues",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
       "open_issues": 0,
-      "stars": 1,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/README.md",
-      "description": "Luanti library to easily manage audio files",
-      "default_branch": "main",
-      "updated_at": "2026-06-06T17:07:56.235Z",
+      "stars": 15,
+      "forks": 14,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-06-06T20:07:57.446Z",
       "license": {
         "name": "Unknown"
       },
       "topics": [
         "Luanti",
-        "api",
         "library",
         "minetest",
-        "sound"
+        "minigames"
       ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png",
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -46,7 +45,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-06-06T17:05:27.819Z",
+      "updated_at": "2026-06-06T18:51:52.514Z",
       "license": {
         "name": "Unknown"
       },
@@ -74,7 +73,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
       "description": "Luanti library to easily register new weapons",
       "default_branch": "main",
-      "updated_at": "2026-06-06T15:05:52.948Z",
+      "updated_at": "2026-06-06T18:51:36.007Z",
       "license": {
         "name": "Unknown"
       },
@@ -86,6 +85,36 @@
         "weapons"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/audio_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png",
+      "website": "",
+      "repo_name": "audio_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/audio_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/README.md",
+      "description": "Luanti library to easily manage audio files",
+      "default_branch": "main",
+      "updated_at": "2026-06-06T17:07:56.235Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library",
+        "minetest",
+        "sound"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -256,35 +285,6 @@
         "minetest"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 15,
-      "forks": 14,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-06-05T17:36:29.433Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -1792,5 +1792,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-06T18:39:37Z"
+  "now": "2026-06-06T20:35:04Z"
 }
