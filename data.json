@@ -2,6 +2,33 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/technic",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
+      "repo_name": "technic",
+      "html_url": "https://github.com/minetest-mods/technic",
+      "issues_url": "https://github.com/minetest-mods/technic/issues",
+      "open_issues": 64,
+      "stars": 152,
+      "forks": 156,
+      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
+      "description": "Technic mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-06-06T06:56:24Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "AntumMT/mod-rocket",
       "author": "AntumMT",
       "avatar_url": "https://avatars.githubusercontent.com/u/29534891?v=4",
@@ -15,7 +42,7 @@
       "zip_url": "https://github.com/AntumMT/mod-rocket/archive/refs/heads/master/mod-rocket.zip",
       "description": "Space shuttle mod for Luanti.",
       "default_branch": "master",
-      "updated_at": "2026-06-06T04:09:47Z",
+      "updated_at": "2026-06-06T05:45:59Z",
       "license": {
         "name": "MIT License"
       },
@@ -45,7 +72,7 @@
       "readme_url": "https://gitlab.com/AntumMT/mod-rocket/-/raw/master/README.md",
       "description": "Space shuttle mod for Luanti.",
       "default_branch": "master",
-      "updated_at": "2026-06-06T04:09:45.953Z",
+      "updated_at": "2026-06-06T05:19:57.279Z",
       "license": {
         "name": "Unknown"
       },
@@ -85,33 +112,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 65,
-      "stars": 152,
-      "forks": 156,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-06-05T19:54:43Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
       "has_stats": true
     },
     {
@@ -1792,5 +1792,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-06T05:04:46Z"
+  "now": "2026-06-06T08:02:45Z"
 }
