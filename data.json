@@ -16,7 +16,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-06-07T10:52:08.470Z",
+      "updated_at": "2026-06-07T14:13:54.335Z",
       "license": {
         "name": "Unknown"
       },
@@ -26,6 +26,64 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/pkarcs",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/TumeniNodes/pkarcs/",
+      "repo_name": "pkarcs",
+      "html_url": "https://github.com/minetest-mods/pkarcs",
+      "issues_url": "https://github.com/minetest-mods/pkarcs/issues",
+      "open_issues": 10,
+      "stars": 4,
+      "forks": 8,
+      "zip_url": "https://github.com/minetest-mods/pkarcs/archive/refs/heads/master/pkarcs.zip",
+      "description": "Adds arched doors and arched nodes",
+      "default_branch": "master",
+      "updated_at": "2026-06-07T13:39:34Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "building",
+        "lua",
+        "luanti-mod",
+        "luanti-modpack",
+        "minetest",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/pkarcs/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/technic",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
+      "repo_name": "technic",
+      "html_url": "https://github.com/minetest-mods/technic",
+      "issues_url": "https://github.com/minetest-mods/technic/issues",
+      "open_issues": 64,
+      "stars": 152,
+      "forks": 156,
+      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
+      "description": "Technic mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-06-07T12:03:34Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
       "has_stats": true
     },
     {
@@ -146,33 +204,6 @@
         "sound"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 64,
-      "stars": 152,
-      "forks": 156,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-06-06T06:56:24Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
       "has_stats": true
     },
     {
@@ -1368,33 +1399,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "SmallJoker/colored_names",
-      "author": "SmallJoker",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1497498?v=4",
-      "website": "",
-      "repo_name": "colored_names",
-      "html_url": "https://github.com/SmallJoker/colored_names",
-      "issues_url": "https://github.com/SmallJoker/colored_names/issues",
-      "open_issues": 0,
-      "stars": 3,
-      "forks": 1,
-      "zip_url": "https://github.com/SmallJoker/colored_names/archive/refs/heads/master/colored_names.zip",
-      "description": "Luanti/Minetest CSM: Colorized nicknames and mention marker",
-      "default_branch": "master",
-      "updated_at": "2026-04-18T07:18:32Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/SmallJoker/colored_names/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "MatyasP/cobanisters",
       "author": "MatyasP",
@@ -1796,5 +1800,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-07T12:01:59Z"
+  "now": "2026-06-07T14:19:40Z"
 }

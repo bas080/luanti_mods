@@ -26,7 +26,43 @@
 
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-07T10:52:08.470Z</pubDate>
+    <pubDate>2026-06-07T14:13:54.335Z</pubDate>
+  </item>
+  <item>
+    <title>pkarcs (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/pkarcs</link>
+    <guid>https://github.com/minetest-mods/pkarcs</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Adds arched doors and arched nodes<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/minetest-mods/pkarcs/archive/refs/heads/master/pkarcs.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-07T13:39:34Z</pubDate>
+  </item>
+  <item>
+    <title>technic (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
+    <guid>https://github.com/minetest-mods/technic</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Technic mod for Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-07T12:03:34Z</pubDate>
   </item>
   <item>
     <title>melterns (Github)</title>
@@ -99,24 +135,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-06-06T17:07:56.235Z</pubDate>
-  </item>
-  <item>
-    <title>technic (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
-    <guid>https://github.com/minetest-mods/technic</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Technic mod for Luanti&#x2F;Minetest<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-06T06:56:24Z</pubDate>
   </item>
   <item>
     <title>mod-rocket (Github)</title>
@@ -819,24 +837,6 @@
     <media:thumbnail url="https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-04-18T23:28:29+02:00</pubDate>
-  </item>
-  <item>
-    <title>colored_names (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#SmallJoker/colored_names</link>
-    <guid>https://github.com/SmallJoker/colored_names</guid>
-    <author>SmallJoker</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1497498?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>SmallJoker</strong><br>
-      Luanti&#x2F;Minetest CSM: Colorized nicknames and mention marker<br>
-      License: MIT License<br>
-      <a href="https://github.com/SmallJoker/colored_names/archive/refs/heads/master/colored_names.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png" type="image/png" />
-    <pubDate>2026-04-18T07:18:32Z</pubDate>
   </item>
   <item>
     <title>cobanisters (Codeberg)</title>
