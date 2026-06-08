@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "LunaSquee/melterns",
+      "author": "LunaSquee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6363179?v=4",
+      "website": "https://content.luanti.org/packages/IcyDiamond/melterns/",
+      "repo_name": "melterns",
+      "html_url": "https://github.com/LunaSquee/melterns",
+      "https_clone_url": "https://github.com/LunaSquee/melterns.git",
+      "ssh_clone_url": "git@github.com:LunaSquee/melterns.git",
+      "issues_url": "https://github.com/LunaSquee/melterns/issues",
+      "open_issues": 4,
+      "stars": 10,
+      "forks": 2,
+      "zip_url": "https://github.com/LunaSquee/melterns/archive/refs/heads/master/melterns.zip",
+      "description": "Tinkers Construct-esque mod for Luanti 5.6.0+",
+      "default_branch": "master",
+      "updated_at": "2026-06-08T19:02:20Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "liquids",
+        "luanti",
+        "luanti-mod",
+        "metals",
+        "tinkers-construct",
+        "wip"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/LunaSquee/melterns/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/weapons_lib",
       "author": "zughy-friends-minetest",
@@ -219,39 +252,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "LunaSquee/melterns",
-      "author": "LunaSquee",
-      "avatar_url": "https://avatars.githubusercontent.com/u/6363179?v=4",
-      "website": "https://content.luanti.org/packages/IcyDiamond/melterns/",
-      "repo_name": "melterns",
-      "html_url": "https://github.com/LunaSquee/melterns",
-      "https_clone_url": "https://github.com/LunaSquee/melterns.git",
-      "ssh_clone_url": "git@github.com:LunaSquee/melterns.git",
-      "issues_url": "https://github.com/LunaSquee/melterns/issues",
-      "open_issues": 7,
-      "stars": 10,
-      "forks": 2,
-      "zip_url": "https://github.com/LunaSquee/melterns/archive/refs/heads/master/melterns.zip",
-      "description": "Tinkers Construct-esque mod for Luanti 5.6.0+",
-      "default_branch": "master",
-      "updated_at": "2026-06-07T06:29:24Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "liquids",
-        "luanti",
-        "luanti-mod",
-        "metals",
-        "tinkers-construct",
-        "wip"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/LunaSquee/melterns/master/README.md",
       "has_stats": true
     },
     {
@@ -501,38 +501,6 @@
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/curtain",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "",
-      "repo_name": "curtain",
-      "html_url": "https://codeberg.org/Sheriff_U3/curtain",
-      "https_clone_url": "https://codeberg.org/Sheriff_U3/curtain.git",
-      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/curtain.git",
-      "issues_url": "https://codeberg.org/Sheriff_U3/curtain/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/curtain/archive/refs/heads/master/curtain.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/curtain/raw/master/README.md",
-      "description": "Roll up curtains for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-06-02T19:32:10+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/curtain/raw/master/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Codeberg",
@@ -1617,6 +1585,40 @@
     },
     {
       "hosted_on": "Codeberg",
+      "full_name": "TPH/exile_songs",
+      "author": "TPH",
+      "avatar_url": "https://codeberg.org/avatars/a63854eb89eb1dab089001b174e601762cc42d3816347e9175f72372af2c80f0",
+      "website": "",
+      "repo_name": "exile_songs",
+      "html_url": "https://codeberg.org/TPH/exile_songs",
+      "https_clone_url": "https://codeberg.org/TPH/exile_songs.git",
+      "ssh_clone_url": "git@codeberg.org:TPH/exile_songs.git",
+      "issues_url": "https://codeberg.org/TPH/exile_songs/issues",
+      "open_issues": 2,
+      "stars": 1,
+      "forks": 1,
+      "zip_url": "https://codeberg.org/TPH/exile_songs/archive/refs/heads/master/exile_songs.zip",
+      "readme_url": "https://codeberg.org/TPH/exile_songs/raw/master/README.md",
+      "description": "Plays songs in the background while you play Exile :3",
+      "default_branch": "master",
+      "updated_at": "2025-12-17T16:44:57+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "gplv3",
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-exile",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/TPH/exile_songs/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
       "full_name": "Codiac/drawers",
       "author": "Codiac",
       "avatar_url": "https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf",
@@ -1921,5 +1923,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-08T16:19:04Z"
+  "now": "2026-06-08T19:35:11Z"
 }
