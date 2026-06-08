@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/moretrees",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "moretrees",
+      "html_url": "https://github.com/mt-mods/moretrees",
+      "issues_url": "https://github.com/mt-mods/moretrees/issues",
+      "open_issues": 12,
+      "stars": 9,
+      "forks": 14,
+      "zip_url": "https://github.com/mt-mods/moretrees/archive/refs/heads/master/moretrees.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-06-08T00:56:16Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/moretrees/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -16,7 +43,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-06-07T19:19:25.931Z",
+      "updated_at": "2026-06-08T00:00:17.186Z",
       "license": {
         "name": "Unknown"
       },
@@ -26,6 +53,36 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/weapons_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png",
+      "website": "",
+      "repo_name": "weapons_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
+      "description": "Luanti library to easily register new weapons",
+      "default_branch": "main",
+      "updated_at": "2026-06-07T23:58:51.638Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library",
+        "minetest",
+        "weapons"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -172,36 +229,6 @@
         "minigames"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/weapons_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png",
-      "website": "",
-      "repo_name": "weapons_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
-      "description": "Luanti library to easily register new weapons",
-      "default_branch": "main",
-      "updated_at": "2026-06-06T18:51:36.007Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "api",
-        "library",
-        "minetest",
-        "weapons"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -694,7 +721,7 @@
       "repo_name": "digilines",
       "html_url": "https://github.com/minetest-mods/digilines",
       "issues_url": "https://github.com/minetest-mods/digilines/issues",
-      "open_issues": 16,
+      "open_issues": 17,
       "stars": 44,
       "forks": 44,
       "zip_url": "https://github.com/minetest-mods/digilines/archive/refs/heads/master/digilines.zip",
@@ -1341,32 +1368,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "bas080/place_names",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "place_names",
-      "html_url": "https://github.com/bas080/place_names",
-      "issues_url": "https://github.com/bas080/place_names/issues",
-      "open_issues": 3,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip",
-      "description": "Luanti Mod that adds command to create, edit place names that are visible on player hud.",
-      "default_branch": "master",
-      "updated_at": "2026-05-03T21:26:55Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/place_names/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "YCaTGameRT/cmcla_soups",
       "author": "YCaTGameRT",
@@ -1800,5 +1801,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-07T22:17:53Z"
+  "now": "2026-06-08T01:34:12Z"
 }

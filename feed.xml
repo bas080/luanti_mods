@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>moretrees (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/moretrees</link>
+    <guid>https://github.com/mt-mods/moretrees</guid>
+    <author>mt-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      <br>
+      License: Other<br>
+      <a href="https://github.com/mt-mods/moretrees/archive/refs/heads/master/moretrees.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-08T00:56:16Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -26,7 +44,25 @@
 
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-07T19:19:25.931Z</pubDate>
+    <pubDate>2026-06-08T00:00:17.186Z</pubDate>
+  </item>
+  <item>
+    <title>weapons_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/weapons_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library to easily register new weapons<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-07T23:58:51.638Z</pubDate>
   </item>
   <item>
     <title>moreblocks (Github)</title>
@@ -117,24 +153,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-06T20:07:57.446Z</pubDate>
-  </item>
-  <item>
-    <title>weapons_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/weapons_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Luanti library to easily register new weapons<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-06T18:51:36.007Z</pubDate>
   </item>
   <item>
     <title>audio_lib (Gitlab)</title>
@@ -801,24 +819,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-05-04T11:59:17.372Z</pubDate>
-  </item>
-  <item>
-    <title>place_names (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#bas080/place_names</link>
-    <guid>https://github.com/bas080/place_names</guid>
-    <author>bas080</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>bas080</strong><br>
-      Luanti Mod that adds command to create, edit place names that are visible on player hud.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/bas080/place_names/archive/refs/heads/master/place_names.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/bas080/place_names/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-03T21:26:55Z</pubDate>
   </item>
   <item>
     <title>cmcla_soups (Codeberg)</title>
