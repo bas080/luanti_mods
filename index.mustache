@@ -202,9 +202,11 @@
 
     <dt>Updated</dt>
     <dd>
-      <time data-duration data-largest-unit="month" data-smallest-unit="hour" data-style="long" datetime="{{updated_at}}">{{updated_at}}</time>
-      </dd>
-
+      <time data-duration data-largest-unit="month" data-smallest-unit="hour" data-style="long"
+            datetime="{{updated_at}}">
+        {{updated_at}}
+      </time>
+    </dd>
 
     {{#has_stats}}
     <dt>Stats</dt>
@@ -216,79 +218,50 @@
     {{/has_stats}}
 
     <dt>Topics</dt>
-
     <dd>
-    {{#topics}}
-    <code class="topic">{{.}}</code>
-    {{/topics}}
+      {{#topics}}
+      <code class="topic">{{.}}</code>
+      {{/topics}}
     </dd>
 
     <dt>Author</dt>
-    <dd>
-    {{author}}
-    </dd>
-    
+    <dd>{{author}}</dd>
   </dl>
 
 </article>
+
 {{/items}}
 
-<a role="button" id="refresh-btn" href="?v={{now}}" aria-label="Refresh" hidden>⟳</a>
+<script type="module">
+document.querySelectorAll(".copy-clone-pill").forEach((el) => {
+  el.addEventListener("click", async (e) => {
+    e.preventDefault();
+    e.stopPropagation();
 
-<style>
+    const text = el.dataset.copy;
 
-#refresh-btn {
-  text-decoration: none;
-  color: inherit;
-  position: fixed;
-  bottom: 1.5rem;
-  right: 1.5rem;
+    try {
+      await navigator.clipboard.writeText(text);
 
-  width: 52px;
-  height: 52px;
+      const old = el.textContent;
+      el.textContent = "Copied";
 
-  border-radius: 50%;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+      setTimeout(() => {
+        el.textContent = old;
+      }, 1200);
 
-  background: rgba(255, 255, 255, 0.08);
-  backdrop-filter: blur(10px);
-
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
-
-  cursor: pointer;
-  transition: all 0.2s ease;
-
-  /* hidden by default */
-  display: none;
-}
-
-/* show when hidden attribute is NOT present */
-#refresh-btn:not([hidden]) {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-#refresh-btn:hover {
-  background: rgba(255, 255, 255, 0.15);
-  transform: translateY(-2px);
-}
-
-</style>
-
-</main>
-
-<footer>
-  <p><a href="https://github.com/bas080/luanti_mods">https://github.com/bas080/luanti_mods</a></p>
-</footer>
-</body>
-
+    } catch (err) {
+      console.error("Clipboard copy failed", err);
+    }
+  });
+});
+</script>
 
 <script type="module">
 const btn = document.getElementById("refresh-btn");
 
 let lastCheck = Number(localStorage.getItem("lastCheck") || 0);
-const MIN_INTERVAL = 10 * 60 * 1000; // 10m
+const MIN_INTERVAL = 10 * 60 * 1000;
 
 const normalize = (v) => v?.replace(/^W\//, "").replace(/"/g, "").trim();
 
@@ -369,45 +342,52 @@ function updateDurations() {
   });
 }
 
-// run once immediately
 updateDurations();
 
 window.addEventListener("focus", updateDurations);
 document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "visible") updateDurations();
 });
-
 </script>
 
+<a role="button" id="refresh-btn" href="?v={{now}}" aria-label="Refresh" hidden>⟳</a>
 
-<script>
+<style>
+#refresh-btn {
+  text-decoration: none;
+  color: inherit;
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: none;
+}
 
-document.querySelectorAll(".copy-link").forEach(link => {
-  link.addEventListener("click", async (e) => {
-    e.preventDefault();
+#refresh-btn:not([hidden]) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
-    const raw = link.getAttribute("href");
+#refresh-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+}
+</style>
 
-    // detect schemes or git@ style
-    const isScheme = /^[a-zA-Z][a-zA-Z0-9+.-]*:/.test(raw);
-    const isSSH = /^git@/.test(raw);
+</main>
 
-    const text = (isScheme || isSSH)
-      ? raw
-      : new URL(raw, window.location.href).href;
+<footer>
+  <p><a href="https://github.com/bas080/luanti_mods">https://github.com/bas080/luanti_mods</a></p>
+</footer>
 
-    try {
-      await navigator.clipboard.writeText(text);
-      const old = link.textContent;
-      link.textContent = "Copied!";
-      setTimeout(() => link.textContent = old, 1500);
-    } catch (err) {
-      console.error("Failed to copy:", err);
-      alert("Failed to copy.");
-    }
-  });
-});
-</script>
-
-
+</body>
 </html>
