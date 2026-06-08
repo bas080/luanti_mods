@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/weapons_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png",
+      "website": "",
+      "repo_name": "weapons_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/weapons_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
+      "description": "Luanti library to easily register new weapons",
+      "default_branch": "main",
+      "updated_at": "2026-06-08T14:01:31.058Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library",
+        "minetest",
+        "weapons"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/pkarcs",
       "author": "minetest-mods",
@@ -128,38 +160,6 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/weapons_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png",
-      "website": "",
-      "repo_name": "weapons_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/weapons_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
-      "description": "Luanti library to easily register new weapons",
-      "default_branch": "main",
-      "updated_at": "2026-06-07T23:58:51.638Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "api",
-        "library",
-        "minetest",
-        "weapons"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -1921,5 +1921,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-08T12:08:16Z"
+  "now": "2026-06-08T16:19:04Z"
 }
