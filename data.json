@@ -2,6 +2,37 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "LunaSquee/fluid_lib",
+      "author": "LunaSquee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6363179?v=4",
+      "website": "https://content.luanti.org/packages/IcyDiamond/fluid_lib/",
+      "repo_name": "fluid_lib",
+      "html_url": "https://github.com/LunaSquee/fluid_lib",
+      "https_clone_url": "https://github.com/LunaSquee/fluid_lib.git",
+      "ssh_clone_url": "git@github.com:LunaSquee/fluid_lib.git",
+      "issues_url": "https://github.com/LunaSquee/fluid_lib/issues",
+      "open_issues": 0,
+      "stars": 2,
+      "forks": 3,
+      "zip_url": "https://github.com/LunaSquee/fluid_lib/archive/refs/heads/master/fluid_lib.zip",
+      "description": "Universal Fluid API for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-06-08T19:51:44Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "api",
+        "fluids",
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "LunaSquee/melterns",
       "author": "LunaSquee",
       "avatar_url": "https://avatars.githubusercontent.com/u/6363179?v=4",
@@ -11,13 +42,13 @@
       "https_clone_url": "https://github.com/LunaSquee/melterns.git",
       "ssh_clone_url": "git@github.com:LunaSquee/melterns.git",
       "issues_url": "https://github.com/LunaSquee/melterns/issues",
-      "open_issues": 4,
+      "open_issues": 3,
       "stars": 10,
       "forks": 2,
       "zip_url": "https://github.com/LunaSquee/melterns/archive/refs/heads/master/melterns.zip",
       "description": "Tinkers Construct-esque mod for Luanti 5.6.0+",
       "default_branch": "master",
-      "updated_at": "2026-06-08T19:02:20Z",
+      "updated_at": "2026-06-08T19:47:35Z",
       "license": {
         "name": "MIT License"
       },
@@ -1246,38 +1277,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/digistuff",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "digistuff",
-      "html_url": "https://github.com/mt-mods/digistuff",
-      "https_clone_url": "https://github.com/mt-mods/digistuff.git",
-      "ssh_clone_url": "git@github.com:mt-mods/digistuff.git",
-      "issues_url": "https://github.com/mt-mods/digistuff/issues",
-      "open_issues": 18,
-      "stars": 3,
-      "forks": 12,
-      "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
-      "description": "Fork of http://cheapiesystems.com/git/digistuff",
-      "default_branch": "master",
-      "updated_at": "2026-05-09T04:22:17Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "digilines",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/digistuff/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/country_lib",
       "author": "zughy-friends-minetest",
@@ -1923,5 +1922,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-08T19:35:11Z"
+  "now": "2026-06-08T21:58:38Z"
 }

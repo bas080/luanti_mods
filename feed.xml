@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>fluid_lib (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#LunaSquee/fluid_lib</link>
+    <guid>https://github.com/LunaSquee/fluid_lib</guid>
+    <author>LunaSquee</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>LunaSquee</strong><br>
+      Universal Fluid API for Luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/LunaSquee/fluid_lib/archive/refs/heads/master/fluid_lib.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-08T19:51:44Z</pubDate>
+  </item>
+  <item>
     <title>melterns (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#LunaSquee/melterns</link>
     <guid>https://github.com/LunaSquee/melterns</guid>
@@ -26,7 +44,7 @@
 
     <media:thumbnail url="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-08T19:02:20Z</pubDate>
+    <pubDate>2026-06-08T19:47:35Z</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>
@@ -693,24 +711,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/TheAirplaneMan/apm_dimensionpack/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/TheAirplaneMan/apm_dimensionpack/main/screenshot.png" type="image/png" />
     <pubDate>2026-05-10T03:24:40Z</pubDate>
-  </item>
-  <item>
-    <title>digistuff (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#mt-mods/digistuff</link>
-    <guid>https://github.com/mt-mods/digistuff</guid>
-    <author>mt-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>mt-mods</strong><br>
-      Fork of http:&#x2F;&#x2F;cheapiesystems.com&#x2F;git&#x2F;digistuff<br>
-      License: Unknown<br>
-      <a href="https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-09T04:22:17Z</pubDate>
   </item>
   <item>
     <title>country_lib (Gitlab)</title>
