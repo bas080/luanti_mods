@@ -32,10 +32,7 @@
   html {
     scroll-behavior: initial !important;
   }
-</style>
 
-
-<style>
   article {
     border: none;
     margin-top: 0;
@@ -67,7 +64,6 @@
       padding: 1rem 2rem 1rem 0;
       box-shadow: 0 0 6rem var(--bg);
       border-radius: 0 var(--standard-border-radius) 0 0;
-      margin: 0;
     }
 
     code {
@@ -85,6 +81,37 @@
       height:1em;
       vertical-align:middle;
     }
+
+    /* clone pill */
+    .clone-pill {
+      float: right;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5ch;
+      padding: 0.35rem 0.75rem;
+      margin-right: 0;
+      border: 1px solid var(--border);
+      border-radius: 0.5em;
+      background: var(--accent-bg);
+      font-size: 0.9rem;
+    }
+
+    .clone-pill a {
+      padding: 0 0.4ch;
+    }
+
+    .clone-pill a:hover {
+      text-decoration: underline;
+    }
+
+    .clone-pill .sep {
+      opacity: 0.5;
+    }
+
+    .clone-label {
+      opacity: 0.7;
+    }
+
   </style>
 
 </head>
@@ -94,7 +121,7 @@
   <h1>Luanti Mods</h1>
 
 <p>
-  Aggregated <time data-duration data-largest-unit="hour" data-smallest-unit="minute" datetime="2026-06-08T07:03:27Z">2026-06-08T07:03:27Z</time> using Github topic <code>luanti-mod</code>, the Gitlab topic <code>Luanti</code> and the Codeberg query <code>luanti-mod</code>.
+  Aggregated <time data-duration data-largest-unit="hour" data-smallest-unit="minute" datetime="2026-06-08T10:42:10Z">2026-06-08T10:42:10Z</time> using Github topic <code>luanti-mod</code>, the Gitlab topic <code>Luanti</code> and the Codeberg query <code>luanti-mod</code>.
 </p>
 
 <p>
@@ -111,23 +138,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Avatar of minetest-mods" />
       pkarcs
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png"
-     alt="Screenshot of minetest-mods&#x2F;pkarcs mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png"
+           alt="Screenshot of minetest-mods&#x2F;pkarcs mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://content.luanti.org/packages/TumeniNodes/pkarcs/" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/minetest-mods/pkarcs" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/minetest-mods/pkarcs/archive/master.zip" download="pkarcs.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#minetest-mods&#x2F;pkarcs" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://content.luanti.org/packages/TumeniNodes/pkarcs/" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/minetest-mods/pkarcs" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/minetest-mods/pkarcs/archive/master.zip" download="pkarcs.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#minetest-mods&#x2F;pkarcs" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:minetest-mods/pkarcs.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/minetest-mods/pkarcs.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Adds arched doors and arched nodes</p>
@@ -140,11 +190,8 @@
       <a href="https://github.com/minetest-mods/pkarcs/issues" target="_blank" rel="noopener">
         Issues [8]
       </a>
-      ·
-      <a href="https://github.com/minetest-mods/pkarcs.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:minetest-mods&#x2F;pkarcs.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>GNU Lesser General Public License v2.1</dd>
 
@@ -189,23 +236,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Avatar of minetest-mods" />
       drawers
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png"
-     alt="Screenshot of minetest-mods&#x2F;drawers mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png"
+           alt="Screenshot of minetest-mods&#x2F;drawers mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/minetest-mods/drawers" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/minetest-mods/drawers/archive/master.zip" download="drawers.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#minetest-mods&#x2F;drawers" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/minetest-mods/drawers" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/minetest-mods/drawers/archive/master.zip" download="drawers.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#minetest-mods&#x2F;drawers" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:minetest-mods/drawers.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/minetest-mods/drawers.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>[MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.</p>
@@ -218,11 +288,8 @@
       <a href="https://github.com/minetest-mods/drawers/issues" target="_blank" rel="noopener">
         Issues [28]
       </a>
-      ·
-      <a href="https://github.com/minetest-mods/drawers.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:minetest-mods&#x2F;drawers.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -272,23 +339,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Avatar of mt-mods" />
       moretrees
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png"
-     alt="Screenshot of mt-mods&#x2F;moretrees mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png"
+           alt="Screenshot of mt-mods&#x2F;moretrees mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/mt-mods/moretrees" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/mt-mods/moretrees/archive/master.zip" download="moretrees.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#mt-mods&#x2F;moretrees" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/mt-mods/moretrees" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/mt-mods/moretrees/archive/master.zip" download="moretrees.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#mt-mods&#x2F;moretrees" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:mt-mods/moretrees.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/mt-mods/moretrees.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
 
@@ -300,11 +390,8 @@
       <a href="https://github.com/mt-mods/moretrees/issues" target="_blank" rel="noopener">
         Issues [12]
       </a>
-      ·
-      <a href="https://github.com/mt-mods/moretrees.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:mt-mods&#x2F;moretrees.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -345,23 +432,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Avatar of zughy-friends-minetest" />
       Block League
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;block_league mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;block_league mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/block_league" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/block_league/archive/master.zip" download="Block League.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;block_league" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/block_league" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/block_league/archive/master.zip" download="Block League.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;block_league" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/block_league.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/block_league.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>S4 League inspired shooter minigame for Luanti</p>
@@ -374,11 +484,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;block_league.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -420,23 +527,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png" alt="Avatar of zughy-friends-minetest" />
       weapons_lib
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;weapons_lib mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;weapons_lib mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/weapons_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/archive/main.zip" download="weapons_lib.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;weapons_lib" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/weapons_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/archive/main.zip" download="weapons_lib.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;weapons_lib" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/weapons_lib.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/weapons_lib.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Luanti library to easily register new weapons</p>
@@ -449,11 +579,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/weapons_lib.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;weapons_lib.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -497,23 +624,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Avatar of minetest-mods" />
       moreblocks
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png"
-     alt="Screenshot of minetest-mods&#x2F;moreblocks mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png"
+           alt="Screenshot of minetest-mods&#x2F;moreblocks mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://content.minetest.net/packages/Calinou/moreblocks/" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/minetest-mods/moreblocks" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/minetest-mods/moreblocks/archive/master.zip" download="moreblocks.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#minetest-mods&#x2F;moreblocks" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://content.minetest.net/packages/Calinou/moreblocks/" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/minetest-mods/moreblocks" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/minetest-mods/moreblocks/archive/master.zip" download="moreblocks.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#minetest-mods&#x2F;moreblocks" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:minetest-mods/moreblocks.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/minetest-mods/moreblocks.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>More Blocks</p>
@@ -526,11 +676,8 @@
       <a href="https://github.com/minetest-mods/moreblocks/issues" target="_blank" rel="noopener">
         Issues [25]
       </a>
-      ·
-      <a href="https://github.com/minetest-mods/moreblocks.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:minetest-mods&#x2F;moreblocks.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>zlib License</dd>
 
@@ -572,23 +719,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Avatar of minetest-mods" />
       technic
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png"
-     alt="Screenshot of minetest-mods&#x2F;technic mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png"
+           alt="Screenshot of minetest-mods&#x2F;technic mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://content.luanti.org/packages/RealBadAngel/technic/" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/minetest-mods/technic" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/minetest-mods/technic/archive/master.zip" download="technic.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#minetest-mods&#x2F;technic" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://content.luanti.org/packages/RealBadAngel/technic/" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/minetest-mods/technic" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/minetest-mods/technic/archive/master.zip" download="technic.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#minetest-mods&#x2F;technic" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:minetest-mods/technic.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/minetest-mods/technic.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Technic mod for Luanti&#x2F;Minetest</p>
@@ -601,11 +771,8 @@
       <a href="https://github.com/minetest-mods/technic/issues" target="_blank" rel="noopener">
         Issues [64]
       </a>
-      ·
-      <a href="https://github.com/minetest-mods/technic.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:minetest-mods&#x2F;technic.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -646,23 +813,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Avatar of LunaSquee" />
       melterns
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png"
-     alt="Screenshot of LunaSquee&#x2F;melterns mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png"
+           alt="Screenshot of LunaSquee&#x2F;melterns mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://content.luanti.org/packages/IcyDiamond/melterns/" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/LunaSquee/melterns" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/LunaSquee/melterns/archive/master.zip" download="melterns.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#LunaSquee&#x2F;melterns" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://content.luanti.org/packages/IcyDiamond/melterns/" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/LunaSquee/melterns" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/LunaSquee/melterns/archive/master.zip" download="melterns.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#LunaSquee&#x2F;melterns" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:LunaSquee/melterns.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/LunaSquee/melterns.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Tinkers Construct-esque mod for Luanti 5.6.0+</p>
@@ -675,11 +865,8 @@
       <a href="https://github.com/LunaSquee/melterns/issues" target="_blank" rel="noopener">
         Issues [7]
       </a>
-      ·
-      <a href="https://github.com/LunaSquee/melterns.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:LunaSquee&#x2F;melterns.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>MIT License</dd>
 
@@ -724,23 +911,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Avatar of zughy-friends-minetest" />
       arena_lib
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;arena_lib mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;arena_lib mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/arena_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/archive/master.zip" download="arena_lib.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;arena_lib" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/arena_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/archive/master.zip" download="arena_lib.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;arena_lib" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/arena_lib.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/arena_lib.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Luanti library working as a core manager for any minigame you have in mind</p>
@@ -753,11 +963,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;arena_lib.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -800,23 +1007,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png" alt="Avatar of zughy-friends-minetest" />
       audio_lib
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;audio_lib mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;audio_lib mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/audio_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/audio_lib/archive/main.zip" download="audio_lib.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;audio_lib" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/audio_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/audio_lib/archive/main.zip" download="audio_lib.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;audio_lib" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/audio_lib.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/audio_lib.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Luanti library to easily manage audio files</p>
@@ -829,11 +1059,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/audio_lib/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/audio_lib.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;audio_lib.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -877,23 +1104,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Avatar of AntumMT" />
       mod-rocket
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/AntumMT/mod-rocket/master/screenshot.png"
-     alt="Screenshot of AntumMT&#x2F;mod-rocket mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/AntumMT/mod-rocket/master/screenshot.png"
+           alt="Screenshot of AntumMT&#x2F;mod-rocket mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://forum.luanti.org/viewtopic.php?t=23120" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/AntumMT/mod-rocket" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/AntumMT/mod-rocket/archive/master.zip" download="mod-rocket.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#AntumMT&#x2F;mod-rocket" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://forum.luanti.org/viewtopic.php?t=23120" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/AntumMT/mod-rocket" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/AntumMT/mod-rocket/archive/master.zip" download="mod-rocket.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#AntumMT&#x2F;mod-rocket" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:AntumMT/mod-rocket.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/AntumMT/mod-rocket.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Space shuttle mod for Luanti.</p>
@@ -906,11 +1156,8 @@
       <a href="https://github.com/AntumMT/mod-rocket/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://github.com/AntumMT/mod-rocket.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:AntumMT&#x2F;mod-rocket.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>MIT License</dd>
 
@@ -947,23 +1194,46 @@
     <h2>
       <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Avatar of AntumMT" />
       Luanti Rocket Mod
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/AntumMT/mod-rocket/-/raw/master/screenshot.png"
-     alt="Screenshot of AntumMT&#x2F;mod-rocket mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/AntumMT/mod-rocket/-/raw/master/screenshot.png"
+           alt="Screenshot of AntumMT&#x2F;mod-rocket mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/AntumMT/mod-rocket" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/AntumMT/mod-rocket/archive/master.zip" download="Luanti Rocket Mod.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#AntumMT&#x2F;mod-rocket" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/AntumMT/mod-rocket" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/AntumMT/mod-rocket/archive/master.zip" download="Luanti Rocket Mod.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#AntumMT&#x2F;mod-rocket" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:AntumMT/mod-rocket.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/AntumMT/mod-rocket.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Space shuttle mod for Luanti.</p>
@@ -976,11 +1246,8 @@
       <a href="https://gitlab.com/AntumMT/mod-rocket/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/AntumMT/mod-rocket.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:AntumMT&#x2F;mod-rocket.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -1019,23 +1286,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Avatar of Opons1" />
       technic_many_machines
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png"
-     alt="Screenshot of Opons1&#x2F;technic_many_machines mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png"
+           alt="Screenshot of Opons1&#x2F;technic_many_machines mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Opons1/technic_many_machines" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/Opons1/technic_many_machines/archive/main.zip" download="technic_many_machines.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Opons1&#x2F;technic_many_machines" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Opons1/technic_many_machines" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/Opons1/technic_many_machines/archive/main.zip" download="technic_many_machines.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Opons1&#x2F;technic_many_machines" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:Opons1/technic_many_machines.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/Opons1/technic_many_machines.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
 
@@ -1047,11 +1337,8 @@
       <a href="https://github.com/Opons1/technic_many_machines/issues" target="_blank" rel="noopener">
         Issues [4]
       </a>
-      ·
-      <a href="https://github.com/Opons1/technic_many_machines.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Opons1&#x2F;technic_many_machines.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -1092,23 +1379,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Avatar of minetest-mods" />
       nether
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png"
-     alt="Screenshot of minetest-mods&#x2F;nether mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png"
+           alt="Screenshot of minetest-mods&#x2F;nether mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://forum.luanti.org/viewtopic.php?t=5790" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/minetest-mods/nether" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/minetest-mods/nether/archive/master.zip" download="nether.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#minetest-mods&#x2F;nether" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://forum.luanti.org/viewtopic.php?t=5790" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/minetest-mods/nether" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/minetest-mods/nether/archive/master.zip" download="nether.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#minetest-mods&#x2F;nether" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:minetest-mods/nether.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/minetest-mods/nether.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Nether mod for Luanti&#x2F;Minetest</p>
@@ -1121,11 +1431,8 @@
       <a href="https://github.com/minetest-mods/nether/issues" target="_blank" rel="noopener">
         Issues [6]
       </a>
-      ·
-      <a href="https://github.com/minetest-mods/nether.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:minetest-mods&#x2F;nether.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -1167,23 +1474,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png" alt="Avatar of zughy-friends-minetest" />
       Soothing 32
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;soothing-32 mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;soothing-32 mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/soothing-32" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/soothing-32/archive/master.zip" download="Soothing 32.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;soothing-32" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/soothing-32" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/soothing-32/archive/master.zip" download="Soothing 32.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;soothing-32" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/soothing-32.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/soothing-32.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!</p>
@@ -1196,11 +1526,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/soothing-32/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/soothing-32.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;soothing-32.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -1242,23 +1569,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Avatar of Sheriff-Unit-3" />
       toolranks
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png"
-     alt="Screenshot of Sheriff-Unit-3&#x2F;toolranks mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png"
+           alt="Screenshot of Sheriff-Unit-3&#x2F;toolranks mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://codeberg.org/Sheriff_U3/toolranks" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/Sheriff-Unit-3/toolranks" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/Sheriff-Unit-3/toolranks/archive/main.zip" download="toolranks.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Sheriff-Unit-3&#x2F;toolranks" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://codeberg.org/Sheriff_U3/toolranks" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/Sheriff-Unit-3/toolranks" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/Sheriff-Unit-3/toolranks/archive/main.zip" download="toolranks.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Sheriff-Unit-3&#x2F;toolranks" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:Sheriff-Unit-3/toolranks.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/Sheriff-Unit-3/toolranks.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>(Mirror) A tool rank mod for the voxel game engine luanti</p>
@@ -1271,11 +1621,8 @@
       <a href="https://github.com/Sheriff-Unit-3/toolranks/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://github.com/Sheriff-Unit-3/toolranks.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Sheriff-Unit-3&#x2F;toolranks.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -1319,23 +1666,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Avatar of Sheriff_U3" />
       curtain
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Sheriff_U3/curtain/raw/master/screenshot.png"
-     alt="Screenshot of Sheriff_U3&#x2F;curtain mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Sheriff_U3/curtain/raw/master/screenshot.png"
+           alt="Screenshot of Sheriff_U3&#x2F;curtain mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Sheriff_U3/curtain" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Sheriff_U3/curtain/archive/master.zip" download="curtain.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Sheriff_U3&#x2F;curtain" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Sheriff_U3/curtain" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Sheriff_U3/curtain/archive/master.zip" download="curtain.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Sheriff_U3&#x2F;curtain" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Sheriff_U3/curtain.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Sheriff_U3/curtain.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Roll up curtains for Luanti</p>
@@ -1348,11 +1718,8 @@
       <a href="https://codeberg.org/Sheriff_U3/curtain/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/Sheriff_U3/curtain.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Sheriff_U3&#x2F;curtain.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -1390,23 +1757,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Avatar of Sheriff_U3" />
       energy_drinks
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png"
-     alt="Screenshot of Sheriff_U3&#x2F;energy_drinks mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png"
+           alt="Screenshot of Sheriff_U3&#x2F;energy_drinks mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Sheriff_U3/energy_drinks" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/main.zip" download="energy_drinks.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Sheriff_U3&#x2F;energy_drinks" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Sheriff_U3/energy_drinks" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/main.zip" download="energy_drinks.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Sheriff_U3&#x2F;energy_drinks" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Sheriff_U3/energy_drinks.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Sheriff_U3/energy_drinks.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A mod that adds energy drinks to the luanti game engine.</p>
@@ -1419,11 +1809,8 @@
       <a href="https://codeberg.org/Sheriff_U3/energy_drinks/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/Sheriff_U3/energy_drinks.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Sheriff_U3&#x2F;energy_drinks.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -1461,23 +1848,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Avatar of Sheriff_U3" />
       circuits
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png"
-     alt="Screenshot of Sheriff_U3&#x2F;circuits mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png"
+           alt="Screenshot of Sheriff_U3&#x2F;circuits mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://codeberg.org/Sheriff_U3/circuits/wiki" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/Sheriff_U3/circuits" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Sheriff_U3/circuits/archive/master.zip" download="circuits.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Sheriff_U3&#x2F;circuits" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://codeberg.org/Sheriff_U3/circuits/wiki" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/Sheriff_U3/circuits" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Sheriff_U3/circuits/archive/master.zip" download="circuits.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Sheriff_U3&#x2F;circuits" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Sheriff_U3/circuits.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Sheriff_U3/circuits.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A circuitry mod for Luanti</p>
@@ -1490,11 +1900,8 @@
       <a href="https://codeberg.org/Sheriff_U3/circuits/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/Sheriff_U3/circuits.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Sheriff_U3&#x2F;circuits.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -1538,23 +1945,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Avatar of Sheriff_U3" />
       balls
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png"
-     alt="Screenshot of Sheriff_U3&#x2F;balls mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png"
+           alt="Screenshot of Sheriff_U3&#x2F;balls mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Sheriff_U3/balls" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Sheriff_U3/balls/archive/master.zip" download="balls.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Sheriff_U3&#x2F;balls" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Sheriff_U3/balls" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Sheriff_U3/balls/archive/master.zip" download="balls.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Sheriff_U3&#x2F;balls" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Sheriff_U3/balls.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Sheriff_U3/balls.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A Luanti mod that adds balls</p>
@@ -1567,11 +1997,8 @@
       <a href="https://codeberg.org/Sheriff_U3/balls/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/Sheriff_U3/balls.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Sheriff_U3&#x2F;balls.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -1610,23 +2037,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Avatar of Sheriff-Unit-3" />
       energy_drinks
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png"
-     alt="Screenshot of Sheriff-Unit-3&#x2F;energy_drinks mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png"
+           alt="Screenshot of Sheriff-Unit-3&#x2F;energy_drinks mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://codeberg.org/Sheriff_U3/energy_drinks" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/Sheriff-Unit-3/energy_drinks" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/main.zip" download="energy_drinks.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Sheriff-Unit-3&#x2F;energy_drinks" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://codeberg.org/Sheriff_U3/energy_drinks" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/Sheriff-Unit-3/energy_drinks" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/main.zip" download="energy_drinks.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Sheriff-Unit-3&#x2F;energy_drinks" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:Sheriff-Unit-3/energy_drinks.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/Sheriff-Unit-3/energy_drinks.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>(Mirror) A mod that adds energy drinks to the luanti game engine.</p>
@@ -1639,11 +2089,8 @@
       <a href="https://github.com/Sheriff-Unit-3/energy_drinks/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://github.com/Sheriff-Unit-3/energy_drinks.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Sheriff-Unit-3&#x2F;energy_drinks.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>MIT License</dd>
 
@@ -1681,23 +2128,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Avatar of Sheriff-Unit-3" />
       circuits
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png"
-     alt="Screenshot of Sheriff-Unit-3&#x2F;circuits mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png"
+           alt="Screenshot of Sheriff-Unit-3&#x2F;circuits mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://codeberg.org/Sheriff_U3/circuits" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/Sheriff-Unit-3/circuits" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/Sheriff-Unit-3/circuits/archive/master.zip" download="circuits.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Sheriff-Unit-3&#x2F;circuits" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://codeberg.org/Sheriff_U3/circuits" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/Sheriff-Unit-3/circuits" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/Sheriff-Unit-3/circuits/archive/master.zip" download="circuits.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Sheriff-Unit-3&#x2F;circuits" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:Sheriff-Unit-3/circuits.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/Sheriff-Unit-3/circuits.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>(Mirror) A circuitry mod for Luanti</p>
@@ -1710,11 +2180,8 @@
       <a href="https://github.com/Sheriff-Unit-3/circuits/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://github.com/Sheriff-Unit-3/circuits.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Sheriff-Unit-3&#x2F;circuits.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -1753,23 +2220,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Avatar of Sheriff-Unit-3" />
       handholds
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png"
-     alt="Screenshot of Sheriff-Unit-3&#x2F;handholds mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png"
+           alt="Screenshot of Sheriff-Unit-3&#x2F;handholds mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://codeberg.org/Sheriff_U3/handholds" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/Sheriff-Unit-3/handholds" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/Sheriff-Unit-3/handholds/archive/master.zip" download="handholds.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Sheriff-Unit-3&#x2F;handholds" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://codeberg.org/Sheriff_U3/handholds" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/Sheriff-Unit-3/handholds" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/Sheriff-Unit-3/handholds/archive/master.zip" download="handholds.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Sheriff-Unit-3&#x2F;handholds" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:Sheriff-Unit-3/handholds.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/Sheriff-Unit-3/handholds.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>(Mirror) Mountain climbing for Luanti</p>
@@ -1782,11 +2272,8 @@
       <a href="https://github.com/Sheriff-Unit-3/handholds/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://github.com/Sheriff-Unit-3/handholds.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Sheriff-Unit-3&#x2F;handholds.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -1830,23 +2317,46 @@
     <h2>
       <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Avatar of AntumMT" />
       Minimalist Currency Mod for Luanti
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png"
-     alt="Screenshot of AntumMT&#x2F;mod-currency mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png"
+           alt="Screenshot of AntumMT&#x2F;mod-currency mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/AntumMT/mod-currency" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/AntumMT/mod-currency/archive/master.zip" download="Minimalist Currency Mod for Luanti.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#AntumMT&#x2F;mod-currency" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/AntumMT/mod-currency" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/AntumMT/mod-currency/archive/master.zip" download="Minimalist Currency Mod for Luanti.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#AntumMT&#x2F;mod-currency" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:AntumMT/mod-currency.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/AntumMT/mod-currency.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Minimalist fork of &#x60;currency&#x60; mod that only provides &quot;minegeld&quot;.</p>
@@ -1859,11 +2369,8 @@
       <a href="https://gitlab.com/AntumMT/mod-currency/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/AntumMT/mod-currency.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:AntumMT&#x2F;mod-currency.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -1902,23 +2409,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png" alt="Avatar of lichenseed" />
       Simple Calculator
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png"
-     alt="Screenshot of lichenseed&#x2F;portable-calculator mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png"
+           alt="Screenshot of lichenseed&#x2F;portable-calculator mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/lichenseed/portable-calculator" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/lichenseed/portable-calculator/archive/main.zip" download="Simple Calculator.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#lichenseed&#x2F;portable-calculator" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/lichenseed/portable-calculator" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/lichenseed/portable-calculator/archive/main.zip" download="Simple Calculator.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#lichenseed&#x2F;portable-calculator" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:lichenseed/portable-calculator.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/lichenseed/portable-calculator.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.</p>
@@ -1931,11 +2461,8 @@
       <a href="https://gitlab.com/lichenseed/portable-calculator/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/lichenseed/portable-calculator.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:lichenseed&#x2F;portable-calculator.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -1978,23 +2505,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Avatar of minetest-mods" />
       digilines
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png"
-     alt="Screenshot of minetest-mods&#x2F;digilines mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png"
+           alt="Screenshot of minetest-mods&#x2F;digilines mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/minetest-mods/digilines" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/minetest-mods/digilines/archive/master.zip" download="digilines.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#minetest-mods&#x2F;digilines" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/minetest-mods/digilines" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/minetest-mods/digilines/archive/master.zip" download="digilines.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#minetest-mods&#x2F;digilines" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:minetest-mods/digilines.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/minetest-mods/digilines.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Digilines is a mod for Luanti&#x2F;Minetest which adds data bus wires</p>
@@ -2007,11 +2557,8 @@
       <a href="https://github.com/minetest-mods/digilines/issues" target="_blank" rel="noopener">
         Issues [17]
       </a>
-      ·
-      <a href="https://github.com/minetest-mods/digilines.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:minetest-mods&#x2F;digilines.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -2054,23 +2601,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/82489096/yellow_gem_floating_around_cos.jpeg" alt="Avatar of lichenseed" />
       Talk with core
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png"
-     alt="Screenshot of lichenseed&#x2F;talk-with-core mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png"
+           alt="Screenshot of lichenseed&#x2F;talk-with-core mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/lichenseed/talk-with-core" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/lichenseed/talk-with-core/archive/main.zip" download="Talk with core.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#lichenseed&#x2F;talk-with-core" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/lichenseed/talk-with-core" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/lichenseed/talk-with-core/archive/main.zip" download="Talk with core.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#lichenseed&#x2F;talk-with-core" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:lichenseed/talk-with-core.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/lichenseed/talk-with-core.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A secure, hardened mathematical engine and chat terminal mod for Luanti (formerly Minetest). This mod introduces an in-game terminal item that allows players to communicate with an AI-themed mathematical &quot;Core&quot; capable of solving complex algebraic expressions, precalculus functions, and equations using numeric methods directly inside the game environment.</p>
@@ -2083,11 +2653,8 @@
       <a href="https://gitlab.com/lichenseed/talk-with-core/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/lichenseed/talk-with-core.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:lichenseed&#x2F;talk-with-core.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -2145,23 +2712,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Avatar of AntumMT" />
       mod-asm_spawneggs
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/AntumMT/mod-asm_spawneggs/master/screenshot.png"
-     alt="Screenshot of AntumMT&#x2F;mod-asm_spawneggs mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/AntumMT/mod-asm_spawneggs/master/screenshot.png"
+           alt="Screenshot of AntumMT&#x2F;mod-asm_spawneggs mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://content.luanti.org/packages/AntumDeluge/asm_spawneggs/" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/AntumMT/mod-asm_spawneggs" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/AntumMT/mod-asm_spawneggs/archive/master.zip" download="mod-asm_spawneggs.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#AntumMT&#x2F;mod-asm_spawneggs" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://content.luanti.org/packages/AntumDeluge/asm_spawneggs/" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/AntumMT/mod-asm_spawneggs" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/AntumMT/mod-asm_spawneggs/archive/master.zip" download="mod-asm_spawneggs.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#AntumMT&#x2F;mod-asm_spawneggs" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:AntumMT/mod-asm_spawneggs.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/AntumMT/mod-asm_spawneggs.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Spawneggs for adding entities to Luanti games.</p>
@@ -2174,11 +2764,8 @@
       <a href="https://github.com/AntumMT/mod-asm_spawneggs/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://github.com/AntumMT/mod-asm_spawneggs.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:AntumMT&#x2F;mod-asm_spawneggs.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>MIT License</dd>
 
@@ -2221,23 +2808,46 @@
     <h2>
       <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Avatar of AntumMT" />
       mod-asm_spawneggs
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/raw/master/screenshot.png"
-     alt="Screenshot of AntumMT&#x2F;mod-asm_spawneggs mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/raw/master/screenshot.png"
+           alt="Screenshot of AntumMT&#x2F;mod-asm_spawneggs mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/AntumMT/mod-asm_spawneggs" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/AntumMT/mod-asm_spawneggs/archive/master.zip" download="mod-asm_spawneggs.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#AntumMT&#x2F;mod-asm_spawneggs" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/AntumMT/mod-asm_spawneggs" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/AntumMT/mod-asm_spawneggs/archive/master.zip" download="mod-asm_spawneggs.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#AntumMT&#x2F;mod-asm_spawneggs" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:AntumMT/mod-asm_spawneggs.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/AntumMT/mod-asm_spawneggs.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Spawneggs for adding entities to Luanti games.</p>
@@ -2250,11 +2860,8 @@
       <a href="https://gitlab.com/AntumMT/mod-asm_spawneggs/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/AntumMT/mod-asm_spawneggs.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:AntumMT&#x2F;mod-asm_spawneggs.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -2291,23 +2898,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Avatar of AntumMT" />
       mod-sounds
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/AntumMT/mod-sounds/master/screenshot.png"
-     alt="Screenshot of AntumMT&#x2F;mod-sounds mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/AntumMT/mod-sounds/master/screenshot.png"
+           alt="Screenshot of AntumMT&#x2F;mod-sounds mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://content.luanti.org/packages/AntumDeluge/sounds/" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/AntumMT/mod-sounds" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/AntumMT/mod-sounds/archive/master.zip" download="mod-sounds.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#AntumMT&#x2F;mod-sounds" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://content.luanti.org/packages/AntumDeluge/sounds/" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/AntumMT/mod-sounds" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/AntumMT/mod-sounds/archive/master.zip" download="mod-sounds.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#AntumMT&#x2F;mod-sounds" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:AntumMT/mod-sounds.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/AntumMT/mod-sounds.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A set of free sounds that Minetest mods can use.</p>
@@ -2320,11 +2950,8 @@
       <a href="https://github.com/AntumMT/mod-sounds/issues" target="_blank" rel="noopener">
         Issues [1]
       </a>
-      ·
-      <a href="https://github.com/AntumMT/mod-sounds.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:AntumMT&#x2F;mod-sounds.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>MIT License</dd>
 
@@ -2367,23 +2994,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png" alt="Avatar of zughy-friends-minetest" />
       Collectible skins
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;collectible-skins mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;collectible-skins mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/collectible-skins" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/collectible-skins/archive/master.zip" download="Collectible skins.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;collectible-skins" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/collectible-skins" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/collectible-skins/archive/master.zip" download="Collectible skins.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;collectible-skins" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/collectible-skins.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/collectible-skins.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Wear and unlock skins on Luanti</p>
@@ -2396,11 +3046,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/collectible-skins.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;collectible-skins.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -2442,23 +3089,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png" alt="Avatar of zughy-friends-minetest" />
       Hub
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;hub mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;hub mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/hub" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/hub/archive/master.zip" download="Hub.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;hub" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/hub" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/hub/archive/master.zip" download="Hub.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;hub" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/hub.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/hub.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A mod to easily manage your minigames server on Luanti</p>
@@ -2471,11 +3141,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/hub/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/hub.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;hub.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -2517,23 +3184,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Avatar of AntumMT" />
       mod-simple_models
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/AntumMT/mod-simple_models/master/screenshot.png"
-     alt="Screenshot of AntumMT&#x2F;mod-simple_models mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/AntumMT/mod-simple_models/master/screenshot.png"
+           alt="Screenshot of AntumMT&#x2F;mod-simple_models mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://content.luanti.org/packages/AntumDeluge/simple_models/" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/AntumMT/mod-simple_models" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/AntumMT/mod-simple_models/archive/master.zip" download="mod-simple_models.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#AntumMT&#x2F;mod-simple_models" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://content.luanti.org/packages/AntumDeluge/simple_models/" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/AntumMT/mod-simple_models" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/AntumMT/mod-simple_models/archive/master.zip" download="mod-simple_models.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#AntumMT&#x2F;mod-simple_models" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:AntumMT/mod-simple_models.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/AntumMT/mod-simple_models.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Very simple models for Luanti (Minetest)</p>
@@ -2546,11 +3236,8 @@
       <a href="https://github.com/AntumMT/mod-simple_models/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://github.com/AntumMT/mod-simple_models.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:AntumMT&#x2F;mod-simple_models.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>MIT License</dd>
 
@@ -2593,23 +3280,46 @@
     <h2>
       <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Avatar of AntumMT" />
       mod-simple_models
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/AntumMT/mod-simple_models/-/raw/master/screenshot.png"
-     alt="Screenshot of AntumMT&#x2F;mod-simple_models mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/AntumMT/mod-simple_models/-/raw/master/screenshot.png"
+           alt="Screenshot of AntumMT&#x2F;mod-simple_models mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/AntumMT/mod-simple_models" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/AntumMT/mod-simple_models/archive/master.zip" download="mod-simple_models.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#AntumMT&#x2F;mod-simple_models" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/AntumMT/mod-simple_models" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/AntumMT/mod-simple_models/archive/master.zip" download="mod-simple_models.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#AntumMT&#x2F;mod-simple_models" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:AntumMT/mod-simple_models.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/AntumMT/mod-simple_models.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Very simple models for Luanti (Minetest)</p>
@@ -2622,11 +3332,8 @@
       <a href="https://gitlab.com/AntumMT/mod-simple_models/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/AntumMT/mod-simple_models.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:AntumMT&#x2F;mod-simple_models.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -2663,23 +3370,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/82492635/Glen_Keane_character_concept_a.jpeg" alt="Avatar of lichenseed" />
       Snake in Minetest
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png"
-     alt="Screenshot of lichenseed&#x2F;portable-console-snake mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png"
+           alt="Screenshot of lichenseed&#x2F;portable-console-snake mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/lichenseed/portable-console-snake" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/lichenseed/portable-console-snake/archive/main.zip" download="Snake in Minetest.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#lichenseed&#x2F;portable-console-snake" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/lichenseed/portable-console-snake" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/lichenseed/portable-console-snake/archive/main.zip" download="Snake in Minetest.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#lichenseed&#x2F;portable-console-snake" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:lichenseed/portable-console-snake.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/lichenseed/portable-console-snake.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Running Snake in Minetest Game.</p>
@@ -2692,11 +3422,8 @@
       <a href="https://gitlab.com/lichenseed/portable-console-snake/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/lichenseed/portable-console-snake.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:lichenseed&#x2F;portable-console-snake.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -2736,23 +3463,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159" alt="Avatar of kmdev" />
       coins
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/kmdev/coins/raw/main/screenshot.png"
-     alt="Screenshot of kmdev&#x2F;coins mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/kmdev/coins/raw/main/screenshot.png"
+           alt="Screenshot of kmdev&#x2F;coins mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/kmdev/coins" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/kmdev/coins/archive/main.zip" download="coins.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#kmdev&#x2F;coins" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/kmdev/coins" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/kmdev/coins/archive/main.zip" download="coins.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#kmdev&#x2F;coins" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:kmdev/coins.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/kmdev/coins.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A mod for Luanti that adds coins in to the game</p>
@@ -2765,11 +3515,8 @@
       <a href="https://codeberg.org/kmdev/coins/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/kmdev/coins.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:kmdev&#x2F;coins.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -2811,23 +3558,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/82324568/Untitled.jpeg" alt="Avatar of lichenseed" />
       Plutón Mapgen
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/screenshot.png"
-     alt="Screenshot of lichenseed&#x2F;pluton_mapgen mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/screenshot.png"
+           alt="Screenshot of lichenseed&#x2F;pluton_mapgen mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/lichenseed/pluton_mapgen" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/lichenseed/pluton_mapgen/archive/main.zip" download="Plutón Mapgen.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#lichenseed&#x2F;pluton_mapgen" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/lichenseed/pluton_mapgen" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/lichenseed/pluton_mapgen/archive/main.zip" download="Plutón Mapgen.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#lichenseed&#x2F;pluton_mapgen" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:lichenseed/pluton_mapgen.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/lichenseed/pluton_mapgen.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>En este mod de Minetest Game, el contraste entre el terreno helado, los volcanes y ese cielo negro estrellado permanente captura a la perfección la atmósfera desolada y misteriosa de Plutón. La baja gravedad le debe dar el toque final a la jugabilidad.</p>
@@ -2840,11 +3610,8 @@
       <a href="https://gitlab.com/lichenseed/pluton_mapgen/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/lichenseed/pluton_mapgen.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:lichenseed&#x2F;pluton_mapgen.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -2896,23 +3663,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Avatar of mt-mods" />
       wrench
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png"
-     alt="Screenshot of mt-mods&#x2F;wrench mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png"
+           alt="Screenshot of mt-mods&#x2F;wrench mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/mt-mods/wrench" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/mt-mods/wrench/archive/master.zip" download="wrench.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#mt-mods&#x2F;wrench" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/mt-mods/wrench" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/mt-mods/wrench/archive/master.zip" download="wrench.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#mt-mods&#x2F;wrench" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:mt-mods/wrench.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/mt-mods/wrench.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>The wrench tool allows you to pick up nodes with inventories or other metadata, such as chests, signs, drawers, machines, etc, and transport them intact to another location.</p>
@@ -2925,11 +3715,8 @@
       <a href="https://github.com/mt-mods/wrench/issues" target="_blank" rel="noopener">
         Issues [8]
       </a>
-      ·
-      <a href="https://github.com/mt-mods/wrench.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:mt-mods&#x2F;wrench.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -2972,23 +3759,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/213837125?v=4" alt="Avatar of TheAirplaneMan" />
       apm_dimensionpack
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/TheAirplaneMan/apm_dimensionpack/main/screenshot.png"
-     alt="Screenshot of TheAirplaneMan&#x2F;apm_dimensionpack mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/TheAirplaneMan/apm_dimensionpack/main/screenshot.png"
+           alt="Screenshot of TheAirplaneMan&#x2F;apm_dimensionpack mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/TheAirplaneMan/apm_dimensionpack" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/TheAirplaneMan/apm_dimensionpack/archive/main.zip" download="apm_dimensionpack.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#TheAirplaneMan&#x2F;apm_dimensionpack" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/TheAirplaneMan/apm_dimensionpack" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/TheAirplaneMan/apm_dimensionpack/archive/main.zip" download="apm_dimensionpack.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#TheAirplaneMan&#x2F;apm_dimensionpack" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:TheAirplaneMan/apm_dimensionpack.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/TheAirplaneMan/apm_dimensionpack.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Random Dimensions for Minetest, why? I&#39;m not sure.</p>
@@ -3001,11 +3811,8 @@
       <a href="https://github.com/TheAirplaneMan/apm_dimensionpack/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://github.com/TheAirplaneMan/apm_dimensionpack.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:TheAirplaneMan&#x2F;apm_dimensionpack.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Other</dd>
 
@@ -3051,23 +3858,46 @@
     <h2>
       <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Avatar of mt-mods" />
       digistuff
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png"
-     alt="Screenshot of mt-mods&#x2F;digistuff mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png"
+           alt="Screenshot of mt-mods&#x2F;digistuff mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/mt-mods/digistuff" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://github.com/mt-mods/digistuff/archive/master.zip" download="digistuff.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#mt-mods&#x2F;digistuff" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/mt-mods/digistuff" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://github.com/mt-mods/digistuff/archive/master.zip" download="digistuff.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#mt-mods&#x2F;digistuff" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@github.com:mt-mods/digistuff.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://github.com/mt-mods/digistuff.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Fork of http:&#x2F;&#x2F;cheapiesystems.com&#x2F;git&#x2F;digistuff</p>
@@ -3080,11 +3910,8 @@
       <a href="https://github.com/mt-mods/digistuff/issues" target="_blank" rel="noopener">
         Issues [18]
       </a>
-      ·
-      <a href="https://github.com/mt-mods/digistuff.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:mt-mods&#x2F;digistuff.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3128,23 +3955,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png" alt="Avatar of zughy-friends-minetest" />
       country_lib
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;country_lib mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;country_lib mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/country_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/country_lib/archive/main.zip" download="country_lib.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;country_lib" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/country_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/country_lib/archive/main.zip" download="country_lib.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;country_lib" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/country_lib.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/country_lib.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>small util library for Luanti, providing country localised names and flags</p>
@@ -3157,11 +4007,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/country_lib/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/country_lib.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;country_lib.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3197,23 +4044,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png" alt="Avatar of zughy-friends-minetest" />
       Magic Compass
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;magic-compass mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;magic-compass mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/magic-compass" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/magic-compass/archive/master.zip" download="Magic Compass.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;magic-compass" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/magic-compass" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/magic-compass/archive/master.zip" download="Magic Compass.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;magic-compass" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/magic-compass.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/magic-compass.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Teleport system for Luanti</p>
@@ -3226,11 +4096,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/magic-compass/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/magic-compass.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;magic-compass.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3272,23 +4139,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/21154006/whitelist-icon.png" alt="Avatar of zughy-friends-minetest" />
       Whitelist
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;whitelist mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;whitelist mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/whitelist" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/whitelist/archive/master.zip" download="Whitelist.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;whitelist" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/whitelist" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/whitelist/archive/master.zip" download="Whitelist.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;whitelist" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/whitelist.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/whitelist.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Filter who can enter a Luanti server and who can&#39;t through a whitelist</p>
@@ -3301,11 +4191,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/whitelist/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/whitelist.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;whitelist.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3346,23 +4233,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/20515418/achievements.png" alt="Avatar of zughy-friends-minetest" />
       achievements_lib
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;achievements_lib mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/raw/master/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;achievements_lib mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/achievements_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/achievements_lib/archive/master.zip" download="achievements_lib.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;achievements_lib" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/achievements_lib" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/achievements_lib/archive/master.zip" download="achievements_lib.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;achievements_lib" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/achievements_lib.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/achievements_lib.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Achievements API for Luanti</p>
@@ -3375,11 +4285,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/achievements_lib/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/achievements_lib.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;achievements_lib.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3421,23 +4328,46 @@
     <h2>
       <img src="https://gitlab.com/uploads/-/system/project/avatar/19639678/party.png" alt="Avatar of zughy-friends-minetest" />
       Parties
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png"
-     alt="Screenshot of zughy-friends-minetest&#x2F;parties mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png"
+           alt="Screenshot of zughy-friends-minetest&#x2F;parties mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/zughy-friends-minetest/parties" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://gitlab.com/zughy-friends-minetest/parties/archive/master.zip" download="Parties.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#zughy-friends-minetest&#x2F;parties" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/zughy-friends-minetest/parties" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://gitlab.com/zughy-friends-minetest/parties/archive/master.zip" download="Parties.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#zughy-friends-minetest&#x2F;parties" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@gitlab.com:zughy-friends-minetest/parties.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://gitlab.com/zughy-friends-minetest/parties.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Minimalist party mod for Luanti</p>
@@ -3450,11 +4380,8 @@
       <a href="https://gitlab.com/zughy-friends-minetest/parties/-/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://gitlab.com/zughy-friends-minetest/parties.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:zughy-friends-minetest&#x2F;parties.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3495,23 +4422,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/cb36e8d170ea17e7f8499f4eb16450f221803288f6c58e2e385c5ad5c22be3fb" alt="Avatar of YCaTGameRT" />
       cmcla_soups
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png"
-     alt="Screenshot of YCaTGameRT&#x2F;cmcla_soups mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png"
+           alt="Screenshot of YCaTGameRT&#x2F;cmcla_soups mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/YCaTGameRT/cmcla_soups" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/YCaTGameRT/cmcla_soups/archive/master.zip" download="cmcla_soups.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#YCaTGameRT&#x2F;cmcla_soups" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/YCaTGameRT/cmcla_soups" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/YCaTGameRT/cmcla_soups/archive/master.zip" download="cmcla_soups.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#YCaTGameRT&#x2F;cmcla_soups" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:YCaTGameRT/cmcla_soups.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/YCaTGameRT/cmcla_soups.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>This mod add soups to Mineclonia</p>
@@ -3524,11 +4474,8 @@
       <a href="https://codeberg.org/YCaTGameRT/cmcla_soups/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/YCaTGameRT/cmcla_soups.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:YCaTGameRT&#x2F;cmcla_soups.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3568,23 +4515,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/ad74e342bcdd5c816577777f3bdd1f96db1943f1c6fce00f71aece6d7f60fc6e" alt="Avatar of MatyasP" />
       cobanisters
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png"
-     alt="Screenshot of MatyasP&#x2F;cobanisters mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/MatyasP/cobanisters/raw/main/screenshot.png"
+           alt="Screenshot of MatyasP&#x2F;cobanisters mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/MatyasP/cobanisters" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/MatyasP/cobanisters/archive/main.zip" download="cobanisters.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#MatyasP&#x2F;cobanisters" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/MatyasP/cobanisters" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/MatyasP/cobanisters/archive/main.zip" download="cobanisters.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#MatyasP&#x2F;cobanisters" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:MatyasP/cobanisters.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/MatyasP/cobanisters.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Colorable banisters - mod for Luanti</p>
@@ -3597,11 +4567,8 @@
       <a href="https://codeberg.org/MatyasP/cobanisters/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/MatyasP/cobanisters.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:MatyasP&#x2F;cobanisters.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3643,23 +4610,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159" alt="Avatar of kmdev" />
       digital_storage
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/kmdev/digital_storage/raw/main/screenshot.png"
-     alt="Screenshot of kmdev&#x2F;digital_storage mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/kmdev/digital_storage/raw/main/screenshot.png"
+           alt="Screenshot of kmdev&#x2F;digital_storage mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/kmdev/digital_storage" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/kmdev/digital_storage/archive/main.zip" download="digital_storage.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#kmdev&#x2F;digital_storage" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/kmdev/digital_storage" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/kmdev/digital_storage/archive/main.zip" download="digital_storage.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#kmdev&#x2F;digital_storage" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:kmdev/digital_storage.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/kmdev/digital_storage.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A Luanti mod that brings Digital Storage to the game. Inspired by Refined Storage</p>
@@ -3672,11 +4662,8 @@
       <a href="https://codeberg.org/kmdev/digital_storage/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/kmdev/digital_storage.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:kmdev&#x2F;digital_storage.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3712,23 +4699,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/a63854eb89eb1dab089001b174e601762cc42d3816347e9175f72372af2c80f0" alt="Avatar of TPH" />
       events_api
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/TPH/events_api/raw/master/screenshot.png"
-     alt="Screenshot of TPH&#x2F;events_api mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/TPH/events_api/raw/master/screenshot.png"
+           alt="Screenshot of TPH&#x2F;events_api mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/TPH/events_api" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/TPH/events_api/archive/master.zip" download="events_api.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#TPH&#x2F;events_api" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/TPH/events_api" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/TPH/events_api/archive/master.zip" download="events_api.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#TPH&#x2F;events_api" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:TPH/events_api.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/TPH/events_api.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>API for creating, handling, and permitting function registration calls for custom events for Luanti&#x2F;Minetest</p>
@@ -3741,11 +4751,8 @@
       <a href="https://codeberg.org/TPH/events_api/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/TPH/events_api.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:TPH&#x2F;events_api.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3784,23 +4791,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/e9f57c67e292368b2d85d26e24b429a2830c93e75195aeba95f6291a91322ed9" alt="Avatar of Stoabrogga" />
       dungeonsplus
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/screenshot.png"
-     alt="Screenshot of Stoabrogga&#x2F;dungeonsplus mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Stoabrogga/dungeonsplus/raw/root/screenshot.png"
+           alt="Screenshot of Stoabrogga&#x2F;dungeonsplus mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Stoabrogga/dungeonsplus" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Stoabrogga/dungeonsplus/archive/root.zip" download="dungeonsplus.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Stoabrogga&#x2F;dungeonsplus" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Stoabrogga/dungeonsplus" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Stoabrogga/dungeonsplus/archive/root.zip" download="dungeonsplus.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Stoabrogga&#x2F;dungeonsplus" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Stoabrogga/dungeonsplus.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Stoabrogga/dungeonsplus.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Fork of the Luanti mod &quot;dungeonsplus&quot; with a few customizations</p>
@@ -3813,11 +4843,8 @@
       <a href="https://codeberg.org/Stoabrogga/dungeonsplus/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/Stoabrogga/dungeonsplus.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Stoabrogga&#x2F;dungeonsplus.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3854,23 +4881,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf" alt="Avatar of Codiac" />
       drawers
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Codiac/drawers/raw/master/screenshot.png"
-     alt="Screenshot of Codiac&#x2F;drawers mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Codiac/drawers/raw/master/screenshot.png"
+           alt="Screenshot of Codiac&#x2F;drawers mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Codiac/drawers" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Codiac/drawers/archive/master.zip" download="drawers.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Codiac&#x2F;drawers" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Codiac/drawers" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Codiac/drawers/archive/master.zip" download="drawers.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Codiac&#x2F;drawers" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Codiac/drawers.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Codiac/drawers.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Fork of https:&#x2F;&#x2F;github.com&#x2F;minetest-mods&#x2F;drawers.git</p>
@@ -3883,11 +4933,8 @@
       <a href="https://codeberg.org/Codiac/drawers/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/Codiac/drawers.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Codiac&#x2F;drawers.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3924,23 +4971,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf" alt="Avatar of Codiac" />
       alone
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Codiac/alone/raw/main/screenshot.png"
-     alt="Screenshot of Codiac&#x2F;alone mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Codiac/alone/raw/main/screenshot.png"
+           alt="Screenshot of Codiac&#x2F;alone mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Codiac/alone" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Codiac/alone/archive/main.zip" download="alone.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Codiac&#x2F;alone" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Codiac/alone" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Codiac/alone/archive/main.zip" download="alone.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Codiac&#x2F;alone" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Codiac/alone.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Codiac/alone.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A Luanti mod to disperse players around the world.</p>
@@ -3953,11 +5023,8 @@
       <a href="https://codeberg.org/Codiac/alone/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/Codiac/alone.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Codiac&#x2F;alone.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -3994,23 +5061,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/b209aa300f178b67c9abc640fc2bad25" alt="Avatar of yof" />
       ejection
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/yof/ejection/raw/main/screenshot.png"
-     alt="Screenshot of yof&#x2F;ejection mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/yof/ejection/raw/main/screenshot.png"
+           alt="Screenshot of yof&#x2F;ejection mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/yof/ejection" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/yof/ejection/archive/main.zip" download="ejection.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#yof&#x2F;ejection" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/yof/ejection" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/yof/ejection/archive/main.zip" download="ejection.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#yof&#x2F;ejection" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:yof/ejection.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/yof/ejection.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Luanti movement mod.</p>
@@ -4023,11 +5113,8 @@
       <a href="https://codeberg.org/yof/ejection/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/yof/ejection.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:yof&#x2F;ejection.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -4062,23 +5149,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/a892831a59fe193fdad0e38ceaa1f74e9a0116fc9f56de8c2ce16e6c6ad56f8e" alt="Avatar of JetpackJackson" />
       avantisavoia
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/JetpackJackson/avantisavoia/raw/main/screenshot.png"
-     alt="Screenshot of JetpackJackson&#x2F;avantisavoia mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/JetpackJackson/avantisavoia/raw/main/screenshot.png"
+           alt="Screenshot of JetpackJackson&#x2F;avantisavoia mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/JetpackJackson/avantisavoia" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/JetpackJackson/avantisavoia/archive/main.zip" download="avantisavoia.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#JetpackJackson&#x2F;avantisavoia" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/JetpackJackson/avantisavoia" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/JetpackJackson/avantisavoia/archive/main.zip" download="avantisavoia.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#JetpackJackson&#x2F;avantisavoia" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:JetpackJackson/avantisavoia.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/JetpackJackson/avantisavoia.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A mod for Luanti that adds various WW1-related weapons, tools, and structures.</p>
@@ -4091,11 +5201,8 @@
       <a href="https://codeberg.org/JetpackJackson/avantisavoia/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/JetpackJackson/avantisavoia.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:JetpackJackson&#x2F;avantisavoia.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -4130,23 +5237,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/21b310789915765d687d827860cdc797ea3ea2be206f89497b385123635b1679" alt="Avatar of Skivling" />
       DrWho_Tardis
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Skivling/DrWho_Tardis/raw/main/screenshot.png"
-     alt="Screenshot of Skivling&#x2F;DrWho_Tardis mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Skivling/DrWho_Tardis/raw/main/screenshot.png"
+           alt="Screenshot of Skivling&#x2F;DrWho_Tardis mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Skivling/DrWho_Tardis" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Skivling/DrWho_Tardis/archive/main.zip" download="DrWho_Tardis.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Skivling&#x2F;DrWho_Tardis" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Skivling/DrWho_Tardis" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Skivling/DrWho_Tardis/archive/main.zip" download="DrWho_Tardis.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Skivling&#x2F;DrWho_Tardis" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Skivling/DrWho_Tardis.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Skivling/DrWho_Tardis.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>A Doctor Who themed Luanti mod that adds various items and nodes, including a working TARDIS. Forked from https:&#x2F;&#x2F;github.com&#x2F;PiDemon&#x2F;Taridis_New , which is unmaintained. </p>
@@ -4159,11 +5289,8 @@
       <a href="https://codeberg.org/Skivling/DrWho_Tardis/issues" target="_blank" rel="noopener">
         Issues [28]
       </a>
-      ·
-      <a href="https://codeberg.org/Skivling/DrWho_Tardis.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Skivling&#x2F;DrWho_Tardis.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -4209,23 +5336,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Avatar of SilverSandstone" />
       advtrains_horntrack
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/SilverSandstone/advtrains_horntrack/raw/main/screenshot.png"
-     alt="Screenshot of SilverSandstone&#x2F;advtrains_horntrack mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/SilverSandstone/advtrains_horntrack/raw/main/screenshot.png"
+           alt="Screenshot of SilverSandstone&#x2F;advtrains_horntrack mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://content.luanti.org/packages/SilverSandstone/advtrains_horntrack/" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/SilverSandstone/advtrains_horntrack" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/SilverSandstone/advtrains_horntrack/archive/main.zip" download="advtrains_horntrack.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#SilverSandstone&#x2F;advtrains_horntrack" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://content.luanti.org/packages/SilverSandstone/advtrains_horntrack/" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/SilverSandstone/advtrains_horntrack" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/SilverSandstone/advtrains_horntrack/archive/main.zip" download="advtrains_horntrack.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#SilverSandstone&#x2F;advtrains_horntrack" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:SilverSandstone/advtrains_horntrack.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/SilverSandstone/advtrains_horntrack.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Adds a track for automatically activating train horns in Luanti.</p>
@@ -4238,11 +5388,8 @@
       <a href="https://codeberg.org/SilverSandstone/advtrains_horntrack/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/SilverSandstone/advtrains_horntrack.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:SilverSandstone&#x2F;advtrains_horntrack.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -4278,23 +5425,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/31bf31c6f7d7b9ce4973f43a589a1fdf" alt="Avatar of Codiac" />
       copper_pipes
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Codiac/copper_pipes/raw/main/screenshot.png"
-     alt="Screenshot of Codiac&#x2F;copper_pipes mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Codiac/copper_pipes/raw/main/screenshot.png"
+           alt="Screenshot of Codiac&#x2F;copper_pipes mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Codiac/copper_pipes" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Codiac/copper_pipes/archive/main.zip" download="copper_pipes.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Codiac&#x2F;copper_pipes" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Codiac/copper_pipes" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Codiac/copper_pipes/archive/main.zip" download="copper_pipes.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Codiac&#x2F;copper_pipes" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Codiac/copper_pipes.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Codiac/copper_pipes.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Replaces blocks and plastic tubes in Pipeworks with copper versions</p>
@@ -4307,11 +5477,8 @@
       <a href="https://codeberg.org/Codiac/copper_pipes/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/Codiac/copper_pipes.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Codiac&#x2F;copper_pipes.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -4348,23 +5515,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/34298df361c480ae912a2b47c1f2171e" alt="Avatar of somedumbguy" />
       epoxied_concrete
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png"
-     alt="Screenshot of somedumbguy&#x2F;epoxied_concrete mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/somedumbguy/epoxied_concrete/raw/master/screenshot.png"
+           alt="Screenshot of somedumbguy&#x2F;epoxied_concrete mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/somedumbguy/epoxied_concrete" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/somedumbguy/epoxied_concrete/archive/master.zip" download="epoxied_concrete.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#somedumbguy&#x2F;epoxied_concrete" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/somedumbguy/epoxied_concrete" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/somedumbguy/epoxied_concrete/archive/master.zip" download="epoxied_concrete.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#somedumbguy&#x2F;epoxied_concrete" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:somedumbguy/epoxied_concrete.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/somedumbguy/epoxied_concrete.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Luanti Mod that uses epoxy from techage to create colored concrete blocks.</p>
@@ -4377,11 +5567,8 @@
       <a href="https://codeberg.org/somedumbguy/epoxied_concrete/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/somedumbguy/epoxied_concrete.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:somedumbguy&#x2F;epoxied_concrete.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -4423,23 +5610,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/98a5e2086547f238005875945d43199901c48c659948935da3281e556f875f17" alt="Avatar of SilverSandstone" />
       blockhead
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/SilverSandstone/blockhead/raw/main/screenshot.png"
-     alt="Screenshot of SilverSandstone&#x2F;blockhead mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/SilverSandstone/blockhead/raw/main/screenshot.png"
+           alt="Screenshot of SilverSandstone&#x2F;blockhead mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    <a href="https://content.luanti.org/packages/SilverSandstone/blockhead/" target="_blank" rel="noopener">Webpage</a>
-    <a href="https://content.luanti.org/packages/SilverSandstone/blockhead" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/SilverSandstone/blockhead/archive/main.zip" download="blockhead.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#SilverSandstone&#x2F;blockhead" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        <a href="https://content.luanti.org/packages/SilverSandstone/blockhead/" target="_blank" rel="noopener">Webpage</a>
+        <a href="https://content.luanti.org/packages/SilverSandstone/blockhead" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/SilverSandstone/blockhead/archive/main.zip" download="blockhead.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#SilverSandstone&#x2F;blockhead" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:SilverSandstone/blockhead.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/SilverSandstone/blockhead.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Lets you put a block on your head in Luanti.</p>
@@ -4452,11 +5662,8 @@
       <a href="https://codeberg.org/SilverSandstone/blockhead/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/SilverSandstone/blockhead.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:SilverSandstone&#x2F;blockhead.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -4491,23 +5698,46 @@
     <h2>
       <img src="https://codeberg.org/avatars/70e9f49ac0763f676f0520c7156faefec7db7bf97bd7deb01175711245c3be28" alt="Avatar of Desour" />
       bed_rock
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="https://codeberg.org/Desour/bed_rock/raw/master/screenshot.png"
-     alt="Screenshot of Desour&#x2F;bed_rock mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="https://codeberg.org/Desour/bed_rock/raw/master/screenshot.png"
+           alt="Screenshot of Desour&#x2F;bed_rock mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    
-    <a href="https://content.luanti.org/packages/Desour/bed_rock" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="https://codeberg.org/Desour/bed_rock/archive/master.zip" download="bed_rock.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#Desour&#x2F;bed_rock" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        
+        <a href="https://content.luanti.org/packages/Desour/bed_rock" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="https://codeberg.org/Desour/bed_rock/archive/master.zip" download="bed_rock.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#Desour&#x2F;bed_rock" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone git@codeberg.org:Desour/bed_rock.git"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone https://codeberg.org/Desour/bed_rock.git"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   <p>Luanti mod for a rock that you can use as bed</p>
@@ -4520,11 +5750,8 @@
       <a href="https://codeberg.org/Desour/bed_rock/issues" target="_blank" rel="noopener">
         Issues
       </a>
-      ·
-      <a href="https://codeberg.org/Desour/bed_rock.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@:Desour&#x2F;bed_rock.git" class="copy-link">SSH</a>
     </dd>
+
     <dt>License</dt>
     <dd>Unknown</dd>
 
@@ -4553,7 +5780,7 @@
 
 </article>
 
-<a role="button" id="refresh-btn" href="?v=2026-06-08T07:03:27Z" aria-label="Refresh" hidden>⟳</a>
+<a role="button" id="refresh-btn" href="?v=2026-06-08T10:42:10Z" aria-label="Refresh" hidden>⟳</a>
 
 <style>
 

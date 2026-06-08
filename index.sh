@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
- 
+
 set -euo pipefail
-
-
 
 JQ_NORMALIZE_GITHUB='
 {
@@ -14,6 +12,8 @@ JQ_NORMALIZE_GITHUB='
     website: (.homepage // ""),
     repo_name: .name,
     html_url: .html_url,
+    https_clone_url: (.html_url + ".git"),
+    ssh_clone_url: ("git@github.com:" + .full_name + ".git"),
     issues_url: (.html_url + "/issues"),
     open_issues: (.open_issues_count // 0),
     stars: (.stargazers_count // 0),
@@ -40,6 +40,8 @@ JQ_NORMALIZE_GITLAB='
     website: (.website_url // ""),
     repo_name: .name,
     html_url: .web_url,
+    https_clone_url: (.web_url + ".git"),
+    ssh_clone_url: ("git@gitlab.com:" + .path_with_namespace + ".git"),
     issues_url: (.web_url + "/-/issues"),
     open_issues: (.open_issues_count // 0),
     stars: (.star_count // 0),
@@ -66,6 +68,8 @@ JQ_NORMALIZE_CODEBERG='
     website: (.website // ""),
     repo_name: .name,
     html_url: .html_url,
+    https_clone_url: (.html_url + ".git"),
+    ssh_clone_url: ("git@codeberg.org:" + .full_name + ".git"),
     issues_url: (.html_url + "/issues"),
     open_issues: (.open_issues_count // 0),
     stars: (.stars_count // 0),

@@ -32,10 +32,7 @@
   html {
     scroll-behavior: initial !important;
   }
-</style>
 
-
-<style>
   article {
     border: none;
     margin-top: 0;
@@ -67,7 +64,6 @@
       padding: 1rem 2rem 1rem 0;
       box-shadow: 0 0 6rem var(--bg);
       border-radius: 0 var(--standard-border-radius) 0 0;
-      margin: 0;
     }
 
     code {
@@ -85,6 +81,37 @@
       height:1em;
       vertical-align:middle;
     }
+
+    /* clone pill */
+    .clone-pill {
+      float: right;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5ch;
+      padding: 0.35rem 0.75rem;
+      margin-right: 0;
+      border: 1px solid var(--border);
+      border-radius: 0.5em;
+      background: var(--accent-bg);
+      font-size: 0.9rem;
+    }
+
+    .clone-pill a {
+      padding: 0 0.4ch;
+    }
+
+    .clone-pill a:hover {
+      text-decoration: underline;
+    }
+
+    .clone-pill .sep {
+      opacity: 0.5;
+    }
+
+    .clone-label {
+      opacity: 0.7;
+    }
+
   </style>
 
 </head>
@@ -112,23 +139,46 @@
     <h2>
       <img src="{{{avatar_url}}}" alt="Avatar of {{author}}" />
       {{repo_name}}
-    </h2>    
+    </h2>
 
     <figure>
-
-<img src="{{{image_raw}}}"
-     alt="Screenshot of {{full_name}} mod"
-     width="600" height="400"
-     loading="lazy"
-     onerror="this.onerror=null;this.src='./favicon.svg';">    
+      <img src="{{{image_raw}}}"
+           alt="Screenshot of {{full_name}} mod"
+           width="600"
+           height="400"
+           loading="lazy"
+           onerror="this.onerror=null;this.src='./favicon.svg';">
     </figure>
   </div>
 
-  <p class="links">
-    {{#website}}<a href="{{{website}}}" target="_blank" rel="noopener">Webpage</a>{{/website}}
-    <a href="https://content.luanti.org/packages/{{{full_name}}}" class="check-url" target="_blank" rel="noopener">ContentDB</a>
-    <a href="{{{html_url}}}/archive/{{default_branch}}.zip" download="{{{repo_name}}}.zip" target="_blank" rel="noopener" title="Download Zip">Download</a>
-    <a href="#{{full_name}}" class="copy-link" title="Click to copy this article's URL">Share</a>
+    <div class="links-row">
+      <p class="links">
+        {{#website}}<a href="{{{website}}}" target="_blank" rel="noopener">Webpage</a>{{/website}}
+        <a href="https://content.luanti.org/packages/{{{full_name}}}" class="check-url" target="_blank" rel="noopener">ContentDB</a>
+        <a href="{{{html_url}}}/archive/{{default_branch}}.zip" download="{{{repo_name}}}.zip" target="_blank" rel="noopener">Download</a>
+        <a href="#{{full_name}}" class="copy-link">Share</a>
+        <span class="clone-pill">
+          <span class="clone-label">Clone</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone {{{ssh_clone_url}}}"
+             onclick="return false;">
+            SSH
+          </a>
+
+          <span class="sep">|</span>
+
+          <a href="#"
+             class="copy-clone-pill"
+             data-copy="git clone {{{https_clone_url}}}"
+             onclick="return false;">
+            HTTP
+          </a>
+        </span>
+      </p>
+
+    </div>    
   </p>
 
   {{#description}}
@@ -143,11 +193,8 @@
       <a href="{{{issues_url}}}" target="_blank" rel="noopener">
         Issues{{#open_issues}} [{{open_issues}}]{{/open_issues}}
       </a>
-      ·
-      <a href="{{{html_url}}}.git" class="copy-link" title="Copy HTTPS clone">HTTPS</a>
-      ·
-      <a href="git@{{host_domain}}:{{full_name}}.git" class="copy-link">SSH</a>
     </dd>
+
     {{#license}}
     <dt>License</dt>
     <dd>{{license.name}}</dd>
