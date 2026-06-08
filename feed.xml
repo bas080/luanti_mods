@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>pkarcs (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/pkarcs</link>
+    <guid>https://github.com/minetest-mods/pkarcs</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Adds arched doors and arched nodes<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/minetest-mods/pkarcs/archive/refs/heads/master/pkarcs.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-08T05:59:42Z</pubDate>
+  </item>
+  <item>
+    <title>drawers (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
+    <guid>https://github.com/minetest-mods/drawers</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      [MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-08T05:55:21Z</pubDate>
+  </item>
+  <item>
     <title>moretrees (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#mt-mods/moretrees</link>
     <guid>https://github.com/mt-mods/moretrees</guid>
@@ -81,24 +117,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-07T15:33:28Z</pubDate>
-  </item>
-  <item>
-    <title>pkarcs (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/pkarcs</link>
-    <guid>https://github.com/minetest-mods/pkarcs</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Adds arched doors and arched nodes<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/minetest-mods/pkarcs/archive/refs/heads/master/pkarcs.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-07T13:39:34Z</pubDate>
   </item>
   <item>
     <title>technic (Github)</title>
@@ -459,24 +477,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" type="image/png" />
     <pubDate>2026-05-31T17:14:03Z</pubDate>
-  </item>
-  <item>
-    <title>drawers (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
-    <guid>https://github.com/minetest-mods/drawers</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      [MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-31T17:09:31Z</pubDate>
   </item>
   <item>
     <title>Talk with core (Gitlab)</title>
