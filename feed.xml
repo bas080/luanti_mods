@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>Minimalist Currency Mod for Luanti (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#AntumMT/mod-currency</link>
+    <guid>https://gitlab.com/AntumMT/mod-currency</guid>
+    <author>AntumMT</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>AntumMT</strong><br>
+      Minimalist fork of &#x60;currency&#x60; mod that only provides &quot;minegeld&quot;.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/AntumMT/mod-currency/-/archive/master/mod-currency.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-09T04:35:18.236Z</pubDate>
+  </item>
+  <item>
     <title>technic_many_machines (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
     <guid>https://github.com/Opons1/technic_many_machines</guid>
@@ -423,24 +441,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-01T21:23:51Z</pubDate>
-  </item>
-  <item>
-    <title>Minimalist Currency Mod for Luanti (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#AntumMT/mod-currency</link>
-    <guid>https://gitlab.com/AntumMT/mod-currency</guid>
-    <author>AntumMT</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>AntumMT</strong><br>
-      Minimalist fork of &#x60;currency&#x60; mod that only provides &quot;minegeld&quot;.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/AntumMT/mod-currency/-/archive/master/mod-currency.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-01T03:22:48.951Z</pubDate>
   </item>
   <item>
     <title>Simple Calculator (Gitlab)</title>

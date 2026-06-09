@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumMT/mod-currency",
+      "author": "AntumMT",
+      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
+      "website": "",
+      "repo_name": "Minimalist Currency Mod for Luanti",
+      "html_url": "https://gitlab.com/AntumMT/mod-currency",
+      "https_clone_url": "https://gitlab.com/AntumMT/mod-currency.git",
+      "ssh_clone_url": "git@gitlab.com:AntumMT/mod-currency.git",
+      "issues_url": "https://gitlab.com/AntumMT/mod-currency/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumMT/mod-currency/-/archive/master/mod-currency.zip",
+      "readme_url": "https://gitlab.com/AntumMT/mod-currency/-/raw/master/README.md",
+      "description": "Minimalist fork of `currency` mod that only provides \"minegeld\".",
+      "default_branch": "master",
+      "updated_at": "2026-06-09T04:35:18.236Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Luanti mod",
+        "Luanti-mod",
+        "minetest",
+        "minetest mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "Opons1/technic_many_machines",
       "author": "Opons1",
@@ -726,39 +759,6 @@
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "AntumMT/mod-currency",
-      "author": "AntumMT",
-      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
-      "website": "",
-      "repo_name": "Minimalist Currency Mod for Luanti",
-      "html_url": "https://gitlab.com/AntumMT/mod-currency",
-      "https_clone_url": "https://gitlab.com/AntumMT/mod-currency.git",
-      "ssh_clone_url": "git@gitlab.com:AntumMT/mod-currency.git",
-      "issues_url": "https://gitlab.com/AntumMT/mod-currency/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/AntumMT/mod-currency/-/archive/master/mod-currency.zip",
-      "readme_url": "https://gitlab.com/AntumMT/mod-currency/-/raw/master/README.md",
-      "description": "Minimalist fork of `currency` mod that only provides \"minegeld\".",
-      "default_branch": "master",
-      "updated_at": "2026-06-01T03:22:48.951Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "Luanti mod",
-        "Luanti-mod",
-        "minetest",
-        "minetest mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://gitlab.com/AntumMT/mod-currency/-/raw/master/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1922,5 +1922,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-09T04:35:02Z"
+  "now": "2026-06-09T08:41:13Z"
 }
