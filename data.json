@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-06-11T09:03:00.848Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "Opons1/technic_many_machines",
       "author": "Opons1",
@@ -28,6 +58,164 @@
       "image_raw": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/README.md",
       "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 15,
+      "forks": 14,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-06-10T18:37:23.470Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/weapons_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png",
+      "website": "",
+      "repo_name": "weapons_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/weapons_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
+      "description": "Luanti library to easily register new weapons",
+      "default_branch": "main",
+      "updated_at": "2026-06-10T13:22:59.309Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library",
+        "minetest",
+        "weapons"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumLuanti/mod-amber",
+      "author": "AntumLuanti",
+      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
+      "website": "",
+      "repo_name": "Luanti Amber Mod",
+      "html_url": "https://gitlab.com/AntumLuanti/mod-amber",
+      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-amber.git",
+      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-amber.git",
+      "issues_url": "https://gitlab.com/AntumLuanti/mod-amber/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumLuanti/mod-amber/-/archive/master/mod-amber.zip",
+      "readme_url": "https://gitlab.com/AntumLuanti/mod-amber/-/raw/master/README.md",
+      "description": "Luanti mod that adds amber tools, decorations, & two armor sets.",
+      "default_branch": "master",
+      "updated_at": "2026-06-10T07:58:30.458Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Luanti mod",
+        "Luanti-mod",
+        "minetest",
+        "minetest mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://gitlab.com/AntumLuanti/mod-amber/-/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumLuanti/luanti",
+      "author": "AntumLuanti",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/83080042/luanti_icon.png",
+      "website": "",
+      "repo_name": "Luanti",
+      "html_url": "https://gitlab.com/AntumLuanti/luanti",
+      "https_clone_url": "https://gitlab.com/AntumLuanti/luanti.git",
+      "ssh_clone_url": "git@gitlab.com:AntumLuanti/luanti.git",
+      "issues_url": "https://gitlab.com/AntumLuanti/luanti/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumLuanti/luanti/-/archive/master/luanti.zip",
+      "readme_url": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/README.md",
+      "description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.",
+      "default_branch": "master",
+      "updated_at": "2026-06-10T06:15:27.554Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumLuanti/mod-currency",
+      "author": "AntumLuanti",
+      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
+      "website": "",
+      "repo_name": "Minimalist Currency Mod for Luanti",
+      "html_url": "https://gitlab.com/AntumLuanti/mod-currency",
+      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-currency.git",
+      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-currency.git",
+      "issues_url": "https://gitlab.com/AntumLuanti/mod-currency/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumLuanti/mod-currency/-/archive/master/mod-currency.zip",
+      "readme_url": "https://gitlab.com/AntumLuanti/mod-currency/-/raw/master/README.md",
+      "description": "Minimalist fork of `currency` mod that only provides \"minegeld\".",
+      "default_branch": "master",
+      "updated_at": "2026-06-09T04:35:18.236Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Luanti mod",
+        "Luanti-mod",
+        "minetest",
+        "minetest mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://gitlab.com/AntumLuanti/mod-currency/-/raw/master/screenshot.png",
+      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -253,6 +441,38 @@
       "has_stats": true
     },
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/audio_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png",
+      "website": "",
+      "repo_name": "audio_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/audio_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/audio_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/audio_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/archive/main/audio_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/README.md",
+      "description": "Luanti library to easily manage audio files",
+      "default_branch": "main",
+      "updated_at": "2026-06-06T17:07:56.235Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library",
+        "minetest",
+        "sound"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "AntumLuanti/mod-rocket",
       "author": "AntumLuanti",
@@ -284,6 +504,39 @@
       "has_stats": false
     },
     {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumLuanti/mod-rocket",
+      "author": "AntumLuanti",
+      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
+      "website": "",
+      "repo_name": "Luanti Rocket Mod",
+      "html_url": "https://gitlab.com/AntumLuanti/mod-rocket",
+      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-rocket.git",
+      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-rocket.git",
+      "issues_url": "https://gitlab.com/AntumLuanti/mod-rocket/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumLuanti/mod-rocket/-/archive/master/mod-rocket.zip",
+      "readme_url": "https://gitlab.com/AntumLuanti/mod-rocket/-/raw/master/README.md",
+      "description": "Space shuttle mod for Luanti.",
+      "default_branch": "master",
+      "updated_at": "2026-06-06T05:19:57.279Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Luanti mod",
+        "Luanti-mod",
+        "minetest",
+        "minetest mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://gitlab.com/AntumLuanti/mod-rocket/-/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/nether",
       "author": "minetest-mods",
@@ -311,6 +564,36 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/soothing-32",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png",
+      "website": "",
+      "repo_name": "Soothing 32",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/soothing-32",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/soothing-32.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/soothing-32.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/issues",
+      "open_issues": 0,
+      "stars": 2,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/archive/master/soothing-32.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/README.md",
+      "description": "Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!",
+      "default_branch": "master",
+      "updated_at": "2026-06-05T17:51:29.506Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Textures",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -540,6 +823,43 @@
       "has_stats": true
     },
     {
+      "hosted_on": "Gitlab",
+      "full_name": "lichenseed/portable-calculator",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png",
+      "website": "",
+      "repo_name": "Simple Calculator",
+      "html_url": "https://gitlab.com/lichenseed/portable-calculator",
+      "https_clone_url": "https://gitlab.com/lichenseed/portable-calculator.git",
+      "ssh_clone_url": "git@gitlab.com:lichenseed/portable-calculator.git",
+      "issues_url": "https://gitlab.com/lichenseed/portable-calculator/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/portable-calculator/-/archive/main/portable-calculator.zip",
+      "readme_url": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/README.md",
+      "description": "Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.",
+      "default_branch": "main",
+      "updated_at": "2026-05-31T20:13:41.459Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "ai-assisted-development",
+        "calculator",
+        "gamemodding",
+        "gui",
+        "lua",
+        "minetest",
+        "minetest mod",
+        "mod",
+        "vibecoded"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/digilines",
       "author": "minetest-mods",
@@ -569,6 +889,58 @@
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/digilines/master/README.md",
       "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "lichenseed/talk-with-core",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82489096/yellow_gem_floating_around_cos.jpeg",
+      "website": "",
+      "repo_name": "Talk with core",
+      "html_url": "https://gitlab.com/lichenseed/talk-with-core",
+      "https_clone_url": "https://gitlab.com/lichenseed/talk-with-core.git",
+      "ssh_clone_url": "git@gitlab.com:lichenseed/talk-with-core.git",
+      "issues_url": "https://gitlab.com/lichenseed/talk-with-core/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/talk-with-core/-/archive/main/talk-with-core.zip",
+      "readme_url": "https://gitlab.com/lichenseed/talk-with-core/-/raw/main/README.md",
+      "description": "A secure, hardened mathematical engine and chat terminal mod for Luanti (formerly Minetest). This mod introduces an in-game terminal item that allows players to communicate with an AI-themed mathematical \"Core\" capable of solving complex algebraic expressions, precalculus functions, and equations using numeric methods directly inside the game environment.",
+      "default_branch": "main",
+      "updated_at": "2026-05-29T16:37:27.943Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "AI",
+        "Luanti",
+        "ai-assisted-development",
+        "arithmetic",
+        "calculator",
+        "calculus",
+        "chatbot",
+        "gamemodding",
+        "gui",
+        "local",
+        "lua",
+        "math",
+        "mathematics",
+        "minetest",
+        "minetest mod",
+        "minetest-mod",
+        "minetestmod",
+        "modding",
+        "numerical mathematics",
+        "numerical methods",
+        "offline",
+        "offline tool",
+        "prototype",
+        "vibe-code",
+        "vibe-coding"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/talk-with-core/-/raw/main/screenshot.png",
+      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -602,6 +974,37 @@
       "has_stats": true
     },
     {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumLuanti/mod-asm_spawneggs",
+      "author": "AntumLuanti",
+      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
+      "website": "",
+      "repo_name": "mod-asm_spawneggs",
+      "html_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs",
+      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs.git",
+      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-asm_spawneggs.git",
+      "issues_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/archive/master/mod-asm_spawneggs.zip",
+      "readme_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/raw/master/README.md",
+      "description": "Spawneggs for adding entities to Luanti games.",
+      "default_branch": "master",
+      "updated_at": "2026-05-28T22:53:18.123Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Luanti mod",
+        "minetest",
+        "minetest mod"
+      ],
+      "image_raw": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "AntumLuanti/mod-sounds",
       "author": "AntumLuanti",
@@ -630,6 +1033,66 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/AntumLuanti/mod-sounds/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/AntumLuanti/mod-sounds/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/collectible-skins",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png",
+      "website": "",
+      "repo_name": "Collectible skins",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/collectible-skins.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/issues",
+      "open_issues": 0,
+      "stars": 2,
+      "forks": 3,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/README.md",
+      "description": "Wear and unlock skins on Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-27T20:51:27.215Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "mod",
+        "videogames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/hub",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png",
+      "website": "",
+      "repo_name": "Hub",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/hub",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/hub.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/hub.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/hub/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
+      "description": "A mod to easily manage your minigames server on Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-27T20:28:00.852Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -664,6 +1127,71 @@
       "has_stats": true
     },
     {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumLuanti/mod-simple_models",
+      "author": "AntumLuanti",
+      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
+      "website": "",
+      "repo_name": "mod-simple_models",
+      "html_url": "https://gitlab.com/AntumLuanti/mod-simple_models",
+      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-simple_models.git",
+      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-simple_models.git",
+      "issues_url": "https://gitlab.com/AntumLuanti/mod-simple_models/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumLuanti/mod-simple_models/-/archive/master/mod-simple_models.zip",
+      "readme_url": "https://gitlab.com/AntumLuanti/mod-simple_models/-/raw/master/README.md",
+      "description": "Very simple models for Luanti (Minetest)",
+      "default_branch": "master",
+      "updated_at": "2026-05-27T04:33:06.604Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Luanti mod",
+        "minetest",
+        "minetest mod"
+      ],
+      "image_raw": "https://gitlab.com/AntumLuanti/mod-simple_models/-/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "lichenseed/portable-console-snake",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82492635/Glen_Keane_character_concept_a.jpeg",
+      "website": "",
+      "repo_name": "Snake in Minetest",
+      "html_url": "https://gitlab.com/lichenseed/portable-console-snake",
+      "https_clone_url": "https://gitlab.com/lichenseed/portable-console-snake.git",
+      "ssh_clone_url": "git@gitlab.com:lichenseed/portable-console-snake.git",
+      "issues_url": "https://gitlab.com/lichenseed/portable-console-snake/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/portable-console-snake/-/archive/main/portable-console-snake.zip",
+      "readme_url": "https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/README.md",
+      "description": "Running Snake in Minetest Game.",
+      "default_branch": "main",
+      "updated_at": "2026-05-24T00:28:07.014Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "gui",
+        "lua",
+        "minetest",
+        "mod",
+        "snake-game",
+        "vibecoded"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Codeberg",
       "full_name": "kmdev/coins",
       "author": "kmdev",
@@ -692,6 +1220,52 @@
       ],
       "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
       "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "lichenseed/pluton_mapgen",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82324568/Untitled.jpeg",
+      "website": "",
+      "repo_name": "Plutón Mapgen",
+      "html_url": "https://gitlab.com/lichenseed/pluton_mapgen",
+      "https_clone_url": "https://gitlab.com/lichenseed/pluton_mapgen.git",
+      "ssh_clone_url": "git@gitlab.com:lichenseed/pluton_mapgen.git",
+      "issues_url": "https://gitlab.com/lichenseed/pluton_mapgen/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/pluton_mapgen/-/archive/main/pluton_mapgen.zip",
+      "readme_url": "https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/README.md",
+      "description": "En este mod de Minetest Game, el contraste entre el terreno helado, los volcanes y ese cielo negro estrellado permanente captura a la perfección la atmósfera desolada y misteriosa de Plutón. La baja gravedad le debe dar el toque final a la jugabilidad.",
+      "default_branch": "main",
+      "updated_at": "2026-05-19T03:49:53.060Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "AI",
+        "Astronomical Education",
+        "Luanti",
+        "Planets",
+        "ai-assisted-development",
+        "ai-generated",
+        "astronomy",
+        "español",
+        "lua",
+        "minetest",
+        "minetest mod",
+        "minetest-mod",
+        "minetestmod",
+        "mod",
+        "spanish",
+        "spanish-language",
+        "vibe-code",
+        "vibe-coding",
+        "vibecoded"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/screenshot.png",
+      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -763,6 +1337,95 @@
       "image_raw": "https://raw.githubusercontent.com/TheAirplaneMan/apm_dimensionpack/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/TheAirplaneMan/apm_dimensionpack/main/README.md",
       "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/country_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png",
+      "website": "",
+      "repo_name": "country_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/country_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/country_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/country_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/README.md",
+      "description": "small util library for Luanti, providing country localised names and flags",
+      "default_branch": "main",
+      "updated_at": "2026-05-04T11:59:34.800Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/magic-compass",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png",
+      "website": "",
+      "repo_name": "Magic Compass",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/magic-compass",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/magic-compass.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/magic-compass.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/archive/master/magic-compass.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/README.md",
+      "description": "Teleport system for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-04T11:59:25.343Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest",
+        "mod"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/whitelist",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/21154006/whitelist-icon.png",
+      "website": "",
+      "repo_name": "Whitelist",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/whitelist",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/whitelist.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/whitelist.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 3,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/archive/master/whitelist.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/README.md",
+      "description": "Filter who can enter a Luanti server and who can't through a whitelist",
+      "default_branch": "master",
+      "updated_at": "2026-05-04T11:59:21.650Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/whitelist/-/raw/master/screenshot.png",
+      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1262,5 +1925,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-11T07:04:46Z"
+  "now": "2026-06-11T11:47:53Z"
 }
