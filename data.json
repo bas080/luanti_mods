@@ -11,13 +11,13 @@
       "https_clone_url": "https://github.com/Opons1/technic_many_machines.git",
       "ssh_clone_url": "git@github.com:Opons1/technic_many_machines.git",
       "issues_url": "https://github.com/Opons1/technic_many_machines/issues",
-      "open_issues": 4,
+      "open_issues": 2,
       "stars": 1,
       "forks": 1,
       "zip_url": "https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip",
       "description": "",
       "default_branch": "main",
-      "updated_at": "2026-06-10T18:41:22Z",
+      "updated_at": "2026-06-10T23:37:24Z",
       "license": {
         "name": "Other"
       },
@@ -1925,5 +1925,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-10T22:56:47Z"
+  "now": "2026-06-11T01:39:46Z"
 }
