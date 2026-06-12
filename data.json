@@ -18,7 +18,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
       "description": "A mod that adds energy drinks to the luanti game engine.",
       "default_branch": "main",
-      "updated_at": "2026-06-11T18:02:02+02:00",
+      "updated_at": "2026-06-12T05:42:55+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -49,7 +49,7 @@
       "zip_url": "https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip",
       "description": "",
       "default_branch": "main",
-      "updated_at": "2026-06-11T16:44:18Z",
+      "updated_at": "2026-06-12T04:12:34Z",
       "license": {
         "name": "Other"
       },
@@ -78,7 +78,7 @@
       "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
       "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
       "default_branch": "main",
-      "updated_at": "2026-06-11T16:02:08Z",
+      "updated_at": "2026-06-12T03:43:02Z",
       "license": {
         "name": "Other"
       },
@@ -1925,5 +1925,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-12T01:39:21Z"
+  "now": "2026-06-12T06:55:35Z"
 }
