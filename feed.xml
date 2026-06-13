@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>energy_drinks (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
+    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A mod that adds energy drinks to the luanti game engine.<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-13T18:59:36+02:00</pubDate>
+  </item>
+  <item>
+    <title>energy_drinks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/energy_drinks</link>
+    <guid>https://github.com/Sheriff-Unit-3/energy_drinks</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A mod that adds energy drinks to the luanti game engine.<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-13T16:59:43Z</pubDate>
+  </item>
+  <item>
     <title>nether (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
     <guid>https://github.com/minetest-mods/nether</guid>
@@ -27,24 +63,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-13T13:38:41Z</pubDate>
-  </item>
-  <item>
-    <title>energy_drinks (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
-    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A mod that adds energy drinks to the luanti game engine.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-13T10:07:53+02:00</pubDate>
   </item>
   <item>
     <title>Block League (Gitlab)</title>
@@ -117,24 +135,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-12T11:54:56.490Z</pubDate>
-  </item>
-  <item>
-    <title>energy_drinks (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/energy_drinks</link>
-    <guid>https://github.com/Sheriff-Unit-3/energy_drinks</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) A mod that adds energy drinks to the luanti game engine.<br>
-      License: Other<br>
-      <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-12T03:43:02Z</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>
