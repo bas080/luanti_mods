@@ -18,7 +18,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
       "description": "A mod that adds energy drinks to the luanti game engine.",
       "default_branch": "main",
-      "updated_at": "2026-06-13T18:59:36+02:00",
+      "updated_at": "2026-06-14T01:56:42+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -31,6 +31,36 @@
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
       "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "kmdev/coins",
+      "author": "kmdev",
+      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
+      "website": "",
+      "repo_name": "coins",
+      "html_url": "https://codeberg.org/kmdev/coins",
+      "https_clone_url": "https://codeberg.org/kmdev/coins.git",
+      "ssh_clone_url": "git@codeberg.org:kmdev/coins.git",
+      "issues_url": "https://codeberg.org/kmdev/coins/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip",
+      "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
+      "description": "A mod for Luanti that adds coins in to the game",
+      "default_branch": "main",
+      "updated_at": "2026-06-14T01:03:10+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
+      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -49,7 +79,7 @@
       "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
       "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
       "default_branch": "main",
-      "updated_at": "2026-06-13T16:59:43Z",
+      "updated_at": "2026-06-13T23:56:48Z",
       "license": {
         "name": "Other"
       },
@@ -1192,36 +1222,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Codeberg",
-      "full_name": "kmdev/coins",
-      "author": "kmdev",
-      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
-      "website": "",
-      "repo_name": "coins",
-      "html_url": "https://codeberg.org/kmdev/coins",
-      "https_clone_url": "https://codeberg.org/kmdev/coins.git",
-      "ssh_clone_url": "git@codeberg.org:kmdev/coins.git",
-      "issues_url": "https://codeberg.org/kmdev/coins/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip",
-      "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
-      "description": "A mod for Luanti that adds coins in to the game",
-      "default_branch": "main",
-      "updated_at": "2026-05-20T22:58:12+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "lichenseed/pluton_mapgen",
       "author": "lichenseed",
@@ -1925,5 +1925,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-13T22:19:05Z"
+  "now": "2026-06-14T00:20:32Z"
 }
