@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>item_drop (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/item_drop</link>
+    <guid>https://github.com/minetest-mods/item_drop</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      A highly configurable mod providing item magnet and in-world node drops<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/minetest-mods/item_drop/archive/refs/heads/master/item_drop.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-15T17:03:34Z</pubDate>
+  </item>
+  <item>
+    <title>Hub (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/hub</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      A mod to easily manage your minigames server on Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-15T16:22:21.891Z</pubDate>
+  </item>
+  <item>
     <title>energy_drinks (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
     <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
@@ -26,7 +62,25 @@
 
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-15T10:08:00+02:00</pubDate>
+    <pubDate>2026-06-15T15:27:16+02:00</pubDate>
+  </item>
+  <item>
+    <title>energy_drinks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/energy_drinks</link>
+    <guid>https://github.com/Sheriff-Unit-3/energy_drinks</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A mod that adds energy drinks to the luanti game engine.<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-15T13:27:24Z</pubDate>
   </item>
   <item>
     <title>digilines (Github)</title>
@@ -117,24 +171,6 @@
     <media:thumbnail url="https://codeberg.org/kmdev/coins/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/kmdev/coins/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-06-14T01:03:10+02:00</pubDate>
-  </item>
-  <item>
-    <title>energy_drinks (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/energy_drinks</link>
-    <guid>https://github.com/Sheriff-Unit-3/energy_drinks</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) A mod that adds energy drinks to the luanti game engine.<br>
-      License: Other<br>
-      <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-13T23:56:48Z</pubDate>
   </item>
   <item>
     <title>nether (Github)</title>
@@ -641,24 +677,6 @@
     <pubDate>2026-05-28T22:53:18.123Z</pubDate>
   </item>
   <item>
-    <title>mod-sounds (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#AntumLuanti/mod-sounds</link>
-    <guid>https://github.com/AntumLuanti/mod-sounds</guid>
-    <author>AntumLuanti</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>AntumLuanti</strong><br>
-      A set of free sounds that Minetest mods can use.<br>
-      License: MIT License<br>
-      <a href="https://github.com/AntumLuanti/mod-sounds/archive/refs/heads/master/mod-sounds.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/AntumLuanti/mod-sounds/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/AntumLuanti/mod-sounds/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/AntumLuanti/mod-sounds/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-28T03:41:45Z</pubDate>
-  </item>
-  <item>
     <title>Collectible skins (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/collectible-skins</link>
     <guid>https://gitlab.com/zughy-friends-minetest/collectible-skins</guid>
@@ -675,24 +693,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-05-27T20:51:27.215Z</pubDate>
-  </item>
-  <item>
-    <title>Hub (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/hub</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      A mod to easily manage your minigames server on Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-27T20:28:00.852Z</pubDate>
   </item>
   <item>
     <title>mod-simple_models (Gitlab)</title>

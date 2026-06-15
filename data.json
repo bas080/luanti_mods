@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/item_drop",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/texmex/item_drop/",
+      "repo_name": "item_drop",
+      "html_url": "https://github.com/minetest-mods/item_drop",
+      "https_clone_url": "https://github.com/minetest-mods/item_drop.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/item_drop.git",
+      "issues_url": "https://github.com/minetest-mods/item_drop/issues",
+      "open_issues": 2,
+      "stars": 13,
+      "forks": 14,
+      "zip_url": "https://github.com/minetest-mods/item_drop/archive/refs/heads/master/item_drop.zip",
+      "description": "A highly configurable mod providing item magnet and in-world node drops",
+      "default_branch": "master",
+      "updated_at": "2026-06-15T17:03:34Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/item_drop/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/hub",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png",
+      "website": "",
+      "repo_name": "Hub",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/hub",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/hub.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/hub.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/hub/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 3,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
+      "description": "A mod to easily manage your minigames server on Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-06-15T16:22:21.891Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/energy_drinks",
       "author": "Sheriff_U3",
@@ -18,7 +77,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
       "description": "A mod that adds energy drinks to the luanti game engine.",
       "default_branch": "main",
-      "updated_at": "2026-06-15T10:08:00+02:00",
+      "updated_at": "2026-06-15T15:27:16+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -30,6 +89,38 @@
         "minetest-mod"
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/energy_drinks",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "https://codeberg.org/Sheriff_U3/energy_drinks",
+      "repo_name": "energy_drinks",
+      "html_url": "https://github.com/Sheriff-Unit-3/energy_drinks",
+      "https_clone_url": "https://github.com/Sheriff-Unit-3/energy_drinks.git",
+      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/energy_drinks.git",
+      "issues_url": "https://github.com/Sheriff-Unit-3/energy_drinks/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
+      "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
+      "default_branch": "main",
+      "updated_at": "2026-06-15T13:27:24Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "launti",
+        "lua",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
       "has_stats": false
     },
     {
@@ -184,38 +275,6 @@
       ],
       "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/energy_drinks",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/energy_drinks",
-      "repo_name": "energy_drinks",
-      "html_url": "https://github.com/Sheriff-Unit-3/energy_drinks",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/energy_drinks.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/energy_drinks.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/energy_drinks/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
-      "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
-      "default_branch": "main",
-      "updated_at": "2026-06-13T23:56:48Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "launti",
-        "lua",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1127,37 +1186,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "AntumLuanti/mod-sounds",
-      "author": "AntumLuanti",
-      "avatar_url": "https://avatars.githubusercontent.com/u/29534891?v=4",
-      "website": "https://content.luanti.org/packages/AntumDeluge/sounds/",
-      "repo_name": "mod-sounds",
-      "html_url": "https://github.com/AntumLuanti/mod-sounds",
-      "https_clone_url": "https://github.com/AntumLuanti/mod-sounds.git",
-      "ssh_clone_url": "git@github.com:AntumLuanti/mod-sounds.git",
-      "issues_url": "https://github.com/AntumLuanti/mod-sounds/issues",
-      "open_issues": 1,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://github.com/AntumLuanti/mod-sounds/archive/refs/heads/master/mod-sounds.zip",
-      "description": "A set of free sounds that Minetest mods can use.",
-      "default_branch": "master",
-      "updated_at": "2026-05-28T03:41:45Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/AntumLuanti/mod-sounds/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/AntumLuanti/mod-sounds/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/collectible-skins",
       "author": "zughy-friends-minetest",
@@ -1185,36 +1213,6 @@
         "videogames"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/hub",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png",
-      "website": "",
-      "repo_name": "Hub",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/hub",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/hub.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/hub.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/hub/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
-      "description": "A mod to easily manage your minigames server on Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-05-27T20:28:00.852Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -1915,5 +1913,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-15T12:42:45Z"
+  "now": "2026-06-15T18:01:55Z"
 }
