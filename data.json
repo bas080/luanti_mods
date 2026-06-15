@@ -2,6 +2,35 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/blacksails",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=14170",
+      "repo_name": "blacksails",
+      "html_url": "https://github.com/minetest-mods/blacksails",
+      "https_clone_url": "https://github.com/minetest-mods/blacksails.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/blacksails.git",
+      "issues_url": "https://github.com/minetest-mods/blacksails/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/minetest-mods/blacksails/archive/refs/heads/master/blacksails.zip",
+      "description": "Cannons, Joly Roger, and more to come",
+      "default_branch": "master",
+      "updated_at": "2026-06-15T18:41:13Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "cannons",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "minetest-mods/item_drop",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -1124,37 +1153,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "AntumLuanti/mod-asm_spawneggs",
-      "author": "AntumLuanti",
-      "avatar_url": "https://avatars.githubusercontent.com/u/29534891?v=4",
-      "website": "https://content.luanti.org/packages/AntumDeluge/asm_spawneggs/",
-      "repo_name": "mod-asm_spawneggs",
-      "html_url": "https://github.com/AntumLuanti/mod-asm_spawneggs",
-      "https_clone_url": "https://github.com/AntumLuanti/mod-asm_spawneggs.git",
-      "ssh_clone_url": "git@github.com:AntumLuanti/mod-asm_spawneggs.git",
-      "issues_url": "https://github.com/AntumLuanti/mod-asm_spawneggs/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/AntumLuanti/mod-asm_spawneggs/archive/refs/heads/master/mod-asm_spawneggs.zip",
-      "description": "Spawneggs for adding entities to Luanti games.",
-      "default_branch": "master",
-      "updated_at": "2026-05-28T22:53:20Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/AntumLuanti/mod-asm_spawneggs/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/AntumLuanti/mod-asm_spawneggs/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "AntumLuanti/mod-asm_spawneggs",
       "author": "AntumLuanti",
@@ -1913,5 +1911,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-15T18:01:55Z"
+  "now": "2026-06-15T21:24:51Z"
 }
