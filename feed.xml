@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>blacksails (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/blacksails</link>
+    <guid>https://github.com/minetest-mods/blacksails</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Cannons, Joly Roger, and more to come<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/blacksails/archive/refs/heads/master/blacksails.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-16T16:21:25Z</pubDate>
+  </item>
+  <item>
+    <title>energy_drinks (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
+    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A mod that adds energy drinks to the luanti game engine.<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-16T16:07:55+02:00</pubDate>
+  </item>
+  <item>
     <title>arena_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
@@ -47,24 +83,6 @@
     <pubDate>2026-06-15T21:56:31.212Z</pubDate>
   </item>
   <item>
-    <title>blacksails (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/blacksails</link>
-    <guid>https://github.com/minetest-mods/blacksails</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Cannons, Joly Roger, and more to come<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/blacksails/archive/refs/heads/master/blacksails.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-15T18:41:13Z</pubDate>
-  </item>
-  <item>
     <title>item_drop (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/item_drop</link>
     <guid>https://github.com/minetest-mods/item_drop</guid>
@@ -81,24 +99,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-15T17:03:34Z</pubDate>
-  </item>
-  <item>
-    <title>energy_drinks (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
-    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A mod that adds energy drinks to the luanti game engine.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-15T15:27:16+02:00</pubDate>
   </item>
   <item>
     <title>energy_drinks (Github)</title>
