@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>skyblock (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/skyblock</link>
+    <guid>https://github.com/minetest-mods/skyblock</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Build a world starting from a small island in the sky.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/skyblock/archive/refs/heads/master/skyblock.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-18T19:12:37Z</pubDate>
+  </item>
+  <item>
+    <title>ts_furniture (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/ts_furniture</link>
+    <guid>https://github.com/minetest-mods/ts_furniture</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      A furniture mod for Luanti&#x2F;Minetest.<br>
+      License: MIT License<br>
+      <a href="https://github.com/minetest-mods/ts_furniture/archive/refs/heads/master/ts_furniture.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-18T18:42:21Z</pubDate>
+  </item>
+  <item>
     <title>blacksails (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/blacksails</link>
     <guid>https://github.com/minetest-mods/blacksails</guid>
@@ -585,42 +621,6 @@
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-01T22:24:31+02:00</pubDate>
-  </item>
-  <item>
-    <title>circuits (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/circuits</link>
-    <guid>https://github.com/Sheriff-Unit-3/circuits</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) A circuitry mod for Luanti<br>
-      License: Other<br>
-      <a href="https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-01T21:24:39Z</pubDate>
-  </item>
-  <item>
-    <title>handholds (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/handholds</link>
-    <guid>https://github.com/Sheriff-Unit-3/handholds</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) Mountain climbing for Luanti<br>
-      License: Other<br>
-      <a href="https://github.com/Sheriff-Unit-3/handholds/archive/refs/heads/master/handholds.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-01T21:23:51Z</pubDate>
   </item>
   <item>
     <title>Simple Calculator (Gitlab)</title>

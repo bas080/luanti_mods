@@ -2,6 +2,70 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/skyblock",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://minetest-mods.github.io/skyblock/",
+      "repo_name": "skyblock",
+      "html_url": "https://github.com/minetest-mods/skyblock",
+      "https_clone_url": "https://github.com/minetest-mods/skyblock.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/skyblock.git",
+      "issues_url": "https://github.com/minetest-mods/skyblock/issues",
+      "open_issues": 21,
+      "stars": 13,
+      "forks": 13,
+      "zip_url": "https://github.com/minetest-mods/skyblock/archive/refs/heads/master/skyblock.zip",
+      "description": "Build a world starting from a small island in the sky.",
+      "default_branch": "master",
+      "updated_at": "2026-06-18T19:12:37Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "bower",
+        "island",
+        "lua",
+        "luanti-mod",
+        "minetest",
+        "minetest-game",
+        "minetest-mods",
+        "skyblock"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/skyblock/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/ts_furniture",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/Thomas-S/ts_furniture/",
+      "repo_name": "ts_furniture",
+      "html_url": "https://github.com/minetest-mods/ts_furniture",
+      "https_clone_url": "https://github.com/minetest-mods/ts_furniture.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/ts_furniture.git",
+      "issues_url": "https://github.com/minetest-mods/ts_furniture/issues",
+      "open_issues": 2,
+      "stars": 8,
+      "forks": 8,
+      "zip_url": "https://github.com/minetest-mods/ts_furniture/archive/refs/heads/master/ts_furniture.zip",
+      "description": "A furniture mod for Luanti/Minetest.",
+      "default_branch": "master",
+      "updated_at": "2026-06-18T18:42:21Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "minetest-mods/blacksails",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -999,71 +1063,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/circuits",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/circuits",
-      "repo_name": "circuits",
-      "html_url": "https://github.com/Sheriff-Unit-3/circuits",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/circuits.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/circuits.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/circuits/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip",
-      "description": "(Mirror) A circuitry mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-06-01T21:24:39Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-mod",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/handholds",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/handholds",
-      "repo_name": "handholds",
-      "html_url": "https://github.com/Sheriff-Unit-3/handholds",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/handholds.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/handholds.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/handholds/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/handholds/archive/refs/heads/master/handholds.zip",
-      "description": "(Mirror) Mountain climbing for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-06-01T21:23:51Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "lichenseed/portable-calculator",
       "author": "lichenseed",
@@ -1911,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-18T17:28:59Z"
+  "now": "2026-06-18T20:38:43Z"
 }
