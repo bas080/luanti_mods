@@ -199,7 +199,7 @@
       "issues_url": "https://github.com/minetest-mods/item_drop/issues",
       "open_issues": 2,
       "stars": 13,
-      "forks": 14,
+      "forks": 13,
       "zip_url": "https://github.com/minetest-mods/item_drop/archive/refs/heads/master/item_drop.zip",
       "description": "A highly configurable mod providing item magnet and in-world node drops",
       "default_branch": "master",
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-19T16:14:10Z"
+  "now": "2026-06-19T19:09:32Z"
 }
