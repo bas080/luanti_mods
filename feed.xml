@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>filterplus (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#monk-afk/filterplus</link>
+    <guid>https://github.com/monk-afk/filterplus</guid>
+    <author>monk-afk</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/37543743?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>monk-afk</strong><br>
+      core.register_on_chat_message()<br>
+      License: Other<br>
+      <a href="https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-21T10:40:03Z</pubDate>
+  </item>
+  <item>
     <title>arena_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
@@ -585,24 +603,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-05T17:51:29.506Z</pubDate>
-  </item>
-  <item>
-    <title>toolranks (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/toolranks</link>
-    <guid>https://github.com/Sheriff-Unit-3/toolranks</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) A tool rank mod for the voxel game engine luanti<br>
-      License: Other<br>
-      <a href="https://github.com/Sheriff-Unit-3/toolranks/archive/refs/heads/main/toolranks.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-02T22:10:08Z</pubDate>
   </item>
   <item>
     <title>circuits (Codeberg)</title>
