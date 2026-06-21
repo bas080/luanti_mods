@@ -2,6 +2,38 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "Lazerbeak12345/flow-extras",
+      "author": "Lazerbeak12345",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22641188?v=4",
+      "website": "",
+      "repo_name": "flow-extras",
+      "html_url": "https://github.com/Lazerbeak12345/flow-extras",
+      "https_clone_url": "https://github.com/Lazerbeak12345/flow-extras.git",
+      "ssh_clone_url": "git@github.com:Lazerbeak12345/flow-extras.git",
+      "issues_url": "https://github.com/Lazerbeak12345/flow-extras/issues",
+      "open_issues": 2,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/Lazerbeak12345/flow-extras/archive/refs/heads/master/flow-extras.zip",
+      "description": "An experimental collection of widgets for the Luanti Flow formspec replacement",
+      "default_branch": "master",
+      "updated_at": "2026-06-21T18:34:12Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "formspec",
+        "lua",
+        "luanti-mod",
+        "minetest-mod",
+        "widgets"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Lazerbeak12345/flow-extras/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Lazerbeak12345/flow-extras/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "monk-afk/filterplus",
       "author": "monk-afk",
       "avatar_url": "https://avatars.githubusercontent.com/u/37543743?v=4",
@@ -941,37 +973,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/audio_lib/-/raw/main/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "AntumLuanti/mod-rocket",
-      "author": "AntumLuanti",
-      "avatar_url": "https://avatars.githubusercontent.com/u/29534891?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=23120",
-      "repo_name": "mod-rocket",
-      "html_url": "https://github.com/AntumLuanti/mod-rocket",
-      "https_clone_url": "https://github.com/AntumLuanti/mod-rocket.git",
-      "ssh_clone_url": "git@github.com:AntumLuanti/mod-rocket.git",
-      "issues_url": "https://github.com/AntumLuanti/mod-rocket/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/AntumLuanti/mod-rocket/archive/refs/heads/master/mod-rocket.zip",
-      "description": "Space shuttle mod for Luanti.",
-      "default_branch": "master",
-      "updated_at": "2026-06-06T05:45:59Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/AntumLuanti/mod-rocket/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/AntumLuanti/mod-rocket/master/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1920,5 +1921,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-21T17:53:59Z"
+  "now": "2026-06-21T20:02:06Z"
 }
