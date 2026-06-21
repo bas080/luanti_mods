@@ -17,7 +17,7 @@
       "zip_url": "https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip",
       "description": "core.register_on_chat_message()",
       "default_branch": "main",
-      "updated_at": "2026-06-21T10:40:03Z",
+      "updated_at": "2026-06-21T11:34:01Z",
       "license": {
         "name": "Other"
       },
@@ -1920,5 +1920,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-21T10:46:14Z"
+  "now": "2026-06-21T13:17:39Z"
 }
