@@ -2,6 +2,72 @@
   "items": [
     {
       "hosted_on": "Gitlab",
+      "full_name": "AntumLuanti/mod-con_mobs",
+      "author": "AntumLuanti",
+      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
+      "website": "",
+      "repo_name": "Consolidated Mobs",
+      "html_url": "https://gitlab.com/AntumLuanti/mod-con_mobs",
+      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-con_mobs.git",
+      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-con_mobs.git",
+      "issues_url": "https://gitlab.com/AntumLuanti/mod-con_mobs/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumLuanti/mod-con_mobs/-/archive/master/mod-con_mobs.zip",
+      "readme_url": "https://gitlab.com/AntumLuanti/mod-con_mobs/-/raw/master/README.md",
+      "description": "Wrapper for registering mobs with a variety of commonly used APIs.",
+      "default_branch": "master",
+      "updated_at": "2026-06-24T07:49:23.633Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Luanti mod",
+        "Luanti-mod",
+        "minetest",
+        "minetest mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://gitlab.com/AntumLuanti/mod-con_mobs/-/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "AntumLuanti/mod-con_mobs",
+      "author": "AntumLuanti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29534891?v=4",
+      "website": "",
+      "repo_name": "mod-con_mobs",
+      "html_url": "https://github.com/AntumLuanti/mod-con_mobs",
+      "https_clone_url": "https://github.com/AntumLuanti/mod-con_mobs.git",
+      "ssh_clone_url": "git@github.com:AntumLuanti/mod-con_mobs.git",
+      "issues_url": "https://github.com/AntumLuanti/mod-con_mobs/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/AntumLuanti/mod-con_mobs/archive/refs/heads/master/mod-con_mobs.zip",
+      "description": "Wrapper for registering mobs with a variety of commonly used APIs.",
+      "default_branch": "master",
+      "updated_at": "2026-06-24T07:47:54Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "minetest",
+        "minetest-mod",
+        "minetest-modding"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/weapons_lib",
       "author": "zughy-friends-minetest",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png",
@@ -914,35 +980,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "https_clone_url": "https://github.com/minetest-mods/technic.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 65,
-      "stars": 152,
-      "forks": 157,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-06-07T12:03:34Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/audio_lib",
       "author": "zughy-friends-minetest",
@@ -1392,36 +1429,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/magic-compass",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png",
-      "website": "",
-      "repo_name": "Magic Compass",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/magic-compass",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/magic-compass.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/magic-compass.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/archive/master/magic-compass.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/README.md",
-      "description": "Teleport system for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-05-04T11:59:25.343Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest",
-        "mod"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1921,5 +1928,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-24T04:35:39Z"
+  "now": "2026-06-24T08:33:00Z"
 }
