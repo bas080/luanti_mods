@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/MoreMesecons",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?f=11&t=13150",
+      "repo_name": "MoreMesecons",
+      "html_url": "https://github.com/minetest-mods/MoreMesecons",
+      "https_clone_url": "https://github.com/minetest-mods/MoreMesecons.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/MoreMesecons.git",
+      "issues_url": "https://github.com/minetest-mods/MoreMesecons/issues",
+      "open_issues": 3,
+      "stars": 21,
+      "forks": 13,
+      "zip_url": "https://github.com/minetest-mods/MoreMesecons/archive/refs/heads/master/MoreMesecons.zip",
+      "description": "More mesecons items",
+      "default_branch": "master",
+      "updated_at": "2026-06-24T19:56:49Z",
+      "license": {
+        "name": "Mozilla Public License 2.0"
+      },
+      "topics": [
+        "luanti-mod",
+        "luanti-modpack",
+        "minetest-mod",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/MoreMesecons/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/MoreMesecons/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "AntumLuanti/mod-con_mobs",
       "author": "AntumLuanti",
@@ -947,36 +978,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/mt-mods/moretrees/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/moreblocks",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.minetest.net/packages/Calinou/moreblocks/",
-      "repo_name": "moreblocks",
-      "html_url": "https://github.com/minetest-mods/moreblocks",
-      "https_clone_url": "https://github.com/minetest-mods/moreblocks.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/moreblocks.git",
-      "issues_url": "https://github.com/minetest-mods/moreblocks/issues",
-      "open_issues": 25,
-      "stars": 48,
-      "forks": 70,
-      "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
-      "description": "More Blocks",
-      "default_branch": "master",
-      "updated_at": "2026-06-07T15:33:28Z",
-      "license": {
-        "name": "zlib License"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/README.md",
       "has_stats": true
     },
     {
@@ -1928,5 +1929,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-24T17:18:04Z"
+  "now": "2026-06-24T20:08:45Z"
 }
