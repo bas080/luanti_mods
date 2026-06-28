@@ -2,6 +2,70 @@
   "items": [
     {
       "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/balls",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "",
+      "repo_name": "balls",
+      "html_url": "https://codeberg.org/Sheriff_U3/balls",
+      "https_clone_url": "https://codeberg.org/Sheriff_U3/balls.git",
+      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/balls.git",
+      "issues_url": "https://codeberg.org/Sheriff_U3/balls/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/balls/raw/master/README.md",
+      "description": "A Luanti mod that adds balls",
+      "default_branch": "master",
+      "updated_at": "2026-06-28T23:15:18+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod",
+        "wip"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 15,
+      "forks": 14,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-06-28T21:59:53.625Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/circuits",
       "author": "Sheriff_U3",
       "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
@@ -33,37 +97,33 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/balls",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "",
-      "repo_name": "balls",
-      "html_url": "https://codeberg.org/Sheriff_U3/balls",
-      "https_clone_url": "https://codeberg.org/Sheriff_U3/balls.git",
-      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/balls.git",
-      "issues_url": "https://codeberg.org/Sheriff_U3/balls/issues",
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/blacksails",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=14170",
+      "repo_name": "blacksails",
+      "html_url": "https://github.com/minetest-mods/blacksails",
+      "https_clone_url": "https://github.com/minetest-mods/blacksails.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/blacksails.git",
+      "issues_url": "https://github.com/minetest-mods/blacksails/issues",
       "open_issues": 0,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/balls/raw/master/README.md",
-      "description": "A Luanti mod that adds balls",
+      "zip_url": "https://github.com/minetest-mods/blacksails/archive/refs/heads/master/blacksails.zip",
+      "description": "Cannons, Joly Roger, and more to come",
       "default_branch": "master",
-      "updated_at": "2026-06-28T20:53:56+02:00",
+      "updated_at": "2026-06-28T21:28:01Z",
       "license": {
-        "name": "Unknown"
+        "name": "Other"
       },
       "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod",
-        "wip"
+        "cannons",
+        "luanti-mod"
       ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png",
-      "has_stats": false
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/README.md",
+      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -572,37 +632,6 @@
     },
     {
       "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 15,
-      "forks": 14,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-06-20T16:32:33.561Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
       "full_name": "AntumLuanti/mod-cleaner",
       "author": "AntumLuanti",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/26982813/cleaner_pencil.png",
@@ -702,35 +731,6 @@
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/blacksails",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=14170",
-      "repo_name": "blacksails",
-      "html_url": "https://github.com/minetest-mods/blacksails",
-      "https_clone_url": "https://github.com/minetest-mods/blacksails.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/blacksails.git",
-      "issues_url": "https://github.com/minetest-mods/blacksails/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/minetest-mods/blacksails/archive/refs/heads/master/blacksails.zip",
-      "description": "Cannons, Joly Roger, and more to come",
-      "default_branch": "master",
-      "updated_at": "2026-06-16T16:21:25Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "cannons",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1923,5 +1923,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-28T20:36:35Z"
+  "now": "2026-06-28T22:14:13Z"
 }
