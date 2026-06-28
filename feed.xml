@@ -11,6 +11,78 @@
   </image>
 
   <item>
+    <title>circuits (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/circuits</link>
+    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A circuitry mod for Luanti<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-28T21:35:03+02:00</pubDate>
+  </item>
+  <item>
+    <title>balls (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/balls</link>
+    <guid>https://codeberg.org/Sheriff_U3/balls</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A Luanti mod that adds balls<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-28T20:53:56+02:00</pubDate>
+  </item>
+  <item>
+    <title>toolranks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/toolranks</link>
+    <guid>https://github.com/Sheriff-Unit-3/toolranks</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A tool rank mod for the voxel game engine luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/toolranks/archive/refs/heads/main/toolranks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-28T20:24:59Z</pubDate>
+  </item>
+  <item>
+    <title>handholds (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/handholds</link>
+    <guid>https://github.com/Sheriff-Unit-3/handholds</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) Mountain climbing for Luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/handholds/archive/refs/heads/master/handholds.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-28T20:17:09Z</pubDate>
+  </item>
+  <item>
     <title>energy_drinks (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
     <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
@@ -27,6 +99,24 @@
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-06-28T19:49:50+02:00</pubDate>
+  </item>
+  <item>
+    <title>circuits (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/circuits</link>
+    <guid>https://github.com/Sheriff-Unit-3/circuits</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A circuitry mod for Luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-28T19:34:55Z</pubDate>
   </item>
   <item>
     <title>jumping (Github)</title>
@@ -461,42 +551,6 @@
     <pubDate>2026-06-13T13:38:41Z</pubDate>
   </item>
   <item>
-    <title>melterns (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#LunaSquee/melterns</link>
-    <guid>https://github.com/LunaSquee/melterns</guid>
-    <author>LunaSquee</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>LunaSquee</strong><br>
-      Tinkers Construct-esque mod for Luanti 5.6.0+<br>
-      License: MIT License<br>
-      <a href="https://github.com/LunaSquee/melterns/archive/refs/heads/master/melterns.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-12T17:09:22Z</pubDate>
-  </item>
-  <item>
-    <title>technic_many_machines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
-    <guid>https://github.com/Opons1/technic_many_machines</guid>
-    <author>Opons1</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Opons1</strong><br>
-      <br>
-      License: Other<br>
-      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-12T15:59:48Z</pubDate>
-  </item>
-  <item>
     <title>Luanti Amber Mod (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#AntumLuanti/mod-amber</link>
     <guid>https://gitlab.com/AntumLuanti/mod-amber</guid>
@@ -551,24 +605,6 @@
     <pubDate>2026-06-09T04:35:18.236Z</pubDate>
   </item>
   <item>
-    <title>fluid_lib (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#LunaSquee/fluid_lib</link>
-    <guid>https://github.com/LunaSquee/fluid_lib</guid>
-    <author>LunaSquee</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>LunaSquee</strong><br>
-      Universal Fluid API for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/LunaSquee/fluid_lib/archive/refs/heads/master/fluid_lib.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-08T19:51:44Z</pubDate>
-  </item>
-  <item>
     <title>audio_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/audio_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/audio_lib</guid>
@@ -621,42 +657,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-05T17:51:29.506Z</pubDate>
-  </item>
-  <item>
-    <title>circuits (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/circuits</link>
-    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A circuitry mod for Luanti<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-01T23:24:39+02:00</pubDate>
-  </item>
-  <item>
-    <title>balls (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/balls</link>
-    <guid>https://codeberg.org/Sheriff_U3/balls</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A Luanti mod that adds balls<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-01T22:24:31+02:00</pubDate>
   </item>
   <item>
     <title>Simple Calculator (Gitlab)</title>
