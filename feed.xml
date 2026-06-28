@@ -26,7 +26,25 @@
 
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-28T15:57:43+02:00</pubDate>
+    <pubDate>2026-06-28T19:49:50+02:00</pubDate>
+  </item>
+  <item>
+    <title>jumping (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/jumping</link>
+    <guid>https://github.com/minetest-mods/jumping</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Jumping mod for Luanti&#x2F;Minetest (e.g. trampolines)<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/jumping/archive/refs/heads/master/jumping.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/jumping/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/jumping/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/jumping/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-28T18:09:14Z</pubDate>
   </item>
   <item>
     <title>energy_drinks (Github)</title>
@@ -44,7 +62,7 @@
 
     <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-28T13:57:48Z</pubDate>
+    <pubDate>2026-06-28T17:49:57Z</pubDate>
   </item>
   <item>
     <title>technic (Github)</title>
@@ -549,24 +567,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-08T19:51:44Z</pubDate>
-  </item>
-  <item>
-    <title>pkarcs (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/pkarcs</link>
-    <guid>https://github.com/minetest-mods/pkarcs</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Adds arched doors and arched nodes<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/minetest-mods/pkarcs/archive/refs/heads/master/pkarcs.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-08T05:59:42Z</pubDate>
   </item>
   <item>
     <title>audio_lib (Gitlab)</title>

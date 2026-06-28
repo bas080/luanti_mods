@@ -18,7 +18,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
       "description": "A mod that adds energy drinks to the luanti game engine.",
       "default_branch": "main",
-      "updated_at": "2026-06-28T15:57:43+02:00",
+      "updated_at": "2026-06-28T19:49:50+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -31,6 +31,35 @@
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
       "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/jumping",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=2957",
+      "repo_name": "jumping",
+      "html_url": "https://github.com/minetest-mods/jumping",
+      "https_clone_url": "https://github.com/minetest-mods/jumping.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/jumping.git",
+      "issues_url": "https://github.com/minetest-mods/jumping/issues",
+      "open_issues": 1,
+      "stars": 6,
+      "forks": 3,
+      "zip_url": "https://github.com/minetest-mods/jumping/archive/refs/heads/master/jumping.zip",
+      "description": "Jumping mod for Luanti/Minetest (e.g. trampolines)",
+      "default_branch": "master",
+      "updated_at": "2026-06-28T18:09:14Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/jumping/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/jumping/master/README.md",
+      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -49,7 +78,7 @@
       "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
       "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
       "default_branch": "main",
-      "updated_at": "2026-06-28T13:57:48Z",
+      "updated_at": "2026-06-28T17:49:57Z",
       "license": {
         "name": "Other"
       },
@@ -939,39 +968,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/LunaSquee/fluid_lib/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/pkarcs",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/TumeniNodes/pkarcs/",
-      "repo_name": "pkarcs",
-      "html_url": "https://github.com/minetest-mods/pkarcs",
-      "https_clone_url": "https://github.com/minetest-mods/pkarcs.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/pkarcs.git",
-      "issues_url": "https://github.com/minetest-mods/pkarcs/issues",
-      "open_issues": 8,
-      "stars": 4,
-      "forks": 8,
-      "zip_url": "https://github.com/minetest-mods/pkarcs/archive/refs/heads/master/pkarcs.zip",
-      "description": "Adds arched doors and arched nodes",
-      "default_branch": "master",
-      "updated_at": "2026-06-08T05:59:42Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "building",
-        "lua",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/pkarcs/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/pkarcs/master/README.md",
       "has_stats": true
     },
     {
@@ -1923,5 +1919,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-28T16:36:29Z"
+  "now": "2026-06-28T18:17:48Z"
 }
