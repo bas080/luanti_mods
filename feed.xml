@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>toolranks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/toolranks</link>
+    <guid>https://github.com/Sheriff-Unit-3/toolranks</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A tool rank mod for the voxel game engine luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/toolranks/archive/refs/heads/main/toolranks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-29T20:49:38Z</pubDate>
+  </item>
+  <item>
     <title>custom_spawn (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#janorico/custom_spawn</link>
     <guid>https://codeberg.org/janorico/custom_spawn</guid>
@@ -63,24 +81,6 @@
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-06-29T15:43:55+02:00</pubDate>
-  </item>
-  <item>
-    <title>toolranks (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/toolranks</link>
-    <guid>https://github.com/Sheriff-Unit-3/toolranks</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) A tool rank mod for the voxel game engine luanti<br>
-      License: Other<br>
-      <a href="https://github.com/Sheriff-Unit-3/toolranks/archive/refs/heads/main/toolranks.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" type="image/png" />
-    <pubDate>2026-06-29T14:26:22Z</pubDate>
   </item>
   <item>
     <title>balls (Codeberg)</title>
