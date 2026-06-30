@@ -11,6 +11,60 @@
   </image>
 
   <item>
+    <title>technic_many_machines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
+    <guid>https://github.com/Opons1/technic_many_machines</guid>
+    <author>Opons1</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Opons1</strong><br>
+      <br>
+      License: Other<br>
+      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-30T22:07:27Z</pubDate>
+  </item>
+  <item>
+    <title>Magic Compass (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/magic-compass</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/magic-compass</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Teleport system for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/magic-compass/-/archive/master/magic-compass.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-30T22:01:50.800Z</pubDate>
+  </item>
+  <item>
+    <title>Hub (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/hub</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      A mod to easily manage your minigames server on Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-30T21:43:27.028Z</pubDate>
+  </item>
+  <item>
     <title>digilines (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/digilines</link>
     <guid>https://github.com/minetest-mods/digilines</guid>
@@ -243,24 +297,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-28T08:39:23Z</pubDate>
-  </item>
-  <item>
-    <title>Hub (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/hub</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      A mod to easily manage your minigames server on Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-27T20:00:52.892Z</pubDate>
   </item>
   <item>
     <title>Block League (Gitlab)</title>
@@ -551,24 +587,6 @@
     <pubDate>2026-06-14T01:03:10+02:00</pubDate>
   </item>
   <item>
-    <title>nether (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
-    <guid>https://github.com/minetest-mods/nether</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Nether mod for Luanti&#x2F;Minetest<br>
-      License: Unknown<br>
-      <a href="https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-13T13:38:41Z</pubDate>
-  </item>
-  <item>
     <title>Luanti Amber Mod (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#AntumLuanti/mod-amber</link>
     <guid>https://gitlab.com/AntumLuanti/mod-amber</guid>
@@ -801,24 +819,6 @@
     <media:thumbnail url="https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-05-19T03:49:53.060Z</pubDate>
-  </item>
-  <item>
-    <title>country_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/country_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/country_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      small util library for Luanti, providing country localised names and flags<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/country_lib/-/archive/main/country_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/country_lib/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-05-04T11:59:34.800Z</pubDate>
   </item>
   <item>
     <title>cmcla_soups (Codeberg)</title>
