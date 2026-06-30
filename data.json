@@ -17,7 +17,7 @@
       "zip_url": "https://github.com/Sheriff-Unit-3/toolranks/archive/refs/heads/main/toolranks.zip",
       "description": "(Mirror) A tool rank mod for the voxel game engine luanti",
       "default_branch": "main",
-      "updated_at": "2026-06-29T20:49:38Z",
+      "updated_at": "2026-06-29T22:53:16Z",
       "license": {
         "name": "Other"
       },
@@ -1921,5 +1921,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-06-29T22:20:15Z"
+  "now": "2026-06-30T00:18:54Z"
 }
