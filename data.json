@@ -100,7 +100,7 @@
       "https_clone_url": "https://github.com/minetest-mods/digilines.git",
       "ssh_clone_url": "git@github.com:minetest-mods/digilines.git",
       "issues_url": "https://github.com/minetest-mods/digilines/issues",
-      "open_issues": 17,
+      "open_issues": 18,
       "stars": 44,
       "forks": 44,
       "zip_url": "https://github.com/minetest-mods/digilines/archive/refs/heads/master/digilines.zip",
@@ -1920,5 +1920,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-01T16:39:36Z"
+  "now": "2026-07-01T19:11:44Z"
 }
