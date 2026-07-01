@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "Mish7913/craftoplus",
+      "author": "Mish7913",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png",
+      "website": "",
+      "repo_name": "CraftoPlus",
+      "html_url": "https://gitlab.com/Mish7913/craftoplus",
+      "https_clone_url": "https://gitlab.com/Mish7913/craftoplus.git",
+      "ssh_clone_url": "git@gitlab.com:Mish7913/craftoplus.git",
+      "issues_url": "https://gitlab.com/Mish7913/craftoplus/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip",
+      "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
+      "description": "Mod for Luanti games.",
+      "default_branch": "main",
+      "updated_at": "2026-07-01T22:14:12.630Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "craft",
+        "mod"
+      ],
+      "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "Opons1/technic_many_machines",
       "author": "Opons1",
@@ -1411,52 +1441,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "lichenseed/pluton_mapgen",
-      "author": "lichenseed",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82324568/Untitled.jpeg",
-      "website": "",
-      "repo_name": "Plutón Mapgen",
-      "html_url": "https://gitlab.com/lichenseed/pluton_mapgen",
-      "https_clone_url": "https://gitlab.com/lichenseed/pluton_mapgen.git",
-      "ssh_clone_url": "git@gitlab.com:lichenseed/pluton_mapgen.git",
-      "issues_url": "https://gitlab.com/lichenseed/pluton_mapgen/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/lichenseed/pluton_mapgen/-/archive/main/pluton_mapgen.zip",
-      "readme_url": "https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/README.md",
-      "description": "En este mod de Minetest Game, el contraste entre el terreno helado, los volcanes y ese cielo negro estrellado permanente captura a la perfección la atmósfera desolada y misteriosa de Plutón. La baja gravedad le debe dar el toque final a la jugabilidad.",
-      "default_branch": "main",
-      "updated_at": "2026-05-19T03:49:53.060Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "AI",
-        "Astronomical Education",
-        "Luanti",
-        "Planets",
-        "ai-assisted-development",
-        "ai-generated",
-        "astronomy",
-        "español",
-        "lua",
-        "minetest",
-        "minetest mod",
-        "minetest-mod",
-        "minetestmod",
-        "mod",
-        "spanish",
-        "spanish-language",
-        "vibe-code",
-        "vibe-coding",
-        "vibecoded"
-      ],
-      "image_raw": "https://gitlab.com/lichenseed/pluton_mapgen/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "YCaTGameRT/cmcla_soups",
       "author": "YCaTGameRT",
@@ -1920,5 +1904,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-01T20:55:53Z"
+  "now": "2026-07-01T22:39:55Z"
 }
