@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumLuanti/luanti",
+      "author": "AntumLuanti",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/83080042/luanti_icon.png",
+      "website": "",
+      "repo_name": "Luanti",
+      "html_url": "https://gitlab.com/AntumLuanti/luanti",
+      "https_clone_url": "https://gitlab.com/AntumLuanti/luanti.git",
+      "ssh_clone_url": "git@gitlab.com:AntumLuanti/luanti.git",
+      "issues_url": "https://gitlab.com/AntumLuanti/luanti/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumLuanti/luanti/-/archive/master/luanti.zip",
+      "readme_url": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/README.md",
+      "description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.",
+      "default_branch": "master",
+      "updated_at": "2026-07-02T16:55:22.845Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "mt-mods/wrench",
       "author": "mt-mods",
@@ -1072,35 +1101,6 @@
     },
     {
       "hosted_on": "Gitlab",
-      "full_name": "AntumLuanti/luanti",
-      "author": "AntumLuanti",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/83080042/luanti_icon.png",
-      "website": "",
-      "repo_name": "Luanti",
-      "html_url": "https://gitlab.com/AntumLuanti/luanti",
-      "https_clone_url": "https://gitlab.com/AntumLuanti/luanti.git",
-      "ssh_clone_url": "git@gitlab.com:AntumLuanti/luanti.git",
-      "issues_url": "https://gitlab.com/AntumLuanti/luanti/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/AntumLuanti/luanti/-/archive/master/luanti.zip",
-      "readme_url": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/README.md",
-      "description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.",
-      "default_branch": "master",
-      "updated_at": "2026-06-10T06:15:27.554Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
       "full_name": "AntumLuanti/mod-currency",
       "author": "AntumLuanti",
       "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
@@ -1906,5 +1906,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-02T15:30:28Z"
+  "now": "2026-07-02T18:01:42Z"
 }

@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>Luanti (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#AntumLuanti/luanti</link>
+    <guid>https://gitlab.com/AntumLuanti/luanti</guid>
+    <author>AntumLuanti</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/83080042/luanti_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>AntumLuanti</strong><br>
+      Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/AntumLuanti/luanti/-/archive/master/luanti.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-02T16:55:22.845Z</pubDate>
+  </item>
+  <item>
     <title>wrench (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#mt-mods/wrench</link>
     <guid>https://github.com/mt-mods/wrench</guid>
@@ -621,24 +639,6 @@
     <media:thumbnail url="https://gitlab.com/AntumLuanti/mod-amber/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/AntumLuanti/mod-amber/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-10T07:58:30.458Z</pubDate>
-  </item>
-  <item>
-    <title>Luanti (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#AntumLuanti/luanti</link>
-    <guid>https://gitlab.com/AntumLuanti/luanti</guid>
-    <author>AntumLuanti</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/83080042/luanti_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>AntumLuanti</strong><br>
-      Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/AntumLuanti/luanti/-/archive/master/luanti.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-10T06:15:27.554Z</pubDate>
   </item>
   <item>
     <title>Minimalist Currency Mod for Luanti (Gitlab)</title>
