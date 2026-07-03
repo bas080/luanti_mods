@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>technic_many_machines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
+    <guid>https://github.com/Opons1/technic_many_machines</guid>
+    <author>Opons1</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Opons1</strong><br>
+      <br>
+      License: Other<br>
+      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
+    <pubDate>2026-07-03T21:24:29Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -27,24 +45,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-03T19:21:48.306Z</pubDate>
-  </item>
-  <item>
-    <title>technic_many_machines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
-    <guid>https://github.com/Opons1/technic_many_machines</guid>
-    <author>Opons1</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Opons1</strong><br>
-      <br>
-      License: Other<br>
-      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
-    <pubDate>2026-07-03T18:27:15Z</pubDate>
   </item>
   <item>
     <title>drawers (Github)</title>
