@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/talas777/colourhop/-/raw/master/README.md",
       "description": "Hands-free luanti game, you have to jump to paint the universe!",
       "default_branch": "master",
-      "updated_at": "2026-07-03T09:49:10.913Z",
+      "updated_at": "2026-07-03T14:49:11.614Z",
       "license": {
         "name": "Unknown"
       },
@@ -1902,5 +1902,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-03T13:11:23Z"
+  "now": "2026-07-03T15:26:42Z"
 }
