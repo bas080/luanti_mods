@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>technic_many_machines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
+    <guid>https://github.com/Opons1/technic_many_machines</guid>
+    <author>Opons1</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Opons1</strong><br>
+      <br>
+      License: Other<br>
+      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
+    <pubDate>2026-07-03T17:07:08Z</pubDate>
+  </item>
+  <item>
+    <title>drawers (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
+    <guid>https://github.com/minetest-mods/drawers</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      [MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-03T16:43:57Z</pubDate>
+  </item>
+  <item>
     <title>ColourHop (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#talas777/colourhop</link>
     <guid>https://gitlab.com/talas777/colourhop</guid>
@@ -27,24 +63,6 @@
     <media:thumbnail url="https://gitlab.com/talas777/colourhop/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/talas777/colourhop/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-03T14:49:11.614Z</pubDate>
-  </item>
-  <item>
-    <title>technic_many_machines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
-    <guid>https://github.com/Opons1/technic_many_machines</guid>
-    <author>Opons1</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Opons1</strong><br>
-      <br>
-      License: Other<br>
-      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
-    <pubDate>2026-07-03T05:07:37Z</pubDate>
   </item>
   <item>
     <title>Luanti (Gitlab)</title>
@@ -603,24 +621,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/personal_log/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/personal_log/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-14T12:40:50Z</pubDate>
-  </item>
-  <item>
-    <title>facade (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/facade</link>
-    <guid>https://github.com/minetest-mods/facade</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Adds decorative clay and stone-type nodes to Minetest Game.<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/facade/archive/refs/heads/master/facade.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/facade/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/facade/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/facade/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-14T11:26:03Z</pubDate>
   </item>
   <item>
     <title>coins (Codeberg)</title>
