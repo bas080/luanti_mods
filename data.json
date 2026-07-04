@@ -167,7 +167,7 @@
       "https_clone_url": "https://github.com/mt-mods/wrench.git",
       "ssh_clone_url": "git@github.com:mt-mods/wrench.git",
       "issues_url": "https://github.com/mt-mods/wrench/issues",
-      "open_issues": 8,
+      "open_issues": 9,
       "stars": 5,
       "forks": 7,
       "zip_url": "https://github.com/mt-mods/wrench/archive/refs/heads/master/wrench.zip",
@@ -666,7 +666,7 @@
       "https_clone_url": "https://github.com/minetest-mods/technic.git",
       "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
       "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 65,
+      "open_issues": 66,
       "stars": 152,
       "forks": 158,
       "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
@@ -856,7 +856,7 @@
       "https_clone_url": "https://github.com/Lazerbeak12345/flow-extras.git",
       "ssh_clone_url": "git@github.com:Lazerbeak12345/flow-extras.git",
       "issues_url": "https://github.com/Lazerbeak12345/flow-extras/issues",
-      "open_issues": 2,
+      "open_issues": 3,
       "stars": 1,
       "forks": 0,
       "zip_url": "https://github.com/Lazerbeak12345/flow-extras/archive/refs/heads/master/flow-extras.zip",
@@ -1906,5 +1906,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-03T23:17:54Z"
+  "now": "2026-07-04T04:01:52Z"
 }
