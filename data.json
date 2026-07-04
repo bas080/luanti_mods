@@ -101,7 +101,7 @@
       "https_clone_url": "https://github.com/minetest-mods/drawers.git",
       "ssh_clone_url": "git@github.com:minetest-mods/drawers.git",
       "issues_url": "https://github.com/minetest-mods/drawers/issues",
-      "open_issues": 29,
+      "open_issues": 28,
       "stars": 21,
       "forks": 29,
       "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
@@ -1906,5 +1906,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-04T19:40:20Z"
+  "now": "2026-07-04T21:13:27Z"
 }
