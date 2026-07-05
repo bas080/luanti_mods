@@ -2,6 +2,67 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/digtron",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
+      "repo_name": "digtron",
+      "html_url": "https://github.com/minetest-mods/digtron",
+      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
+      "issues_url": "https://github.com/minetest-mods/digtron/issues",
+      "open_issues": 34,
+      "stars": 23,
+      "forks": 37,
+      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
+      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
+      "default_branch": "master",
+      "updated_at": "2026-07-05T15:43:34Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "construction",
+        "i18n",
+        "luanti-mod",
+        "minetest-mod",
+        "tunneldigger"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/technic",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
+      "repo_name": "technic",
+      "html_url": "https://github.com/minetest-mods/technic",
+      "https_clone_url": "https://github.com/minetest-mods/technic.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
+      "issues_url": "https://github.com/minetest-mods/technic/issues",
+      "open_issues": 65,
+      "stars": 152,
+      "forks": 158,
+      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
+      "description": "Technic mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-07-05T15:42:54Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "minetest-mods/drawers",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -686,67 +747,6 @@
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "https_clone_url": "https://github.com/minetest-mods/technic.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 66,
-      "stars": 152,
-      "forks": 158,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-06-28T08:39:23Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/digtron",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
-      "repo_name": "digtron",
-      "html_url": "https://github.com/minetest-mods/digtron",
-      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
-      "issues_url": "https://github.com/minetest-mods/digtron/issues",
-      "open_issues": 34,
-      "stars": 23,
-      "forks": 37,
-      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
-      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
-      "default_branch": "master",
-      "updated_at": "2026-06-27T12:33:58Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "construction",
-        "i18n",
-        "luanti-mod",
-        "minetest-mod",
-        "tunneldigger"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1906,5 +1906,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-05T14:52:24Z"
+  "now": "2026-07-05T16:18:29Z"
 }
