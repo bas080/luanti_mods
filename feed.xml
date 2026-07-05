@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>MariaReputation (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
+    <author>Sakura-Mods&#x2F;luanti-mods</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
+      Adiciona um sistema de reputação simples ao seu servidor!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-07-05T17:33:30.896Z</pubDate>
+  </item>
+  <item>
     <title>digtron (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/digtron</link>
     <guid>https://github.com/minetest-mods/digtron</guid>
@@ -801,24 +819,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-05-27T20:51:27.215Z</pubDate>
-  </item>
-  <item>
-    <title>mod-simple_models (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#AntumLuanti/mod-simple_models</link>
-    <guid>https://gitlab.com/AntumLuanti/mod-simple_models</guid>
-    <author>AntumLuanti</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>AntumLuanti</strong><br>
-      Very simple models for Luanti (Minetest)<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/AntumLuanti/mod-simple_models/-/archive/master/mod-simple_models.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/AntumLuanti/mod-simple_models/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/AntumLuanti/mod-simple_models/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/AntumLuanti/mod-simple_models/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-27T04:33:06.604Z</pubDate>
   </item>
   <item>
     <title>cmcla_soups (Codeberg)</title>

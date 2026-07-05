@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
+      "author": "Sakura-Mods/luanti-mods",
+      "avatar_url": "https://gitlab.com/",
+      "website": "",
+      "repo_name": "MariaReputation",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
+      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
+      "default_branch": "release",
+      "updated_at": "2026-07-05T17:33:30.896Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "lua",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/digtron",
       "author": "minetest-mods",
@@ -11,7 +41,7 @@
       "https_clone_url": "https://github.com/minetest-mods/digtron.git",
       "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
       "issues_url": "https://github.com/minetest-mods/digtron/issues",
-      "open_issues": 34,
+      "open_issues": 35,
       "stars": 23,
       "forks": 37,
       "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
@@ -1412,37 +1442,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "AntumLuanti/mod-simple_models",
-      "author": "AntumLuanti",
-      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
-      "website": "",
-      "repo_name": "mod-simple_models",
-      "html_url": "https://gitlab.com/AntumLuanti/mod-simple_models",
-      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-simple_models.git",
-      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-simple_models.git",
-      "issues_url": "https://gitlab.com/AntumLuanti/mod-simple_models/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/AntumLuanti/mod-simple_models/-/archive/master/mod-simple_models.zip",
-      "readme_url": "https://gitlab.com/AntumLuanti/mod-simple_models/-/raw/master/README.md",
-      "description": "Very simple models for Luanti (Minetest)",
-      "default_branch": "master",
-      "updated_at": "2026-05-27T04:33:06.604Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "Luanti mod",
-        "minetest",
-        "minetest mod"
-      ],
-      "image_raw": "https://gitlab.com/AntumLuanti/mod-simple_models/-/raw/master/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "YCaTGameRT/cmcla_soups",
       "author": "YCaTGameRT",
@@ -1906,5 +1905,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-05T16:18:29Z"
+  "now": "2026-07-05T18:15:58Z"
 }
