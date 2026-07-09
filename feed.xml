@@ -11,6 +11,60 @@
   </image>
 
   <item>
+    <title>technic (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
+    <guid>https://github.com/minetest-mods/technic</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Technic mod for Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-09T15:51:18Z</pubDate>
+  </item>
+  <item>
+    <title>isNaN (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/isNaN</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/isNaN</guid>
+    <author>Sakura-Mods&#x2F;luanti-mods</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
+      Adiciona uma função do JavaScript para checar se um número é um NaN!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-07-09T14:51:52.339Z</pubDate>
+  </item>
+  <item>
+    <title>MariaReputation (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
+    <author>Sakura-Mods&#x2F;luanti-mods</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
+      Adiciona um sistema de reputação simples ao seu servidor!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-07-09T13:19:23.268Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -63,24 +117,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-07T12:47:32Z</pubDate>
-  </item>
-  <item>
-    <title>technic (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
-    <guid>https://github.com/minetest-mods/technic</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Technic mod for Luanti&#x2F;Minetest<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-07T12:45:10Z</pubDate>
   </item>
   <item>
     <title>CraftoPlus (Gitlab)</title>
@@ -153,24 +189,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/angledstairs/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/angledstairs/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-06T17:27:53Z</pubDate>
-  </item>
-  <item>
-    <title>MariaReputation (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
-    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
-    <author>Sakura-Mods&#x2F;luanti-mods</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
-      Adiciona um sistema de reputação simples ao seu servidor!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-07-05T17:33:30.896Z</pubDate>
   </item>
   <item>
     <title>flow-extras (Github)</title>
@@ -801,24 +819,6 @@
     <media:thumbnail url="https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-05-28T22:53:18.123Z</pubDate>
-  </item>
-  <item>
-    <title>Collectible skins (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/collectible-skins</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/collectible-skins</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Wear and unlock skins on Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-05-27T20:51:27.215Z</pubDate>
   </item>
   <item>
     <title>cmcla_soups (Codeberg)</title>

@@ -1,6 +1,95 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/technic",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
+      "repo_name": "technic",
+      "html_url": "https://github.com/minetest-mods/technic",
+      "https_clone_url": "https://github.com/minetest-mods/technic.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
+      "issues_url": "https://github.com/minetest-mods/technic/issues",
+      "open_issues": 65,
+      "stars": 151,
+      "forks": 158,
+      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
+      "description": "Technic mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-07-09T15:51:18Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/isNaN",
+      "author": "Sakura-Mods/luanti-mods",
+      "avatar_url": "https://gitlab.com/",
+      "website": "",
+      "repo_name": "isNaN",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/isNaN.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/README.md",
+      "description": "Adiciona uma função do JavaScript para checar se um número é um NaN!",
+      "default_branch": "release",
+      "updated_at": "2026-07-09T14:51:52.339Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "lua",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
+      "author": "Sakura-Mods/luanti-mods",
+      "avatar_url": "https://gitlab.com/",
+      "website": "",
+      "repo_name": "MariaReputation",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
+      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
+      "default_branch": "release",
+      "updated_at": "2026-07-09T13:19:23.268Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "lua",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -89,35 +178,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "https_clone_url": "https://github.com/minetest-mods/technic.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 65,
-      "stars": 152,
-      "forks": 158,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-07-07T12:45:10Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
       "has_stats": true
     },
     {
@@ -246,36 +306,6 @@
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledstairs/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledstairs/master/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
-      "author": "Sakura-Mods/luanti-mods",
-      "avatar_url": "https://gitlab.com/",
-      "website": "",
-      "repo_name": "MariaReputation",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
-      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
-      "default_branch": "release",
-      "updated_at": "2026-07-05T17:33:30.896Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "lua",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -566,7 +596,7 @@
       "ssh_clone_url": "git@codeberg.org:Sheriff_U3/energy_drinks.git",
       "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
       "open_issues": 0,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
       "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
@@ -584,7 +614,7 @@
         "minetest-mod"
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
-      "has_stats": false
+      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1411,36 +1441,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/collectible-skins",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png",
-      "website": "",
-      "repo_name": "Collectible skins",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/collectible-skins.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/issues",
-      "open_issues": 0,
-      "stars": 2,
-      "forks": 3,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/README.md",
-      "description": "Wear and unlock skins on Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-05-27T20:51:27.215Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "mod",
-        "videogames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "YCaTGameRT/cmcla_soups",
       "author": "YCaTGameRT",
@@ -1904,5 +1904,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-09T08:45:15Z"
+  "now": "2026-07-09T16:09:14Z"
 }
