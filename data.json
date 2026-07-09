@@ -13,7 +13,7 @@
       "issues_url": "https://github.com/minetest-mods/technic/issues",
       "open_issues": 65,
       "stars": 151,
-      "forks": 158,
+      "forks": 157,
       "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
       "description": "Technic mod for Luanti/Minetest",
       "default_branch": "master",
@@ -1904,5 +1904,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-09T16:09:14Z"
+  "now": "2026-07-09T18:09:59Z"
 }
