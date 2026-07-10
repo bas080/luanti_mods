@@ -11,22 +11,58 @@
   </image>
 
   <item>
-    <title>isNaN (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/isNaN</link>
-    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/isNaN</guid>
+    <title>arena_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library working as a core manager for any minigame you have in mind<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-10T16:08:14.564Z</pubDate>
+  </item>
+  <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-10T16:08:11.885Z</pubDate>
+  </item>
+  <item>
+    <title>MariaGarbage (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaGarbage</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage</guid>
     <author>Sakura-Mods&#x2F;luanti-mods</author>
     <description><![CDATA[
       <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
-      Adiciona uma função do JavaScript para checar se um número é um NaN!<br>
+      Adiciona uma API para conseguir gerenciar o coletor de lixo da Lua!<br>
       License: Unknown<br>
-      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/archive/release/MariaGarbage.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-07-10T14:29:23.199Z</pubDate>
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-07-10T15:05:30.405Z</pubDate>
   </item>
   <item>
     <title>MariaReputation (Gitlab)</title>
@@ -81,24 +117,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-10T11:03:47Z</pubDate>
-  </item>
-  <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-10T10:48:53.399Z</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>
@@ -369,24 +387,6 @@
     <media:thumbnail url="https://codeberg.org/janorico/custom_spawn/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/janorico/custom_spawn/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-06-29T17:29:27+02:00</pubDate>
-  </item>
-  <item>
-    <title>arena_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Luanti library working as a core manager for any minigame you have in mind<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-29T16:11:58.302Z</pubDate>
   </item>
   <item>
     <title>energy_drinks (Codeberg)</title>

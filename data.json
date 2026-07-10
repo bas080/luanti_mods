@@ -2,23 +2,84 @@
   "items": [
     {
       "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/isNaN",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 15,
+      "forks": 14,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-07-10T16:08:14.564Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-07-10T16:08:11.885Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/MariaGarbage",
       "author": "Sakura-Mods/luanti-mods",
       "avatar_url": "https://gitlab.com/",
       "website": "",
-      "repo_name": "isNaN",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/isNaN.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/issues",
+      "repo_name": "MariaGarbage",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaGarbage.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/issues",
       "open_issues": 0,
       "stars": 0,
       "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/README.md",
-      "description": "Adiciona uma função do JavaScript para checar se um número é um NaN!",
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/archive/release/MariaGarbage.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/raw/release/README.md",
+      "description": "Adiciona uma API para conseguir gerenciar o coletor de lixo da Lua!",
       "default_branch": "release",
-      "updated_at": "2026-07-10T14:29:23.199Z",
+      "updated_at": "2026-07-10T15:05:30.405Z",
       "license": {
         "name": "Unknown"
       },
@@ -27,7 +88,7 @@
         "lua",
         "minetest"
       ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png",
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/raw/release/screenshot.png",
       "has_stats": false
     },
     {
@@ -121,36 +182,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-07-10T10:48:53.399Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -618,37 +649,6 @@
       ],
       "image_raw": "https://codeberg.org/janorico/custom_spawn/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 15,
-      "forks": 14,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-06-29T16:11:58.302Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1909,5 +1909,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-10T15:01:08Z"
+  "now": "2026-07-10T17:06:56Z"
 }
