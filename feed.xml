@@ -11,6 +11,60 @@
   </image>
 
   <item>
+    <title>isNaN (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/isNaN</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/isNaN</guid>
+    <author>Sakura-Mods&#x2F;luanti-mods</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
+      Adiciona uma função do JavaScript para checar se um número é um NaN!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-07-10T14:29:23.199Z</pubDate>
+  </item>
+  <item>
+    <title>MariaReputation (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
+    <author>Sakura-Mods&#x2F;luanti-mods</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
+      Adiciona um sistema de reputação simples ao seu servidor!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-07-10T14:07:40.415Z</pubDate>
+  </item>
+  <item>
+    <title>signlike_letters (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#limafresh/signlike_letters</link>
+    <guid>https://github.com/limafresh/signlike_letters</guid>
+    <author>limafresh</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/173814432?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>limafresh</strong><br>
+      A mod for Luanti that adds sign-like letters in various colors, with and without light<br>
+      License: Creative Commons Zero v1.0 Universal<br>
+      <a href="https://github.com/limafresh/signlike_letters/archive/refs/heads/main/signlike_letters.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" type="image/png" />
+    <pubDate>2026-07-10T13:42:24Z</pubDate>
+  </item>
+  <item>
     <title>technic (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
     <guid>https://github.com/minetest-mods/technic</guid>
@@ -65,24 +119,6 @@
     <pubDate>2026-07-10T10:41:58.061Z</pubDate>
   </item>
   <item>
-    <title>isNaN (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/isNaN</link>
-    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/isNaN</guid>
-    <author>Sakura-Mods&#x2F;luanti-mods</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
-      Adiciona uma função do JavaScript para checar se um número é um NaN!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-07-10T10:32:32.318Z</pubDate>
-  </item>
-  <item>
     <title>digtron (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/digtron</link>
     <guid>https://github.com/minetest-mods/digtron</guid>
@@ -99,24 +135,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-09T18:20:28Z</pubDate>
-  </item>
-  <item>
-    <title>MariaReputation (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
-    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
-    <author>Sakura-Mods&#x2F;luanti-mods</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
-      Adiciona um sistema de reputação simples ao seu servidor!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-07-09T13:19:23.268Z</pubDate>
   </item>
   <item>
     <title>technic_many_machines (Github)</title>
@@ -639,24 +657,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-18T18:42:21Z</pubDate>
-  </item>
-  <item>
-    <title>item_drop (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/item_drop</link>
-    <guid>https://github.com/minetest-mods/item_drop</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      A highly configurable mod providing item magnet and in-world node drops<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/minetest-mods/item_drop/archive/refs/heads/master/item_drop.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-15T17:03:34Z</pubDate>
   </item>
   <item>
     <title>coins (Codeberg)</title>

@@ -1,6 +1,100 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/isNaN",
+      "author": "Sakura-Mods/luanti-mods",
+      "avatar_url": "https://gitlab.com/",
+      "website": "",
+      "repo_name": "isNaN",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/isNaN.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/README.md",
+      "description": "Adiciona uma função do JavaScript para checar se um número é um NaN!",
+      "default_branch": "release",
+      "updated_at": "2026-07-10T14:29:23.199Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "lua",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
+      "author": "Sakura-Mods/luanti-mods",
+      "avatar_url": "https://gitlab.com/",
+      "website": "",
+      "repo_name": "MariaReputation",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
+      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
+      "default_branch": "release",
+      "updated_at": "2026-07-10T14:07:40.415Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "lua",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "limafresh/signlike_letters",
+      "author": "limafresh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173814432?v=4",
+      "website": "https://content.luanti.org/packages/limafresh/signlike_letters",
+      "repo_name": "signlike_letters",
+      "html_url": "https://github.com/limafresh/signlike_letters",
+      "https_clone_url": "https://github.com/limafresh/signlike_letters.git",
+      "ssh_clone_url": "git@github.com:limafresh/signlike_letters.git",
+      "issues_url": "https://github.com/limafresh/signlike_letters/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/limafresh/signlike_letters/archive/refs/heads/main/signlike_letters.zip",
+      "description": "A mod for Luanti that adds sign-like letters in various colors, with and without light",
+      "default_branch": "main",
+      "updated_at": "2026-07-10T13:42:24Z",
+      "license": {
+        "name": "Creative Commons Zero v1.0 Universal"
+      },
+      "topics": [
+        "lua-mod",
+        "lua-project",
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/limafresh/signlike_letters/main/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/technic",
       "author": "minetest-mods",
@@ -92,36 +186,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/isNaN",
-      "author": "Sakura-Mods/luanti-mods",
-      "avatar_url": "https://gitlab.com/",
-      "website": "",
-      "repo_name": "isNaN",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/isNaN.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/README.md",
-      "description": "Adiciona uma função do JavaScript para checar se um número é um NaN!",
-      "default_branch": "release",
-      "updated_at": "2026-07-10T10:32:32.318Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "lua",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/digtron",
       "author": "minetest-mods",
@@ -152,36 +216,6 @@
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
-      "author": "Sakura-Mods/luanti-mods",
-      "avatar_url": "https://gitlab.com/",
-      "website": "",
-      "repo_name": "MariaReputation",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
-      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
-      "default_branch": "release",
-      "updated_at": "2026-07-09T13:19:23.268Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "lua",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1101,35 +1135,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/item_drop",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/texmex/item_drop/",
-      "repo_name": "item_drop",
-      "html_url": "https://github.com/minetest-mods/item_drop",
-      "https_clone_url": "https://github.com/minetest-mods/item_drop.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/item_drop.git",
-      "issues_url": "https://github.com/minetest-mods/item_drop/issues",
-      "open_issues": 2,
-      "stars": 13,
-      "forks": 13,
-      "zip_url": "https://github.com/minetest-mods/item_drop/archive/refs/heads/master/item_drop.zip",
-      "description": "A highly configurable mod providing item magnet and in-world node drops",
-      "default_branch": "master",
-      "updated_at": "2026-06-15T17:03:34Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/item_drop/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/item_drop/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "kmdev/coins",
       "author": "kmdev",
@@ -1904,5 +1909,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-10T12:08:17Z"
+  "now": "2026-07-10T15:01:08Z"
 }
