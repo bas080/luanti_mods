@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>isNaN (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/isNaN</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/isNaN</guid>
+    <author>Sakura-Mods&#x2F;luanti-mods</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
+      Adiciona uma função do JavaScript para checar se um número é um NaN!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-07-10T02:07:27.371Z</pubDate>
+  </item>
+  <item>
     <title>digtron (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/digtron</link>
     <guid>https://github.com/minetest-mods/digtron</guid>
@@ -45,24 +63,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-09T15:51:18Z</pubDate>
-  </item>
-  <item>
-    <title>isNaN (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/isNaN</link>
-    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/isNaN</guid>
-    <author>Sakura-Mods&#x2F;luanti-mods</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
-      Adiciona uma função do JavaScript para checar se um número é um NaN!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/archive/release/isNaN.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/isNaN/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-07-09T14:51:52.339Z</pubDate>
   </item>
   <item>
     <title>MariaReputation (Gitlab)</title>
