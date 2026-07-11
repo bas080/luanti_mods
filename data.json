@@ -30,36 +30,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/MariaGarbage",
-      "author": "Sakura-Mods/luanti-mods",
-      "avatar_url": "https://gitlab.com/",
-      "website": "",
-      "repo_name": "MariaGarbage",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaGarbage.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/archive/release/MariaGarbage.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/raw/release/README.md",
-      "description": "Adiciona uma API para conseguir gerenciar o coletor de lixo da Lua!",
-      "default_branch": "release",
-      "updated_at": "2026-07-10T19:07:23.876Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "lua",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaGarbage/-/raw/release/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/angledwalls",
       "author": "minetest-mods",
@@ -1447,6 +1417,36 @@
       "has_stats": false
     },
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/collectible-skins",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png",
+      "website": "",
+      "repo_name": "Collectible skins",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/collectible-skins.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/issues",
+      "open_issues": 0,
+      "stars": 2,
+      "forks": 3,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/README.md",
+      "description": "Wear and unlock skins on Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-05-27T20:51:27.215Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "mod",
+        "videogames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Codeberg",
       "full_name": "YCaTGameRT/cmcla_soups",
       "author": "YCaTGameRT",
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-11T00:09:19Z"
+  "now": "2026-07-11T03:43:02Z"
 }
