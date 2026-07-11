@@ -1,36 +1,34 @@
 {
   "items": [
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/digtron",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
-      "repo_name": "digtron",
-      "html_url": "https://github.com/minetest-mods/digtron",
-      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
-      "issues_url": "https://github.com/minetest-mods/digtron/issues",
-      "open_issues": 33,
-      "stars": 23,
-      "forks": 37,
-      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
-      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
-      "default_branch": "master",
-      "updated_at": "2026-07-11T14:06:40Z",
+      "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
+      "author": "Sakura-Mods/luanti-mods",
+      "avatar_url": "https://gitlab.com/",
+      "website": "",
+      "repo_name": "MariaReputation",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
+      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
+      "default_branch": "release",
+      "updated_at": "2026-07-11T16:02:59.782Z",
       "license": {
-        "name": "Other"
+        "name": "Unknown"
       },
       "topics": [
-        "construction",
-        "i18n",
-        "luanti-mod",
-        "minetest-mod",
-        "tunneldigger"
+        "Luanti",
+        "lua",
+        "minetest"
       ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
-      "has_stats": true
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
+      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -50,7 +48,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
       "description": "Luanti library to easily register new weapons",
       "default_branch": "main",
-      "updated_at": "2026-07-11T13:22:39.524Z",
+      "updated_at": "2026-07-11T15:54:39.166Z",
       "license": {
         "name": "Unknown"
       },
@@ -82,7 +80,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-07-11T12:33:59.176Z",
+      "updated_at": "2026-07-11T15:36:49.194Z",
       "license": {
         "name": "Unknown"
       },
@@ -92,6 +90,38 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/digtron",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
+      "repo_name": "digtron",
+      "html_url": "https://github.com/minetest-mods/digtron",
+      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
+      "issues_url": "https://github.com/minetest-mods/digtron/issues",
+      "open_issues": 33,
+      "stars": 23,
+      "forks": 37,
+      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
+      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
+      "default_branch": "master",
+      "updated_at": "2026-07-11T14:06:40Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "construction",
+        "i18n",
+        "luanti-mod",
+        "minetest-mod",
+        "tunneldigger"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
       "has_stats": true
     },
     {
@@ -183,36 +213,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
-      "author": "Sakura-Mods/luanti-mods",
-      "avatar_url": "https://gitlab.com/",
-      "website": "",
-      "repo_name": "MariaReputation",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
-      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
-      "default_branch": "release",
-      "updated_at": "2026-07-10T14:07:40.415Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "lua",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-11T15:15:08Z"
+  "now": "2026-07-11T17:15:47Z"
 }
