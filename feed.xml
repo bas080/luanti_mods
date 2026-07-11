@@ -11,22 +11,22 @@
   </image>
 
   <item>
-    <title>MariaReputation (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
-    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
-    <author>Sakura-Mods&#x2F;luanti-mods</author>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
-      Adiciona um sistema de reputação simples ao seu servidor!<br>
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
       License: Unknown<br>
-      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-07-11T16:02:59.782Z</pubDate>
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-11T22:29:18.770Z</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>
@@ -44,25 +44,25 @@
 
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-07-11T15:54:39.166Z</pubDate>
+    <pubDate>2026-07-11T22:27:57.119Z</pubDate>
   </item>
   <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
+    <title>MariaReputation (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
+    <author>Sakura-Mods&#x2F;luanti-mods</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
+      Adiciona um sistema de reputação simples ao seu servidor!<br>
       License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-11T15:36:49.194Z</pubDate>
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-07-11T16:02:59.782Z</pubDate>
   </item>
   <item>
     <title>digtron (Github)</title>
