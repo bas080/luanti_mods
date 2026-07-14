@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-07-13T17:39:20.646Z",
+      "updated_at": "2026-07-14T13:46:13.603Z",
       "license": {
         "name": "Unknown"
       },
@@ -48,7 +48,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
       "description": "Luanti library working as a core manager for any minigame you have in mind",
       "default_branch": "master",
-      "updated_at": "2026-07-13T17:07:56.382Z",
+      "updated_at": "2026-07-14T13:32:34.653Z",
       "license": {
         "name": "Unknown"
       },
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-14T11:44:26Z"
+  "now": "2026-07-14T14:13:07Z"
 }
