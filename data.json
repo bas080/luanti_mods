@@ -134,7 +134,7 @@
       "https_clone_url": "https://github.com/minetest-mods/digtron.git",
       "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
       "issues_url": "https://github.com/minetest-mods/digtron/issues",
-      "open_issues": 33,
+      "open_issues": 34,
       "stars": 23,
       "forks": 37,
       "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-15T19:36:12Z"
+  "now": "2026-07-15T21:14:24Z"
 }
