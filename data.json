@@ -1,6 +1,40 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "YCaTGameRT/cmcla_soups",
+      "author": "YCaTGameRT",
+      "avatar_url": "https://codeberg.org/avatars/cb36e8d170ea17e7f8499f4eb16450f221803288f6c58e2e385c5ad5c22be3fb",
+      "website": "",
+      "repo_name": "cmcla_soups",
+      "html_url": "https://codeberg.org/YCaTGameRT/cmcla_soups",
+      "https_clone_url": "https://codeberg.org/YCaTGameRT/cmcla_soups.git",
+      "ssh_clone_url": "git@codeberg.org:YCaTGameRT/cmcla_soups.git",
+      "issues_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/archive/refs/heads/master/cmcla_soups.zip",
+      "readme_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/README.md",
+      "description": "This mod add soups to Mineclonia",
+      "default_branch": "master",
+      "updated_at": "2026-07-16T21:50:28+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "mineclonia",
+        "mineclonia-mod",
+        "mineclonia-mods",
+        "minetest"
+      ],
+      "image_raw": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/artdeco",
       "author": "minetest-mods",
@@ -1448,40 +1482,6 @@
     },
     {
       "hosted_on": "Codeberg",
-      "full_name": "YCaTGameRT/cmcla_soups",
-      "author": "YCaTGameRT",
-      "avatar_url": "https://codeberg.org/avatars/cb36e8d170ea17e7f8499f4eb16450f221803288f6c58e2e385c5ad5c22be3fb",
-      "website": "",
-      "repo_name": "cmcla_soups",
-      "html_url": "https://codeberg.org/YCaTGameRT/cmcla_soups",
-      "https_clone_url": "https://codeberg.org/YCaTGameRT/cmcla_soups.git",
-      "ssh_clone_url": "git@codeberg.org:YCaTGameRT/cmcla_soups.git",
-      "issues_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/archive/refs/heads/master/cmcla_soups.zip",
-      "readme_url": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/README.md",
-      "description": "This mod add soups to Mineclonia",
-      "default_branch": "master",
-      "updated_at": "2026-04-18T23:28:29+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "mineclonia",
-        "mineclonia-mod",
-        "mineclonia-mods",
-        "minetest"
-      ],
-      "image_raw": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Codeberg",
       "full_name": "MatyasP/cobanisters",
       "author": "MatyasP",
       "avatar_url": "https://codeberg.org/avatars/ad74e342bcdd5c816577777f3bdd1f96db1943f1c6fce00f71aece6d7f60fc6e",
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-16T18:19:09Z"
+  "now": "2026-07-16T20:11:50Z"
 }
