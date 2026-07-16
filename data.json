@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/artdeco",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/TumeniNodes/artdeco/",
+      "repo_name": "artdeco",
+      "html_url": "https://github.com/minetest-mods/artdeco",
+      "https_clone_url": "https://github.com/minetest-mods/artdeco.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/artdeco.git",
+      "issues_url": "https://github.com/minetest-mods/artdeco/issues",
+      "open_issues": 1,
+      "stars": 0,
+      "forks": 5,
+      "zip_url": "https://github.com/minetest-mods/artdeco/archive/refs/heads/master/artdeco.zip",
+      "description": "A mod which adds new building blocks to Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-07-16T16:58:15Z",
+      "license": {
+        "name": "The Unlicense"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/artdeco/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/artdeco/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/arena_lib",
       "author": "zughy-friends-minetest",
@@ -745,35 +774,6 @@
         "minetest-modpack"
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/blacksails",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=14170",
-      "repo_name": "blacksails",
-      "html_url": "https://github.com/minetest-mods/blacksails",
-      "https_clone_url": "https://github.com/minetest-mods/blacksails.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/blacksails.git",
-      "issues_url": "https://github.com/minetest-mods/blacksails/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/minetest-mods/blacksails/archive/refs/heads/master/blacksails.zip",
-      "description": "Cannons, Joly Roger, and more to come",
-      "default_branch": "master",
-      "updated_at": "2026-06-28T21:28:01Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "cannons",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/README.md",
       "has_stats": true
     },
     {
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-16T16:41:09Z"
+  "now": "2026-07-16T18:19:09Z"
 }
