@@ -2,6 +2,38 @@
   "items": [
     {
       "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/energy_drinks",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "",
+      "repo_name": "energy_drinks",
+      "html_url": "https://codeberg.org/Sheriff_U3/energy_drinks",
+      "https_clone_url": "https://codeberg.org/Sheriff_U3/energy_drinks.git",
+      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/energy_drinks.git",
+      "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
+      "description": "A mod that adds energy drinks to the luanti game engine.",
+      "default_branch": "main",
+      "updated_at": "2026-07-17T21:25:50+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Codeberg",
       "full_name": "YCaTGameRT/cmcla_soups",
       "author": "YCaTGameRT",
       "avatar_url": "https://codeberg.org/avatars/cb36e8d170ea17e7f8499f4eb16450f221803288f6c58e2e385c5ad5c22be3fb",
@@ -478,7 +510,7 @@
       "https_clone_url": "https://github.com/Lazerbeak12345/flow-extras.git",
       "ssh_clone_url": "git@github.com:Lazerbeak12345/flow-extras.git",
       "issues_url": "https://github.com/Lazerbeak12345/flow-extras/issues",
-      "open_issues": 2,
+      "open_issues": 3,
       "stars": 1,
       "forks": 0,
       "zip_url": "https://github.com/Lazerbeak12345/flow-extras/archive/refs/heads/master/flow-extras.zip",
@@ -712,38 +744,6 @@
       ],
       "image_raw": "https://codeberg.org/janorico/custom_spawn/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/energy_drinks",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "",
-      "repo_name": "energy_drinks",
-      "html_url": "https://codeberg.org/Sheriff_U3/energy_drinks",
-      "https_clone_url": "https://codeberg.org/Sheriff_U3/energy_drinks.git",
-      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/energy_drinks.git",
-      "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
-      "description": "A mod that adds energy drinks to the luanti game engine.",
-      "default_branch": "main",
-      "updated_at": "2026-06-29T15:43:55+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-17T17:30:09Z"
+  "now": "2026-07-17T19:32:09Z"
 }
