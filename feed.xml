@@ -29,6 +29,24 @@
     <pubDate>2026-07-16T21:50:28+02:00</pubDate>
   </item>
   <item>
+    <title>artdeco (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/artdeco</link>
+    <guid>https://github.com/minetest-mods/artdeco</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      A mod which adds new building blocks to Minetest<br>
+      License: The Unlicense<br>
+      <a href="https://github.com/minetest-mods/artdeco/archive/refs/heads/master/artdeco.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/artdeco/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/artdeco/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/artdeco/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-16T16:58:15Z</pubDate>
+  </item>
+  <item>
     <title>arena_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
@@ -101,6 +119,96 @@
     <pubDate>2026-07-11T16:02:59.782Z</pubDate>
   </item>
   <item>
+    <title>digtron (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/digtron</link>
+    <guid>https://github.com/minetest-mods/digtron</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      A modular tunnel boring&#x2F;construction machine mod for Luanti&#x2F;Minetest.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-11T14:06:40Z</pubDate>
+  </item>
+  <item>
+    <title>technic (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
+    <guid>https://github.com/minetest-mods/technic</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Technic mod for Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-11T08:19:31Z</pubDate>
+  </item>
+  <item>
+    <title>angledwalls (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/angledwalls</link>
+    <guid>https://github.com/minetest-mods/angledwalls</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Angled walls, glass, and doors for Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-10T18:40:38Z</pubDate>
+  </item>
+  <item>
+    <title>signlike_letters (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#limafresh/signlike_letters</link>
+    <guid>https://github.com/limafresh/signlike_letters</guid>
+    <author>limafresh</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/173814432?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>limafresh</strong><br>
+      A mod for Luanti that adds sign-like letters in various colors, with and without light<br>
+      License: Creative Commons Zero v1.0 Universal<br>
+      <a href="https://github.com/limafresh/signlike_letters/archive/refs/heads/main/signlike_letters.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" type="image/png" />
+    <pubDate>2026-07-10T13:42:24Z</pubDate>
+  </item>
+  <item>
+    <title>technic_many_machines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
+    <guid>https://github.com/Opons1/technic_many_machines</guid>
+    <author>Opons1</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Opons1</strong><br>
+      <br>
+      License: Other<br>
+      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
+    <pubDate>2026-07-07T16:52:37Z</pubDate>
+  </item>
+  <item>
     <title>CraftoPlus (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#Mish7913/craftoplus</link>
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
@@ -117,6 +225,96 @@
     <media:thumbnail url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-07-06T23:36:12.927Z</pubDate>
+  </item>
+  <item>
+    <title>drawers (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
+    <guid>https://github.com/minetest-mods/drawers</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      [MTG&#x2F;MCL2] A Luanti&#x2F;Minetest Mod adding storage drawers in different sizes and wood types.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-06T17:44:00Z</pubDate>
+  </item>
+  <item>
+    <title>digilines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/digilines</link>
+    <guid>https://github.com/minetest-mods/digilines</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Digilines is a mod for Luanti&#x2F;Minetest which adds data bus wires<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/digilines/archive/refs/heads/master/digilines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-06T17:41:30Z</pubDate>
+  </item>
+  <item>
+    <title>angledstairs (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/angledstairs</link>
+    <guid>https://github.com/minetest-mods/angledstairs</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Adds angled stairs to Minetest Game<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/angledstairs/archive/refs/heads/master/angledstairs.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/angledstairs/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/angledstairs/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/angledstairs/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-06T17:27:53Z</pubDate>
+  </item>
+  <item>
+    <title>flow-extras (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Lazerbeak12345/flow-extras</link>
+    <guid>https://github.com/Lazerbeak12345/flow-extras</guid>
+    <author>Lazerbeak12345</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/22641188?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Lazerbeak12345</strong><br>
+      An experimental collection of widgets for the Luanti Flow formspec replacement<br>
+      License: MIT License<br>
+      <a href="https://github.com/Lazerbeak12345/flow-extras/archive/refs/heads/master/flow-extras.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Lazerbeak12345/flow-extras/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Lazerbeak12345/flow-extras/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Lazerbeak12345/flow-extras/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-05T01:21:44Z</pubDate>
+  </item>
+  <item>
+    <title>wrench (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/wrench</link>
+    <guid>https://github.com/mt-mods/wrench</guid>
+    <author>mt-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      The wrench tool allows you to pick up nodes with inventories or other metadata, such as chests, signs, drawers, machines, etc, and transport them intact to another location.<br>
+      License: Other<br>
+      <a href="https://github.com/mt-mods/wrench/archive/refs/heads/master/wrench.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-04T09:07:18Z</pubDate>
   </item>
   <item>
     <title>ColourHop (Gitlab)</title>
@@ -191,6 +389,24 @@
     <pubDate>2026-06-30T21:43:27.028Z</pubDate>
   </item>
   <item>
+    <title>toolranks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/toolranks</link>
+    <guid>https://github.com/Sheriff-Unit-3/toolranks</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A tool rank mod for the voxel game engine luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/toolranks/archive/refs/heads/main/toolranks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-29T22:53:16Z</pubDate>
+  </item>
+  <item>
     <title>custom_spawn (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#janorico/custom_spawn</link>
     <guid>https://codeberg.org/janorico/custom_spawn</guid>
@@ -263,6 +479,78 @@
     <pubDate>2026-06-28T21:35:03+02:00</pubDate>
   </item>
   <item>
+    <title>handholds (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/handholds</link>
+    <guid>https://github.com/Sheriff-Unit-3/handholds</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) Mountain climbing for Luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/handholds/archive/refs/heads/master/handholds.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/handholds/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-28T20:17:09Z</pubDate>
+  </item>
+  <item>
+    <title>circuits (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/circuits</link>
+    <guid>https://github.com/Sheriff-Unit-3/circuits</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A circuitry mod for Luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-28T19:34:55Z</pubDate>
+  </item>
+  <item>
+    <title>energy_drinks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/energy_drinks</link>
+    <guid>https://github.com/Sheriff-Unit-3/energy_drinks</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A mod that adds energy drinks to the luanti game engine.<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-28T17:49:57Z</pubDate>
+  </item>
+  <item>
+    <title>MoreMesecons (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/MoreMesecons</link>
+    <guid>https://github.com/minetest-mods/MoreMesecons</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      More mesecons items<br>
+      License: Mozilla Public License 2.0<br>
+      <a href="https://github.com/minetest-mods/MoreMesecons/archive/refs/heads/master/MoreMesecons.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/MoreMesecons/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/MoreMesecons/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/MoreMesecons/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-24T19:56:49Z</pubDate>
+  </item>
+  <item>
     <title>Consolidated Mobs (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#AntumLuanti/mod-con_mobs</link>
     <guid>https://gitlab.com/AntumLuanti/mod-con_mobs</guid>
@@ -281,6 +569,42 @@
     <pubDate>2026-06-24T07:49:23.633Z</pubDate>
   </item>
   <item>
+    <title>mod-con_mobs (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#AntumLuanti/mod-con_mobs</link>
+    <guid>https://github.com/AntumLuanti/mod-con_mobs</guid>
+    <author>AntumLuanti</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>AntumLuanti</strong><br>
+      Wrapper for registering mobs with a variety of commonly used APIs.<br>
+      License: MIT License<br>
+      <a href="https://github.com/AntumLuanti/mod-con_mobs/archive/refs/heads/master/mod-con_mobs.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-24T07:47:54Z</pubDate>
+  </item>
+  <item>
+    <title>filterplus (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#monk-afk/filterplus</link>
+    <guid>https://github.com/monk-afk/filterplus</guid>
+    <author>monk-afk</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/37543743?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>monk-afk</strong><br>
+      core.register_on_chat_message()<br>
+      License: Other<br>
+      <a href="https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" type="image/png" />
+    <pubDate>2026-06-21T11:34:01Z</pubDate>
+  </item>
+  <item>
     <title>mod-cleaner (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#AntumLuanti/mod-cleaner</link>
     <guid>https://gitlab.com/AntumLuanti/mod-cleaner</guid>
@@ -297,6 +621,42 @@
     <media:thumbnail url="https://gitlab.com/AntumLuanti/mod-cleaner/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/AntumLuanti/mod-cleaner/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-20T16:11:41.458Z</pubDate>
+  </item>
+  <item>
+    <title>skyblock (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/skyblock</link>
+    <guid>https://github.com/minetest-mods/skyblock</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Build a world starting from a small island in the sky.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/skyblock/archive/refs/heads/master/skyblock.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-18T19:12:37Z</pubDate>
+  </item>
+  <item>
+    <title>ts_furniture (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/ts_furniture</link>
+    <guid>https://github.com/minetest-mods/ts_furniture</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      A furniture mod for Luanti&#x2F;Minetest.<br>
+      License: MIT License<br>
+      <a href="https://github.com/minetest-mods/ts_furniture/archive/refs/heads/master/ts_furniture.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/ts_furniture/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-18T18:42:21Z</pubDate>
   </item>
   <item>
     <title>coins (Codeberg)</title>
