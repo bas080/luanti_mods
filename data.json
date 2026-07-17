@@ -18,7 +18,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
       "description": "A mod that adds energy drinks to the luanti game engine.",
       "default_branch": "main",
-      "updated_at": "2026-07-17T23:08:09+02:00",
+      "updated_at": "2026-07-18T01:04:16+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -31,6 +31,38 @@
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
       "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/energy_drinks",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "https://codeberg.org/Sheriff_U3/energy_drinks",
+      "repo_name": "energy_drinks",
+      "html_url": "https://github.com/Sheriff-Unit-3/energy_drinks",
+      "https_clone_url": "https://github.com/Sheriff-Unit-3/energy_drinks.git",
+      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/energy_drinks.git",
+      "issues_url": "https://github.com/Sheriff-Unit-3/energy_drinks/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
+      "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
+      "default_branch": "main",
+      "updated_at": "2026-07-17T23:04:22Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "launti",
+        "lua",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
+      "has_stats": false
     },
     {
       "hosted_on": "Codeberg",
@@ -873,38 +905,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/energy_drinks",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/energy_drinks",
-      "repo_name": "energy_drinks",
-      "html_url": "https://github.com/Sheriff-Unit-3/energy_drinks",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/energy_drinks.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/energy_drinks.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/energy_drinks/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
-      "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
-      "default_branch": "main",
-      "updated_at": "2026-06-28T17:49:57Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "launti",
-        "lua",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
       "has_stats": false
     },
     {
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-17T22:06:09Z"
+  "now": "2026-07-17T23:08:01Z"
 }
