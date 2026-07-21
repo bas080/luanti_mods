@@ -2,6 +2,36 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/moreblocks",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.minetest.net/packages/Calinou/moreblocks/",
+      "repo_name": "moreblocks",
+      "html_url": "https://github.com/minetest-mods/moreblocks",
+      "https_clone_url": "https://github.com/minetest-mods/moreblocks.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/moreblocks.git",
+      "issues_url": "https://github.com/minetest-mods/moreblocks/issues",
+      "open_issues": 25,
+      "stars": 48,
+      "forks": 70,
+      "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
+      "description": "More Blocks",
+      "default_branch": "master",
+      "updated_at": "2026-07-21T20:36:48Z",
+      "license": {
+        "name": "zlib License"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "minetest-mods/blacksails",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -1105,41 +1135,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/skyblock",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://minetest-mods.github.io/skyblock/",
-      "repo_name": "skyblock",
-      "html_url": "https://github.com/minetest-mods/skyblock",
-      "https_clone_url": "https://github.com/minetest-mods/skyblock.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/skyblock.git",
-      "issues_url": "https://github.com/minetest-mods/skyblock/issues",
-      "open_issues": 21,
-      "stars": 13,
-      "forks": 13,
-      "zip_url": "https://github.com/minetest-mods/skyblock/archive/refs/heads/master/skyblock.zip",
-      "description": "Build a world starting from a small island in the sky.",
-      "default_branch": "master",
-      "updated_at": "2026-06-18T19:12:37Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "bower",
-        "island",
-        "lua",
-        "luanti-mod",
-        "minetest",
-        "minetest-game",
-        "minetest-mods",
-        "skyblock"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/skyblock/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "kmdev/coins",
       "author": "kmdev",
@@ -1910,5 +1905,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-21T20:35:42Z"
+  "now": "2026-07-21T22:12:02Z"
 }

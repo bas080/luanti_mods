@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>moreblocks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/moreblocks</link>
+    <guid>https://github.com/minetest-mods/moreblocks</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      More Blocks<br>
+      License: zlib License<br>
+      <a href="https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-21T20:36:48Z</pubDate>
+  </item>
+  <item>
     <title>blacksails (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/blacksails</link>
     <guid>https://github.com/minetest-mods/blacksails</guid>
@@ -639,24 +657,6 @@
     <media:thumbnail url="https://gitlab.com/AntumLuanti/mod-cleaner/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/AntumLuanti/mod-cleaner/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-20T16:11:41.458Z</pubDate>
-  </item>
-  <item>
-    <title>skyblock (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/skyblock</link>
-    <guid>https://github.com/minetest-mods/skyblock</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Build a world starting from a small island in the sky.<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/skyblock/archive/refs/heads/master/skyblock.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-18T19:12:37Z</pubDate>
   </item>
   <item>
     <title>coins (Codeberg)</title>
