@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/circuits",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "https://codeberg.org/Sheriff_U3/circuits",
+      "repo_name": "circuits",
+      "html_url": "https://github.com/Sheriff-Unit-3/circuits",
+      "https_clone_url": "https://github.com/Sheriff-Unit-3/circuits.git",
+      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/circuits.git",
+      "issues_url": "https://github.com/Sheriff-Unit-3/circuits/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip",
+      "description": "(Mirror) A circuitry mod for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-07-23T01:04:23Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "lua",
+        "luanti-mod",
+        "luanti-modpack",
+        "minetest",
+        "minetest-mod",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -968,39 +1001,6 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/circuits",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/circuits",
-      "repo_name": "circuits",
-      "html_url": "https://github.com/Sheriff-Unit-3/circuits",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/circuits.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/circuits.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/circuits/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip",
-      "description": "(Mirror) A circuitry mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-06-28T19:34:55Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-mod",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
       "full_name": "minetest-mods/MoreMesecons",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -1905,5 +1905,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-23T00:12:56Z"
+  "now": "2026-07-23T03:48:15Z"
 }
