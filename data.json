@@ -914,7 +914,7 @@
       "ssh_clone_url": "git@codeberg.org:Sheriff_U3/balls.git",
       "issues_url": "https://codeberg.org/Sheriff_U3/balls/issues",
       "open_issues": 0,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "zip_url": "https://codeberg.org/Sheriff_U3/balls/archive/refs/heads/master/balls.zip",
       "readme_url": "https://codeberg.org/Sheriff_U3/balls/raw/master/README.md",
@@ -933,7 +933,7 @@
         "wip"
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png",
-      "has_stats": false
+      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1905,5 +1905,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-23T06:39:41Z"
+  "now": "2026-07-23T09:35:43Z"
 }
