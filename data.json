@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
       "description": "Mod for Luanti games.",
       "default_branch": "main",
-      "updated_at": "2026-07-24T18:35:15.613Z",
+      "updated_at": "2026-07-24T22:01:24.010Z",
       "license": {
         "name": "Unknown"
       },
@@ -1905,5 +1905,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-24T21:20:20Z"
+  "now": "2026-07-24T23:16:04Z"
 }
