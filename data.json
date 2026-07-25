@@ -17,7 +17,7 @@
       "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
       "description": "Technic mod for Luanti/Minetest",
       "default_branch": "master",
-      "updated_at": "2026-07-25T05:59:06Z",
+      "updated_at": "2026-07-25T07:21:03Z",
       "license": {
         "name": "Other"
       },
@@ -1909,5 +1909,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-25T06:28:52Z"
+  "now": "2026-07-25T09:12:06Z"
 }
