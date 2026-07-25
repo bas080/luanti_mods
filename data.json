@@ -2,6 +2,36 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/angledwalls",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/TumeniNodes/angledwalls/",
+      "repo_name": "angledwalls",
+      "html_url": "https://github.com/minetest-mods/angledwalls",
+      "https_clone_url": "https://github.com/minetest-mods/angledwalls.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/angledwalls.git",
+      "issues_url": "https://github.com/minetest-mods/angledwalls/issues",
+      "open_issues": 1,
+      "stars": 5,
+      "forks": 7,
+      "zip_url": "https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip",
+      "description": "Angled walls, glass, and doors for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-07-25T10:44:49Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "angled-walls",
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "minetest-mods/technic",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -11,7 +41,7 @@
       "https_clone_url": "https://github.com/minetest-mods/technic.git",
       "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
       "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 63,
+      "open_issues": 64,
       "stars": 152,
       "forks": 157,
       "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
@@ -558,36 +588,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/angledwalls",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/TumeniNodes/angledwalls/",
-      "repo_name": "angledwalls",
-      "html_url": "https://github.com/minetest-mods/angledwalls",
-      "https_clone_url": "https://github.com/minetest-mods/angledwalls.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/angledwalls.git",
-      "issues_url": "https://github.com/minetest-mods/angledwalls/issues",
-      "open_issues": 1,
-      "stars": 5,
-      "forks": 7,
-      "zip_url": "https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip",
-      "description": "Angled walls, glass, and doors for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-07-10T18:40:38Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "angled-walls",
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/README.md",
       "has_stats": true
     },
     {
@@ -1909,5 +1909,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-25T09:12:06Z"
+  "now": "2026-07-25T10:46:16Z"
 }
