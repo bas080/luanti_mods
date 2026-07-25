@@ -2,6 +2,99 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/technic",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
+      "repo_name": "technic",
+      "html_url": "https://github.com/minetest-mods/technic",
+      "https_clone_url": "https://github.com/minetest-mods/technic.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
+      "issues_url": "https://github.com/minetest-mods/technic/issues",
+      "open_issues": 63,
+      "stars": 152,
+      "forks": 157,
+      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
+      "description": "Technic mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-07-25T05:59:06Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Mish7913/craftoplus",
+      "author": "Mish7913",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png",
+      "website": "",
+      "repo_name": "CraftoPlus",
+      "html_url": "https://gitlab.com/Mish7913/craftoplus",
+      "https_clone_url": "https://gitlab.com/Mish7913/craftoplus.git",
+      "ssh_clone_url": "git@gitlab.com:Mish7913/craftoplus.git",
+      "issues_url": "https://gitlab.com/Mish7913/craftoplus/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip",
+      "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
+      "description": "Mod for Luanti games.",
+      "default_branch": "main",
+      "updated_at": "2026-07-25T05:20:52.321Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "craft",
+        "mod"
+      ],
+      "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "lichenseed/portable-console-snake",
+      "author": "lichenseed",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82492635/Glen_Keane_character_concept_a.jpeg",
+      "website": "",
+      "repo_name": "Snake in Minetest",
+      "html_url": "https://gitlab.com/lichenseed/portable-console-snake",
+      "https_clone_url": "https://gitlab.com/lichenseed/portable-console-snake.git",
+      "ssh_clone_url": "git@gitlab.com:lichenseed/portable-console-snake.git",
+      "issues_url": "https://gitlab.com/lichenseed/portable-console-snake/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/lichenseed/portable-console-snake/-/archive/main/portable-console-snake.zip",
+      "readme_url": "https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/README.md",
+      "description": "Running Snake in Minetest Game.",
+      "default_branch": "main",
+      "updated_at": "2026-07-25T04:18:50.126Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "gui",
+        "lua",
+        "minetest",
+        "mod",
+        "snake-game",
+        "vibecoded"
+      ],
+      "image_raw": "https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "Opons1/technic_many_machines",
       "author": "Opons1",
       "avatar_url": "https://avatars.githubusercontent.com/u/98196027?v=4",
@@ -27,36 +120,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Mish7913/craftoplus",
-      "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png",
-      "website": "",
-      "repo_name": "CraftoPlus",
-      "html_url": "https://gitlab.com/Mish7913/craftoplus",
-      "https_clone_url": "https://gitlab.com/Mish7913/craftoplus.git",
-      "ssh_clone_url": "git@gitlab.com:Mish7913/craftoplus.git",
-      "issues_url": "https://gitlab.com/Mish7913/craftoplus/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip",
-      "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
-      "description": "Mod for Luanti games.",
-      "default_branch": "main",
-      "updated_at": "2026-07-24T22:01:24.010Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "craft",
-        "mod"
-      ],
-      "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -495,35 +558,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "https_clone_url": "https://github.com/minetest-mods/technic.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 63,
-      "stars": 152,
-      "forks": 157,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-07-11T08:19:31Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
       "has_stats": true
     },
     {
@@ -1446,36 +1480,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/collectible-skins",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png",
-      "website": "",
-      "repo_name": "Collectible skins",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/collectible-skins.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/issues",
-      "open_issues": 0,
-      "stars": 2,
-      "forks": 3,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/README.md",
-      "description": "Wear and unlock skins on Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-05-27T20:51:27.215Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "mod",
-        "videogames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "MatyasP/cobanisters",
       "author": "MatyasP",
@@ -1905,5 +1909,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-25T03:36:20Z"
+  "now": "2026-07-25T06:28:52Z"
 }
