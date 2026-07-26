@@ -26,7 +26,25 @@
 
     <media:thumbnail url="https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-26T15:50:47Z</pubDate>
+    <pubDate>2026-07-26T18:21:24Z</pubDate>
+  </item>
+  <item>
+    <title>skyblock (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/skyblock</link>
+    <guid>https://github.com/minetest-mods/skyblock</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Build a world starting from a small island in the sky.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/skyblock/archive/refs/heads/master/skyblock.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-26T18:19:43Z</pubDate>
   </item>
   <item>
     <title>angledwalls (Github)</title>
@@ -639,24 +657,6 @@
     <media:thumbnail url="https://gitlab.com/AntumLuanti/mod-con_mobs/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/AntumLuanti/mod-con_mobs/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-24T07:49:23.633Z</pubDate>
-  </item>
-  <item>
-    <title>mod-con_mobs (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#AntumLuanti/mod-con_mobs</link>
-    <guid>https://github.com/AntumLuanti/mod-con_mobs</guid>
-    <author>AntumLuanti</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/29534891?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>AntumLuanti</strong><br>
-      Wrapper for registering mobs with a variety of commonly used APIs.<br>
-      License: MIT License<br>
-      <a href="https://github.com/AntumLuanti/mod-con_mobs/archive/refs/heads/master/mod-con_mobs.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-24T07:47:54Z</pubDate>
   </item>
   <item>
     <title>mod-cleaner (Gitlab)</title>

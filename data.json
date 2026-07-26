@@ -17,7 +17,7 @@
       "zip_url": "https://github.com/IceDragon200/mt-foundation/archive/refs/heads/master/mt-foundation.zip",
       "description": "Extracted common library from yatm, harmonia and nokore",
       "default_branch": "master",
-      "updated_at": "2026-07-26T15:50:47Z",
+      "updated_at": "2026-07-26T18:21:24Z",
       "license": {
         "name": "Apache License 2.0"
       },
@@ -32,6 +32,41 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/skyblock",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://minetest-mods.github.io/skyblock/",
+      "repo_name": "skyblock",
+      "html_url": "https://github.com/minetest-mods/skyblock",
+      "https_clone_url": "https://github.com/minetest-mods/skyblock.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/skyblock.git",
+      "issues_url": "https://github.com/minetest-mods/skyblock/issues",
+      "open_issues": 19,
+      "stars": 13,
+      "forks": 13,
+      "zip_url": "https://github.com/minetest-mods/skyblock/archive/refs/heads/master/skyblock.zip",
+      "description": "Build a world starting from a small island in the sky.",
+      "default_branch": "master",
+      "updated_at": "2026-07-26T18:19:43Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "bower",
+        "island",
+        "lua",
+        "luanti-mod",
+        "minetest",
+        "minetest-game",
+        "minetest-mods",
+        "skyblock"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/skyblock/master/README.md",
       "has_stats": true
     },
     {
@@ -1099,39 +1134,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "AntumLuanti/mod-con_mobs",
-      "author": "AntumLuanti",
-      "avatar_url": "https://avatars.githubusercontent.com/u/29534891?v=4",
-      "website": "",
-      "repo_name": "mod-con_mobs",
-      "html_url": "https://github.com/AntumLuanti/mod-con_mobs",
-      "https_clone_url": "https://github.com/AntumLuanti/mod-con_mobs.git",
-      "ssh_clone_url": "git@github.com:AntumLuanti/mod-con_mobs.git",
-      "issues_url": "https://github.com/AntumLuanti/mod-con_mobs/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/AntumLuanti/mod-con_mobs/archive/refs/heads/master/mod-con_mobs.zip",
-      "description": "Wrapper for registering mobs with a variety of commonly used APIs.",
-      "default_branch": "master",
-      "updated_at": "2026-06-24T07:47:54Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "luanti-modding",
-        "minetest",
-        "minetest-mod",
-        "minetest-modding"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/AntumLuanti/mod-con_mobs/master/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "AntumLuanti/mod-cleaner",
       "author": "AntumLuanti",
@@ -1910,5 +1912,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-26T17:14:46Z"
+  "now": "2026-07-26T19:34:32Z"
 }
