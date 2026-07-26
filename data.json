@@ -2,6 +2,40 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "IceDragon200/mt-foundation",
+      "author": "IceDragon200",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1649873?v=4",
+      "website": "",
+      "repo_name": "mt-foundation",
+      "html_url": "https://github.com/IceDragon200/mt-foundation",
+      "https_clone_url": "https://github.com/IceDragon200/mt-foundation.git",
+      "ssh_clone_url": "git@github.com:IceDragon200/mt-foundation.git",
+      "issues_url": "https://github.com/IceDragon200/mt-foundation/issues",
+      "open_issues": 0,
+      "stars": 3,
+      "forks": 0,
+      "zip_url": "https://github.com/IceDragon200/mt-foundation/archive/refs/heads/master/mt-foundation.zip",
+      "description": "Extracted common library from yatm, harmonia and nokore",
+      "default_branch": "master",
+      "updated_at": "2026-07-26T14:51:23Z",
+      "license": {
+        "name": "Apache License 2.0"
+      },
+      "topics": [
+        "base-library",
+        "luanti",
+        "luanti-mod",
+        "luanti-modpack",
+        "minetest",
+        "minetest-mod",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "minetest-mods/angledwalls",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -364,39 +398,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/blacksails/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "monk-afk/filterplus",
-      "author": "monk-afk",
-      "avatar_url": "https://avatars.githubusercontent.com/u/37543743?v=4",
-      "website": "",
-      "repo_name": "filterplus",
-      "html_url": "https://github.com/monk-afk/filterplus",
-      "https_clone_url": "https://github.com/monk-afk/filterplus.git",
-      "ssh_clone_url": "git@github.com:monk-afk/filterplus.git",
-      "issues_url": "https://github.com/monk-afk/filterplus/issues",
-      "open_issues": 0,
-      "stars": 3,
-      "forks": 0,
-      "zip_url": "https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip",
-      "description": "core.register_on_chat_message()",
-      "default_branch": "main",
-      "updated_at": "2026-07-19T06:59:44Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "censor",
-        "chat",
-        "filter",
-        "lua",
-        "luanti-mod",
-        "luanti-modding"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/monk-afk/filterplus/main/README.md",
       "has_stats": true
     },
     {
@@ -1909,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-26T13:55:49Z"
+  "now": "2026-07-26T15:28:56Z"
 }

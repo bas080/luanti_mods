@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>mt-foundation (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#IceDragon200/mt-foundation</link>
+    <guid>https://github.com/IceDragon200/mt-foundation</guid>
+    <author>IceDragon200</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1649873?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>IceDragon200</strong><br>
+      Extracted common library from yatm, harmonia and nokore<br>
+      License: Apache License 2.0<br>
+      <a href="https://github.com/IceDragon200/mt-foundation/archive/refs/heads/master/mt-foundation.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-26T14:51:23Z</pubDate>
+  </item>
+  <item>
     <title>angledwalls (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/angledwalls</link>
     <guid>https://github.com/minetest-mods/angledwalls</guid>
@@ -225,24 +243,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/blacksails/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-19T11:06:45Z</pubDate>
-  </item>
-  <item>
-    <title>filterplus (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#monk-afk/filterplus</link>
-    <guid>https://github.com/monk-afk/filterplus</guid>
-    <author>monk-afk</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/37543743?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>monk-afk</strong><br>
-      core.register_on_chat_message()<br>
-      License: Other<br>
-      <a href="https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" type="image/png" />
-    <pubDate>2026-07-19T06:59:44Z</pubDate>
   </item>
   <item>
     <title>energy_drinks (Codeberg)</title>
