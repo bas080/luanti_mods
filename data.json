@@ -17,7 +17,7 @@
       "zip_url": "https://github.com/IceDragon200/mt-foundation/archive/refs/heads/master/mt-foundation.zip",
       "description": "Extracted common library from yatm, harmonia and nokore",
       "default_branch": "master",
-      "updated_at": "2026-07-26T14:51:23Z",
+      "updated_at": "2026-07-26T15:50:47Z",
       "license": {
         "name": "Apache License 2.0"
       },
@@ -1910,5 +1910,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-26T15:28:56Z"
+  "now": "2026-07-26T17:14:46Z"
 }
