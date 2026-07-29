@@ -2,6 +2,66 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/areas",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "",
+      "repo_name": "areas",
+      "html_url": "https://github.com/minetest-mods/areas",
+      "https_clone_url": "https://github.com/minetest-mods/areas.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/areas.git",
+      "issues_url": "https://github.com/minetest-mods/areas/issues",
+      "open_issues": 15,
+      "stars": 58,
+      "forks": 58,
+      "zip_url": "https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip",
+      "description": "Luanti/Minetest mod that provides protected areas and management tools.",
+      "default_branch": "master",
+      "updated_at": "2026-07-29T18:54:48Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "management",
+        "minetest-mod",
+        "protection"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/areas/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/technic",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
+      "repo_name": "technic",
+      "html_url": "https://github.com/minetest-mods/technic",
+      "https_clone_url": "https://github.com/minetest-mods/technic.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
+      "issues_url": "https://github.com/minetest-mods/technic/issues",
+      "open_issues": 63,
+      "stars": 152,
+      "forks": 157,
+      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
+      "description": "Technic mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-07-29T18:54:07Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "IceDragon200/mt-foundation",
       "author": "IceDragon200",
       "avatar_url": "https://avatars.githubusercontent.com/u/1649873?v=4",
@@ -253,35 +313,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "https_clone_url": "https://github.com/minetest-mods/technic.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 64,
-      "stars": 152,
-      "forks": 157,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-07-25T07:21:03Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/craftoplus",
       "author": "Mish7913",
@@ -344,39 +375,6 @@
       ],
       "image_raw": "https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/circuits",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/circuits",
-      "repo_name": "circuits",
-      "html_url": "https://github.com/Sheriff-Unit-3/circuits",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/circuits.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/circuits.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/circuits/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip",
-      "description": "(Mirror) A circuitry mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-07-23T01:04:23Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-mod",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1292,5 +1290,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-29T17:38:33Z"
+  "now": "2026-07-29T19:42:55Z"
 }

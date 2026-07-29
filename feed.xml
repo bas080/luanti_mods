@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>areas (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/areas</link>
+    <guid>https://github.com/minetest-mods/areas</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Luanti&#x2F;Minetest mod that provides protected areas and management tools.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-29T18:54:48Z</pubDate>
+  </item>
+  <item>
+    <title>technic (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
+    <guid>https://github.com/minetest-mods/technic</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Technic mod for Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-29T18:54:07Z</pubDate>
+  </item>
+  <item>
     <title>mt-foundation (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#IceDragon200/mt-foundation</link>
     <guid>https://github.com/IceDragon200/mt-foundation</guid>
@@ -155,24 +191,6 @@
     <pubDate>2026-07-25T16:36:13.494Z</pubDate>
   </item>
   <item>
-    <title>technic (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
-    <guid>https://github.com/minetest-mods/technic</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Technic mod for Luanti&#x2F;Minetest<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-25T07:21:03Z</pubDate>
-  </item>
-  <item>
     <title>CraftoPlus (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#Mish7913/craftoplus</link>
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
@@ -207,24 +225,6 @@
     <media:thumbnail url="https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-07-25T04:18:50.126Z</pubDate>
-  </item>
-  <item>
-    <title>circuits (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/circuits</link>
-    <guid>https://github.com/Sheriff-Unit-3/circuits</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) A circuitry mod for Luanti<br>
-      License: Other<br>
-      <a href="https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-23T01:04:23Z</pubDate>
   </item>
   <item>
     <title>moreblocks (Github)</title>
