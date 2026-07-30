@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>technic_many_machines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
+    <guid>https://github.com/Opons1/technic_many_machines</guid>
+    <author>Opons1</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Opons1</strong><br>
+      <br>
+      License: Other<br>
+      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
+    <pubDate>2026-07-30T20:28:52Z</pubDate>
+  </item>
+  <item>
+    <title>areas (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/areas</link>
+    <guid>https://github.com/minetest-mods/areas</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Luanti&#x2F;Minetest mod that provides protected areas and management tools.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" type="image/png" />
+    <pubDate>2026-07-30T18:54:42Z</pubDate>
+  </item>
+  <item>
     <title>stoneworks (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/stoneworks</link>
     <guid>https://github.com/minetest-mods/stoneworks</guid>
@@ -45,24 +81,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-30T12:29:39.509Z</pubDate>
-  </item>
-  <item>
-    <title>areas (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/areas</link>
-    <guid>https://github.com/minetest-mods/areas</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Luanti&#x2F;Minetest mod that provides protected areas and management tools.<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-29T18:54:48Z</pubDate>
   </item>
   <item>
     <title>technic (Github)</title>
@@ -117,24 +135,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-29T13:13:16Z</pubDate>
-  </item>
-  <item>
-    <title>technic_many_machines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
-    <guid>https://github.com/Opons1/technic_many_machines</guid>
-    <author>Opons1</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Opons1</strong><br>
-      <br>
-      License: Other<br>
-      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
-    <pubDate>2026-07-29T01:55:08Z</pubDate>
   </item>
   <item>
     <title>Block League (Gitlab)</title>
