@@ -131,9 +131,9 @@
       "https_clone_url": "https://github.com/minetest-mods/technic.git",
       "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
       "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 63,
+      "open_issues": 64,
       "stars": 152,
-      "forks": 157,
+      "forks": 158,
       "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
       "description": "Technic mod for Luanti/Minetest",
       "default_branch": "master",
@@ -1911,5 +1911,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-07-31T00:15:12Z"
+  "now": "2026-07-31T04:39:42Z"
 }
