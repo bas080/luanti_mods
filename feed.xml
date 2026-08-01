@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>circuits (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/circuits</link>
+    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A circuitry mod for Luanti<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-01T18:37:57+02:00</pubDate>
+  </item>
+  <item>
+    <title>circuits (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/circuits</link>
+    <guid>https://github.com/Sheriff-Unit-3/circuits</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A circuitry mod for Luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-01T16:51:12Z</pubDate>
+  </item>
+  <item>
     <title>technic (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
     <guid>https://github.com/minetest-mods/technic</guid>
@@ -515,24 +551,6 @@
     <pubDate>2026-07-06T17:27:53Z</pubDate>
   </item>
   <item>
-    <title>flow-extras (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Lazerbeak12345/flow-extras</link>
-    <guid>https://github.com/Lazerbeak12345/flow-extras</guid>
-    <author>Lazerbeak12345</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/22641188?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Lazerbeak12345</strong><br>
-      An experimental collection of widgets for the Luanti Flow formspec replacement<br>
-      License: MIT License<br>
-      <a href="https://github.com/Lazerbeak12345/flow-extras/archive/refs/heads/master/flow-extras.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Lazerbeak12345/flow-extras/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Lazerbeak12345/flow-extras/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Lazerbeak12345/flow-extras/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-05T01:21:44Z</pubDate>
-  </item>
-  <item>
     <title>ColourHop (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#talas777/colourhop</link>
     <guid>https://gitlab.com/talas777/colourhop</guid>
@@ -639,24 +657,6 @@
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-28T23:15:18+02:00</pubDate>
-  </item>
-  <item>
-    <title>circuits (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/circuits</link>
-    <guid>https://codeberg.org/Sheriff_U3/circuits</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A circuitry mod for Luanti<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-06-28T21:35:03+02:00</pubDate>
   </item>
   <item>
     <title>Consolidated Mobs (Gitlab)</title>
