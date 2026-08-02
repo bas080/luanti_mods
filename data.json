@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/circuits",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "https://codeberg.org/Sheriff_U3/circuits/wiki",
+      "repo_name": "circuits",
+      "html_url": "https://codeberg.org/Sheriff_U3/circuits",
+      "https_clone_url": "https://codeberg.org/Sheriff_U3/circuits.git",
+      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/circuits.git",
+      "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
+      "description": "A circuitry mod for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-08-02T20:03:12+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-modpack",
+        "minetest",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/circuits",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "https://codeberg.org/Sheriff_U3/circuits",
+      "repo_name": "circuits",
+      "html_url": "https://github.com/Sheriff-Unit-3/circuits",
+      "https_clone_url": "https://github.com/Sheriff-Unit-3/circuits.git",
+      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/circuits.git",
+      "issues_url": "https://github.com/Sheriff-Unit-3/circuits/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip",
+      "description": "(Mirror) A circuitry mod for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-08-02T18:03:23Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "lua",
+        "luanti-mod",
+        "luanti-modpack",
+        "minetest",
+        "minetest-mod",
+        "minetest-modpack"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "testersakage/recipe_maker",
       "author": "testersakage",
@@ -116,71 +181,6 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/circuits",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "https://codeberg.org/Sheriff_U3/circuits/wiki",
-      "repo_name": "circuits",
-      "html_url": "https://codeberg.org/Sheriff_U3/circuits",
-      "https_clone_url": "https://codeberg.org/Sheriff_U3/circuits.git",
-      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/circuits.git",
-      "issues_url": "https://codeberg.org/Sheriff_U3/circuits/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/circuits/archive/refs/heads/master/circuits.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
-      "description": "A circuitry mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-08-02T04:10:22+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-modpack",
-        "minetest",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/circuits",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/circuits",
-      "repo_name": "circuits",
-      "html_url": "https://github.com/Sheriff-Unit-3/circuits",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/circuits.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/circuits.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/circuits/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip",
-      "description": "(Mirror) A circuitry mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-08-02T02:10:30Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-mod",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
       "has_stats": true
     },
     {
@@ -1903,5 +1903,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-02T17:15:13Z"
+  "now": "2026-08-02T19:34:14Z"
 }
