@@ -18,7 +18,7 @@
       "readme_url": "https://codeberg.org/Sheriff_U3/circuits/raw/master/README.md",
       "description": "A circuitry mod for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-08-01T22:35:15+02:00",
+      "updated_at": "2026-08-02T04:10:22+02:00",
       "license": {
         "name": "Unknown"
       },
@@ -49,9 +49,9 @@
       "zip_url": "https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip",
       "description": "(Mirror) A circuitry mod for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-08-01T20:35:21Z",
+      "updated_at": "2026-08-02T02:10:30Z",
       "license": {
-        "name": "Other"
+        "name": "MIT License"
       },
       "topics": [
         "lua",
@@ -63,6 +63,41 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/jumpdrive",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "jumpdrive",
+      "html_url": "https://github.com/mt-mods/jumpdrive",
+      "https_clone_url": "https://github.com/mt-mods/jumpdrive.git",
+      "ssh_clone_url": "git@github.com:mt-mods/jumpdrive.git",
+      "issues_url": "https://github.com/mt-mods/jumpdrive/issues",
+      "open_issues": 31,
+      "stars": 10,
+      "forks": 10,
+      "zip_url": "https://github.com/mt-mods/jumpdrive/archive/refs/heads/master/jumpdrive.zip",
+      "description": " Luanti (Minetest) jumpdrive mod",
+      "default_branch": "master",
+      "updated_at": "2026-08-02T00:24:05Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "jumpdrive",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "mod",
+        "space",
+        "teleport",
+        "traveling"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/jumpdrive/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/jumpdrive/master/README.md",
       "has_stats": true
     },
     {
@@ -915,34 +950,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/digilines/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/digilines/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/angledstairs",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/TumeniNodes/angledstairs/",
-      "repo_name": "angledstairs",
-      "html_url": "https://github.com/minetest-mods/angledstairs",
-      "https_clone_url": "https://github.com/minetest-mods/angledstairs.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/angledstairs.git",
-      "issues_url": "https://github.com/minetest-mods/angledstairs/issues",
-      "open_issues": 1,
-      "stars": 3,
-      "forks": 6,
-      "zip_url": "https://github.com/minetest-mods/angledstairs/archive/refs/heads/master/angledstairs.zip",
-      "description": "Adds angled stairs to Minetest Game",
-      "default_branch": "master",
-      "updated_at": "2026-07-06T17:27:53Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledstairs/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledstairs/master/README.md",
       "has_stats": true
     },
     {
@@ -1908,5 +1915,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-02T00:14:26Z"
+  "now": "2026-08-02T04:37:25Z"
 }
