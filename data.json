@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/moreblocks",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.minetest.net/packages/Calinou/moreblocks/",
+      "repo_name": "moreblocks",
+      "html_url": "https://github.com/minetest-mods/moreblocks",
+      "https_clone_url": "https://github.com/minetest-mods/moreblocks.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/moreblocks.git",
+      "issues_url": "https://github.com/minetest-mods/moreblocks/issues",
+      "open_issues": 25,
+      "stars": 49,
+      "forks": 70,
+      "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
+      "description": "More Blocks",
+      "default_branch": "master",
+      "updated_at": "2026-08-02T21:31:45Z",
+      "license": {
+        "name": "zlib License"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/circuits",
       "author": "Sheriff_U3",
@@ -655,36 +685,6 @@
       ],
       "image_raw": "https://gitlab.com/lichenseed/portable-console-snake/-/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/moreblocks",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.minetest.net/packages/Calinou/moreblocks/",
-      "repo_name": "moreblocks",
-      "html_url": "https://github.com/minetest-mods/moreblocks",
-      "https_clone_url": "https://github.com/minetest-mods/moreblocks.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/moreblocks.git",
-      "issues_url": "https://github.com/minetest-mods/moreblocks/issues",
-      "open_issues": 25,
-      "stars": 48,
-      "forks": 70,
-      "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
-      "description": "More Blocks",
-      "default_branch": "master",
-      "updated_at": "2026-07-21T20:36:48Z",
-      "license": {
-        "name": "zlib License"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1903,5 +1903,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-02T21:10:07Z"
+  "now": "2026-08-02T22:10:58Z"
 }
