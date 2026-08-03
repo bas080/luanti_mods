@@ -1,6 +1,68 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/ehlphabet",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "ehlphabet",
+      "html_url": "https://github.com/mt-mods/ehlphabet",
+      "https_clone_url": "https://github.com/mt-mods/ehlphabet.git",
+      "ssh_clone_url": "git@github.com:mt-mods/ehlphabet.git",
+      "issues_url": "https://github.com/mt-mods/ehlphabet/issues",
+      "open_issues": 1,
+      "stars": 1,
+      "forks": 2,
+      "zip_url": "https://github.com/mt-mods/ehlphabet/archive/refs/heads/master/ehlphabet.zip",
+      "description": "Fork of https://git.bananach.space/ehlphabet.git",
+      "default_branch": "master",
+      "updated_at": "2026-08-03T22:11:00Z",
+      "license": {
+        "name": "Do What The F*ck You Want To Public License"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/ehlphabet/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 16,
+      "forks": 15,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-08-03T21:57:31.565Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/craftoplus",
       "author": "Mish7913",
@@ -28,37 +90,6 @@
         "mod"
       ],
       "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 15,
-      "forks": 15,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-08-03T18:44:32.231Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -872,35 +903,6 @@
       ],
       "image_raw": "https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/artdeco",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/TumeniNodes/artdeco/",
-      "repo_name": "artdeco",
-      "html_url": "https://github.com/minetest-mods/artdeco",
-      "https_clone_url": "https://github.com/minetest-mods/artdeco.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/artdeco.git",
-      "issues_url": "https://github.com/minetest-mods/artdeco/issues",
-      "open_issues": 1,
-      "stars": 0,
-      "forks": 5,
-      "zip_url": "https://github.com/minetest-mods/artdeco/archive/refs/heads/master/artdeco.zip",
-      "description": "A mod which adds new building blocks to Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-07-16T16:58:15Z",
-      "license": {
-        "name": "The Unlicense"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/artdeco/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/artdeco/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1897,5 +1899,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-03T21:29:49Z"
+  "now": "2026-08-03T23:18:40Z"
 }
