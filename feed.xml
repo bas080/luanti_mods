@@ -11,22 +11,22 @@
   </image>
 
   <item>
-    <title>ehlphabet (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#mt-mods/ehlphabet</link>
-    <guid>https://github.com/mt-mods/ehlphabet</guid>
-    <author>mt-mods</author>
+    <title>angledwalls (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/angledwalls</link>
+    <guid>https://github.com/minetest-mods/angledwalls</guid>
+    <author>minetest-mods</author>
     <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>mt-mods</strong><br>
-      Fork of https:&#x2F;&#x2F;git.bananach.space&#x2F;ehlphabet.git<br>
-      License: Do What The F*ck You Want To Public License<br>
-      <a href="https://github.com/mt-mods/ehlphabet/archive/refs/heads/master/ehlphabet.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Angled walls, glass, and doors for Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png" type="image/png" />
-    <pubDate>2026-08-03T22:11:00Z</pubDate>
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-04T15:33:14Z</pubDate>
   </item>
   <item>
     <title>arena_lib (Gitlab)</title>
@@ -44,7 +44,25 @@
 
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-08-03T21:57:31.565Z</pubDate>
+    <pubDate>2026-08-04T14:10:43.365Z</pubDate>
+  </item>
+  <item>
+    <title>ehlphabet (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/ehlphabet</link>
+    <guid>https://github.com/mt-mods/ehlphabet</guid>
+    <author>mt-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      Fork of https:&#x2F;&#x2F;git.bananach.space&#x2F;ehlphabet.git<br>
+      License: Do What The F*ck You Want To Public License<br>
+      <a href="https://github.com/mt-mods/ehlphabet/archive/refs/heads/master/ehlphabet.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-03T22:11:00Z</pubDate>
   </item>
   <item>
     <title>CraftoPlus (Gitlab)</title>
@@ -405,24 +423,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-26T18:19:43Z</pubDate>
-  </item>
-  <item>
-    <title>angledwalls (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/angledwalls</link>
-    <guid>https://github.com/minetest-mods/angledwalls</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Angled walls, glass, and doors for Luanti&#x2F;Minetest<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-25T19:36:27Z</pubDate>
   </item>
   <item>
     <title>MariaReputation (Gitlab)</title>
