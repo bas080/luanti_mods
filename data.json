@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/castle_masonry",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/FaceDeer/castle_masonry/",
+      "repo_name": "castle_masonry",
+      "html_url": "https://github.com/minetest-mods/castle_masonry",
+      "https_clone_url": "https://github.com/minetest-mods/castle_masonry.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/castle_masonry.git",
+      "issues_url": "https://github.com/minetest-mods/castle_masonry/issues",
+      "open_issues": 1,
+      "stars": 5,
+      "forks": 9,
+      "zip_url": "https://github.com/minetest-mods/castle_masonry/archive/refs/heads/master/castle_masonry.zip",
+      "description": "A Luanti/Minetest mod - all about creating castles and castle dungeons.",
+      "default_branch": "master",
+      "updated_at": "2026-08-05T18:43:34Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "castles",
+        "i18n",
+        "intllib",
+        "luanti-mod",
+        "masonry",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/arena_lib",
       "author": "zughy-friends-minetest",
@@ -366,35 +399,6 @@
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "testersakage/hud_fix",
-      "author": "testersakage",
-      "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
-      "website": "",
-      "repo_name": "hud_fix",
-      "html_url": "https://github.com/testersakage/hud_fix",
-      "https_clone_url": "https://github.com/testersakage/hud_fix.git",
-      "ssh_clone_url": "git@github.com:testersakage/hud_fix.git",
-      "issues_url": "https://github.com/testersakage/hud_fix/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/testersakage/hud_fix/archive/refs/heads/main/hud_fix.zip",
-      "description": "Fixes HUD overlap between Areas and Protector Redo in Luanti.",
-      "default_branch": "main",
-      "updated_at": "2026-08-02T17:07:19Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/testersakage/hud_fix/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/testersakage/hud_fix/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1898,5 +1902,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-05T17:53:03Z"
+  "now": "2026-08-05T19:54:14Z"
 }
