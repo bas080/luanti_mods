@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/spacecannon",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "spacecannon",
+      "html_url": "https://github.com/mt-mods/spacecannon",
+      "https_clone_url": "https://github.com/mt-mods/spacecannon.git",
+      "ssh_clone_url": "git@github.com:mt-mods/spacecannon.git",
+      "issues_url": "https://github.com/mt-mods/spacecannon/issues",
+      "open_issues": 6,
+      "stars": 2,
+      "forks": 5,
+      "zip_url": "https://github.com/mt-mods/spacecannon/archive/refs/heads/master/spacecannon.zip",
+      "description": "Adds five scifi/space cannons with various projectile-speeds and explosion-strengths.",
+      "default_branch": "master",
+      "updated_at": "2026-08-04T23:24:09Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/spacecannon/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/spacecannon/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/arena_lib",
       "author": "zughy-friends-minetest",
@@ -837,38 +868,6 @@
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/energy_drinks",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/energy_drinks",
-      "repo_name": "energy_drinks",
-      "html_url": "https://github.com/Sheriff-Unit-3/energy_drinks",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/energy_drinks.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/energy_drinks.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/energy_drinks/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
-      "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
-      "default_branch": "main",
-      "updated_at": "2026-07-19T01:34:02Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "launti",
-        "lua",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Codeberg",
@@ -1899,5 +1898,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-04T23:18:06Z"
+  "now": "2026-08-05T03:31:59Z"
 }
