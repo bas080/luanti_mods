@@ -2,6 +2,35 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "sfan5/luanti-developerconsole",
+      "author": "sfan5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1042418?v=4",
+      "website": "",
+      "repo_name": "luanti-developerconsole",
+      "html_url": "https://github.com/sfan5/luanti-developerconsole",
+      "https_clone_url": "https://github.com/sfan5/luanti-developerconsole.git",
+      "ssh_clone_url": "git@github.com:sfan5/luanti-developerconsole.git",
+      "issues_url": "https://github.com/sfan5/luanti-developerconsole/issues",
+      "open_issues": 0,
+      "stars": 4,
+      "forks": 0,
+      "zip_url": "https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip",
+      "description": "Web-based REPL for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-08-06T11:34:56Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "mt-mods/wrench",
       "author": "mt-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
@@ -335,36 +364,6 @@
       "image_raw": "https://raw.githubusercontent.com/testersakage/atlas_viewer/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/testersakage/atlas_viewer/main/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/moreblocks",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.minetest.net/packages/Calinou/moreblocks/",
-      "repo_name": "moreblocks",
-      "html_url": "https://github.com/minetest-mods/moreblocks",
-      "https_clone_url": "https://github.com/minetest-mods/moreblocks.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/moreblocks.git",
-      "issues_url": "https://github.com/minetest-mods/moreblocks/issues",
-      "open_issues": 25,
-      "stars": 49,
-      "forks": 70,
-      "zip_url": "https://github.com/minetest-mods/moreblocks/archive/refs/heads/master/moreblocks.zip",
-      "description": "More Blocks",
-      "default_branch": "master",
-      "updated_at": "2026-08-02T21:31:45Z",
-      "license": {
-        "name": "zlib License"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/moreblocks/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Codeberg",
@@ -1904,5 +1903,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-06T09:57:48Z"
+  "now": "2026-08-06T12:18:43Z"
 }
