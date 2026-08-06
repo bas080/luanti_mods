@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 16,
+      "forks": 15,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-08-06T15:07:21.764Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "TheSilverStone/simple_replace_plus",
+      "author": "TheSilverStone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178652409?v=4",
+      "website": "",
+      "repo_name": "simple_replace_plus",
+      "html_url": "https://github.com/TheSilverStone/simple_replace_plus",
+      "https_clone_url": "https://github.com/TheSilverStone/simple_replace_plus.git",
+      "ssh_clone_url": "git@github.com:TheSilverStone/simple_replace_plus.git",
+      "issues_url": "https://github.com/TheSilverStone/simple_replace_plus/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/TheSilverStone/simple_replace_plus/archive/refs/heads/main/simple_replace_plus.zip",
+      "description": "Mod for luanti to juggle complicated actions, designed for VoxelLibre.",
+      "default_branch": "main",
+      "updated_at": "2026-08-06T12:38:20Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "luanti-related",
+        "luanti-tool"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/TheSilverStone/simple_replace_plus/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/TheSilverStone/simple_replace_plus/main/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "sfan5/luanti-developerconsole",
       "author": "sfan5",
@@ -91,37 +154,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 16,
-      "forks": 15,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-08-05T17:13:10.538Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -741,41 +773,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/monk-afk/filterplus/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/skyblock",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://minetest-mods.github.io/skyblock/",
-      "repo_name": "skyblock",
-      "html_url": "https://github.com/minetest-mods/skyblock",
-      "https_clone_url": "https://github.com/minetest-mods/skyblock.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/skyblock.git",
-      "issues_url": "https://github.com/minetest-mods/skyblock/issues",
-      "open_issues": 19,
-      "stars": 13,
-      "forks": 13,
-      "zip_url": "https://github.com/minetest-mods/skyblock/archive/refs/heads/master/skyblock.zip",
-      "description": "Build a world starting from a small island in the sky.",
-      "default_branch": "master",
-      "updated_at": "2026-07-26T18:19:43Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "bower",
-        "island",
-        "lua",
-        "luanti-mod",
-        "minetest",
-        "minetest-game",
-        "minetest-mods",
-        "skyblock"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/skyblock/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/skyblock/master/README.md",
       "has_stats": true
     },
     {
@@ -1903,5 +1900,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-06T12:18:43Z"
+  "now": "2026-08-06T15:27:47Z"
 }
