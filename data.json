@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
       "description": "Luanti library working as a core manager for any minigame you have in mind",
       "default_branch": "master",
-      "updated_at": "2026-08-06T15:07:21.764Z",
+      "updated_at": "2026-08-06T22:23:42.401Z",
       "license": {
         "name": "Unknown"
       },
@@ -1900,5 +1900,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-06T15:27:47Z"
+  "now": "2026-08-07T00:15:19Z"
 }
