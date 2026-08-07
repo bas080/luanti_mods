@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-07T16:04:24.616Z</pubDate>
+  </item>
+  <item>
+    <title>mod_mcl_signs (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#testersakage/mod_mcl_signs</link>
+    <guid>https://github.com/testersakage/mod_mcl_signs</guid>
+    <author>testersakage</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>testersakage</strong><br>
+      Standalone and data-driven MCL Signs mod for Luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-07T16:03:15Z</pubDate>
+  </item>
+  <item>
     <title>MariaReputation (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
     <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
@@ -26,7 +62,7 @@
 
     <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-08-07T14:53:46.286Z</pubDate>
+    <pubDate>2026-08-07T15:30:54.474Z</pubDate>
   </item>
   <item>
     <title>Collectible skins (Gitlab)</title>
@@ -45,24 +81,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-08-07T14:26:29.846Z</pubDate>
-  </item>
-  <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-08-07T13:25:56.789Z</pubDate>
   </item>
   <item>
     <title>arena_lib (Gitlab)</title>
@@ -225,24 +243,6 @@
     <media:thumbnail url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-08-03T19:14:23.134Z</pubDate>
-  </item>
-  <item>
-    <title>mod_mcl_signs (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/mod_mcl_signs</link>
-    <guid>https://github.com/testersakage/mod_mcl_signs</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      Standalone and data-driven MCL Signs mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-03T10:44:58Z</pubDate>
   </item>
   <item>
     <title>recipe_maker (Github)</title>
