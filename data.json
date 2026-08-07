@@ -2,6 +2,66 @@
   "items": [
     {
       "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
+      "author": "Sakura-Mods/luanti-mods",
+      "avatar_url": "https://gitlab.com/",
+      "website": "",
+      "repo_name": "MariaReputation",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
+      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
+      "default_branch": "release",
+      "updated_at": "2026-08-07T14:53:46.286Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "lua",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/collectible-skins",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png",
+      "website": "",
+      "repo_name": "Collectible skins",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/collectible-skins.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/issues",
+      "open_issues": 0,
+      "stars": 2,
+      "forks": 3,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/archive/master/collectible-skins.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/README.md",
+      "description": "Wear and unlock skins on Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-08-07T14:26:29.846Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "mod",
+        "videogames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
@@ -29,36 +89,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
-      "author": "Sakura-Mods/luanti-mods",
-      "avatar_url": "https://gitlab.com/",
-      "website": "",
-      "repo_name": "MariaReputation",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
-      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
-      "default_branch": "release",
-      "updated_at": "2026-08-07T00:55:21.149Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "lua",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1473,37 +1503,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "AntumLuanti/mod-asm_spawneggs",
-      "author": "AntumLuanti",
-      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png",
-      "website": "",
-      "repo_name": "mod-asm_spawneggs",
-      "html_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs",
-      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs.git",
-      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-asm_spawneggs.git",
-      "issues_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/archive/master/mod-asm_spawneggs.zip",
-      "readme_url": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/raw/master/README.md",
-      "description": "Spawneggs for adding entities to Luanti games.",
-      "default_branch": "master",
-      "updated_at": "2026-05-28T22:53:18.123Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "Luanti mod",
-        "minetest",
-        "minetest mod"
-      ],
-      "image_raw": "https://gitlab.com/AntumLuanti/mod-asm_spawneggs/-/raw/master/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "MatyasP/cobanisters",
       "author": "MatyasP",
@@ -1900,5 +1899,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-07T13:38:36Z"
+  "now": "2026-08-07T15:08:28Z"
 }
