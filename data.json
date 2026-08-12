@@ -17,7 +17,7 @@
       "zip_url": "https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip",
       "description": "Standalone and data-driven MCL Signs mod for Luanti",
       "default_branch": "main",
-      "updated_at": "2026-08-12T14:38:03Z",
+      "updated_at": "2026-08-12T15:45:35Z",
       "license": {
         "name": "MIT License"
       },
@@ -1879,5 +1879,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-12T15:14:04Z"
+  "now": "2026-08-12T17:11:36Z"
 }
