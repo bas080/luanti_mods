@@ -497,24 +497,6 @@
     <pubDate>2026-07-29T13:13:16Z</pubDate>
   </item>
   <item>
-    <title>filterplus (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#monk-afk/filterplus</link>
-    <guid>https://github.com/monk-afk/filterplus</guid>
-    <author>monk-afk</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/37543743?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>monk-afk</strong><br>
-      core.register_on_chat_message()<br>
-      License: Other<br>
-      <a href="https://github.com/monk-afk/filterplus/archive/refs/heads/main/filterplus.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/monk-afk/filterplus/main/screenshot.png" type="image/png" />
-    <pubDate>2026-07-28T08:22:03Z</pubDate>
-  </item>
-  <item>
     <title>Snake in Minetest (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#lichenseed/portable-console-snake</link>
     <guid>https://gitlab.com/lichenseed/portable-console-snake</guid>
@@ -945,6 +927,24 @@
     <media:thumbnail url="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-12-15T07:02:28+01:00</pubDate>
+  </item>
+  <item>
+    <title>mt-nokore-srv (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#IceDragon200/mt-nokore-srv</link>
+    <guid>https://github.com/IceDragon200/mt-nokore-srv</guid>
+    <author>IceDragon200</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1649873?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>IceDragon200</strong><br>
+      Service modules for NoKore mods<br>
+      License: Apache License 2.0<br>
+      <a href="https://github.com/IceDragon200/mt-nokore-srv/archive/refs/heads/master/mt-nokore-srv.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/IceDragon200/mt-nokore-srv/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/IceDragon200/mt-nokore-srv/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/IceDragon200/mt-nokore-srv/master/screenshot.png" type="image/png" />
+    <pubDate>2025-11-20T02:00:11Z</pubDate>
   </item>
   <item>
     <title>ejection (Codeberg)</title>
