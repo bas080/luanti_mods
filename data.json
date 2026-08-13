@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "testersakage/mod_mcl_signs",
+      "author": "testersakage",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
+      "website": "",
+      "repo_name": "mod_mcl_signs",
+      "html_url": "https://github.com/testersakage/mod_mcl_signs",
+      "https_clone_url": "https://github.com/testersakage/mod_mcl_signs.git",
+      "ssh_clone_url": "git@github.com:testersakage/mod_mcl_signs.git",
+      "issues_url": "https://github.com/testersakage/mod_mcl_signs/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip",
+      "description": "Standalone and data-driven MCL Signs mod for Luanti",
+      "default_branch": "main",
+      "updated_at": "2026-08-13T05:07:22Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "lua",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -93,35 +122,6 @@
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "testersakage/mod_mcl_signs",
-      "author": "testersakage",
-      "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
-      "website": "",
-      "repo_name": "mod_mcl_signs",
-      "html_url": "https://github.com/testersakage/mod_mcl_signs",
-      "https_clone_url": "https://github.com/testersakage/mod_mcl_signs.git",
-      "ssh_clone_url": "git@github.com:testersakage/mod_mcl_signs.git",
-      "issues_url": "https://github.com/testersakage/mod_mcl_signs/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip",
-      "description": "Standalone and data-driven MCL Signs mod for Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-08-12T15:45:35Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1879,5 +1879,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-13T05:04:23Z"
+  "now": "2026-08-13T06:44:34Z"
 }
