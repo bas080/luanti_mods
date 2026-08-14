@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-08-14T17:37:01.640Z",
+      "updated_at": "2026-08-14T22:32:07.799Z",
       "license": {
         "name": "Unknown"
       },
@@ -28,6 +28,36 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/hub",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png",
+      "website": "",
+      "repo_name": "Hub",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/hub",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/hub.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/hub.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/hub/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 3,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
+      "description": "A mod to easily manage your minigames server on Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-08-14T21:50:15.583Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -1087,36 +1117,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/hub",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png",
-      "website": "",
-      "repo_name": "Hub",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/hub",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/hub.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/hub.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/hub/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 3,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/hub/-/archive/master/hub.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/README.md",
-      "description": "A mod to easily manage your minigames server on Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-06-30T21:43:27.028Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "janorico/custom_spawn",
       "author": "janorico",
@@ -1879,5 +1879,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-14T21:40:36Z"
+  "now": "2026-08-14T22:40:36Z"
 }
