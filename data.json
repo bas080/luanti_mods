@@ -226,7 +226,7 @@
       "https_clone_url": "https://github.com/minetest-mods/angledwalls.git",
       "ssh_clone_url": "git@github.com:minetest-mods/angledwalls.git",
       "issues_url": "https://github.com/minetest-mods/angledwalls/issues",
-      "open_issues": 2,
+      "open_issues": 3,
       "stars": 5,
       "forks": 7,
       "zip_url": "https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip",
@@ -1879,5 +1879,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-14T20:44:53Z"
+  "now": "2026-08-14T21:40:36Z"
 }
