@@ -1069,8 +1069,8 @@
       "ssh_clone_url": "git@gitlab.com:AntumLuanti/luanti.git",
       "issues_url": "https://gitlab.com/AntumLuanti/luanti/-/issues",
       "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
+      "stars": 1,
+      "forks": 1,
       "zip_url": "https://gitlab.com/AntumLuanti/luanti/-/archive/master/luanti.zip",
       "readme_url": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/README.md",
       "description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.",
@@ -1084,7 +1084,7 @@
         "minetest"
       ],
       "image_raw": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png",
-      "has_stats": false
+      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1879,5 +1879,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-15T21:34:22Z"
+  "now": "2026-08-15T22:36:59Z"
 }
