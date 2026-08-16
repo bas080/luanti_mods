@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/crops",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/sofar/crops/",
+      "repo_name": "crops",
+      "html_url": "https://github.com/minetest-mods/crops",
+      "https_clone_url": "https://github.com/minetest-mods/crops.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/crops.git",
+      "issues_url": "https://github.com/minetest-mods/crops/issues",
+      "open_issues": 2,
+      "stars": 10,
+      "forks": 12,
+      "zip_url": "https://github.com/minetest-mods/crops/archive/refs/heads/master/crops.zip",
+      "description": "Various farm vegetables for Minetest.",
+      "default_branch": "master",
+      "updated_at": "2026-08-16T07:55:19Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/crops/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/crops/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/craftoplus",
       "author": "Mish7913",
@@ -860,40 +889,6 @@
       ],
       "image_raw": "https://codeberg.org/luanti-tools/b3d_to_gltf/raw/master/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "IceDragon200/mt-foundation",
-      "author": "IceDragon200",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1649873?v=4",
-      "website": "",
-      "repo_name": "mt-foundation",
-      "html_url": "https://github.com/IceDragon200/mt-foundation",
-      "https_clone_url": "https://github.com/IceDragon200/mt-foundation.git",
-      "ssh_clone_url": "git@github.com:IceDragon200/mt-foundation.git",
-      "issues_url": "https://github.com/IceDragon200/mt-foundation/issues",
-      "open_issues": 0,
-      "stars": 3,
-      "forks": 0,
-      "zip_url": "https://github.com/IceDragon200/mt-foundation/archive/refs/heads/master/mt-foundation.zip",
-      "description": "Extracted common library from yatm, harmonia and nokore",
-      "default_branch": "master",
-      "updated_at": "2026-07-29T13:13:16Z",
-      "license": {
-        "name": "Apache License 2.0"
-      },
-      "topics": [
-        "base-library",
-        "luanti",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-mod",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/IceDragon200/mt-foundation/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1879,5 +1874,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-16T07:44:55Z"
+  "now": "2026-08-16T08:46:20Z"
 }
