@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>Classy (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/classy</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/classy</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/59075991/classyy.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library to create player classes<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/classy/-/archive/main/classy.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-16T22:38:06.171Z</pubDate>
+  </item>
+  <item>
     <title>helpers (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#Voxrame/helpers</link>
     <guid>https://github.com/Voxrame/helpers</guid>
@@ -99,24 +117,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" type="image/png" />
     <pubDate>2026-08-16T16:57:19Z</pubDate>
-  </item>
-  <item>
-    <title>Classy (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/classy</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/classy</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/59075991/classyy.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Luanti library to create player classes<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/classy/-/archive/main/classy.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-16T16:27:44.622Z</pubDate>
   </item>
   <item>
     <title>exchange_shop (Github)</title>
