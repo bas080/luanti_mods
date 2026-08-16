@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/classy",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/59075991/classyy.png",
+      "website": "",
+      "repo_name": "Classy",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/classy",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/classy.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/classy.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/classy/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/classy/-/archive/main/classy.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/README.md",
+      "description": "Luanti library to create player classes",
+      "default_branch": "main",
+      "updated_at": "2026-08-16T16:27:44.622Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "classes",
+        "library",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "SmallJoker/exchange_shop",
+      "author": "SmallJoker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1497498?v=4",
+      "website": "https://content.luanti.org/packages/Krock/exchange_shop/",
+      "repo_name": "exchange_shop",
+      "html_url": "https://github.com/SmallJoker/exchange_shop",
+      "https_clone_url": "https://github.com/SmallJoker/exchange_shop.git",
+      "ssh_clone_url": "git@github.com:SmallJoker/exchange_shop.git",
+      "issues_url": "https://github.com/SmallJoker/exchange_shop/issues",
+      "open_issues": 0,
+      "stars": 6,
+      "forks": 3,
+      "zip_url": "https://github.com/SmallJoker/exchange_shop/archive/refs/heads/master/exchange_shop.zip",
+      "description": "Minetest/Luanti Mod that provides a simple exchange shop (currency compatible)",
+      "default_branch": "master",
+      "updated_at": "2026-08-16T16:12:16Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/castle_masonry",
       "author": "minetest-mods",
@@ -61,37 +122,6 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/areas",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/ShadowNinja/areas/",
-      "repo_name": "areas",
-      "html_url": "https://github.com/minetest-mods/areas",
-      "https_clone_url": "https://github.com/minetest-mods/areas.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/areas.git",
-      "issues_url": "https://github.com/minetest-mods/areas/issues",
-      "open_issues": 15,
-      "stars": 59,
-      "forks": 58,
-      "zip_url": "https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip",
-      "description": "Protected areas and management tools for your Luanti server",
-      "default_branch": "master",
-      "updated_at": "2026-08-16T08:58:47Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "management",
-        "minetest-mod",
-        "protection"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/areas/master/README.md",
       "has_stats": true
     },
     {
@@ -1406,43 +1436,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "lichenseed/portable-calculator",
-      "author": "lichenseed",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png",
-      "website": "",
-      "repo_name": "Simple Calculator",
-      "html_url": "https://gitlab.com/lichenseed/portable-calculator",
-      "https_clone_url": "https://gitlab.com/lichenseed/portable-calculator.git",
-      "ssh_clone_url": "git@gitlab.com:lichenseed/portable-calculator.git",
-      "issues_url": "https://gitlab.com/lichenseed/portable-calculator/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/lichenseed/portable-calculator/-/archive/main/portable-calculator.zip",
-      "readme_url": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/README.md",
-      "description": "Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.",
-      "default_branch": "main",
-      "updated_at": "2026-05-31T20:13:41.459Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "ai-assisted-development",
-        "calculator",
-        "gamemodding",
-        "gui",
-        "lua",
-        "minetest",
-        "minetest mod",
-        "mod",
-        "vibecoded"
-      ],
-      "image_raw": "https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "MatyasP/cobanisters",
       "author": "MatyasP",
@@ -1874,5 +1867,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-16T15:35:11Z"
+  "now": "2026-08-16T16:42:03Z"
 }

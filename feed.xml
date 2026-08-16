@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>Classy (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/classy</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/classy</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/59075991/classyy.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library to create player classes<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/classy/-/archive/main/classy.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-16T16:27:44.622Z</pubDate>
+  </item>
+  <item>
+    <title>exchange_shop (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#SmallJoker/exchange_shop</link>
+    <guid>https://github.com/SmallJoker/exchange_shop</guid>
+    <author>SmallJoker</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1497498?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>SmallJoker</strong><br>
+      Minetest&#x2F;Luanti Mod that provides a simple exchange shop (currency compatible)<br>
+      License: Unknown<br>
+      <a href="https://github.com/SmallJoker/exchange_shop/archive/refs/heads/master/exchange_shop.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-16T16:12:16Z</pubDate>
+  </item>
+  <item>
     <title>castle_masonry (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/castle_masonry</link>
     <guid>https://github.com/minetest-mods/castle_masonry</guid>
@@ -45,24 +81,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-08-16T09:06:00.043Z</pubDate>
-  </item>
-  <item>
-    <title>areas (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/areas</link>
-    <guid>https://github.com/minetest-mods/areas</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Protected areas and management tools for your Luanti server<br>
-      License: GNU Lesser General Public License v2.1<br>
-      <a href="https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" type="image/png" />
-    <pubDate>2026-08-16T08:58:47Z</pubDate>
   </item>
   <item>
     <title>crops (Github)</title>
@@ -819,24 +837,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-06-05T17:51:29.506Z</pubDate>
-  </item>
-  <item>
-    <title>Simple Calculator (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#lichenseed/portable-calculator</link>
-    <guid>https://gitlab.com/lichenseed/portable-calculator</guid>
-    <author>lichenseed</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/82491979/calculator_mod_calculator.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>lichenseed</strong><br>
-      Adds a functional calculator item with GUI interface, basic arithmetic operations, and crafting recipe for Minetest Game.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/lichenseed/portable-calculator/-/archive/main/portable-calculator.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/lichenseed/portable-calculator/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-05-31T20:13:41.459Z</pubDate>
   </item>
   <item>
     <title>cobanisters (Codeberg)</title>
