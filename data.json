@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-08-16T09:06:00.043Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/areas",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/ShadowNinja/areas/",
+      "repo_name": "areas",
+      "html_url": "https://github.com/minetest-mods/areas",
+      "https_clone_url": "https://github.com/minetest-mods/areas.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/areas.git",
+      "issues_url": "https://github.com/minetest-mods/areas/issues",
+      "open_issues": 15,
+      "stars": 59,
+      "forks": 58,
+      "zip_url": "https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip",
+      "description": "Protected areas and management tools for your Luanti server",
+      "default_branch": "master",
+      "updated_at": "2026-08-16T08:58:47Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "management",
+        "minetest-mod",
+        "protection"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/areas/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/crops",
       "author": "minetest-mods",
@@ -15,9 +76,9 @@
       "stars": 10,
       "forks": 12,
       "zip_url": "https://github.com/minetest-mods/crops/archive/refs/heads/master/crops.zip",
-      "description": "Various farm vegetables for Minetest.",
+      "description": "Various farm vegetables for Luanti/Minetest.",
       "default_branch": "master",
-      "updated_at": "2026-08-16T07:55:19Z",
+      "updated_at": "2026-08-16T08:52:20Z",
       "license": {
         "name": "Other"
       },
@@ -87,36 +148,6 @@
       "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-08-14T22:32:07.799Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -793,37 +824,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/areas",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "",
-      "repo_name": "areas",
-      "html_url": "https://github.com/minetest-mods/areas",
-      "https_clone_url": "https://github.com/minetest-mods/areas.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/areas.git",
-      "issues_url": "https://github.com/minetest-mods/areas/issues",
-      "open_issues": 15,
-      "stars": 59,
-      "forks": 58,
-      "zip_url": "https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip",
-      "description": "Luanti/Minetest mod that provides protected areas and management tools.",
-      "default_branch": "master",
-      "updated_at": "2026-07-30T18:54:42Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "management",
-        "minetest-mod",
-        "protection"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/areas/master/README.md",
       "has_stats": true
     },
     {
@@ -1874,5 +1874,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-16T08:46:20Z"
+  "now": "2026-08-16T09:41:51Z"
 }
