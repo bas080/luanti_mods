@@ -11,6 +11,96 @@
   </image>
 
   <item>
+    <title>atlas_viewer (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#testersakage/atlas_viewer</link>
+    <guid>https://github.com/testersakage/atlas_viewer</guid>
+    <author>testersakage</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>testersakage</strong><br>
+      Atlas Image Viewer mod for Luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/testersakage/atlas_viewer/archive/refs/heads/main/atlas_viewer.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/testersakage/atlas_viewer/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/atlas_viewer/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/testersakage/atlas_viewer/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-17T02:15:04Z</pubDate>
+  </item>
+  <item>
+    <title>live_synthesizer (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#testersakage/live_synthesizer</link>
+    <guid>https://github.com/testersakage/live_synthesizer</guid>
+    <author>testersakage</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>testersakage</strong><br>
+      Live Synthesizer mod for Luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/testersakage/live_synthesizer/archive/refs/heads/main/live_synthesizer.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-17T02:14:40Z</pubDate>
+  </item>
+  <item>
+    <title>mod_mcl_signs (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#testersakage/mod_mcl_signs</link>
+    <guid>https://github.com/testersakage/mod_mcl_signs</guid>
+    <author>testersakage</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>testersakage</strong><br>
+      Standalone and data-driven MCL Signs mod for Luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-17T02:14:23Z</pubDate>
+  </item>
+  <item>
+    <title>unicode_viewer (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#testersakage/unicode_viewer</link>
+    <guid>https://github.com/testersakage/unicode_viewer</guid>
+    <author>testersakage</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>testersakage</strong><br>
+      In-game Unicode Viewer mod for Luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/testersakage/unicode_viewer/archive/refs/heads/main/unicode_viewer.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-17T02:13:59Z</pubDate>
+  </item>
+  <item>
+    <title>recipe_maker (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#testersakage/recipe_maker</link>
+    <guid>https://github.com/testersakage/recipe_maker</guid>
+    <author>testersakage</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>testersakage</strong><br>
+      Craft Recipe Maker mod for Luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/testersakage/recipe_maker/archive/refs/heads/main/recipe_maker.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/testersakage/recipe_maker/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/recipe_maker/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/testersakage/recipe_maker/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-17T02:13:42Z</pubDate>
+  </item>
+  <item>
     <title>Classy (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/classy</link>
     <guid>https://gitlab.com/zughy-friends-minetest/classy</guid>
@@ -45,78 +135,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" type="image/png" />
     <pubDate>2026-08-16T18:54:50Z</pubDate>
-  </item>
-  <item>
-    <title>live_synthesizer (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/live_synthesizer</link>
-    <guid>https://github.com/testersakage/live_synthesizer</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      Live Synthesizer mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/live_synthesizer/archive/refs/heads/main/live_synthesizer.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-16T17:33:31Z</pubDate>
-  </item>
-  <item>
-    <title>recipe_maker (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/recipe_maker</link>
-    <guid>https://github.com/testersakage/recipe_maker</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      Craft Recipe Maker mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/recipe_maker/archive/refs/heads/main/recipe_maker.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/recipe_maker/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/recipe_maker/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/recipe_maker/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-16T17:15:19Z</pubDate>
-  </item>
-  <item>
-    <title>atlas_viewer (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/atlas_viewer</link>
-    <guid>https://github.com/testersakage/atlas_viewer</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      Atlas Image Viewer mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/atlas_viewer/archive/refs/heads/main/atlas_viewer.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/atlas_viewer/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/atlas_viewer/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/atlas_viewer/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-16T16:57:24Z</pubDate>
-  </item>
-  <item>
-    <title>unicode_viewer (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/unicode_viewer</link>
-    <guid>https://github.com/testersakage/unicode_viewer</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      In-game Unicode Viewer mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/unicode_viewer/archive/refs/heads/main/unicode_viewer.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-16T16:57:19Z</pubDate>
   </item>
   <item>
     <title>exchange_shop (Github)</title>
@@ -207,24 +225,6 @@
     <media:thumbnail url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-08-16T01:23:07.944Z</pubDate>
-  </item>
-  <item>
-    <title>mod_mcl_signs (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/mod_mcl_signs</link>
-    <guid>https://github.com/testersakage/mod_mcl_signs</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      Standalone and data-driven MCL Signs mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-14T23:55:57Z</pubDate>
   </item>
   <item>
     <title>Hub (Gitlab)</title>
