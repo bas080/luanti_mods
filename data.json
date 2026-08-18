@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-08-18T22:26:33.587Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 16,
+      "forks": 15,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-08-18T22:12:25.852Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "Voxrame/helpers",
       "author": "Voxrame",
@@ -189,36 +250,6 @@
       "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-08-17T05:50:14.325Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -554,37 +585,6 @@
         "wip"
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 16,
-      "forks": 15,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-08-12T21:20:12.071Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -1874,5 +1874,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-18T21:37:15Z"
+  "now": "2026-08-18T22:41:12Z"
 }
