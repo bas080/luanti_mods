@@ -2,6 +2,134 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/digtron",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
+      "repo_name": "digtron",
+      "html_url": "https://github.com/minetest-mods/digtron",
+      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
+      "issues_url": "https://github.com/minetest-mods/digtron/issues",
+      "open_issues": 33,
+      "stars": 23,
+      "forks": 37,
+      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
+      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
+      "default_branch": "master",
+      "updated_at": "2026-08-18T09:52:54Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "construction",
+        "i18n",
+        "luanti-mod",
+        "minetest-mod",
+        "tunneldigger"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/drawers",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "",
+      "repo_name": "drawers",
+      "html_url": "https://github.com/minetest-mods/drawers",
+      "https_clone_url": "https://github.com/minetest-mods/drawers.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/drawers.git",
+      "issues_url": "https://github.com/minetest-mods/drawers/issues",
+      "open_issues": 26,
+      "stars": 22,
+      "forks": 28,
+      "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
+      "description": "[MTG/MCL2] A Luanti/Minetest Mod adding storage drawers in different sizes and wood types.",
+      "default_branch": "master",
+      "updated_at": "2026-08-18T09:51:56Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "i18n",
+        "intllib",
+        "luanti-mod",
+        "mineclone",
+        "mineclone2",
+        "minetest",
+        "minetest-mod",
+        "mod",
+        "pipeworks",
+        "screwdriver",
+        "storage"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/drawers/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/spawn_command",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/lag01/spawn_command/",
+      "repo_name": "spawn_command",
+      "html_url": "https://github.com/minetest-mods/spawn_command",
+      "https_clone_url": "https://github.com/minetest-mods/spawn_command.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/spawn_command.git",
+      "issues_url": "https://github.com/minetest-mods/spawn_command/issues",
+      "open_issues": 3,
+      "stars": 4,
+      "forks": 5,
+      "zip_url": "https://github.com/minetest-mods/spawn_command/archive/refs/heads/master/spawn_command.zip",
+      "description": "Simple mod for /spawn command",
+      "default_branch": "master",
+      "updated_at": "2026-08-18T09:49:35Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/spawn_command/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/spawn_command/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/angledwalls",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/TumeniNodes/angledwalls/",
+      "repo_name": "angledwalls",
+      "html_url": "https://github.com/minetest-mods/angledwalls",
+      "https_clone_url": "https://github.com/minetest-mods/angledwalls.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/angledwalls.git",
+      "issues_url": "https://github.com/minetest-mods/angledwalls/issues",
+      "open_issues": 2,
+      "stars": 5,
+      "forks": 7,
+      "zip_url": "https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip",
+      "description": "Angled walls, glass, and doors for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-08-18T09:49:29Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "angled-walls",
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "testersakage/mod_mcl_signs",
       "author": "testersakage",
       "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
@@ -523,36 +651,6 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "minetest-mods/angledwalls",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/TumeniNodes/angledwalls/",
-      "repo_name": "angledwalls",
-      "html_url": "https://github.com/minetest-mods/angledwalls",
-      "https_clone_url": "https://github.com/minetest-mods/angledwalls.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/angledwalls.git",
-      "issues_url": "https://github.com/minetest-mods/angledwalls/issues",
-      "open_issues": 3,
-      "stars": 5,
-      "forks": 7,
-      "zip_url": "https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip",
-      "description": "Angled walls, glass, and doors for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-08-08T14:28:45Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "angled-walls",
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
       "full_name": "minetest-mods/technic",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -792,102 +890,6 @@
         "minetest-modpack"
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/circuits/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/circuits",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/circuits",
-      "repo_name": "circuits",
-      "html_url": "https://github.com/Sheriff-Unit-3/circuits",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/circuits.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/circuits.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/circuits/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/circuits/archive/refs/heads/master/circuits.zip",
-      "description": "(Mirror) A circuitry mod for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-08-02T18:03:23Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-mod",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/circuits/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/jumpdrive",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "jumpdrive",
-      "html_url": "https://github.com/mt-mods/jumpdrive",
-      "https_clone_url": "https://github.com/mt-mods/jumpdrive.git",
-      "ssh_clone_url": "git@github.com:mt-mods/jumpdrive.git",
-      "issues_url": "https://github.com/mt-mods/jumpdrive/issues",
-      "open_issues": 31,
-      "stars": 10,
-      "forks": 10,
-      "zip_url": "https://github.com/mt-mods/jumpdrive/archive/refs/heads/master/jumpdrive.zip",
-      "description": " Luanti (Minetest) jumpdrive mod",
-      "default_branch": "master",
-      "updated_at": "2026-08-02T00:24:05Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "jumpdrive",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "mod",
-        "space",
-        "teleport",
-        "traveling"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/jumpdrive/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/jumpdrive/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "bas080/register_timer",
-      "author": "bas080",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
-      "website": "",
-      "repo_name": "register_timer",
-      "html_url": "https://github.com/bas080/register_timer",
-      "https_clone_url": "https://github.com/bas080/register_timer.git",
-      "ssh_clone_url": "git@github.com:bas080/register_timer.git",
-      "issues_url": "https://github.com/bas080/register_timer/issues",
-      "open_issues": 1,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/bas080/register_timer/archive/refs/heads/master/register_timer.zip",
-      "description": "Persistent timers for Luanti mods.",
-      "default_branch": "master",
-      "updated_at": "2026-07-31T11:56:12Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/bas080/register_timer/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/bas080/register_timer/master/README.md",
       "has_stats": true
     },
     {
@@ -1872,5 +1874,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-18T09:48:11Z"
+  "now": "2026-08-18T10:45:48Z"
 }
