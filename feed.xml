@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>playerfactions (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/playerfactions</link>
+    <guid>https://github.com/mt-mods/playerfactions</guid>
+    <author>mt-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      <br>
+      License: GNU General Public License v3.0<br>
+      <a href="https://github.com/mt-mods/playerfactions/archive/refs/heads/master/playerfactions.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/playerfactions/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/playerfactions/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/playerfactions/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-20T22:15:44Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -927,24 +945,6 @@
     <media:thumbnail url="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-12-15T07:02:28+01:00</pubDate>
-  </item>
-  <item>
-    <title>mt-nokore-srv (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#IceDragon200/mt-nokore-srv</link>
-    <guid>https://github.com/IceDragon200/mt-nokore-srv</guid>
-    <author>IceDragon200</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1649873?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>IceDragon200</strong><br>
-      Service modules for NoKore mods<br>
-      License: Apache License 2.0<br>
-      <a href="https://github.com/IceDragon200/mt-nokore-srv/archive/refs/heads/master/mt-nokore-srv.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/IceDragon200/mt-nokore-srv/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/IceDragon200/mt-nokore-srv/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/IceDragon200/mt-nokore-srv/master/screenshot.png" type="image/png" />
-    <pubDate>2025-11-20T02:00:11Z</pubDate>
   </item>
   <item>
     <title>ejection (Codeberg)</title>

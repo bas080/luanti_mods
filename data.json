@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/playerfactions",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "playerfactions",
+      "html_url": "https://github.com/mt-mods/playerfactions",
+      "https_clone_url": "https://github.com/mt-mods/playerfactions.git",
+      "ssh_clone_url": "git@github.com:mt-mods/playerfactions.git",
+      "issues_url": "https://github.com/mt-mods/playerfactions/issues",
+      "open_issues": 3,
+      "stars": 3,
+      "forks": 5,
+      "zip_url": "https://github.com/mt-mods/playerfactions/archive/refs/heads/master/playerfactions.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-08-20T22:15:44Z",
+      "license": {
+        "name": "GNU General Public License v3.0"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/playerfactions/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/playerfactions/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -1591,41 +1620,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "IceDragon200/mt-nokore-srv",
-      "author": "IceDragon200",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1649873?v=4",
-      "website": "",
-      "repo_name": "mt-nokore-srv",
-      "html_url": "https://github.com/IceDragon200/mt-nokore-srv",
-      "https_clone_url": "https://github.com/IceDragon200/mt-nokore-srv.git",
-      "ssh_clone_url": "git@github.com:IceDragon200/mt-nokore-srv.git",
-      "issues_url": "https://github.com/IceDragon200/mt-nokore-srv/issues",
-      "open_issues": 1,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/IceDragon200/mt-nokore-srv/archive/refs/heads/master/mt-nokore-srv.zip",
-      "description": "Service modules for NoKore mods",
-      "default_branch": "master",
-      "updated_at": "2025-11-20T02:00:11Z",
-      "license": {
-        "name": "Apache License 2.0"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-mod",
-        "minetest-modpack",
-        "nokore",
-        "nokore-service"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/IceDragon200/mt-nokore-srv/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/IceDragon200/mt-nokore-srv/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "yof/ejection",
       "author": "yof",
@@ -1869,5 +1863,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-20T21:43:11Z"
+  "now": "2026-08-20T22:44:56Z"
 }
