@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/throwing",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16365",
+      "repo_name": "throwing",
+      "html_url": "https://github.com/minetest-mods/throwing",
+      "https_clone_url": "https://github.com/minetest-mods/throwing.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/throwing.git",
+      "issues_url": "https://github.com/minetest-mods/throwing/issues",
+      "open_issues": 1,
+      "stars": 10,
+      "forks": 6,
+      "zip_url": "https://github.com/minetest-mods/throwing/archive/refs/heads/master/throwing.zip",
+      "description": "Extendable throwing implementation by the Eurythmia Team. This is a mod for Luanti.",
+      "default_branch": "master",
+      "updated_at": "2026-08-20T11:28:37Z",
+      "license": {
+        "name": "Mozilla Public License 2.0"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest",
+        "mod",
+        "throwing"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/throwing/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/throwing/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/throwing_arrows",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/minetest-mods/throwing_arrows",
+      "repo_name": "throwing_arrows",
+      "html_url": "https://github.com/minetest-mods/throwing_arrows",
+      "https_clone_url": "https://github.com/minetest-mods/throwing_arrows.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/throwing_arrows.git",
+      "issues_url": "https://github.com/minetest-mods/throwing_arrows/issues",
+      "open_issues": 1,
+      "stars": 0,
+      "forks": 3,
+      "zip_url": "https://github.com/minetest-mods/throwing_arrows/archive/refs/heads/master/throwing_arrows.zip",
+      "description": "Classic bows and arrows for the throwing_redo API",
+      "default_branch": "master",
+      "updated_at": "2026-08-20T11:03:48Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "arrows",
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/throwing_arrows/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/throwing_arrows/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -463,39 +524,6 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "minetest-mods/castle_masonry",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/FaceDeer/castle_masonry/",
-      "repo_name": "castle_masonry",
-      "html_url": "https://github.com/minetest-mods/castle_masonry",
-      "https_clone_url": "https://github.com/minetest-mods/castle_masonry.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/castle_masonry.git",
-      "issues_url": "https://github.com/minetest-mods/castle_masonry/issues",
-      "open_issues": 1,
-      "stars": 5,
-      "forks": 9,
-      "zip_url": "https://github.com/minetest-mods/castle_masonry/archive/refs/heads/master/castle_masonry.zip",
-      "description": "All about creating castles and castle dungeons.",
-      "default_branch": "master",
-      "updated_at": "2026-08-16T11:16:47Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "castles",
-        "i18n",
-        "intllib",
-        "luanti-mod",
-        "masonry",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/castle_masonry/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
       "full_name": "minetest-mods/crops",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -825,37 +853,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/mt-mods/wrench/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/spacecannon",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "spacecannon",
-      "html_url": "https://github.com/mt-mods/spacecannon",
-      "https_clone_url": "https://github.com/mt-mods/spacecannon.git",
-      "ssh_clone_url": "git@github.com:mt-mods/spacecannon.git",
-      "issues_url": "https://github.com/mt-mods/spacecannon/issues",
-      "open_issues": 6,
-      "stars": 2,
-      "forks": 5,
-      "zip_url": "https://github.com/mt-mods/spacecannon/archive/refs/heads/master/spacecannon.zip",
-      "description": "Adds five scifi/space cannons with various projectile-speeds and explosion-strengths.",
-      "default_branch": "master",
-      "updated_at": "2026-08-04T23:24:09Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/spacecannon/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/spacecannon/master/README.md",
       "has_stats": true
     },
     {
@@ -1872,5 +1869,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-20T10:47:00Z"
+  "now": "2026-08-20T11:42:30Z"
 }
