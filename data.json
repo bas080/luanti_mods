@@ -2,6 +2,96 @@
   "items": [
     {
       "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-08-21T22:46:28.549Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/spacecannon",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "spacecannon",
+      "html_url": "https://github.com/mt-mods/spacecannon",
+      "https_clone_url": "https://github.com/mt-mods/spacecannon.git",
+      "ssh_clone_url": "git@github.com:mt-mods/spacecannon.git",
+      "issues_url": "https://github.com/mt-mods/spacecannon/issues",
+      "open_issues": 7,
+      "stars": 2,
+      "forks": 5,
+      "zip_url": "https://github.com/mt-mods/spacecannon/archive/refs/heads/master/spacecannon.zip",
+      "description": "Adds five scifi/space cannons with various projectile-speeds and explosion-strengths.",
+      "default_branch": "master",
+      "updated_at": "2026-08-21T22:45:26Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/spacecannon/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/spacecannon/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/moretrees",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "moretrees",
+      "html_url": "https://github.com/mt-mods/moretrees",
+      "https_clone_url": "https://github.com/mt-mods/moretrees.git",
+      "ssh_clone_url": "git@github.com:mt-mods/moretrees.git",
+      "issues_url": "https://github.com/mt-mods/moretrees/issues",
+      "open_issues": 13,
+      "stars": 9,
+      "forks": 15,
+      "zip_url": "https://github.com/mt-mods/moretrees/archive/refs/heads/master/moretrees.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-08-21T22:45:16Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/moretrees/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/arena_lib",
       "author": "zughy-friends-minetest",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png",
@@ -29,36 +119,6 @@
         "minigames"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-08-21T21:01:08.117Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -822,66 +882,6 @@
         "videogames"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "sfan5/luanti-developerconsole",
-      "author": "sfan5",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1042418?v=4",
-      "website": "",
-      "repo_name": "luanti-developerconsole",
-      "html_url": "https://github.com/sfan5/luanti-developerconsole",
-      "https_clone_url": "https://github.com/sfan5/luanti-developerconsole.git",
-      "ssh_clone_url": "git@github.com:sfan5/luanti-developerconsole.git",
-      "issues_url": "https://github.com/sfan5/luanti-developerconsole/issues",
-      "open_issues": 0,
-      "stars": 4,
-      "forks": 0,
-      "zip_url": "https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip",
-      "description": "Web-based REPL for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-08-06T11:34:56Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/wrench",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "wrench",
-      "html_url": "https://github.com/mt-mods/wrench",
-      "https_clone_url": "https://github.com/mt-mods/wrench.git",
-      "ssh_clone_url": "git@github.com:mt-mods/wrench.git",
-      "issues_url": "https://github.com/mt-mods/wrench/issues",
-      "open_issues": 9,
-      "stars": 6,
-      "forks": 7,
-      "zip_url": "https://github.com/mt-mods/wrench/archive/refs/heads/master/wrench.zip",
-      "description": "The wrench tool allows you to pick up nodes with inventories or other metadata, such as chests, signs, drawers, machines, etc, and transport them intact to another location.",
-      "default_branch": "master",
-      "updated_at": "2026-08-06T07:59:12Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/wrench/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/wrench/master/README.md",
       "has_stats": true
     },
     {
@@ -1863,5 +1863,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-21T22:41:24Z"
+  "now": "2026-08-21T23:38:21Z"
 }
