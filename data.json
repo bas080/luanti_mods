@@ -2,6 +2,36 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/character_creator",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=13138",
+      "repo_name": "character_creator",
+      "html_url": "https://github.com/minetest-mods/character_creator",
+      "https_clone_url": "https://github.com/minetest-mods/character_creator.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/character_creator.git",
+      "issues_url": "https://github.com/minetest-mods/character_creator/issues",
+      "open_issues": 2,
+      "stars": 11,
+      "forks": 12,
+      "zip_url": "https://github.com/minetest-mods/character_creator/archive/refs/heads/master/character_creator.zip",
+      "description": "Character customization (Voxelands inspiration)",
+      "default_branch": "master",
+      "updated_at": "2026-08-22T17:12:31Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/character_creator/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/character_creator/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "mt-mods/moretrees",
       "author": "mt-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
@@ -284,7 +314,7 @@
       "https_clone_url": "https://github.com/minetest-mods/digtron.git",
       "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
       "issues_url": "https://github.com/minetest-mods/digtron/issues",
-      "open_issues": 33,
+      "open_issues": 35,
       "stars": 23,
       "forks": 37,
       "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
@@ -793,35 +823,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/TheSilverStone/simple_replace_plus/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/TheSilverStone/simple_replace_plus/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "https_clone_url": "https://github.com/minetest-mods/technic.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 63,
-      "stars": 154,
-      "forks": 158,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-08-08T12:40:12Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
       "has_stats": true
     },
     {
@@ -1863,5 +1864,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-22T16:40:23Z"
+  "now": "2026-08-22T17:35:15Z"
 }
