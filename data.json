@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-08-22T22:49:56.065Z",
+      "updated_at": "2026-08-23T08:39:24.848Z",
       "license": {
         "name": "Unknown"
       },
@@ -47,7 +47,7 @@
       "zip_url": "https://github.com/minetest-mods/character_creator/archive/refs/heads/master/character_creator.zip",
       "description": "Character customization (Voxelands inspiration)",
       "default_branch": "master",
-      "updated_at": "2026-08-22T17:12:31Z",
+      "updated_at": "2026-08-23T08:21:31Z",
       "license": {
         "name": "Other"
       },
@@ -1864,5 +1864,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-23T07:46:58Z"
+  "now": "2026-08-23T08:48:10Z"
 }
