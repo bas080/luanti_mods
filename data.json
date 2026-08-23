@@ -795,19 +795,19 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "TheSilverStone/simple_replace_plus",
-      "author": "TheSilverStone",
+      "full_name": "Aeonovyli/simple_replace_plus",
+      "author": "Aeonovyli",
       "avatar_url": "https://avatars.githubusercontent.com/u/178652409?v=4",
       "website": "",
       "repo_name": "simple_replace_plus",
-      "html_url": "https://github.com/TheSilverStone/simple_replace_plus",
-      "https_clone_url": "https://github.com/TheSilverStone/simple_replace_plus.git",
-      "ssh_clone_url": "git@github.com:TheSilverStone/simple_replace_plus.git",
-      "issues_url": "https://github.com/TheSilverStone/simple_replace_plus/issues",
+      "html_url": "https://github.com/Aeonovyli/simple_replace_plus",
+      "https_clone_url": "https://github.com/Aeonovyli/simple_replace_plus.git",
+      "ssh_clone_url": "git@github.com:Aeonovyli/simple_replace_plus.git",
+      "issues_url": "https://github.com/Aeonovyli/simple_replace_plus/issues",
       "open_issues": 0,
       "stars": 1,
       "forks": 0,
-      "zip_url": "https://github.com/TheSilverStone/simple_replace_plus/archive/refs/heads/main/simple_replace_plus.zip",
+      "zip_url": "https://github.com/Aeonovyli/simple_replace_plus/archive/refs/heads/main/simple_replace_plus.zip",
       "description": "Mod for luanti to juggle complicated actions, designed for VoxelLibre.",
       "default_branch": "main",
       "updated_at": "2026-08-11T12:38:09Z",
@@ -821,8 +821,8 @@
         "luanti-related",
         "luanti-tool"
       ],
-      "image_raw": "https://raw.githubusercontent.com/TheSilverStone/simple_replace_plus/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/TheSilverStone/simple_replace_plus/main/README.md",
+      "image_raw": "https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/README.md",
       "has_stats": true
     },
     {
@@ -1864,5 +1864,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-23T03:15:14Z"
+  "now": "2026-08-23T04:51:50Z"
 }
