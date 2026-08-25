@@ -297,7 +297,7 @@
       "issues_url": "https://github.com/minetest-mods/character_creator/issues",
       "open_issues": 2,
       "stars": 11,
-      "forks": 12,
+      "forks": 13,
       "zip_url": "https://github.com/minetest-mods/character_creator/archive/refs/heads/master/character_creator.zip",
       "description": "Character customization (Voxelands inspiration)",
       "default_branch": "master",
@@ -1865,5 +1865,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-25T09:00:02Z"
+  "now": "2026-08-25T09:51:17Z"
 }
