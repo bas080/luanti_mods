@@ -1,6 +1,37 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/ehlphabet",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "ehlphabet",
+      "html_url": "https://github.com/mt-mods/ehlphabet",
+      "https_clone_url": "https://github.com/mt-mods/ehlphabet.git",
+      "ssh_clone_url": "git@github.com:mt-mods/ehlphabet.git",
+      "issues_url": "https://github.com/mt-mods/ehlphabet/issues",
+      "open_issues": 1,
+      "stars": 1,
+      "forks": 2,
+      "zip_url": "https://github.com/mt-mods/ehlphabet/archive/refs/heads/master/ehlphabet.zip",
+      "description": "Fork of https://git.bananach.space/ehlphabet.git",
+      "default_branch": "master",
+      "updated_at": "2026-08-25T19:45:17Z",
+      "license": {
+        "name": "Do What The F*ck You Want To Public License"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/ehlphabet/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -705,35 +736,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "SmallJoker/exchange_shop",
-      "author": "SmallJoker",
-      "avatar_url": "https://avatars.githubusercontent.com/u/1497498?v=4",
-      "website": "https://content.luanti.org/packages/Krock/exchange_shop/",
-      "repo_name": "exchange_shop",
-      "html_url": "https://github.com/SmallJoker/exchange_shop",
-      "https_clone_url": "https://github.com/SmallJoker/exchange_shop.git",
-      "ssh_clone_url": "git@github.com:SmallJoker/exchange_shop.git",
-      "issues_url": "https://github.com/SmallJoker/exchange_shop/issues",
-      "open_issues": 0,
-      "stars": 6,
-      "forks": 3,
-      "zip_url": "https://github.com/SmallJoker/exchange_shop/archive/refs/heads/master/exchange_shop.zip",
-      "description": "Minetest/Luanti Mod that provides a simple exchange shop (currency compatible)",
-      "default_branch": "master",
-      "updated_at": "2026-08-16T16:12:16Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1865,5 +1867,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-25T19:45:17Z"
+  "now": "2026-08-25T20:45:35Z"
 }

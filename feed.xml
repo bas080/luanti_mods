@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>ehlphabet (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/ehlphabet</link>
+    <guid>https://github.com/mt-mods/ehlphabet</guid>
+    <author>mt-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      Fork of https:&#x2F;&#x2F;git.bananach.space&#x2F;ehlphabet.git<br>
+      License: Do What The F*ck You Want To Public License<br>
+      <a href="https://github.com/mt-mods/ehlphabet/archive/refs/heads/master/ehlphabet.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-25T19:45:17Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -423,24 +441,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-08-16T22:38:06.171Z</pubDate>
-  </item>
-  <item>
-    <title>exchange_shop (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#SmallJoker/exchange_shop</link>
-    <guid>https://github.com/SmallJoker/exchange_shop</guid>
-    <author>SmallJoker</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/1497498?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>SmallJoker</strong><br>
-      Minetest&#x2F;Luanti Mod that provides a simple exchange shop (currency compatible)<br>
-      License: Unknown<br>
-      <a href="https://github.com/SmallJoker/exchange_shop/archive/refs/heads/master/exchange_shop.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/SmallJoker/exchange_shop/master/screenshot.png" type="image/png" />
-    <pubDate>2026-08-16T16:12:16Z</pubDate>
   </item>
   <item>
     <title>CraftoPlus (Gitlab)</title>
