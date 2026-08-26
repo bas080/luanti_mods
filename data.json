@@ -2,6 +2,35 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "mt-mods/moretrees",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "moretrees",
+      "html_url": "https://github.com/mt-mods/moretrees",
+      "https_clone_url": "https://github.com/mt-mods/moretrees.git",
+      "ssh_clone_url": "git@github.com:mt-mods/moretrees.git",
+      "issues_url": "https://github.com/mt-mods/moretrees/issues",
+      "open_issues": 12,
+      "stars": 9,
+      "forks": 15,
+      "zip_url": "https://github.com/mt-mods/moretrees/archive/refs/heads/master/moretrees.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-08-26T02:52:15Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/moretrees/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "minetest-mods/drawers",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -343,35 +372,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/character_creator/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/character_creator/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/moretrees",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "moretrees",
-      "html_url": "https://github.com/mt-mods/moretrees",
-      "https_clone_url": "https://github.com/mt-mods/moretrees.git",
-      "ssh_clone_url": "git@github.com:mt-mods/moretrees.git",
-      "issues_url": "https://github.com/mt-mods/moretrees/issues",
-      "open_issues": 12,
-      "stars": 9,
-      "forks": 15,
-      "zip_url": "https://github.com/mt-mods/moretrees/archive/refs/heads/master/moretrees.zip",
-      "description": "",
-      "default_branch": "master",
-      "updated_at": "2026-08-22T15:45:42Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/moretrees/master/README.md",
       "has_stats": true
     },
     {
@@ -1867,5 +1867,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-26T01:57:57Z"
+  "now": "2026-08-26T03:17:57Z"
 }
