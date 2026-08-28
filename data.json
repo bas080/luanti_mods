@@ -2,6 +2,69 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/digtron",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
+      "repo_name": "digtron",
+      "html_url": "https://github.com/minetest-mods/digtron",
+      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
+      "issues_url": "https://github.com/minetest-mods/digtron/issues",
+      "open_issues": 34,
+      "stars": 23,
+      "forks": 37,
+      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
+      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
+      "default_branch": "master",
+      "updated_at": "2026-08-28T14:50:47Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "construction",
+        "i18n",
+        "luanti-mod",
+        "minetest-mod",
+        "tunneldigger"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Oscillograph/lord-mods-lord_illuminator",
+      "author": "Oscillograph",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3993945?v=4",
+      "website": "",
+      "repo_name": "lord-mods-lord_illuminator",
+      "html_url": "https://github.com/Oscillograph/lord-mods-lord_illuminator",
+      "https_clone_url": "https://github.com/Oscillograph/lord-mods-lord_illuminator.git",
+      "ssh_clone_url": "git@github.com:Oscillograph/lord-mods-lord_illuminator.git",
+      "issues_url": "https://github.com/Oscillograph/lord-mods-lord_illuminator/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Oscillograph/lord-mods-lord_illuminator/archive/refs/heads/main/lord-mods-lord_illuminator.zip",
+      "description": "Provide light emission from a light source item currently wielded by the player.",
+      "default_branch": "main",
+      "updated_at": "2026-08-28T09:52:36Z",
+      "license": {
+        "name": "Creative Commons Zero v1.0 Universal"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "luminance"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Oscillograph/lord-mods-lord_illuminator/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Oscillograph/lord-mods-lord_illuminator/main/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "Sheriff-Unit-3/toolranks",
       "author": "Sheriff-Unit-3",
       "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
@@ -560,38 +623,6 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "minetest-mods/digtron",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
-      "repo_name": "digtron",
-      "html_url": "https://github.com/minetest-mods/digtron",
-      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
-      "issues_url": "https://github.com/minetest-mods/digtron/issues",
-      "open_issues": 38,
-      "stars": 23,
-      "forks": 37,
-      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
-      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
-      "default_branch": "master",
-      "updated_at": "2026-08-18T09:52:54Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "construction",
-        "i18n",
-        "luanti-mod",
-        "minetest-mod",
-        "tunneldigger"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
       "full_name": "minetest-mods/spawn_command",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -675,36 +706,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "testersakage/live_synthesizer",
-      "author": "testersakage",
-      "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
-      "website": "",
-      "repo_name": "live_synthesizer",
-      "html_url": "https://github.com/testersakage/live_synthesizer",
-      "https_clone_url": "https://github.com/testersakage/live_synthesizer.git",
-      "ssh_clone_url": "git@github.com:testersakage/live_synthesizer.git",
-      "issues_url": "https://github.com/testersakage/live_synthesizer/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/testersakage/live_synthesizer/archive/refs/heads/main/live_synthesizer.zip",
-      "description": "Live Synthesizer mod for Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-08-17T02:14:40Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/testersakage/live_synthesizer/main/README.md",
       "has_stats": false
     },
     {
@@ -1869,5 +1870,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-28T05:24:47Z"
+  "now": "2026-08-28T18:42:33Z"
 }

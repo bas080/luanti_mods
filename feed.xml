@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>digtron (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/digtron</link>
+    <guid>https://github.com/minetest-mods/digtron</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      A modular tunnel boring&#x2F;construction machine mod for Luanti&#x2F;Minetest.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-28T14:50:47Z</pubDate>
+  </item>
+  <item>
+    <title>lord-mods-lord_illuminator (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Oscillograph/lord-mods-lord_illuminator</link>
+    <guid>https://github.com/Oscillograph/lord-mods-lord_illuminator</guid>
+    <author>Oscillograph</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/3993945?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Oscillograph</strong><br>
+      Provide light emission from a light source item currently wielded by the player.<br>
+      License: Creative Commons Zero v1.0 Universal<br>
+      <a href="https://github.com/Oscillograph/lord-mods-lord_illuminator/archive/refs/heads/main/lord-mods-lord_illuminator.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Oscillograph/lord-mods-lord_illuminator/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Oscillograph/lord-mods-lord_illuminator/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Oscillograph/lord-mods-lord_illuminator/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-28T09:52:36Z</pubDate>
+  </item>
+  <item>
     <title>toolranks (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/toolranks</link>
     <guid>https://github.com/Sheriff-Unit-3/toolranks</guid>
@@ -335,24 +371,6 @@
     <pubDate>2026-08-20T11:03:48Z</pubDate>
   </item>
   <item>
-    <title>digtron (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/digtron</link>
-    <guid>https://github.com/minetest-mods/digtron</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      A modular tunnel boring&#x2F;construction machine mod for Luanti&#x2F;Minetest.<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png" type="image/png" />
-    <pubDate>2026-08-18T09:52:54Z</pubDate>
-  </item>
-  <item>
     <title>spawn_command (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/spawn_command</link>
     <guid>https://github.com/minetest-mods/spawn_command</guid>
@@ -405,24 +423,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" type="image/png" />
     <pubDate>2026-08-17T08:37:36Z</pubDate>
-  </item>
-  <item>
-    <title>live_synthesizer (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/live_synthesizer</link>
-    <guid>https://github.com/testersakage/live_synthesizer</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      Live Synthesizer mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/live_synthesizer/archive/refs/heads/main/live_synthesizer.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/live_synthesizer/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-17T02:14:40Z</pubDate>
   </item>
   <item>
     <title>Classy (Gitlab)</title>
