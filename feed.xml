@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>toolranks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/toolranks</link>
+    <guid>https://github.com/Sheriff-Unit-3/toolranks</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A tool rank mod for the voxel game engine luanti<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/toolranks/archive/refs/heads/main/toolranks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-27T23:31:33Z</pubDate>
+  </item>
+  <item>
+    <title>technic_many_machines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
+    <guid>https://github.com/Opons1/technic_many_machines</guid>
+    <author>Opons1</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Opons1</strong><br>
+      <br>
+      License: Other<br>
+      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
+    <pubDate>2026-08-27T21:12:26Z</pubDate>
+  </item>
+  <item>
     <title>helpers (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#Voxrame/helpers</link>
     <guid>https://github.com/Voxrame/helpers</guid>
@@ -34,7 +70,7 @@
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1787725615" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       S4 League inspired shooter minigame for Luanti<br>
       License: Unknown<br>
@@ -160,7 +196,7 @@
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png?v=1787576869" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Luanti library working as a core manager for any minigame you have in mind<br>
       License: Unknown<br>
@@ -299,24 +335,6 @@
     <pubDate>2026-08-20T11:03:48Z</pubDate>
   </item>
   <item>
-    <title>technic_many_machines (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Opons1/technic_many_machines</link>
-    <guid>https://github.com/Opons1/technic_many_machines</guid>
-    <author>Opons1</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/98196027?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Opons1</strong><br>
-      <br>
-      License: Other<br>
-      <a href="https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-20T02:17:36Z</pubDate>
-  </item>
-  <item>
     <title>digtron (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/digtron</link>
     <guid>https://github.com/minetest-mods/digtron</guid>
@@ -407,30 +425,12 @@
     <pubDate>2026-08-17T02:14:40Z</pubDate>
   </item>
   <item>
-    <title>unicode_viewer (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/unicode_viewer</link>
-    <guid>https://github.com/testersakage/unicode_viewer</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      In-game Unicode Viewer mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/unicode_viewer/archive/refs/heads/main/unicode_viewer.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/unicode_viewer/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-17T02:13:59Z</pubDate>
-  </item>
-  <item>
     <title>Classy (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/classy</link>
     <guid>https://gitlab.com/zughy-friends-minetest/classy</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/59075991/classyy.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/59075991/classyy.png?v=1786920784" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Luanti library to create player classes<br>
       License: Unknown<br>
@@ -448,7 +448,7 @@
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1786283987" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for Luanti games.<br>
       License: Unknown<br>
@@ -466,7 +466,7 @@
     <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/18819243/hub.png?v=1786744215" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       A mod to easily manage your minigames server on Luanti<br>
       License: Unknown<br>
@@ -538,7 +538,7 @@
     <guid>https://gitlab.com/zughy-friends-minetest/collectible-skins</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/20444907/skinscollectible_wardrobe.png?v=1786112789" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Wear and unlock skins on Luanti<br>
       License: Unknown<br>
@@ -574,7 +574,7 @@
     <guid>https://gitlab.com/lichenseed/portable-console-snake</guid>
     <author>lichenseed</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/82492635/Glen_Keane_character_concept_a.jpeg" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/82492635/Glen_Keane_character_concept_a.jpeg?v=1784953130" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>lichenseed</strong><br>
       Running Snake in Minetest Game.<br>
       License: Unknown<br>
@@ -628,7 +628,7 @@
     <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png?v=1783853391" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Luanti library to easily register new weapons<br>
       License: Unknown<br>
@@ -664,7 +664,7 @@
     <guid>https://gitlab.com/AntumLuanti/luanti</guid>
     <author>AntumLuanti</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/83080042/luanti_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/83080042/luanti_icon.png?v=1786830396" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>AntumLuanti</strong><br>
       Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.<br>
       License: Unknown<br>
@@ -682,7 +682,7 @@
     <guid>https://gitlab.com/zughy-friends-minetest/magic-compass</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/19420137/magiccompass_compass.png?v=1782856910" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Teleport system for Luanti<br>
       License: Unknown<br>
@@ -718,7 +718,7 @@
     <guid>https://gitlab.com/AntumLuanti/mod-con_mobs</guid>
     <author>AntumLuanti</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png?v=1781071810" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>AntumLuanti</strong><br>
       Wrapper for registering mobs with a variety of commonly used APIs.<br>
       License: Unknown<br>
@@ -736,7 +736,7 @@
     <guid>https://gitlab.com/AntumLuanti/mod-cleaner</guid>
     <author>AntumLuanti</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/26982813/cleaner_pencil.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/26982813/cleaner_pencil.png?v=1781971901" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>AntumLuanti</strong><br>
       Clean up your Luanti world.<br>
       License: Unknown<br>
@@ -772,7 +772,7 @@
     <guid>https://gitlab.com/AntumLuanti/mod-amber</guid>
     <author>AntumLuanti</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png?v=1781071810" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>AntumLuanti</strong><br>
       Luanti mod that adds amber tools, decorations, &amp; two armor sets.<br>
       License: Unknown<br>
@@ -790,7 +790,7 @@
     <guid>https://gitlab.com/AntumLuanti/mod-currency</guid>
     <author>AntumLuanti</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png?v=1781071810" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>AntumLuanti</strong><br>
       Minimalist fork of &#x60;currency&#x60; mod that only provides &quot;minegeld&quot;.<br>
       License: Unknown<br>
@@ -808,7 +808,7 @@
     <guid>https://gitlab.com/zughy-friends-minetest/audio_lib</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/51802281/audiolib_icon2.png?v=1780765676" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Luanti library to easily manage audio files<br>
       License: Unknown<br>
@@ -826,7 +826,7 @@
     <guid>https://gitlab.com/AntumLuanti/mod-rocket</guid>
     <author>AntumLuanti</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png?v=1781071810" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>AntumLuanti</strong><br>
       Space shuttle mod for Luanti.<br>
       License: Unknown<br>
@@ -844,7 +844,7 @@
     <guid>https://gitlab.com/zughy-friends-minetest/soothing-32</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png?v=1780681889" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!<br>
       License: Unknown<br>
