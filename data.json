@@ -1,6 +1,68 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788087086",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-08-30T10:51:26.094Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/digtron",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
+      "repo_name": "digtron",
+      "html_url": "https://github.com/minetest-mods/digtron",
+      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
+      "issues_url": "https://github.com/minetest-mods/digtron/issues",
+      "open_issues": 34,
+      "stars": 23,
+      "forks": 37,
+      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
+      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
+      "default_branch": "master",
+      "updated_at": "2026-08-30T09:45:47Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "construction",
+        "i18n",
+        "luanti-mod",
+        "minetest-mod",
+        "tunneldigger"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "mt-mods/moretrees",
       "author": "mt-mods",
@@ -88,68 +150,6 @@
       "image_raw": "https://raw.githubusercontent.com/Oscillograph/lord-mods-lord_illuminator/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Oscillograph/lord-mods-lord_illuminator/main/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788017653",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-08-29T15:34:13.156Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/digtron",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
-      "repo_name": "digtron",
-      "html_url": "https://github.com/minetest-mods/digtron",
-      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
-      "issues_url": "https://github.com/minetest-mods/digtron/issues",
-      "open_issues": 35,
-      "stars": 23,
-      "forks": 37,
-      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
-      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
-      "default_branch": "master",
-      "updated_at": "2026-08-28T14:50:47Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "construction",
-        "i18n",
-        "luanti-mod",
-        "minetest-mod",
-        "tunneldigger"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1870,5 +1870,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-30T06:39:45Z"
+  "now": "2026-08-30T12:53:45Z"
 }
