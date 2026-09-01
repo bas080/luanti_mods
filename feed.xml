@@ -641,24 +641,6 @@
     <pubDate>2026-08-14T05:00:49+02:00</pubDate>
   </item>
   <item>
-    <title>MariaEval (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaEval</link>
-    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval</guid>
-    <author>Sakura-Mods&#x2F;luanti-mods</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
-      Execute código Lua diretamente pelo chat do jogo!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval/-/archive/release/MariaEval.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval/-/raw/release/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-08-12T14:20:55.778Z</pubDate>
-  </item>
-  <item>
     <title>MariaReputation (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
     <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
@@ -855,6 +837,24 @@
     <media:thumbnail url="https://codeberg.org/kmdev/coins/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/kmdev/coins/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-06-14T01:03:10+02:00</pubDate>
+  </item>
+  <item>
+    <title>Luanti Amber Mod (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#AntumLuanti/mod-amber</link>
+    <guid>https://gitlab.com/AntumLuanti/mod-amber</guid>
+    <author>AntumLuanti</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png?v=1781071810" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>AntumLuanti</strong><br>
+      Luanti mod that adds amber tools, decorations, &amp; two armor sets.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/AntumLuanti/mod-amber/-/archive/master/mod-amber.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/AntumLuanti/mod-amber/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/AntumLuanti/mod-amber/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/AntumLuanti/mod-amber/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-10T07:58:30.458Z</pubDate>
   </item>
   <item>
     <title>cobanisters (Codeberg)</title>

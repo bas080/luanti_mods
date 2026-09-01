@@ -1077,36 +1077,6 @@
     },
     {
       "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/MariaEval",
-      "author": "Sakura-Mods/luanti-mods",
-      "avatar_url": "https://gitlab.com/",
-      "website": "",
-      "repo_name": "MariaEval",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaEval.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval/-/archive/release/MariaEval.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval/-/raw/release/README.md",
-      "description": "Execute código Lua diretamente pelo chat do jogo!",
-      "default_branch": "release",
-      "updated_at": "2026-08-12T14:20:55.778Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "lua",
-        "mod"
-      ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaEval/-/raw/release/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
       "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
       "author": "Sakura-Mods/luanti-mods",
       "avatar_url": "https://gitlab.com/",
@@ -1461,6 +1431,39 @@
       ],
       "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
       "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "AntumLuanti/mod-amber",
+      "author": "AntumLuanti",
+      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png?v=1781071810",
+      "website": "",
+      "repo_name": "Luanti Amber Mod",
+      "html_url": "https://gitlab.com/AntumLuanti/mod-amber",
+      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-amber.git",
+      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-amber.git",
+      "issues_url": "https://gitlab.com/AntumLuanti/mod-amber/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/AntumLuanti/mod-amber/-/archive/master/mod-amber.zip",
+      "readme_url": "https://gitlab.com/AntumLuanti/mod-amber/-/raw/master/README.md",
+      "description": "Luanti mod that adds amber tools, decorations, & two armor sets.",
+      "default_branch": "master",
+      "updated_at": "2026-06-10T07:58:30.458Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Luanti mod",
+        "Luanti-mod",
+        "minetest",
+        "minetest mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://gitlab.com/AntumLuanti/mod-amber/-/raw/master/screenshot.png",
+      "has_stats": false
     },
     {
       "hosted_on": "Codeberg",
@@ -1859,5 +1862,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-08-31T23:50:58Z"
+  "now": "2026-09-01T05:08:12Z"
 }
