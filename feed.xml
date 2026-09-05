@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788624438" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-09-05T16:07:18.122Z</pubDate>
+  </item>
+  <item>
+    <title>wildlife (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/wildlife</link>
+    <guid>https://github.com/Sheriff-Unit-3/wildlife</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      Adds wildlife to Luanti&#x2F;Minetest<br>
+      License: MIT License<br>
+      <a href="https://github.com/Sheriff-Unit-3/wildlife/archive/refs/heads/master/wildlife.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" type="image/png" />
+    <pubDate>2026-09-05T15:52:27Z</pubDate>
+  </item>
+  <item>
     <title>drawers (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/drawers</link>
     <guid>https://github.com/minetest-mods/drawers</guid>
@@ -27,24 +63,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
     <pubDate>2026-09-05T11:30:18Z</pubDate>
-  </item>
-  <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788603284" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-09-05T09:26:12.882Z</pubDate>
   </item>
   <item>
     <title>arena_lib (Gitlab)</title>
@@ -587,24 +605,6 @@
     <pubDate>2026-08-18T09:49:29Z</pubDate>
   </item>
   <item>
-    <title>mod_mcl_signs (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/mod_mcl_signs</link>
-    <guid>https://github.com/testersakage/mod_mcl_signs</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      Standalone and data-driven MCL Signs mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" type="image/png" />
-    <pubDate>2026-08-17T08:37:36Z</pubDate>
-  </item>
-  <item>
     <title>Classy (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/classy</link>
     <guid>https://gitlab.com/zughy-friends-minetest/classy</guid>
@@ -893,6 +893,24 @@
     <pubDate>2026-04-06T18:20:23+02:00</pubDate>
   </item>
   <item>
+    <title>events_api (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#TPH/events_api</link>
+    <guid>https://codeberg.org/TPH/events_api</guid>
+    <author>TPH</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/a63854eb89eb1dab089001b174e601762cc42d3816347e9175f72372af2c80f0" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>TPH</strong><br>
+      API for creating, handling, and permitting function registration calls for custom events for Luanti&#x2F;Minetest<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/TPH/events_api/archive/refs/heads/master/events_api.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/TPH/events_api/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/TPH/events_api/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/TPH/events_api/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-02-12T01:04:25+01:00</pubDate>
+  </item>
+  <item>
     <title>dungeonsplus (Codeberg)</title>
     <link>https://bas080.github.io/luanti_mods/#Stoabrogga/dungeonsplus</link>
     <guid>https://codeberg.org/Stoabrogga/dungeonsplus</guid>
@@ -945,24 +963,6 @@
     <media:thumbnail url="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Codiac/alone/raw/main/screenshot.png" type="image/png" />
     <pubDate>2025-12-15T07:02:28+01:00</pubDate>
-  </item>
-  <item>
-    <title>ejection (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#yof/ejection</link>
-    <guid>https://codeberg.org/yof/ejection</guid>
-    <author>yof</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b209aa300f178b67c9abc640fc2bad25" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>yof</strong><br>
-      Luanti movement mod.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/yof/ejection/archive/refs/heads/main/ejection.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/yof/ejection/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/yof/ejection/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/yof/ejection/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2025-10-28T12:08:38+01:00</pubDate>
   </item>
   <item>
     <title>avantisavoia (Codeberg)</title>

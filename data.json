@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788624438",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-09-05T16:07:18.122Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/wildlife",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "",
+      "repo_name": "wildlife",
+      "html_url": "https://github.com/Sheriff-Unit-3/wildlife",
+      "https_clone_url": "https://github.com/Sheriff-Unit-3/wildlife.git",
+      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/wildlife.git",
+      "issues_url": "https://github.com/Sheriff-Unit-3/wildlife/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/wildlife/archive/refs/heads/master/wildlife.zip",
+      "description": "Adds wildlife to Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-09-05T15:52:27Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "lua",
+        "luajit",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod",
+        "mobkit",
+        "mod",
+        "mtg",
+        "mtg-mod",
+        "wildlife"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/drawers",
       "author": "minetest-mods",
@@ -36,36 +104,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/drawers/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788603284",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-09-05T09:26:12.882Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -982,35 +1020,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "testersakage/mod_mcl_signs",
-      "author": "testersakage",
-      "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
-      "website": "",
-      "repo_name": "mod_mcl_signs",
-      "html_url": "https://github.com/testersakage/mod_mcl_signs",
-      "https_clone_url": "https://github.com/testersakage/mod_mcl_signs.git",
-      "ssh_clone_url": "git@github.com:testersakage/mod_mcl_signs.git",
-      "issues_url": "https://github.com/testersakage/mod_mcl_signs/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip",
-      "description": "Standalone and data-driven MCL Signs mod for Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-08-17T08:37:36Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/classy",
       "author": "zughy-friends-minetest",
@@ -1527,6 +1536,39 @@
     },
     {
       "hosted_on": "Codeberg",
+      "full_name": "TPH/events_api",
+      "author": "TPH",
+      "avatar_url": "https://codeberg.org/avatars/a63854eb89eb1dab089001b174e601762cc42d3816347e9175f72372af2c80f0",
+      "website": "",
+      "repo_name": "events_api",
+      "html_url": "https://codeberg.org/TPH/events_api",
+      "https_clone_url": "https://codeberg.org/TPH/events_api.git",
+      "ssh_clone_url": "git@codeberg.org:TPH/events_api.git",
+      "issues_url": "https://codeberg.org/TPH/events_api/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/TPH/events_api/archive/refs/heads/master/events_api.zip",
+      "readme_url": "https://codeberg.org/TPH/events_api/raw/master/README.md",
+      "description": "API for creating, handling, and permitting function registration calls for custom events for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-02-12T01:04:25+01:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod",
+        "mit"
+      ],
+      "image_raw": "https://codeberg.org/TPH/events_api/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
       "full_name": "Stoabrogga/dungeonsplus",
       "author": "Stoabrogga",
       "avatar_url": "https://codeberg.org/avatars/e9f57c67e292368b2d85d26e24b429a2830c93e75195aeba95f6291a91322ed9",
@@ -1616,35 +1658,6 @@
         "minetest-mods"
       ],
       "image_raw": "https://codeberg.org/Codiac/alone/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "yof/ejection",
-      "author": "yof",
-      "avatar_url": "https://codeberg.org/avatars/b209aa300f178b67c9abc640fc2bad25",
-      "website": "",
-      "repo_name": "ejection",
-      "html_url": "https://codeberg.org/yof/ejection",
-      "https_clone_url": "https://codeberg.org/yof/ejection.git",
-      "ssh_clone_url": "git@codeberg.org:yof/ejection.git",
-      "issues_url": "https://codeberg.org/yof/ejection/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/yof/ejection/archive/refs/heads/main/ejection.zip",
-      "readme_url": "https://codeberg.org/yof/ejection/raw/main/README.md",
-      "description": "Luanti movement mod.",
-      "default_branch": "main",
-      "updated_at": "2025-10-28T12:08:38+01:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://codeberg.org/yof/ejection/raw/main/screenshot.png",
       "has_stats": false
     },
     {
@@ -1862,5 +1875,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-05T13:51:33Z"
+  "now": "2026-09-05T16:49:20Z"
 }
