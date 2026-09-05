@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>wildlife (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/wildlife</link>
+    <guid>https://github.com/Sheriff-Unit-3/wildlife</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      Adds wildlife to Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/wildlife/archive/refs/heads/master/wildlife.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" type="image/png" />
+    <pubDate>2026-09-05T23:30:28Z</pubDate>
+  </item>
+  <item>
     <title>Block League (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
     <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
@@ -27,24 +45,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-09-05T16:07:18.122Z</pubDate>
-  </item>
-  <item>
-    <title>wildlife (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/wildlife</link>
-    <guid>https://github.com/Sheriff-Unit-3/wildlife</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      Adds wildlife to Luanti&#x2F;Minetest<br>
-      License: MIT License<br>
-      <a href="https://github.com/Sheriff-Unit-3/wildlife/archive/refs/heads/master/wildlife.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" type="image/png" />
-    <pubDate>2026-09-05T15:52:27Z</pubDate>
   </item>
   <item>
     <title>drawers (Github)</title>

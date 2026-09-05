@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/wildlife",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "",
+      "repo_name": "wildlife",
+      "html_url": "https://github.com/Sheriff-Unit-3/wildlife",
+      "https_clone_url": "https://github.com/Sheriff-Unit-3/wildlife.git",
+      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/wildlife.git",
+      "issues_url": "https://github.com/Sheriff-Unit-3/wildlife/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/wildlife/archive/refs/heads/master/wildlife.zip",
+      "description": "Adds wildlife to Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-09-05T23:30:28Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "lua",
+        "luajit",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod",
+        "mobkit",
+        "mod",
+        "mtg",
+        "mtg-mod",
+        "wildlife"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -29,44 +67,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/wildlife",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "",
-      "repo_name": "wildlife",
-      "html_url": "https://github.com/Sheriff-Unit-3/wildlife",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/wildlife.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/wildlife.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/wildlife/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/wildlife/archive/refs/heads/master/wildlife.zip",
-      "description": "Adds wildlife to Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-09-05T15:52:27Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "lua",
-        "luajit",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod",
-        "mobkit",
-        "mod",
-        "mtg",
-        "mtg-mod",
-        "wildlife"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1875,5 +1875,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-05T21:14:42Z"
+  "now": "2026-09-05T23:53:52Z"
 }
