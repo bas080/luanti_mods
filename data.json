@@ -4,7 +4,7 @@
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788698984",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788706731",
       "website": "",
       "repo_name": "Block League",
       "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-09-06T12:17:01.097Z",
+      "updated_at": "2026-09-06T14:58:51.320Z",
       "license": {
         "name": "Unknown"
       },
@@ -28,6 +28,38 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/weapons_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png?v=1788706594",
+      "website": "",
+      "repo_name": "weapons_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/weapons_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
+      "description": "Luanti library to easily register new weapons",
+      "default_branch": "main",
+      "updated_at": "2026-09-06T14:56:34.308Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library",
+        "minetest",
+        "weapons"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
       "has_stats": true
     },
     {
@@ -295,38 +327,6 @@
     },
     {
       "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/weapons_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png?v=1788289787",
-      "website": "",
-      "repo_name": "weapons_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/weapons_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
-      "description": "Luanti library to easily register new weapons",
-      "default_branch": "main",
-      "updated_at": "2026-09-01T19:09:47.753Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "api",
-        "library",
-        "minetest",
-        "weapons"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/country_lib",
       "author": "zughy-friends-minetest",
       "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/65527519/countrylib4.png?v=1788200837",
@@ -543,7 +543,7 @@
       "https_clone_url": "https://github.com/minetest-mods/digtron.git",
       "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
       "issues_url": "https://github.com/minetest-mods/digtron/issues",
-      "open_issues": 34,
+      "open_issues": 35,
       "stars": 23,
       "forks": 37,
       "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
@@ -1875,5 +1875,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-06T13:40:44Z"
+  "now": "2026-09-06T17:02:44Z"
 }
