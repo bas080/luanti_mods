@@ -26,7 +26,25 @@
 
     <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" type="image/png" />
-    <pubDate>2026-09-05T23:30:28Z</pubDate>
+    <pubDate>2026-09-06T01:21:34Z</pubDate>
+  </item>
+  <item>
+    <title>helpers (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Voxrame/helpers</link>
+    <guid>https://github.com/Voxrame/helpers</guid>
+    <author>Voxrame</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/185856043?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Voxrame</strong><br>
+      [READ-ONLY] Splitted Voxrame &#x60;helpers&#x60; package<br>
+      License: MIT License<br>
+      <a href="https://github.com/Voxrame/helpers/archive/refs/heads/master/helpers.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" type="image/png" />
+    <pubDate>2026-09-05T23:54:37Z</pubDate>
   </item>
   <item>
     <title>Block League (Gitlab)</title>
@@ -369,24 +387,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png" type="image/png" />
     <pubDate>2026-08-27T23:31:33Z</pubDate>
-  </item>
-  <item>
-    <title>helpers (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Voxrame/helpers</link>
-    <guid>https://github.com/Voxrame/helpers</guid>
-    <author>Voxrame</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/185856043?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Voxrame</strong><br>
-      [READ-ONLY] Splitted Voxrame &#x60;helpers&#x60; package<br>
-      License: MIT License<br>
-      <a href="https://github.com/Voxrame/helpers/archive/refs/heads/master/helpers.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" type="image/png" />
-    <pubDate>2026-08-26T21:47:51Z</pubDate>
   </item>
   <item>
     <title>ehlphabet (Github)</title>
