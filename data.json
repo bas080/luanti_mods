@@ -1,6 +1,35 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/crops",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/sofar/crops/",
+      "repo_name": "crops",
+      "html_url": "https://github.com/minetest-mods/crops",
+      "https_clone_url": "https://github.com/minetest-mods/crops.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/crops.git",
+      "issues_url": "https://github.com/minetest-mods/crops/issues",
+      "open_issues": 2,
+      "stars": 10,
+      "forks": 12,
+      "zip_url": "https://github.com/minetest-mods/crops/archive/refs/heads/master/crops.zip",
+      "description": "Various farm vegetables for Luanti/Minetest.",
+      "default_branch": "master",
+      "updated_at": "2026-09-07T17:42:49Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/crops/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/crops/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
       "author": "Sakura-Mods/luanti-mods",
@@ -963,34 +992,6 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "minetest-mods/spawn_command",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/lag01/spawn_command/",
-      "repo_name": "spawn_command",
-      "html_url": "https://github.com/minetest-mods/spawn_command",
-      "https_clone_url": "https://github.com/minetest-mods/spawn_command.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/spawn_command.git",
-      "issues_url": "https://github.com/minetest-mods/spawn_command/issues",
-      "open_issues": 3,
-      "stars": 4,
-      "forks": 5,
-      "zip_url": "https://github.com/minetest-mods/spawn_command/archive/refs/heads/master/spawn_command.zip",
-      "description": "Simple mod for /spawn command",
-      "default_branch": "master",
-      "updated_at": "2026-08-18T09:49:35Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/spawn_command/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/spawn_command/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
       "full_name": "minetest-mods/angledwalls",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -1875,5 +1876,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-07T16:27:16Z"
+  "now": "2026-09-07T20:34:00Z"
 }
