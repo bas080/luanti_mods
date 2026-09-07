@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/b3d_to_gltf",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "",
+      "repo_name": "b3d_to_gltf",
+      "html_url": "https://codeberg.org/Sheriff_U3/b3d_to_gltf",
+      "https_clone_url": "https://codeberg.org/Sheriff_U3/b3d_to_gltf.git",
+      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/b3d_to_gltf.git",
+      "issues_url": "https://codeberg.org/Sheriff_U3/b3d_to_gltf/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/b3d_to_gltf/archive/refs/heads/master/b3d_to_gltf.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/b3d_to_gltf/raw/master/README.md",
+      "description": "A Luanti mod for converting .b3d files to .gltf",
+      "default_branch": "master",
+      "updated_at": "2026-09-08T01:10:28+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "b3d",
+        "developer-tool",
+        "gamedev-tool",
+        "gltf",
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "luanti-tool"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/b3d_to_gltf/raw/master/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788813804",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-09-07T20:43:24.730Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "minetest-mods/crops",
       "author": "minetest-mods",
@@ -58,36 +123,6 @@
       ],
       "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788796102",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-09-07T15:27:12.743Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1116,41 +1151,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Codeberg",
-      "full_name": "luanti-tools/b3d_to_gltf",
-      "author": "luanti-tools",
-      "avatar_url": "https://codeberg.org/avatars/9544f982626ecaf050c04c3d85e2dc9d9bb6cfbdc30229f2a25659c4a04659a2",
-      "website": "",
-      "repo_name": "b3d_to_gltf",
-      "html_url": "https://codeberg.org/luanti-tools/b3d_to_gltf",
-      "https_clone_url": "https://codeberg.org/luanti-tools/b3d_to_gltf.git",
-      "ssh_clone_url": "git@codeberg.org:luanti-tools/b3d_to_gltf.git",
-      "issues_url": "https://codeberg.org/luanti-tools/b3d_to_gltf/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/luanti-tools/b3d_to_gltf/archive/refs/heads/master/b3d_to_gltf.zip",
-      "readme_url": "https://codeberg.org/luanti-tools/b3d_to_gltf/raw/master/README.md",
-      "description": "A Luanti mod for converting .b3d files to .gltf",
-      "default_branch": "master",
-      "updated_at": "2026-07-29T16:51:49+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "b3d",
-        "developer-tool",
-        "gamedev-tool",
-        "gltf",
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "luanti-tool"
-      ],
-      "image_raw": "https://codeberg.org/luanti-tools/b3d_to_gltf/raw/master/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "lichenseed/portable-console-snake",
       "author": "lichenseed",
@@ -1876,5 +1876,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-07T20:34:00Z"
+  "now": "2026-09-07T23:29:48Z"
 }

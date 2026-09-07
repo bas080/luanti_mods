@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>b3d_to_gltf (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/b3d_to_gltf</link>
+    <guid>https://codeberg.org/Sheriff_U3/b3d_to_gltf</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A Luanti mod for converting .b3d files to .gltf<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/b3d_to_gltf/archive/refs/heads/master/b3d_to_gltf.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/b3d_to_gltf/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/b3d_to_gltf/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/b3d_to_gltf/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-09-08T01:10:28+02:00</pubDate>
+  </item>
+  <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788813804" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-09-07T20:43:24.730Z</pubDate>
+  </item>
+  <item>
     <title>crops (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/crops</link>
     <guid>https://github.com/minetest-mods/crops</guid>
@@ -45,24 +81,6 @@
     <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
     <pubDate>2026-09-07T16:09:05.225Z</pubDate>
-  </item>
-  <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1788796102" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-09-07T15:27:12.743Z</pubDate>
   </item>
   <item>
     <title>arena_lib (Gitlab)</title>
@@ -657,24 +675,6 @@
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/balls/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-08-14T05:00:49+02:00</pubDate>
-  </item>
-  <item>
-    <title>b3d_to_gltf (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#luanti-tools/b3d_to_gltf</link>
-    <guid>https://codeberg.org/luanti-tools/b3d_to_gltf</guid>
-    <author>luanti-tools</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/9544f982626ecaf050c04c3d85e2dc9d9bb6cfbdc30229f2a25659c4a04659a2" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>luanti-tools</strong><br>
-      A Luanti mod for converting .b3d files to .gltf<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/luanti-tools/b3d_to_gltf/archive/refs/heads/master/b3d_to_gltf.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/luanti-tools/b3d_to_gltf/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/luanti-tools/b3d_to_gltf/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/luanti-tools/b3d_to_gltf/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-29T16:51:49+02:00</pubDate>
   </item>
   <item>
     <title>Snake in Minetest (Gitlab)</title>
