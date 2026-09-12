@@ -1,10 +1,39 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "testersakage/mod_mcl_signs",
+      "author": "testersakage",
+      "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
+      "website": "",
+      "repo_name": "mod_mcl_signs",
+      "html_url": "https://github.com/testersakage/mod_mcl_signs",
+      "https_clone_url": "https://github.com/testersakage/mod_mcl_signs.git",
+      "ssh_clone_url": "git@github.com:testersakage/mod_mcl_signs.git",
+      "issues_url": "https://github.com/testersakage/mod_mcl_signs/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip",
+      "description": "Standalone and data-driven MCL Signs mod for Luanti",
+      "default_branch": "main",
+      "updated_at": "2026-09-12T09:44:40Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "lua",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1789151961",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1789207867",
       "website": "",
       "repo_name": "Block League",
       "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
@@ -18,7 +47,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-09-11T18:08:03.618Z",
+      "updated_at": "2026-09-12T09:42:04.793Z",
       "license": {
         "name": "Unknown"
       },
@@ -1026,36 +1055,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/angledwalls",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/TumeniNodes/angledwalls/",
-      "repo_name": "angledwalls",
-      "html_url": "https://github.com/minetest-mods/angledwalls",
-      "https_clone_url": "https://github.com/minetest-mods/angledwalls.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/angledwalls.git",
-      "issues_url": "https://github.com/minetest-mods/angledwalls/issues",
-      "open_issues": 2,
-      "stars": 5,
-      "forks": 7,
-      "zip_url": "https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip",
-      "description": "Angled walls, glass, and doors for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-08-18T09:49:29Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "angled-walls",
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/classy",
       "author": "zughy-friends-minetest",
@@ -1876,5 +1875,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-12T05:47:26Z"
+  "now": "2026-09-12T10:46:38Z"
 }
