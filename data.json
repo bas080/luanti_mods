@@ -671,7 +671,7 @@
       "issues_url": "https://github.com/minetest-mods/digtron/issues",
       "open_issues": 35,
       "stars": 23,
-      "forks": 37,
+      "forks": 38,
       "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
       "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
       "default_branch": "master",
@@ -1875,5 +1875,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-12T17:10:04Z"
+  "now": "2026-09-12T19:23:34Z"
 }
