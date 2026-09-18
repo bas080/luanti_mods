@@ -2,6 +2,105 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "8a7l/npc_core",
+      "author": "8a7l",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83518525?v=4",
+      "website": "",
+      "repo_name": "npc_core",
+      "html_url": "https://github.com/8a7l/npc_core",
+      "https_clone_url": "https://github.com/8a7l/npc_core.git",
+      "ssh_clone_url": "git@github.com:8a7l/npc_core.git",
+      "issues_url": "https://github.com/8a7l/npc_core/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/8a7l/npc_core/archive/refs/heads/main/npc_core.zip",
+      "description": "A flexible NPC framework for Luanti with dialogs, shops, and teleports — all editable in-game.",
+      "default_branch": "main",
+      "updated_at": "2026-09-18T05:36:18Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "dialogs",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod",
+        "npc",
+        "shop",
+        "teleport"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/8a7l/npc_core/main/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Codeberg",
+      "full_name": "Sheriff_U3/energy_drinks",
+      "author": "Sheriff_U3",
+      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
+      "website": "",
+      "repo_name": "energy_drinks",
+      "html_url": "https://codeberg.org/Sheriff_U3/energy_drinks",
+      "https_clone_url": "https://codeberg.org/Sheriff_U3/energy_drinks.git",
+      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/energy_drinks.git",
+      "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
+      "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
+      "description": "A mod that adds energy drinks to the luanti game engine.",
+      "default_branch": "main",
+      "updated_at": "2026-09-18T04:28:32+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "Sheriff-Unit-3/energy_drinks",
+      "author": "Sheriff-Unit-3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
+      "website": "https://codeberg.org/Sheriff_U3/energy_drinks",
+      "repo_name": "energy_drinks",
+      "html_url": "https://github.com/Sheriff-Unit-3/energy_drinks",
+      "https_clone_url": "https://github.com/Sheriff-Unit-3/energy_drinks.git",
+      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/energy_drinks.git",
+      "issues_url": "https://github.com/Sheriff-Unit-3/energy_drinks/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
+      "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
+      "default_branch": "main",
+      "updated_at": "2026-09-18T02:28:40Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "launti",
+        "lua",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "testersakage/mod_mcl_signs",
       "author": "testersakage",
       "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
@@ -28,38 +127,6 @@
       "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Codeberg",
-      "full_name": "Sheriff_U3/energy_drinks",
-      "author": "Sheriff_U3",
-      "avatar_url": "https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842",
-      "website": "",
-      "repo_name": "energy_drinks",
-      "html_url": "https://codeberg.org/Sheriff_U3/energy_drinks",
-      "https_clone_url": "https://codeberg.org/Sheriff_U3/energy_drinks.git",
-      "ssh_clone_url": "git@codeberg.org:Sheriff_U3/energy_drinks.git",
-      "issues_url": "https://codeberg.org/Sheriff_U3/energy_drinks/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
-      "readme_url": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/README.md",
-      "description": "A mod that adds energy drinks to the luanti game engine.",
-      "default_branch": "main",
-      "updated_at": "2026-09-16T22:26:47+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -93,41 +160,6 @@
       "image_raw": "https://raw.githubusercontent.com/mt-mods/circuits/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/mt-mods/circuits/master/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "8a7l/npc_core",
-      "author": "8a7l",
-      "avatar_url": "https://avatars.githubusercontent.com/u/83518525?v=4",
-      "website": "",
-      "repo_name": "npc_core",
-      "html_url": "https://github.com/8a7l/npc_core",
-      "https_clone_url": "https://github.com/8a7l/npc_core.git",
-      "ssh_clone_url": "git@github.com:8a7l/npc_core.git",
-      "issues_url": "https://github.com/8a7l/npc_core/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/8a7l/npc_core/archive/refs/heads/main/npc_core.zip",
-      "description": "A flexible NPC framework for Luanti with dialogs, shops, and teleports — all editable in-game.",
-      "default_branch": "main",
-      "updated_at": "2026-09-15T11:03:02Z",
-      "license": {
-        "name": "GNU General Public License v3.0"
-      },
-      "topics": [
-        "dialogs",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod",
-        "npc",
-        "shop",
-        "teleport"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/8a7l/npc_core/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1061,37 +1093,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/throwing",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16365",
-      "repo_name": "throwing",
-      "html_url": "https://github.com/minetest-mods/throwing",
-      "https_clone_url": "https://github.com/minetest-mods/throwing.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/throwing.git",
-      "issues_url": "https://github.com/minetest-mods/throwing/issues",
-      "open_issues": 1,
-      "stars": 10,
-      "forks": 6,
-      "zip_url": "https://github.com/minetest-mods/throwing/archive/refs/heads/master/throwing.zip",
-      "description": "Extendable throwing implementation by the Eurythmia Team. This is a mod for Luanti.",
-      "default_branch": "master",
-      "updated_at": "2026-08-20T11:28:37Z",
-      "license": {
-        "name": "Mozilla Public License 2.0"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest",
-        "mod",
-        "throwing"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/throwing/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/throwing/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/classy",
       "author": "zughy-friends-minetest",
@@ -1880,5 +1881,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-18T00:21:31Z"
+  "now": "2026-09-18T05:55:27Z"
 }

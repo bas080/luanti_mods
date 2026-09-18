@@ -11,6 +11,60 @@
   </image>
 
   <item>
+    <title>npc_core (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#8a7l/npc_core</link>
+    <guid>https://github.com/8a7l/npc_core</guid>
+    <author>8a7l</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/83518525?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>8a7l</strong><br>
+      A flexible NPC framework for Luanti with dialogs, shops, and teleports — all editable in-game.<br>
+      License: Other<br>
+      <a href="https://github.com/8a7l/npc_core/archive/refs/heads/main/npc_core.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png" type="image/png" />
+    <pubDate>2026-09-18T05:36:18Z</pubDate>
+  </item>
+  <item>
+    <title>energy_drinks (Codeberg)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
+    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
+    <author>Sheriff_U3</author>
+    <description><![CDATA[
+      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff_U3</strong><br>
+      A mod that adds energy drinks to the luanti game engine.<br>
+      License: Unknown<br>
+      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-09-18T04:28:32+02:00</pubDate>
+  </item>
+  <item>
+    <title>energy_drinks (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/energy_drinks</link>
+    <guid>https://github.com/Sheriff-Unit-3/energy_drinks</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      (Mirror) A mod that adds energy drinks to the luanti game engine.<br>
+      License: Other<br>
+      <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
+    <pubDate>2026-09-18T02:28:40Z</pubDate>
+  </item>
+  <item>
     <title>mod_mcl_signs (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#testersakage/mod_mcl_signs</link>
     <guid>https://github.com/testersakage/mod_mcl_signs</guid>
@@ -29,24 +83,6 @@
     <pubDate>2026-09-17T01:14:54Z</pubDate>
   </item>
   <item>
-    <title>energy_drinks (Codeberg)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff_U3/energy_drinks</link>
-    <guid>https://codeberg.org/Sheriff_U3/energy_drinks</guid>
-    <author>Sheriff_U3</author>
-    <description><![CDATA[
-      <img src="https://codeberg.org/avatars/b2fb2c19cb613e9913be79c61740bf10a912e792b4e756fcf6b0f4955abee842" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff_U3</strong><br>
-      A mod that adds energy drinks to the luanti game engine.<br>
-      License: Unknown<br>
-      <a href="https://codeberg.org/Sheriff_U3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-09-16T22:26:47+02:00</pubDate>
-  </item>
-  <item>
     <title>circuits (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#mt-mods/circuits</link>
     <guid>https://github.com/mt-mods/circuits</guid>
@@ -63,24 +99,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/circuits/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/mt-mods/circuits/master/screenshot.png" type="image/png" />
     <pubDate>2026-09-16T20:58:07Z</pubDate>
-  </item>
-  <item>
-    <title>npc_core (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#8a7l/npc_core</link>
-    <guid>https://github.com/8a7l/npc_core</guid>
-    <author>8a7l</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/83518525?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>8a7l</strong><br>
-      A flexible NPC framework for Luanti with dialogs, shops, and teleports — all editable in-game.<br>
-      License: GNU General Public License v3.0<br>
-      <a href="https://github.com/8a7l/npc_core/archive/refs/heads/main/npc_core.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png" type="image/png" />
-    <pubDate>2026-09-15T11:03:02Z</pubDate>
   </item>
   <item>
     <title>achievements_lib (Gitlab)</title>
@@ -621,24 +639,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/playerfactions/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/mt-mods/playerfactions/master/screenshot.png" type="image/png" />
     <pubDate>2026-08-20T22:15:44Z</pubDate>
-  </item>
-  <item>
-    <title>throwing (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/throwing</link>
-    <guid>https://github.com/minetest-mods/throwing</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Extendable throwing implementation by the Eurythmia Team. This is a mod for Luanti.<br>
-      License: Mozilla Public License 2.0<br>
-      <a href="https://github.com/minetest-mods/throwing/archive/refs/heads/master/throwing.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/throwing/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/throwing/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/throwing/master/screenshot.png" type="image/png" />
-    <pubDate>2026-08-20T11:28:37Z</pubDate>
   </item>
   <item>
     <title>Classy (Gitlab)</title>
