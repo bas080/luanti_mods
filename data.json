@@ -2,6 +2,75 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "minetest-mods/drawers",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "",
+      "repo_name": "drawers",
+      "html_url": "https://github.com/minetest-mods/drawers",
+      "https_clone_url": "https://github.com/minetest-mods/drawers.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/drawers.git",
+      "issues_url": "https://github.com/minetest-mods/drawers/issues",
+      "open_issues": 24,
+      "stars": 23,
+      "forks": 28,
+      "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
+      "description": "[MTG/MCL2] A Luanti/Minetest Mod adding storage drawers in different sizes and wood types.",
+      "default_branch": "master",
+      "updated_at": "2026-09-19T11:11:19Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "i18n",
+        "intllib",
+        "luanti-mod",
+        "mineclone",
+        "mineclone2",
+        "minetest",
+        "minetest-mod",
+        "mod",
+        "pipeworks",
+        "screwdriver",
+        "storage"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/drawers/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/areas",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/ShadowNinja/areas/",
+      "repo_name": "areas",
+      "html_url": "https://github.com/minetest-mods/areas",
+      "https_clone_url": "https://github.com/minetest-mods/areas.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/areas.git",
+      "issues_url": "https://github.com/minetest-mods/areas/issues",
+      "open_issues": 15,
+      "stars": 59,
+      "forks": 58,
+      "zip_url": "https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip",
+      "description": "Protected areas and management tools for your Luanti server",
+      "default_branch": "master",
+      "updated_at": "2026-09-19T11:11:03Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "management",
+        "minetest-mod",
+        "protection"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/areas/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "8a7l/npc_core",
       "author": "8a7l",
       "avatar_url": "https://avatars.githubusercontent.com/u/83518525?v=4",
@@ -510,44 +579,6 @@
       "image_raw": "https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Voxrame/helpers/master/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/drawers",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "",
-      "repo_name": "drawers",
-      "html_url": "https://github.com/minetest-mods/drawers",
-      "https_clone_url": "https://github.com/minetest-mods/drawers.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/drawers.git",
-      "issues_url": "https://github.com/minetest-mods/drawers/issues",
-      "open_issues": 26,
-      "stars": 23,
-      "forks": 28,
-      "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
-      "description": "[MTG/MCL2] A Luanti/Minetest Mod adding storage drawers in different sizes and wood types.",
-      "default_branch": "master",
-      "updated_at": "2026-09-05T11:30:18Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "i18n",
-        "intllib",
-        "luanti-mod",
-        "mineclone",
-        "mineclone2",
-        "minetest",
-        "minetest-mod",
-        "mod",
-        "pipeworks",
-        "screwdriver",
-        "storage"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/drawers/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1061,35 +1092,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/character_creator/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/character_creator/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/playerfactions",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "playerfactions",
-      "html_url": "https://github.com/mt-mods/playerfactions",
-      "https_clone_url": "https://github.com/mt-mods/playerfactions.git",
-      "ssh_clone_url": "git@github.com:mt-mods/playerfactions.git",
-      "issues_url": "https://github.com/mt-mods/playerfactions/issues",
-      "open_issues": 3,
-      "stars": 3,
-      "forks": 5,
-      "zip_url": "https://github.com/mt-mods/playerfactions/archive/refs/heads/master/playerfactions.zip",
-      "description": "",
-      "default_branch": "master",
-      "updated_at": "2026-08-20T22:15:44Z",
-      "license": {
-        "name": "GNU General Public License v3.0"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/playerfactions/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/playerfactions/master/README.md",
       "has_stats": true
     },
     {
@@ -1881,5 +1883,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-19T10:59:13Z"
+  "now": "2026-09-19T14:25:09Z"
 }
