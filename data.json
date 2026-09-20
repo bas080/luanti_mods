@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
       "description": "Adiciona um sistema de reputação simples ao seu servidor!",
       "default_branch": "release",
-      "updated_at": "2026-09-20T02:15:30.727Z",
+      "updated_at": "2026-09-20T11:42:36.111Z",
       "license": {
         "name": "Unknown"
       },
@@ -29,6 +29,66 @@
       ],
       "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
       "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/angledwalls",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/TumeniNodes/angledwalls/",
+      "repo_name": "angledwalls",
+      "html_url": "https://github.com/minetest-mods/angledwalls",
+      "https_clone_url": "https://github.com/minetest-mods/angledwalls.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/angledwalls.git",
+      "issues_url": "https://github.com/minetest-mods/angledwalls/issues",
+      "open_issues": 2,
+      "stars": 5,
+      "forks": 7,
+      "zip_url": "https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip",
+      "description": "Angled walls, glass, and doors for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-09-20T11:00:22Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "angled-walls",
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1789888779",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-09-20T07:19:39.548Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -350,36 +410,6 @@
         "weapons"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1789215065",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-09-12T12:11:05.538Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -1065,36 +1095,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/character_creator",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=13138",
-      "repo_name": "character_creator",
-      "html_url": "https://github.com/minetest-mods/character_creator",
-      "https_clone_url": "https://github.com/minetest-mods/character_creator.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/character_creator.git",
-      "issues_url": "https://github.com/minetest-mods/character_creator/issues",
-      "open_issues": 2,
-      "stars": 11,
-      "forks": 13,
-      "zip_url": "https://github.com/minetest-mods/character_creator/archive/refs/heads/master/character_creator.zip",
-      "description": "Character customization (Voxelands inspiration)",
-      "default_branch": "master",
-      "updated_at": "2026-08-23T08:21:31Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/character_creator/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/character_creator/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/classy",
       "author": "zughy-friends-minetest",
@@ -1130,7 +1130,7 @@
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/craftoplus",
       "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1789881217",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1789895326",
       "website": "",
       "repo_name": "CraftoPlus",
       "html_url": "https://gitlab.com/Mish7913/craftoplus",
@@ -1883,5 +1883,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-20T06:18:03Z"
+  "now": "2026-09-20T12:21:52Z"
 }

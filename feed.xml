@@ -26,7 +26,43 @@
 
     <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-09-20T02:15:30.727Z</pubDate>
+    <pubDate>2026-09-20T11:42:36.111Z</pubDate>
+  </item>
+  <item>
+    <title>angledwalls (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/angledwalls</link>
+    <guid>https://github.com/minetest-mods/angledwalls</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Angled walls, glass, and doors for Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" type="image/png" />
+    <pubDate>2026-09-20T11:00:22Z</pubDate>
+  </item>
+  <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1789888779" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-09-20T07:19:39.548Z</pubDate>
   </item>
   <item>
     <title>Hub (Gitlab)</title>
@@ -207,24 +243,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-09-13T08:09:50.827Z</pubDate>
-  </item>
-  <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1789215065" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-09-12T12:11:05.538Z</pubDate>
   </item>
   <item>
     <title>b3d_to_gltf (Codeberg)</title>
@@ -623,24 +641,6 @@
     <pubDate>2026-08-24T02:43:38+02:00</pubDate>
   </item>
   <item>
-    <title>character_creator (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/character_creator</link>
-    <guid>https://github.com/minetest-mods/character_creator</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Character customization (Voxelands inspiration)<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/character_creator/archive/refs/heads/master/character_creator.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/character_creator/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/character_creator/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/character_creator/master/screenshot.png" type="image/png" />
-    <pubDate>2026-08-23T08:21:31Z</pubDate>
-  </item>
-  <item>
     <title>Classy (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/classy</link>
     <guid>https://gitlab.com/zughy-friends-minetest/classy</guid>
@@ -664,7 +664,7 @@
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1789881217" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1789895326" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for Luanti games.<br>
       License: Unknown<br>
