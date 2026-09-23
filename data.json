@@ -17,7 +17,7 @@
       "zip_url": "https://github.com/Voxrame/helpers/archive/refs/heads/master/helpers.zip",
       "description": "[READ-ONLY] Splitted Voxrame `helpers` package",
       "default_branch": "master",
-      "updated_at": "2026-09-23T00:28:32Z",
+      "updated_at": "2026-09-23T01:56:33Z",
       "license": {
         "name": "MIT License"
       },
@@ -1883,5 +1883,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-23T00:34:21Z"
+  "now": "2026-09-23T05:58:37Z"
 }
