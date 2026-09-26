@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "hosted_on": "Codeberg",
+      "full_name": "kmdev/coins",
+      "author": "kmdev",
+      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
+      "website": "",
+      "repo_name": "coins",
+      "html_url": "https://codeberg.org/kmdev/coins",
+      "https_clone_url": "https://codeberg.org/kmdev/coins.git",
+      "ssh_clone_url": "git@codeberg.org:kmdev/coins.git",
+      "issues_url": "https://codeberg.org/kmdev/coins/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip",
+      "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
+      "description": "A mod for Luanti that adds coins in to the game",
+      "default_branch": "main",
+      "updated_at": "2026-09-26T09:15:10+02:00",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "lua",
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
       "author": "Sakura-Mods/luanti-mods",
@@ -18,7 +48,7 @@
       "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
       "description": "Adiciona um sistema de reputação simples ao seu servidor!",
       "default_branch": "release",
-      "updated_at": "2026-09-25T22:36:13.462Z",
+      "updated_at": "2026-09-26T02:05:19.292Z",
       "license": {
         "name": "Unknown"
       },
@@ -1420,36 +1450,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Codeberg",
-      "full_name": "kmdev/coins",
-      "author": "kmdev",
-      "avatar_url": "https://codeberg.org/avatars/9bbaf2dbdd30f66279a38e4eb70f7159",
-      "website": "",
-      "repo_name": "coins",
-      "html_url": "https://codeberg.org/kmdev/coins",
-      "https_clone_url": "https://codeberg.org/kmdev/coins.git",
-      "ssh_clone_url": "git@codeberg.org:kmdev/coins.git",
-      "issues_url": "https://codeberg.org/kmdev/coins/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://codeberg.org/kmdev/coins/archive/refs/heads/main/coins.zip",
-      "readme_url": "https://codeberg.org/kmdev/coins/raw/main/README.md",
-      "description": "A mod for Luanti that adds coins in to the game",
-      "default_branch": "main",
-      "updated_at": "2026-06-14T01:03:10+02:00",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod"
-      ],
-      "image_raw": "https://codeberg.org/kmdev/coins/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "AntumLuanti/mod-amber",
       "author": "AntumLuanti",
@@ -1883,5 +1883,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-26T01:34:05Z"
+  "now": "2026-09-26T07:41:13Z"
 }
