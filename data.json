@@ -17,7 +17,7 @@
       "zip_url": "https://github.com/mt-mods/circuits/archive/refs/heads/master/circuits.zip",
       "description": "Simple circuitry modpack for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-09-30T00:07:03Z",
+      "updated_at": "2026-09-30T01:38:57Z",
       "license": {
         "name": "Unknown"
       },
@@ -1881,5 +1881,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-09-30T00:27:24Z"
+  "now": "2026-09-30T06:43:07Z"
 }
