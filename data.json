@@ -17,9 +17,9 @@
       "zip_url": "https://github.com/mt-mods/circuits/archive/refs/heads/master/circuits.zip",
       "description": "Simple circuitry modpack for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-10-02T14:44:34Z",
+      "updated_at": "2026-10-02T22:35:27Z",
       "license": {
-        "name": "Unknown"
+        "name": "Other"
       },
       "topics": [
         "lua",
@@ -37,7 +37,7 @@
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1790697537",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1790980247",
       "website": "",
       "repo_name": "Block League",
       "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
@@ -51,7 +51,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-09-29T15:58:57.125Z",
+      "updated_at": "2026-10-02T22:30:47.306Z",
       "license": {
         "name": "Unknown"
       },
@@ -80,7 +80,7 @@
       "zip_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity/archive/refs/heads/main/seeking_eternity.zip",
       "description": "a xianxia inspired mod for luanti",
       "default_branch": "main",
-      "updated_at": "2026-09-28T23:59:26Z",
+      "updated_at": "2026-10-02T20:11:24Z",
       "license": {
         "name": "MIT License"
       },
@@ -1881,5 +1881,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-02T18:24:42Z"
+  "now": "2026-10-02T22:57:39Z"
 }
