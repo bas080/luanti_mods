@@ -17,7 +17,7 @@
       "zip_url": "https://github.com/mt-mods/circuits/archive/refs/heads/master/circuits.zip",
       "description": "Simple circuitry modpack for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-09-30T01:38:57Z",
+      "updated_at": "2026-10-02T14:44:34Z",
       "license": {
         "name": "Unknown"
       },
@@ -1191,7 +1191,7 @@
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/craftoplus",
       "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1790692424",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1790956884",
       "website": "",
       "repo_name": "CraftoPlus",
       "html_url": "https://gitlab.com/Mish7913/craftoplus",
@@ -1881,5 +1881,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-02T12:34:44Z"
+  "now": "2026-10-02T18:24:42Z"
 }
