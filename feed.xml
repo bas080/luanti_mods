@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>seeking_eternity (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#SnakeOfFlowingTime/seeking_eternity</link>
+    <guid>https://github.com/SnakeOfFlowingTime/seeking_eternity</guid>
+    <author>SnakeOfFlowingTime</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/260296717?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>SnakeOfFlowingTime</strong><br>
+      a xianxia inspired mod for luanti<br>
+      License: MIT License<br>
+      <a href="https://github.com/SnakeOfFlowingTime/seeking_eternity/archive/refs/heads/main/seeking_eternity.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png" type="image/png" />
+    <pubDate>2026-10-03T00:58:10Z</pubDate>
+  </item>
+  <item>
     <title>circuits (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#mt-mods/circuits</link>
     <guid>https://github.com/mt-mods/circuits</guid>
@@ -45,24 +63,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-10-02T22:30:47.306Z</pubDate>
-  </item>
-  <item>
-    <title>seeking_eternity (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#SnakeOfFlowingTime/seeking_eternity</link>
-    <guid>https://github.com/SnakeOfFlowingTime/seeking_eternity</guid>
-    <author>SnakeOfFlowingTime</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/260296717?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>SnakeOfFlowingTime</strong><br>
-      a xianxia inspired mod for luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/SnakeOfFlowingTime/seeking_eternity/archive/refs/heads/main/seeking_eternity.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-02T20:11:24Z</pubDate>
   </item>
   <item>
     <title>MariaReputation (Gitlab)</title>
