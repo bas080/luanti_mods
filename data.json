@@ -518,7 +518,7 @@
       "issues_url": "https://github.com/minetest-mods/areas/issues",
       "open_issues": 15,
       "stars": 59,
-      "forks": 58,
+      "forks": 57,
       "zip_url": "https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip",
       "description": "Protected areas and management tools for your Luanti server",
       "default_branch": "master",
@@ -1887,5 +1887,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-04T06:49:44Z"
+  "now": "2026-10-04T13:11:38Z"
 }
