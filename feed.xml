@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>nicegrass (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/nicegrass</link>
+    <guid>https://github.com/Sheriff-Unit-3/nicegrass</guid>
+    <author>Sheriff-Unit-3</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sheriff-Unit-3</strong><br>
+      Adds various nice features to grass<br>
+      License: Unknown<br>
+      <a href="https://github.com/Sheriff-Unit-3/nicegrass/archive/refs/heads/master/nicegrass.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png" type="image/png" />
+    <pubDate>2026-10-05T15:51:56Z</pubDate>
+  </item>
+  <item>
     <title>MariaReputation (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
     <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
@@ -26,7 +44,7 @@
 
     <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-10-05T02:50:36.623Z</pubDate>
+    <pubDate>2026-10-05T11:31:48.904Z</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>
@@ -99,24 +117,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/collectible-skins/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-10-03T23:27:23.759Z</pubDate>
-  </item>
-  <item>
-    <title>nicegrass (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/nicegrass</link>
-    <guid>https://github.com/Sheriff-Unit-3/nicegrass</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      Adds various nice features to grass<br>
-      License: Unknown<br>
-      <a href="https://github.com/Sheriff-Unit-3/nicegrass/archive/refs/heads/master/nicegrass.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png" type="image/png" />
-    <pubDate>2026-10-03T20:55:10Z</pubDate>
   </item>
   <item>
     <title>Hub (Gitlab)</title>
@@ -700,7 +700,7 @@
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1791093672" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1791202985" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for Luanti games.<br>
       License: Unknown<br>
