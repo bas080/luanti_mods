@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>MariaReputation (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
+    <author>Sakura-Mods&#x2F;luanti-mods</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
+      Adiciona um sistema de reputação simples ao seu servidor!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-10-05T02:50:36.623Z</pubDate>
+  </item>
+  <item>
     <title>weapons_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/weapons_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
@@ -153,24 +171,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/circuits/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/mt-mods/circuits/master/screenshot.png" type="image/png" />
     <pubDate>2026-10-02T22:35:27Z</pubDate>
-  </item>
-  <item>
-    <title>MariaReputation (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
-    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
-    <author>Sakura-Mods&#x2F;luanti-mods</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
-      Adiciona um sistema de reputação simples ao seu servidor!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-09-27T14:31:37.095Z</pubDate>
   </item>
   <item>
     <title>Soothing 32 (Gitlab)</title>
