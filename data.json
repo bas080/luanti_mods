@@ -2,6 +2,69 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "SnakeOfFlowingTime/seeking_eternity",
+      "author": "SnakeOfFlowingTime",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260296717?v=4",
+      "website": "",
+      "repo_name": "seeking_eternity",
+      "html_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity",
+      "https_clone_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity.git",
+      "ssh_clone_url": "git@github.com:SnakeOfFlowingTime/seeking_eternity.git",
+      "issues_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity/archive/refs/heads/main/seeking_eternity.zip",
+      "description": "a xianxia inspired mod for luanti",
+      "default_branch": "main",
+      "updated_at": "2026-10-05T20:46:09Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "mit-license",
+        "xianxia"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/weapons_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png?v=1791232041",
+      "website": "",
+      "repo_name": "weapons_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/weapons_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 1,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
+      "description": "Luanti library to easily register new weapons",
+      "default_branch": "main",
+      "updated_at": "2026-10-05T20:27:21.359Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "library",
+        "minetest",
+        "weapons"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "Sheriff-Unit-3/nicegrass",
       "author": "Sheriff-Unit-3",
       "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
@@ -17,7 +80,7 @@
       "zip_url": "https://github.com/Sheriff-Unit-3/nicegrass/archive/refs/heads/master/nicegrass.zip",
       "description": "Adds various nice features to grass",
       "default_branch": "master",
-      "updated_at": "2026-10-05T15:51:56Z",
+      "updated_at": "2026-10-05T18:47:18Z",
       "license": {
         "name": "Unknown"
       },
@@ -34,6 +97,40 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "limafresh/paving_slabs",
+      "author": "limafresh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173814432?v=4",
+      "website": "",
+      "repo_name": "paving_slabs",
+      "html_url": "https://github.com/limafresh/paving_slabs",
+      "https_clone_url": "https://github.com/limafresh/paving_slabs.git",
+      "ssh_clone_url": "git@github.com:limafresh/paving_slabs.git",
+      "issues_url": "https://github.com/limafresh/paving_slabs/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/limafresh/paving_slabs/archive/refs/heads/main/paving_slabs.zip",
+      "description": "Paving slabs nodes for Luanti",
+      "default_branch": "main",
+      "updated_at": "2026-10-05T18:22:46Z",
+      "license": {
+        "name": "The Unlicense"
+      },
+      "topics": [
+        "lua-mod",
+        "lua-modding",
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/README.md",
       "has_stats": false
     },
     {
@@ -65,38 +162,6 @@
       ],
       "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/weapons_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/52006599/icon.png?v=1791121475",
-      "website": "",
-      "repo_name": "weapons_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/weapons_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 1,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/archive/main/weapons_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/README.md",
-      "description": "Luanti library to easily register new weapons",
-      "default_branch": "main",
-      "updated_at": "2026-10-04T13:31:28.187Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "api",
-        "library",
-        "minetest",
-        "weapons"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -218,37 +283,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "SnakeOfFlowingTime/seeking_eternity",
-      "author": "SnakeOfFlowingTime",
-      "avatar_url": "https://avatars.githubusercontent.com/u/260296717?v=4",
-      "website": "",
-      "repo_name": "seeking_eternity",
-      "html_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity",
-      "https_clone_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity.git",
-      "ssh_clone_url": "git@github.com:SnakeOfFlowingTime/seeking_eternity.git",
-      "issues_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity/archive/refs/heads/main/seeking_eternity.zip",
-      "description": "a xianxia inspired mod for luanti",
-      "default_branch": "main",
-      "updated_at": "2026-10-03T00:58:10Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "mit-license",
-        "xianxia"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -1101,35 +1135,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/emote",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/sofar/emote/",
-      "repo_name": "emote",
-      "html_url": "https://github.com/minetest-mods/emote",
-      "https_clone_url": "https://github.com/minetest-mods/emote.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/emote.git",
-      "issues_url": "https://github.com/minetest-mods/emote/issues",
-      "open_issues": 2,
-      "stars": 6,
-      "forks": 5,
-      "zip_url": "https://github.com/minetest-mods/emote/archive/refs/heads/master/emote.zip",
-      "description": "Emote - a player emote API",
-      "default_branch": "master",
-      "updated_at": "2026-08-24T19:29:15Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/emote/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/emote/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/circuits",
       "author": "Sheriff_U3",
@@ -1887,5 +1892,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-05T16:00:08Z"
+  "now": "2026-10-05T22:37:10Z"
 }
