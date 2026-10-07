@@ -2,6 +2,40 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "limafresh/paving_slabs",
+      "author": "limafresh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173814432?v=4",
+      "website": "https://content.luanti.org/packages/limafresh/paving_slabs/",
+      "repo_name": "paving_slabs",
+      "html_url": "https://github.com/limafresh/paving_slabs",
+      "https_clone_url": "https://github.com/limafresh/paving_slabs.git",
+      "ssh_clone_url": "git@github.com:limafresh/paving_slabs.git",
+      "issues_url": "https://github.com/limafresh/paving_slabs/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 1,
+      "zip_url": "https://github.com/limafresh/paving_slabs/archive/refs/heads/main/paving_slabs.zip",
+      "description": "Paving slabs nodes for Luanti",
+      "default_branch": "main",
+      "updated_at": "2026-10-07T05:29:26Z",
+      "license": {
+        "name": "The Unlicense"
+      },
+      "topics": [
+        "lua-mod",
+        "lua-modding",
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "SnakeOfFlowingTime/seeking_eternity",
       "author": "SnakeOfFlowingTime",
       "avatar_url": "https://avatars.githubusercontent.com/u/260296717?v=4",
@@ -157,40 +191,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "limafresh/paving_slabs",
-      "author": "limafresh",
-      "avatar_url": "https://avatars.githubusercontent.com/u/173814432?v=4",
-      "website": "",
-      "repo_name": "paving_slabs",
-      "html_url": "https://github.com/limafresh/paving_slabs",
-      "https_clone_url": "https://github.com/limafresh/paving_slabs.git",
-      "ssh_clone_url": "git@github.com:limafresh/paving_slabs.git",
-      "issues_url": "https://github.com/limafresh/paving_slabs/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/limafresh/paving_slabs/archive/refs/heads/main/paving_slabs.zip",
-      "description": "Paving slabs nodes for Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-10-05T18:22:46Z",
-      "license": {
-        "name": "The Unlicense"
-      },
-      "topics": [
-        "lua-mod",
-        "lua-modding",
-        "luanti",
-        "luanti-mod",
-        "luanti-modding",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/README.md",
       "has_stats": false
     },
     {
@@ -1892,5 +1892,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-07T01:32:03Z"
+  "now": "2026-10-07T08:38:56Z"
 }
