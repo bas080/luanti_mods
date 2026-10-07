@@ -2,6 +2,40 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "limafresh/signlike_letters",
+      "author": "limafresh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/173814432?v=4",
+      "website": "https://content.luanti.org/packages/limafresh/signlike_letters",
+      "repo_name": "signlike_letters",
+      "html_url": "https://github.com/limafresh/signlike_letters",
+      "https_clone_url": "https://github.com/limafresh/signlike_letters.git",
+      "ssh_clone_url": "git@github.com:limafresh/signlike_letters.git",
+      "issues_url": "https://github.com/limafresh/signlike_letters/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/limafresh/signlike_letters/archive/refs/heads/main/signlike_letters.zip",
+      "description": "A mod for Luanti that adds sign-like letters in various colors, with and without light",
+      "default_branch": "main",
+      "updated_at": "2026-10-07T18:42:43Z",
+      "license": {
+        "name": "Creative Commons Zero v1.0 Universal"
+      },
+      "topics": [
+        "lua-mod",
+        "lua-project",
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/limafresh/signlike_letters/main/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "limafresh/paving_slabs",
       "author": "limafresh",
       "avatar_url": "https://avatars.githubusercontent.com/u/173814432?v=4",
@@ -1104,37 +1138,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/ehlphabet",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "ehlphabet",
-      "html_url": "https://github.com/mt-mods/ehlphabet",
-      "https_clone_url": "https://github.com/mt-mods/ehlphabet.git",
-      "ssh_clone_url": "git@github.com:mt-mods/ehlphabet.git",
-      "issues_url": "https://github.com/mt-mods/ehlphabet/issues",
-      "open_issues": 1,
-      "stars": 1,
-      "forks": 2,
-      "zip_url": "https://github.com/mt-mods/ehlphabet/archive/refs/heads/master/ehlphabet.zip",
-      "description": "Fork of https://git.bananach.space/ehlphabet.git",
-      "default_branch": "master",
-      "updated_at": "2026-08-25T19:45:17Z",
-      "license": {
-        "name": "Do What The F*ck You Want To Public License"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/ehlphabet/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/ehlphabet/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/circuits",
       "author": "Sheriff_U3",
@@ -1892,5 +1895,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-07T16:28:15Z"
+  "now": "2026-10-07T21:58:32Z"
 }
