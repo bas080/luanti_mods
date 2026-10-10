@@ -2,6 +2,68 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "culmat/glowshroom",
+      "author": "culmat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/638519?v=4",
+      "website": "",
+      "repo_name": "glowshroom",
+      "html_url": "https://github.com/culmat/glowshroom",
+      "https_clone_url": "https://github.com/culmat/glowshroom.git",
+      "ssh_clone_url": "git@github.com:culmat/glowshroom.git",
+      "issues_url": "https://github.com/culmat/glowshroom/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/culmat/glowshroom/archive/refs/heads/main/glowshroom.zip",
+      "description": "Bioluminescent mushrooms that grow in dark caves of any game: Minetest Game, Mineclonia and VoxeLibre. Luanti mod.",
+      "default_branch": "main",
+      "updated_at": "2026-10-10T22:15:11Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "mineclonia",
+        "minetest",
+        "voxelibre"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/culmat/glowshroom/main/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/nether",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
+      "repo_name": "nether",
+      "html_url": "https://github.com/minetest-mods/nether",
+      "https_clone_url": "https://github.com/minetest-mods/nether.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/nether.git",
+      "issues_url": "https://github.com/minetest-mods/nether/issues",
+      "open_issues": 7,
+      "stars": 25,
+      "forks": 29,
+      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
+      "description": "Nether mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-10-10T19:38:09Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod",
+        "nether"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "Opons1/technic_many_machines",
       "author": "Opons1",
       "avatar_url": "https://avatars.githubusercontent.com/u/98196027?v=4",
@@ -1075,69 +1137,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "Oscillograph/lord-mods-lord_illuminator",
-      "author": "Oscillograph",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3993945?v=4",
-      "website": "",
-      "repo_name": "lord-mods-lord_illuminator",
-      "html_url": "https://github.com/Oscillograph/lord-mods-lord_illuminator",
-      "https_clone_url": "https://github.com/Oscillograph/lord-mods-lord_illuminator.git",
-      "ssh_clone_url": "git@github.com:Oscillograph/lord-mods-lord_illuminator.git",
-      "issues_url": "https://github.com/Oscillograph/lord-mods-lord_illuminator/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Oscillograph/lord-mods-lord_illuminator/archive/refs/heads/main/lord-mods-lord_illuminator.zip",
-      "description": "Provide light emission from a light source item currently wielded by the player.",
-      "default_branch": "main",
-      "updated_at": "2026-08-29T18:39:18Z",
-      "license": {
-        "name": "Creative Commons Zero v1.0 Universal"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "luminance"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Oscillograph/lord-mods-lord_illuminator/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Oscillograph/lord-mods-lord_illuminator/main/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/toolranks",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/toolranks",
-      "repo_name": "toolranks",
-      "html_url": "https://github.com/Sheriff-Unit-3/toolranks",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/toolranks.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/toolranks.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/toolranks/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/toolranks/archive/refs/heads/main/toolranks.zip",
-      "description": "(Mirror) A tool rank mod for the voxel game engine luanti",
-      "default_branch": "main",
-      "updated_at": "2026-08-27T23:31:33Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/toolranks/main/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/circuits",
       "author": "Sheriff_U3",
@@ -1895,5 +1894,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-10T18:35:45Z"
+  "now": "2026-10-10T22:31:37Z"
 }
