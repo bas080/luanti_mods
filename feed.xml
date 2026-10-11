@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>glowshroom (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#culmat/glowshroom</link>
+    <guid>https://github.com/culmat/glowshroom</guid>
+    <author>culmat</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/638519?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>culmat</strong><br>
+      Bioluminescent mushrooms that grow in dark caves of any game: Minetest Game, Mineclonia and VoxeLibre. Luanti mod.<br>
+      License: Other<br>
+      <a href="https://github.com/culmat/glowshroom/archive/refs/heads/main/glowshroom.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" type="image/png" />
+    <pubDate>2026-10-11T07:58:43Z</pubDate>
+  </item>
+  <item>
     <title>nether (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
     <guid>https://github.com/minetest-mods/nether</guid>
@@ -27,24 +45,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
     <pubDate>2026-10-11T01:08:11Z</pubDate>
-  </item>
-  <item>
-    <title>glowshroom (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#culmat/glowshroom</link>
-    <guid>https://github.com/culmat/glowshroom</guid>
-    <author>culmat</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/638519?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>culmat</strong><br>
-      Bioluminescent mushrooms that grow in dark caves of any game: Minetest Game, Mineclonia and VoxeLibre. Luanti mod.<br>
-      License: Other<br>
-      <a href="https://github.com/culmat/glowshroom/archive/refs/heads/main/glowshroom.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-10T22:15:11Z</pubDate>
   </item>
   <item>
     <title>technic_many_machines (Github)</title>
@@ -700,7 +700,7 @@
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1791542373" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1791698202" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for Luanti games.<br>
       License: Unknown<br>
