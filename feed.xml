@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>nether (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
+    <guid>https://github.com/minetest-mods/nether</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Nether mod for Luanti&#x2F;Minetest<br>
+      License: Unknown<br>
+      <a href="https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
+    <pubDate>2026-10-11T01:08:11Z</pubDate>
+  </item>
+  <item>
     <title>glowshroom (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#culmat/glowshroom</link>
     <guid>https://github.com/culmat/glowshroom</guid>
@@ -27,24 +45,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" type="image/png" />
     <pubDate>2026-10-10T22:15:11Z</pubDate>
-  </item>
-  <item>
-    <title>nether (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
-    <guid>https://github.com/minetest-mods/nether</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Nether mod for Luanti&#x2F;Minetest<br>
-      License: Unknown<br>
-      <a href="https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
-    <pubDate>2026-10-10T19:38:09Z</pubDate>
   </item>
   <item>
     <title>technic_many_machines (Github)</title>
