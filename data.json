@@ -1,6 +1,68 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/soothing-32",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png?v=1791719119",
+      "website": "",
+      "repo_name": "Soothing 32",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/soothing-32",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/soothing-32.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/soothing-32.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/issues",
+      "open_issues": 0,
+      "stars": 2,
+      "forks": 3,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/archive/master/soothing-32.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/README.md",
+      "description": "Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!",
+      "default_branch": "master",
+      "updated_at": "2026-10-11T11:45:19.482Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "Textures",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/digistuff",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "digistuff",
+      "html_url": "https://github.com/mt-mods/digistuff",
+      "https_clone_url": "https://github.com/mt-mods/digistuff.git",
+      "ssh_clone_url": "git@github.com:mt-mods/digistuff.git",
+      "issues_url": "https://github.com/mt-mods/digistuff/issues",
+      "open_issues": 21,
+      "stars": 3,
+      "forks": 14,
+      "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
+      "description": "Fork of http://cheapiesystems.com/git/digistuff",
+      "default_branch": "master",
+      "updated_at": "2026-10-11T09:18:00Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "digilines",
+        "luanti",
+        "luanti-mod",
+        "minetest",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/digistuff/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "culmat/glowshroom",
       "author": "culmat",
@@ -440,36 +502,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/mt-mods/circuits/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/mt-mods/circuits/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/soothing-32",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18398208/tp.png?v=1790503776",
-      "website": "",
-      "repo_name": "Soothing 32",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/soothing-32",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/soothing-32.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/soothing-32.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/issues",
-      "open_issues": 0,
-      "stars": 2,
-      "forks": 3,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/archive/master/soothing-32.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/README.md",
-      "description": "Lightweight yet aesthetically pleasing texture pack for Luanti. Seriously, it could run on a toaster!",
-      "default_branch": "master",
-      "updated_at": "2026-09-27T09:54:48.125Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "Textures",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -1105,35 +1137,6 @@
         "mod"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/moretrees",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "moretrees",
-      "html_url": "https://github.com/mt-mods/moretrees",
-      "https_clone_url": "https://github.com/mt-mods/moretrees.git",
-      "ssh_clone_url": "git@github.com:mt-mods/moretrees.git",
-      "issues_url": "https://github.com/mt-mods/moretrees/issues",
-      "open_issues": 12,
-      "stars": 9,
-      "forks": 15,
-      "zip_url": "https://github.com/mt-mods/moretrees/archive/refs/heads/master/moretrees.zip",
-      "description": "",
-      "default_branch": "master",
-      "updated_at": "2026-08-30T04:50:34Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/moretrees/master/README.md",
       "has_stats": true
     },
     {
@@ -1894,5 +1897,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-11T08:50:52Z"
+  "now": "2026-10-11T15:40:54Z"
 }
