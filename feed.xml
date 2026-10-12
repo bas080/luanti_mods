@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>simple_replace_plus (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Aeonovyli/simple_replace_plus</link>
+    <guid>https://github.com/Aeonovyli/simple_replace_plus</guid>
+    <author>Aeonovyli</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/178652409?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Aeonovyli</strong><br>
+      Mod for luanti to juggle complicated actions, designed for VoxelLibre.<br>
+      License: Other<br>
+      <a href="https://github.com/Aeonovyli/simple_replace_plus/archive/refs/heads/main/simple_replace_plus.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png" type="image/png" />
+    <pubDate>2026-10-12T05:55:26Z</pubDate>
+  </item>
+  <item>
+    <title>digistuff (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/digistuff</link>
+    <guid>https://github.com/mt-mods/digistuff</guid>
+    <author>mt-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      Fork of http:&#x2F;&#x2F;cheapiesystems.com&#x2F;git&#x2F;digistuff<br>
+      License: Unknown<br>
+      <a href="https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" type="image/png" />
+    <pubDate>2026-10-12T04:30:54Z</pubDate>
+  </item>
+  <item>
     <title>circuits (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#mt-mods/circuits</link>
     <guid>https://github.com/mt-mods/circuits</guid>
@@ -63,24 +99,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/soothing-32/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-10-11T11:45:19.482Z</pubDate>
-  </item>
-  <item>
-    <title>digistuff (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#mt-mods/digistuff</link>
-    <guid>https://github.com/mt-mods/digistuff</guid>
-    <author>mt-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>mt-mods</strong><br>
-      Fork of http:&#x2F;&#x2F;cheapiesystems.com&#x2F;git&#x2F;digistuff<br>
-      License: Unknown<br>
-      <a href="https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png" type="image/png" />
-    <pubDate>2026-10-11T09:18:00Z</pubDate>
   </item>
   <item>
     <title>glowshroom (Github)</title>
@@ -585,24 +603,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/wildlife/master/screenshot.png" type="image/png" />
     <pubDate>2026-09-06T01:21:34Z</pubDate>
-  </item>
-  <item>
-    <title>spacecannon (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#mt-mods/spacecannon</link>
-    <guid>https://github.com/mt-mods/spacecannon</guid>
-    <author>mt-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>mt-mods</strong><br>
-      Adds five scifi&#x2F;space cannons with various projectile-speeds and explosion-strengths.<br>
-      License: Other<br>
-      <a href="https://github.com/mt-mods/spacecannon/archive/refs/heads/master/spacecannon.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/mt-mods/spacecannon/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/spacecannon/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/mt-mods/spacecannon/master/screenshot.png" type="image/png" />
-    <pubDate>2026-09-04T13:14:11Z</pubDate>
   </item>
   <item>
     <title>country_lib (Gitlab)</title>
