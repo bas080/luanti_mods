@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
       "description": "Adiciona um sistema de reputação simples ao seu servidor!",
       "default_branch": "release",
-      "updated_at": "2026-10-22T00:51:37.393Z",
+      "updated_at": "2026-10-22T15:03:49.405Z",
       "license": {
         "name": "Unknown"
       },
@@ -28,6 +28,96 @@
         "minetest"
       ],
       "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Mish7913/natural_habitat",
+      "author": "Mish7913",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792663901",
+      "website": "",
+      "repo_name": "Natural Habitat",
+      "html_url": "https://gitlab.com/Mish7913/natural_habitat",
+      "https_clone_url": "https://gitlab.com/Mish7913/natural_habitat.git",
+      "ssh_clone_url": "git@gitlab.com:Mish7913/natural_habitat.git",
+      "issues_url": "https://gitlab.com/Mish7913/natural_habitat/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip",
+      "readme_url": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/README.md",
+      "description": "Mod for \"Minetest Game\" and \"MineClonia\".",
+      "default_branch": "main",
+      "updated_at": "2026-10-22T10:58:24.533Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "mod",
+        "nature"
+      ],
+      "image_raw": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Mish7913/craftoplus",
+      "author": "Mish7913",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792663901",
+      "website": "",
+      "repo_name": "CraftoPlus",
+      "html_url": "https://gitlab.com/Mish7913/craftoplus",
+      "https_clone_url": "https://gitlab.com/Mish7913/craftoplus.git",
+      "ssh_clone_url": "git@gitlab.com:Mish7913/craftoplus.git",
+      "issues_url": "https://gitlab.com/Mish7913/craftoplus/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip",
+      "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
+      "description": "Mod for Luanti games.",
+      "default_branch": "main",
+      "updated_at": "2026-10-22T10:31:09.277Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "craft",
+        "mod"
+      ],
+      "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Mish7913/m7a",
+      "author": "Mish7913",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792663901",
+      "website": "",
+      "repo_name": "m7a",
+      "html_url": "https://gitlab.com/Mish7913/m7a",
+      "https_clone_url": "https://gitlab.com/Mish7913/m7a.git",
+      "ssh_clone_url": "git@gitlab.com:Mish7913/m7a.git",
+      "issues_url": "https://gitlab.com/Mish7913/m7a/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip",
+      "readme_url": "https://gitlab.com/Mish7913/m7a/-/raw/main/README.md",
+      "description": "API for Lianti Game",
+      "default_branch": "main",
+      "updated_at": "2026-10-22T10:14:29.407Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "lua"
+      ],
+      "image_raw": "https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png",
       "has_stats": false
     },
     {
@@ -62,69 +152,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "luk3yx/minetest-flow",
-      "author": "luk3yx",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3182651?v=4",
-      "website": "",
-      "repo_name": "minetest-flow",
-      "html_url": "https://github.com/luk3yx/minetest-flow",
-      "https_clone_url": "https://github.com/luk3yx/minetest-flow.git",
-      "ssh_clone_url": "git@github.com:luk3yx/minetest-flow.git",
-      "issues_url": "https://github.com/luk3yx/minetest-flow/issues",
-      "open_issues": 2,
-      "stars": 8,
-      "forks": 2,
-      "zip_url": "https://github.com/luk3yx/minetest-flow/archive/refs/heads/main/minetest-flow.zip",
-      "description": "Yet another formspec library for ~~Minetest~~ Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-10-20T08:44:33Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/luk3yx/minetest-flow/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/luk3yx/minetest-flow/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/digistuff",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "digistuff",
-      "html_url": "https://github.com/mt-mods/digistuff",
-      "https_clone_url": "https://github.com/mt-mods/digistuff.git",
-      "ssh_clone_url": "git@github.com:mt-mods/digistuff.git",
-      "issues_url": "https://github.com/mt-mods/digistuff/issues",
-      "open_issues": 20,
-      "stars": 3,
-      "forks": 14,
-      "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
-      "description": "Fork of http://cheapiesystems.com/git/digistuff",
-      "default_branch": "master",
-      "updated_at": "2026-10-14T02:12:36Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "digilines",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/digistuff/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/digistuff/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/hub",
       "author": "zughy-friends-minetest",
@@ -152,109 +179,6 @@
         "minigames"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/hub/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/drawers",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "",
-      "repo_name": "drawers",
-      "html_url": "https://github.com/minetest-mods/drawers",
-      "https_clone_url": "https://github.com/minetest-mods/drawers.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/drawers.git",
-      "issues_url": "https://github.com/minetest-mods/drawers/issues",
-      "open_issues": 24,
-      "stars": 24,
-      "forks": 28,
-      "zip_url": "https://github.com/minetest-mods/drawers/archive/refs/heads/master/drawers.zip",
-      "description": "[MTG/MCL2] A Luanti/Minetest Mod adding storage drawers in different sizes and wood types.",
-      "default_branch": "master",
-      "updated_at": "2026-10-12T13:16:12Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "i18n",
-        "intllib",
-        "luanti-mod",
-        "mineclone",
-        "mineclone2",
-        "minetest",
-        "minetest-mod",
-        "mod",
-        "pipeworks",
-        "screwdriver",
-        "storage"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/drawers/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Aeonovyli/simple_replace_plus",
-      "author": "Aeonovyli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/178652409?v=4",
-      "website": "",
-      "repo_name": "simple_replace_plus",
-      "html_url": "https://github.com/Aeonovyli/simple_replace_plus",
-      "https_clone_url": "https://github.com/Aeonovyli/simple_replace_plus.git",
-      "ssh_clone_url": "git@github.com:Aeonovyli/simple_replace_plus.git",
-      "issues_url": "https://github.com/Aeonovyli/simple_replace_plus/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/Aeonovyli/simple_replace_plus/archive/refs/heads/main/simple_replace_plus.zip",
-      "description": "Mod for luanti to juggle complicated actions, designed for VoxelLibre.",
-      "default_branch": "main",
-      "updated_at": "2026-10-12T05:55:26Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "luanti-modding",
-        "luanti-related",
-        "luanti-tool"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "mt-mods/circuits",
-      "author": "mt-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
-      "website": "",
-      "repo_name": "circuits",
-      "html_url": "https://github.com/mt-mods/circuits",
-      "https_clone_url": "https://github.com/mt-mods/circuits.git",
-      "ssh_clone_url": "git@github.com:mt-mods/circuits.git",
-      "issues_url": "https://github.com/mt-mods/circuits/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/mt-mods/circuits/archive/refs/heads/master/circuits.zip",
-      "description": "Simple circuitry modpack for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-10-11T23:26:17Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod",
-        "luanti-modpack",
-        "minetest",
-        "minetest-mod",
-        "minetest-modpack"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/mt-mods/circuits/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/mt-mods/circuits/master/README.md",
       "has_stats": true
     },
     {
@@ -318,196 +242,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "culmat/glowshroom",
-      "author": "culmat",
-      "avatar_url": "https://avatars.githubusercontent.com/u/638519?v=4",
-      "website": "",
-      "repo_name": "glowshroom",
-      "html_url": "https://github.com/culmat/glowshroom",
-      "https_clone_url": "https://github.com/culmat/glowshroom.git",
-      "ssh_clone_url": "git@github.com:culmat/glowshroom.git",
-      "issues_url": "https://github.com/culmat/glowshroom/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/culmat/glowshroom/archive/refs/heads/main/glowshroom.zip",
-      "description": "Bioluminescent mushrooms that grow in dark caves of any game: Minetest Game, Mineclonia and VoxeLibre. Luanti mod.",
-      "default_branch": "main",
-      "updated_at": "2026-10-11T07:58:43Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "mineclonia",
-        "minetest",
-        "voxelibre"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/culmat/glowshroom/main/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/nether",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
-      "repo_name": "nether",
-      "html_url": "https://github.com/minetest-mods/nether",
-      "https_clone_url": "https://github.com/minetest-mods/nether.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/nether.git",
-      "issues_url": "https://github.com/minetest-mods/nether/issues",
-      "open_issues": 7,
-      "stars": 25,
-      "forks": 29,
-      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
-      "description": "Nether mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-10-11T01:08:11Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod",
-        "nether"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Opons1/technic_many_machines",
-      "author": "Opons1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/98196027?v=4",
-      "website": "",
-      "repo_name": "technic_many_machines",
-      "html_url": "https://github.com/Opons1/technic_many_machines",
-      "https_clone_url": "https://github.com/Opons1/technic_many_machines.git",
-      "ssh_clone_url": "git@github.com:Opons1/technic_many_machines.git",
-      "issues_url": "https://github.com/Opons1/technic_many_machines/issues",
-      "open_issues": 1,
-      "stars": 1,
-      "forks": 1,
-      "zip_url": "https://github.com/Opons1/technic_many_machines/archive/refs/heads/main/technic_many_machines.zip",
-      "description": "",
-      "default_branch": "main",
-      "updated_at": "2026-10-08T01:46:29Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Opons1/technic_many_machines/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "limafresh/signlike_letters",
-      "author": "limafresh",
-      "avatar_url": "https://avatars.githubusercontent.com/u/173814432?v=4",
-      "website": "https://content.luanti.org/packages/limafresh/signlike_letters",
-      "repo_name": "signlike_letters",
-      "html_url": "https://github.com/limafresh/signlike_letters",
-      "https_clone_url": "https://github.com/limafresh/signlike_letters.git",
-      "ssh_clone_url": "git@github.com:limafresh/signlike_letters.git",
-      "issues_url": "https://github.com/limafresh/signlike_letters/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/limafresh/signlike_letters/archive/refs/heads/main/signlike_letters.zip",
-      "description": "A mod for Luanti that adds sign-like letters in various colors, with and without light",
-      "default_branch": "main",
-      "updated_at": "2026-10-07T18:42:43Z",
-      "license": {
-        "name": "Creative Commons Zero v1.0 Universal"
-      },
-      "topics": [
-        "lua-mod",
-        "lua-project",
-        "luanti",
-        "luanti-mod",
-        "luanti-modding",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/limafresh/signlike_letters/main/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "limafresh/paving_slabs",
-      "author": "limafresh",
-      "avatar_url": "https://avatars.githubusercontent.com/u/173814432?v=4",
-      "website": "https://content.luanti.org/packages/limafresh/paving_slabs/",
-      "repo_name": "paving_slabs",
-      "html_url": "https://github.com/limafresh/paving_slabs",
-      "https_clone_url": "https://github.com/limafresh/paving_slabs.git",
-      "ssh_clone_url": "git@github.com:limafresh/paving_slabs.git",
-      "issues_url": "https://github.com/limafresh/paving_slabs/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 1,
-      "zip_url": "https://github.com/limafresh/paving_slabs/archive/refs/heads/main/paving_slabs.zip",
-      "description": "Paving slabs nodes for Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-10-07T05:29:26Z",
-      "license": {
-        "name": "The Unlicense"
-      },
-      "topics": [
-        "lua-mod",
-        "lua-modding",
-        "luanti",
-        "luanti-mod",
-        "luanti-modding",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "SnakeOfFlowingTime/seeking_eternity",
-      "author": "SnakeOfFlowingTime",
-      "avatar_url": "https://avatars.githubusercontent.com/u/260296717?v=4",
-      "website": "",
-      "repo_name": "seeking_eternity",
-      "html_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity",
-      "https_clone_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity.git",
-      "ssh_clone_url": "git@github.com:SnakeOfFlowingTime/seeking_eternity.git",
-      "issues_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity/archive/refs/heads/main/seeking_eternity.zip",
-      "description": "a xianxia inspired mod for luanti",
-      "default_branch": "main",
-      "updated_at": "2026-10-06T21:24:28Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "mit-license",
-        "xianxia"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/weapons_lib",
       "author": "zughy-friends-minetest",
@@ -538,42 +272,6 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/nicegrass",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "",
-      "repo_name": "nicegrass",
-      "html_url": "https://github.com/Sheriff-Unit-3/nicegrass",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/nicegrass.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/nicegrass.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/nicegrass/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/nicegrass/archive/refs/heads/master/nicegrass.zip",
-      "description": "Adds various nice features to grass",
-      "default_branch": "master",
-      "updated_at": "2026-10-05T18:47:18Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "game-mechanics",
-        "grass",
-        "lawn",
-        "lawn-care",
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -728,167 +426,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "Voxrame/helpers",
-      "author": "Voxrame",
-      "avatar_url": "https://avatars.githubusercontent.com/u/185856043?v=4",
-      "website": "https://voxrame.dev/utils/helpers",
-      "repo_name": "helpers",
-      "html_url": "https://github.com/Voxrame/helpers",
-      "https_clone_url": "https://github.com/Voxrame/helpers.git",
-      "ssh_clone_url": "git@github.com:Voxrame/helpers.git",
-      "issues_url": "https://github.com/Voxrame/helpers/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Voxrame/helpers/archive/refs/heads/master/helpers.zip",
-      "description": "[READ-ONLY] Splitted Voxrame `helpers` package",
-      "default_branch": "master",
-      "updated_at": "2026-09-24T06:35:29Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "component",
-        "framework",
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Voxrame/helpers/master/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/digtron",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?f=9&t=16295",
-      "repo_name": "digtron",
-      "html_url": "https://github.com/minetest-mods/digtron",
-      "https_clone_url": "https://github.com/minetest-mods/digtron.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/digtron.git",
-      "issues_url": "https://github.com/minetest-mods/digtron/issues",
-      "open_issues": 33,
-      "stars": 23,
-      "forks": 37,
-      "zip_url": "https://github.com/minetest-mods/digtron/archive/refs/heads/master/digtron.zip",
-      "description": "A modular tunnel boring/construction machine mod for Luanti/Minetest.",
-      "default_branch": "master",
-      "updated_at": "2026-09-22T19:11:50Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "construction",
-        "i18n",
-        "luanti-mod",
-        "minetest-mod",
-        "tunneldigger"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/digtron/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/digtron/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/angledwalls",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/TumeniNodes/angledwalls/",
-      "repo_name": "angledwalls",
-      "html_url": "https://github.com/minetest-mods/angledwalls",
-      "https_clone_url": "https://github.com/minetest-mods/angledwalls.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/angledwalls.git",
-      "issues_url": "https://github.com/minetest-mods/angledwalls/issues",
-      "open_issues": 2,
-      "stars": 5,
-      "forks": 7,
-      "zip_url": "https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip",
-      "description": "Angled walls, glass, and doors for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-09-20T11:00:22Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "angled-walls",
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/areas",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/ShadowNinja/areas/",
-      "repo_name": "areas",
-      "html_url": "https://github.com/minetest-mods/areas",
-      "https_clone_url": "https://github.com/minetest-mods/areas.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/areas.git",
-      "issues_url": "https://github.com/minetest-mods/areas/issues",
-      "open_issues": 15,
-      "stars": 59,
-      "forks": 57,
-      "zip_url": "https://github.com/minetest-mods/areas/archive/refs/heads/master/areas.zip",
-      "description": "Protected areas and management tools for your Luanti server",
-      "default_branch": "master",
-      "updated_at": "2026-09-19T11:11:03Z",
-      "license": {
-        "name": "GNU Lesser General Public License v2.1"
-      },
-      "topics": [
-        "luanti-mod",
-        "management",
-        "minetest-mod",
-        "protection"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/areas/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "8a7l/npc_core",
-      "author": "8a7l",
-      "avatar_url": "https://avatars.githubusercontent.com/u/83518525?v=4",
-      "website": "",
-      "repo_name": "npc_core",
-      "html_url": "https://github.com/8a7l/npc_core",
-      "https_clone_url": "https://github.com/8a7l/npc_core.git",
-      "ssh_clone_url": "git@github.com:8a7l/npc_core.git",
-      "issues_url": "https://github.com/8a7l/npc_core/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/8a7l/npc_core/archive/refs/heads/main/npc_core.zip",
-      "description": "A flexible NPC framework for Luanti with dialogs, shops, and teleports — all editable in-game.",
-      "default_branch": "main",
-      "updated_at": "2026-09-18T05:36:18Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "dialogs",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod",
-        "npc",
-        "shop",
-        "teleport"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/8a7l/npc_core/main/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/energy_drinks",
       "author": "Sheriff_U3",
@@ -919,67 +456,6 @@
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/energy_drinks",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/energy_drinks",
-      "repo_name": "energy_drinks",
-      "html_url": "https://github.com/Sheriff-Unit-3/energy_drinks",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/energy_drinks.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/energy_drinks.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/energy_drinks/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
-      "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
-      "default_branch": "main",
-      "updated_at": "2026-09-18T02:28:40Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "launti",
-        "lua",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "testersakage/mod_mcl_signs",
-      "author": "testersakage",
-      "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
-      "website": "",
-      "repo_name": "mod_mcl_signs",
-      "html_url": "https://github.com/testersakage/mod_mcl_signs",
-      "https_clone_url": "https://github.com/testersakage/mod_mcl_signs.git",
-      "ssh_clone_url": "git@github.com:testersakage/mod_mcl_signs.git",
-      "issues_url": "https://github.com/testersakage/mod_mcl_signs/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip",
-      "description": "Standalone and data-driven MCL Signs mod for Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-09-17T01:14:54Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1045,35 +521,6 @@
       ],
       "image_raw": "https://codeberg.org/Sheriff_U3/b3d_to_gltf/raw/master/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/crops",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/sofar/crops/",
-      "repo_name": "crops",
-      "html_url": "https://github.com/minetest-mods/crops",
-      "https_clone_url": "https://github.com/minetest-mods/crops.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/crops.git",
-      "issues_url": "https://github.com/minetest-mods/crops/issues",
-      "open_issues": 2,
-      "stars": 10,
-      "forks": 12,
-      "zip_url": "https://github.com/minetest-mods/crops/archive/refs/heads/master/crops.zip",
-      "description": "Various farm vegetables for Luanti/Minetest.",
-      "default_branch": "master",
-      "updated_at": "2026-09-07T17:42:49Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/crops/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/crops/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1229,36 +676,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "Mish7913/craftoplus",
-      "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792511860",
-      "website": "",
-      "repo_name": "CraftoPlus",
-      "html_url": "https://gitlab.com/Mish7913/craftoplus",
-      "https_clone_url": "https://gitlab.com/Mish7913/craftoplus.git",
-      "ssh_clone_url": "git@gitlab.com:Mish7913/craftoplus.git",
-      "issues_url": "https://gitlab.com/Mish7913/craftoplus/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip",
-      "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
-      "description": "Mod for Luanti games.",
-      "default_branch": "main",
-      "updated_at": "2026-08-16T01:23:07.944Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "craft",
-        "mod"
-      ],
-      "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/balls",
       "author": "Sheriff_U3",
@@ -1390,35 +807,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "AntumLuanti/luanti",
-      "author": "AntumLuanti",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/83080042/luanti_icon.png?v=1786830396",
-      "website": "",
-      "repo_name": "Luanti",
-      "html_url": "https://gitlab.com/AntumLuanti/luanti",
-      "https_clone_url": "https://gitlab.com/AntumLuanti/luanti.git",
-      "ssh_clone_url": "git@gitlab.com:AntumLuanti/luanti.git",
-      "issues_url": "https://gitlab.com/AntumLuanti/luanti/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 1,
-      "zip_url": "https://gitlab.com/AntumLuanti/luanti/-/archive/master/luanti.zip",
-      "readme_url": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/README.md",
-      "description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation.",
-      "default_branch": "master",
-      "updated_at": "2026-07-02T16:55:22.845Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/AntumLuanti/luanti/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "janorico/custom_spawn",
       "author": "janorico",
@@ -1448,39 +836,6 @@
         "mod"
       ],
       "image_raw": "https://codeberg.org/janorico/custom_spawn/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "AntumLuanti/mod-con_mobs",
-      "author": "AntumLuanti",
-      "avatar_url": "https://gitlab.com//uploads/-/system/group/avatar/4127096/AntumMT_icon.png?v=1781071810",
-      "website": "",
-      "repo_name": "Consolidated Mobs",
-      "html_url": "https://gitlab.com/AntumLuanti/mod-con_mobs",
-      "https_clone_url": "https://gitlab.com/AntumLuanti/mod-con_mobs.git",
-      "ssh_clone_url": "git@gitlab.com:AntumLuanti/mod-con_mobs.git",
-      "issues_url": "https://gitlab.com/AntumLuanti/mod-con_mobs/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/AntumLuanti/mod-con_mobs/-/archive/master/mod-con_mobs.zip",
-      "readme_url": "https://gitlab.com/AntumLuanti/mod-con_mobs/-/raw/master/README.md",
-      "description": "Wrapper for registering mobs with a variety of commonly used APIs.",
-      "default_branch": "master",
-      "updated_at": "2026-06-24T07:49:23.633Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "Luanti mod",
-        "Luanti-mod",
-        "minetest",
-        "minetest mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://gitlab.com/AntumLuanti/mod-con_mobs/-/raw/master/screenshot.png",
       "has_stats": false
     },
     {
@@ -1884,5 +1239,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-22T10:10:36Z"
+  "now": "2026-10-22T15:19:06Z"
 }
