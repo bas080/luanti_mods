@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
       "description": "Adiciona um sistema de reputação simples ao seu servidor!",
       "default_branch": "release",
-      "updated_at": "2026-10-24T18:34:17.145Z",
+      "updated_at": "2026-10-24T21:14:48.661Z",
       "license": {
         "name": "Unknown"
       },
@@ -1882,5 +1882,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-24T19:29:11Z"
+  "now": "2026-10-24T22:28:16Z"
 }
