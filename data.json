@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/framedglass",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/framedglass/",
+      "repo_name": "framedglass",
+      "html_url": "https://github.com/minetest-mods/framedglass",
+      "https_clone_url": "https://github.com/minetest-mods/framedglass.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/framedglass.git",
+      "issues_url": "https://github.com/minetest-mods/framedglass/issues",
+      "open_issues": 1,
+      "stars": 3,
+      "forks": 8,
+      "zip_url": "https://github.com/minetest-mods/framedglass/archive/refs/heads/master/framedglass.zip",
+      "description": "Framed glass mod for Minetest 0.4.7+",
+      "default_branch": "master",
+      "updated_at": "2026-10-25T07:12:18Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "blocks",
+        "content",
+        "glass",
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/framedglass/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/framedglass/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
       "author": "Sakura-Mods/luanti-mods",
@@ -95,7 +127,7 @@
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/natural_habitat",
       "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792853266",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792921260",
       "website": "",
       "repo_name": "Natural Habitat",
       "html_url": "https://gitlab.com/Mish7913/natural_habitat",
@@ -125,7 +157,7 @@
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/craftoplus",
       "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792853266",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792921260",
       "website": "",
       "repo_name": "CraftoPlus",
       "html_url": "https://gitlab.com/Mish7913/craftoplus",
@@ -155,7 +187,7 @@
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/m7a",
       "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792853266",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792921260",
       "website": "",
       "repo_name": "m7a",
       "html_url": "https://gitlab.com/Mish7913/m7a",
@@ -1137,35 +1169,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/crops",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/sofar/crops/",
-      "repo_name": "crops",
-      "html_url": "https://github.com/minetest-mods/crops",
-      "https_clone_url": "https://github.com/minetest-mods/crops.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/crops.git",
-      "issues_url": "https://github.com/minetest-mods/crops/issues",
-      "open_issues": 2,
-      "stars": 10,
-      "forks": 12,
-      "zip_url": "https://github.com/minetest-mods/crops/archive/refs/heads/master/crops.zip",
-      "description": "Various farm vegetables for Luanti/Minetest.",
-      "default_branch": "master",
-      "updated_at": "2026-09-07T17:42:49Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/crops/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/crops/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/country_lib",
       "author": "zughy-friends-minetest",
@@ -1882,5 +1885,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-25T06:10:14Z"
+  "now": "2026-10-25T11:34:40Z"
 }
