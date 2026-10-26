@@ -11,6 +11,60 @@
   </image>
 
   <item>
+    <title>Block League (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1793022864" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      S4 League inspired shooter minigame for Luanti<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-10-26T13:54:24.722Z</pubDate>
+  </item>
+  <item>
+    <title>vines (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/vines</link>
+    <guid>https://github.com/bas080/vines</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      Climbable vines, shears to harvest them and a rope box to help you climb.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/vines/archive/refs/heads/master/vines.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/vines/master/screenshot.png" type="image/png" />
+    <pubDate>2026-10-26T12:50:52Z</pubDate>
+  </item>
+  <item>
+    <title>luanti_utils (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#bas080/luanti_utils</link>
+    <guid>https://github.com/bas080/luanti_utils</guid>
+    <author>bas080</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1840380?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>bas080</strong><br>
+      High level Luanti lua modding utilities that will bring your mods to the next level.<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png" type="image/png" />
+    <pubDate>2026-10-26T11:20:57Z</pubDate>
+  </item>
+  <item>
     <title>MariaReputation (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
     <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
@@ -63,24 +117,6 @@
     <media:thumbnail url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-10-24T15:00:18.143Z</pubDate>
-  </item>
-  <item>
-    <title>Block League (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/block_league</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/block_league</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1792848261" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      S4 League inspired shooter minigame for Luanti<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-10-24T13:24:21.361Z</pubDate>
   </item>
   <item>
     <title>Natural Habitat (Gitlab)</title>
@@ -603,42 +639,6 @@
     <media:thumbnail url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/Sheriff_U3/energy_drinks/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-09-18T04:28:32+02:00</pubDate>
-  </item>
-  <item>
-    <title>energy_drinks (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/energy_drinks</link>
-    <guid>https://github.com/Sheriff-Unit-3/energy_drinks</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      (Mirror) A mod that adds energy drinks to the luanti game engine.<br>
-      License: Other<br>
-      <a href="https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png" type="image/png" />
-    <pubDate>2026-09-18T02:28:40Z</pubDate>
-  </item>
-  <item>
-    <title>mod_mcl_signs (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#testersakage/mod_mcl_signs</link>
-    <guid>https://github.com/testersakage/mod_mcl_signs</guid>
-    <author>testersakage</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/273658247?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>testersakage</strong><br>
-      Standalone and data-driven MCL Signs mod for Luanti<br>
-      License: MIT License<br>
-      <a href="https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png" type="image/png" />
-    <pubDate>2026-09-17T01:14:54Z</pubDate>
   </item>
   <item>
     <title>achievements_lib (Gitlab)</title>

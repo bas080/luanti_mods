@@ -2,6 +2,94 @@
   "items": [
     {
       "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/block_league",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1793022864",
+      "website": "",
+      "repo_name": "Block League",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 11,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
+      "description": "S4 League inspired shooter minigame for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-10-26T13:54:24.722Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "First Person Shooter",
+        "Luanti",
+        "minigame"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/vines",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://content.luanti.org/packages/Bas080/vines/",
+      "repo_name": "vines",
+      "html_url": "https://github.com/bas080/vines",
+      "https_clone_url": "https://github.com/bas080/vines.git",
+      "ssh_clone_url": "git@github.com:bas080/vines.git",
+      "issues_url": "https://github.com/bas080/vines/issues",
+      "open_issues": 14,
+      "stars": 8,
+      "forks": 9,
+      "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
+      "description": "Climbable vines, shears to harvest them and a rope box to help you climb.",
+      "default_branch": "master",
+      "updated_at": "2026-10-26T12:50:52Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "vines"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/vines/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/vines/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "bas080/luanti_utils",
+      "author": "bas080",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1840380?v=4",
+      "website": "https://bas080.github.io/luanti_utils/",
+      "repo_name": "luanti_utils",
+      "html_url": "https://github.com/bas080/luanti_utils",
+      "https_clone_url": "https://github.com/bas080/luanti_utils.git",
+      "ssh_clone_url": "git@github.com:bas080/luanti_utils.git",
+      "issues_url": "https://github.com/bas080/luanti_utils/issues",
+      "open_issues": 3,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/bas080/luanti_utils/archive/refs/heads/master/luanti_utils.zip",
+      "description": "High level Luanti lua modding utilities that will bring your mods to the next level.",
+      "default_branch": "master",
+      "updated_at": "2026-10-26T11:20:57Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti-mod",
+        "utility-library"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/bas080/luanti_utils/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/bas080/luanti_utils/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
       "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
       "author": "Sakura-Mods/luanti-mods",
       "avatar_url": "https://gitlab.com/",
@@ -92,36 +180,6 @@
       ],
       "image_raw": "https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/block_league",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1792848261",
-      "website": "",
-      "repo_name": "Block League",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/block_league.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/block_league.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 11,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/archive/master/block_league.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
-      "description": "S4 League inspired shooter minigame for Luanti",
-      "default_branch": "master",
-      "updated_at": "2026-10-24T13:24:21.361Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "First Person Shooter",
-        "Luanti",
-        "minigame"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1043,67 +1101,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/energy_drinks",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "https://codeberg.org/Sheriff_U3/energy_drinks",
-      "repo_name": "energy_drinks",
-      "html_url": "https://github.com/Sheriff-Unit-3/energy_drinks",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/energy_drinks.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/energy_drinks.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/energy_drinks/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/energy_drinks/archive/refs/heads/main/energy_drinks.zip",
-      "description": "(Mirror) A mod that adds energy drinks to the luanti game engine.",
-      "default_branch": "main",
-      "updated_at": "2026-09-18T02:28:40Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "launti",
-        "lua",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/energy_drinks/main/README.md",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "testersakage/mod_mcl_signs",
-      "author": "testersakage",
-      "avatar_url": "https://avatars.githubusercontent.com/u/273658247?v=4",
-      "website": "",
-      "repo_name": "mod_mcl_signs",
-      "html_url": "https://github.com/testersakage/mod_mcl_signs",
-      "https_clone_url": "https://github.com/testersakage/mod_mcl_signs.git",
-      "ssh_clone_url": "git@github.com:testersakage/mod_mcl_signs.git",
-      "issues_url": "https://github.com/testersakage/mod_mcl_signs/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/testersakage/mod_mcl_signs/archive/refs/heads/main/mod_mcl_signs.zip",
-      "description": "Standalone and data-driven MCL Signs mod for Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-09-17T01:14:54Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "lua",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/testersakage/mod_mcl_signs/main/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/achievements_lib",
       "author": "zughy-friends-minetest",
@@ -1885,5 +1882,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-26T06:16:49Z"
+  "now": "2026-10-26T14:15:57Z"
 }
