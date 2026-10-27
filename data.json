@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
       "description": "Adiciona um sistema de reputação simples ao seu servidor!",
       "default_branch": "release",
-      "updated_at": "2026-10-26T16:40:21.722Z",
+      "updated_at": "2026-10-27T00:22:34.545Z",
       "license": {
         "name": "Unknown"
       },
@@ -71,7 +71,7 @@
       "https_clone_url": "https://github.com/bas080/vines.git",
       "ssh_clone_url": "git@github.com:bas080/vines.git",
       "issues_url": "https://github.com/bas080/vines/issues",
-      "open_issues": 14,
+      "open_issues": 11,
       "stars": 8,
       "forks": 9,
       "zip_url": "https://github.com/bas080/vines/archive/refs/heads/master/vines.zip",
@@ -1882,5 +1882,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-26T20:29:46Z"
+  "now": "2026-10-27T00:25:34Z"
 }
