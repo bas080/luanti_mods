@@ -11,6 +11,78 @@
   </image>
 
   <item>
+    <title>AwasunuLua (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#LWFlouisa/AwasunuLua</link>
+    <guid>https://github.com/LWFlouisa/AwasunuLua</guid>
+    <author>LWFlouisa</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/9245433?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>LWFlouisa</strong><br>
+      This is presently experimental and not yet production ready.<br>
+      License: Unknown<br>
+      <a href="https://github.com/LWFlouisa/AwasunuLua/archive/refs/heads/main/AwasunuLua.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" type="image/png" />
+    <pubDate>2026-10-28T07:53:42Z</pubDate>
+  </item>
+  <item>
+    <title>Natural Habitat (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Mish7913/natural_habitat</link>
+    <guid>https://gitlab.com/Mish7913/natural_habitat</guid>
+    <author>Mish7913</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793171060" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for &quot;Minetest Game&quot; and &quot;MineClonia&quot;.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-10-28T07:24:58.821Z</pubDate>
+  </item>
+  <item>
+    <title>CraftoPlus (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Mish7913/craftoplus</link>
+    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
+    <author>Mish7913</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793171060" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-10-28T07:21:50.431Z</pubDate>
+  </item>
+  <item>
+    <title>m7a (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Mish7913/m7a</link>
+    <guid>https://gitlab.com/Mish7913/m7a</guid>
+    <author>Mish7913</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793171060" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      API for Lianti Game<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-10-28T07:15:51.378Z</pubDate>
+  </item>
+  <item>
     <title>minetest-flow (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#luk3yx/minetest-flow</link>
     <guid>https://github.com/luk3yx/minetest-flow</guid>
@@ -135,60 +207,6 @@
     <media:thumbnail url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-10-24T15:00:18.143Z</pubDate>
-  </item>
-  <item>
-    <title>Natural Habitat (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Mish7913/natural_habitat</link>
-    <guid>https://gitlab.com/Mish7913/natural_habitat</guid>
-    <author>Mish7913</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792921260" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      Mod for &quot;Minetest Game&quot; and &quot;MineClonia&quot;.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-22T10:58:24.533Z</pubDate>
-  </item>
-  <item>
-    <title>CraftoPlus (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Mish7913/craftoplus</link>
-    <guid>https://gitlab.com/Mish7913/craftoplus</guid>
-    <author>Mish7913</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792921260" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      Mod for Luanti games.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-22T10:31:09.277Z</pubDate>
-  </item>
-  <item>
-    <title>m7a (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Mish7913/m7a</link>
-    <guid>https://gitlab.com/Mish7913/m7a</guid>
-    <author>Mish7913</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792921260" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      API for Lianti Game<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-22T10:14:29.407Z</pubDate>
   </item>
   <item>
     <title>digistuff (Github)</title>
@@ -603,24 +621,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png" type="image/png" />
     <pubDate>2026-09-19T11:11:03Z</pubDate>
-  </item>
-  <item>
-    <title>npc_core (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#8a7l/npc_core</link>
-    <guid>https://github.com/8a7l/npc_core</guid>
-    <author>8a7l</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/83518525?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>8a7l</strong><br>
-      A flexible NPC framework for Luanti with dialogs, shops, and teleports — all editable in-game.<br>
-      License: Other<br>
-      <a href="https://github.com/8a7l/npc_core/archive/refs/heads/main/npc_core.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png" type="image/png" />
-    <pubDate>2026-09-18T05:36:18Z</pubDate>
   </item>
   <item>
     <title>energy_drinks (Codeberg)</title>

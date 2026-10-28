@@ -2,6 +2,126 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "LWFlouisa/AwasunuLua",
+      "author": "LWFlouisa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9245433?v=4",
+      "website": "",
+      "repo_name": "AwasunuLua",
+      "html_url": "https://github.com/LWFlouisa/AwasunuLua",
+      "https_clone_url": "https://github.com/LWFlouisa/AwasunuLua.git",
+      "ssh_clone_url": "git@github.com:LWFlouisa/AwasunuLua.git",
+      "issues_url": "https://github.com/LWFlouisa/AwasunuLua/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://github.com/LWFlouisa/AwasunuLua/archive/refs/heads/main/AwasunuLua.zip",
+      "description": "This is presently experimental and not yet production ready.",
+      "default_branch": "main",
+      "updated_at": "2026-10-28T07:53:42Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "alpha",
+        "experimental",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/README.md",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Mish7913/natural_habitat",
+      "author": "Mish7913",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793171060",
+      "website": "",
+      "repo_name": "Natural Habitat",
+      "html_url": "https://gitlab.com/Mish7913/natural_habitat",
+      "https_clone_url": "https://gitlab.com/Mish7913/natural_habitat.git",
+      "ssh_clone_url": "git@gitlab.com:Mish7913/natural_habitat.git",
+      "issues_url": "https://gitlab.com/Mish7913/natural_habitat/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip",
+      "readme_url": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/README.md",
+      "description": "Mod for \"Minetest Game\" and \"MineClonia\".",
+      "default_branch": "main",
+      "updated_at": "2026-10-28T07:24:58.821Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "mod",
+        "nature"
+      ],
+      "image_raw": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Mish7913/craftoplus",
+      "author": "Mish7913",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793171060",
+      "website": "",
+      "repo_name": "CraftoPlus",
+      "html_url": "https://gitlab.com/Mish7913/craftoplus",
+      "https_clone_url": "https://gitlab.com/Mish7913/craftoplus.git",
+      "ssh_clone_url": "git@gitlab.com:Mish7913/craftoplus.git",
+      "issues_url": "https://gitlab.com/Mish7913/craftoplus/-/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip",
+      "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
+      "description": "Mod for Luanti games.",
+      "default_branch": "main",
+      "updated_at": "2026-10-28T07:21:50.431Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "craft",
+        "mod"
+      ],
+      "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Mish7913/m7a",
+      "author": "Mish7913",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793171060",
+      "website": "",
+      "repo_name": "m7a",
+      "html_url": "https://gitlab.com/Mish7913/m7a",
+      "https_clone_url": "https://gitlab.com/Mish7913/m7a.git",
+      "ssh_clone_url": "git@gitlab.com:Mish7913/m7a.git",
+      "issues_url": "https://gitlab.com/Mish7913/m7a/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip",
+      "readme_url": "https://gitlab.com/Mish7913/m7a/-/raw/main/README.md",
+      "description": "API for Lianti Game",
+      "default_branch": "main",
+      "updated_at": "2026-10-28T07:15:51.378Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "api",
+        "lua"
+      ],
+      "image_raw": "https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png",
+      "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "luk3yx/minetest-flow",
       "author": "luk3yx",
       "avatar_url": "https://avatars.githubusercontent.com/u/3182651?v=4",
@@ -210,96 +330,6 @@
         "warp"
       ],
       "image_raw": "https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Mish7913/natural_habitat",
-      "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792921260",
-      "website": "",
-      "repo_name": "Natural Habitat",
-      "html_url": "https://gitlab.com/Mish7913/natural_habitat",
-      "https_clone_url": "https://gitlab.com/Mish7913/natural_habitat.git",
-      "ssh_clone_url": "git@gitlab.com:Mish7913/natural_habitat.git",
-      "issues_url": "https://gitlab.com/Mish7913/natural_habitat/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Mish7913/natural_habitat/-/archive/main/natural_habitat.zip",
-      "readme_url": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/README.md",
-      "description": "Mod for \"Minetest Game\" and \"MineClonia\".",
-      "default_branch": "main",
-      "updated_at": "2026-10-22T10:58:24.533Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "mod",
-        "nature"
-      ],
-      "image_raw": "https://gitlab.com/Mish7913/natural_habitat/-/raw/main/screenshot.png",
-      "has_stats": false
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Mish7913/craftoplus",
-      "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792921260",
-      "website": "",
-      "repo_name": "CraftoPlus",
-      "html_url": "https://gitlab.com/Mish7913/craftoplus",
-      "https_clone_url": "https://gitlab.com/Mish7913/craftoplus.git",
-      "ssh_clone_url": "git@gitlab.com:Mish7913/craftoplus.git",
-      "issues_url": "https://gitlab.com/Mish7913/craftoplus/-/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Mish7913/craftoplus/-/archive/main/craftoplus.zip",
-      "readme_url": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/README.md",
-      "description": "Mod for Luanti games.",
-      "default_branch": "main",
-      "updated_at": "2026-10-22T10:31:09.277Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "craft",
-        "mod"
-      ],
-      "image_raw": "https://gitlab.com/Mish7913/craftoplus/-/raw/main/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Mish7913/m7a",
-      "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1792921260",
-      "website": "",
-      "repo_name": "m7a",
-      "html_url": "https://gitlab.com/Mish7913/m7a",
-      "https_clone_url": "https://gitlab.com/Mish7913/m7a.git",
-      "ssh_clone_url": "git@gitlab.com:Mish7913/m7a.git",
-      "issues_url": "https://gitlab.com/Mish7913/m7a/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Mish7913/m7a/-/archive/main/m7a.zip",
-      "readme_url": "https://gitlab.com/Mish7913/m7a/-/raw/main/README.md",
-      "description": "API for Lianti Game",
-      "default_branch": "main",
-      "updated_at": "2026-10-22T10:14:29.407Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "api",
-        "lua"
-      ],
-      "image_raw": "https://gitlab.com/Mish7913/m7a/-/raw/main/screenshot.png",
       "has_stats": false
     },
     {
@@ -1032,41 +1062,6 @@
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/areas/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/areas/master/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "8a7l/npc_core",
-      "author": "8a7l",
-      "avatar_url": "https://avatars.githubusercontent.com/u/83518525?v=4",
-      "website": "",
-      "repo_name": "npc_core",
-      "html_url": "https://github.com/8a7l/npc_core",
-      "https_clone_url": "https://github.com/8a7l/npc_core.git",
-      "ssh_clone_url": "git@github.com:8a7l/npc_core.git",
-      "issues_url": "https://github.com/8a7l/npc_core/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/8a7l/npc_core/archive/refs/heads/main/npc_core.zip",
-      "description": "A flexible NPC framework for Luanti with dialogs, shops, and teleports — all editable in-game.",
-      "default_branch": "main",
-      "updated_at": "2026-09-18T05:36:18Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "dialogs",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod",
-        "npc",
-        "shop",
-        "teleport"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/8a7l/npc_core/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/8a7l/npc_core/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Codeberg",
@@ -1882,5 +1877,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-28T02:14:50Z"
+  "now": "2026-10-28T09:39:36Z"
 }
