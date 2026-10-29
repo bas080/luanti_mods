@@ -11,6 +11,24 @@
   </image>
 
   <item>
+    <title>simple_replace_plus (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Aeonovyli/simple_replace_plus</link>
+    <guid>https://github.com/Aeonovyli/simple_replace_plus</guid>
+    <author>Aeonovyli</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/178652409?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Aeonovyli</strong><br>
+      Mod for luanti to juggle complicated actions, designed for VoxelLibre.<br>
+      License: Other<br>
+      <a href="https://github.com/Aeonovyli/simple_replace_plus/archive/refs/heads/main/simple_replace_plus.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png" type="image/png" />
+    <pubDate>2026-10-29T08:20:54Z</pubDate>
+  </item>
+  <item>
     <title>arena_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
@@ -106,7 +124,7 @@
     <guid>https://gitlab.com/Mish7913/natural_habitat</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793171060" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793255814" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for &quot;Minetest Game&quot; and &quot;MineClonia&quot;.<br>
       License: Unknown<br>
@@ -124,7 +142,7 @@
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793171060" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793255814" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for Luanti games.<br>
       License: Unknown<br>
@@ -142,7 +160,7 @@
     <guid>https://gitlab.com/Mish7913/m7a</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793171060" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1793255814" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       API for Lianti Game<br>
       License: Unknown<br>
@@ -315,24 +333,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/drawers/master/screenshot.png" type="image/png" />
     <pubDate>2026-10-12T13:16:12Z</pubDate>
-  </item>
-  <item>
-    <title>simple_replace_plus (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Aeonovyli/simple_replace_plus</link>
-    <guid>https://github.com/Aeonovyli/simple_replace_plus</guid>
-    <author>Aeonovyli</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/178652409?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Aeonovyli</strong><br>
-      Mod for luanti to juggle complicated actions, designed for VoxelLibre.<br>
-      License: Other<br>
-      <a href="https://github.com/Aeonovyli/simple_replace_plus/archive/refs/heads/main/simple_replace_plus.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-12T05:55:26Z</pubDate>
   </item>
   <item>
     <title>circuits (Github)</title>
