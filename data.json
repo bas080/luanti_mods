@@ -4,7 +4,7 @@
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1793268422",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/22060250/bl_sword.png?v=1793395643",
       "website": "",
       "repo_name": "Block League",
       "html_url": "https://gitlab.com/zughy-friends-minetest/block_league",
@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/README.md",
       "description": "S4 League inspired shooter minigame for Luanti",
       "default_branch": "master",
-      "updated_at": "2026-10-29T10:07:02.870Z",
+      "updated_at": "2026-10-30T21:27:23.557Z",
       "license": {
         "name": "Unknown"
       },
@@ -1881,5 +1881,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-30T19:22:02Z"
+  "now": "2026-10-30T23:46:32Z"
 }
