@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/nether",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
+      "repo_name": "nether",
+      "html_url": "https://github.com/minetest-mods/nether",
+      "https_clone_url": "https://github.com/minetest-mods/nether.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/nether.git",
+      "issues_url": "https://github.com/minetest-mods/nether/issues",
+      "open_issues": 7,
+      "stars": 26,
+      "forks": 29,
+      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
+      "description": "Nether mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-10-31T03:05:59Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod",
+        "nether"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -656,36 +686,6 @@
       "image_raw": "https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/culmat/glowshroom/main/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/nether",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
-      "repo_name": "nether",
-      "html_url": "https://github.com/minetest-mods/nether",
-      "https_clone_url": "https://github.com/minetest-mods/nether.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/nether.git",
-      "issues_url": "https://github.com/minetest-mods/nether/issues",
-      "open_issues": 7,
-      "stars": 25,
-      "forks": 29,
-      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
-      "description": "Nether mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-10-11T01:08:11Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod",
-        "nether"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1881,5 +1881,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-10-30T23:46:32Z"
+  "now": "2026-10-31T05:40:31Z"
 }
