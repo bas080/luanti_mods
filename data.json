@@ -1,6 +1,38 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "Aeonovyli/simple_replace_plus",
+      "author": "Aeonovyli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178652409?v=4",
+      "website": "",
+      "repo_name": "simple_replace_plus",
+      "html_url": "https://github.com/Aeonovyli/simple_replace_plus",
+      "https_clone_url": "https://github.com/Aeonovyli/simple_replace_plus.git",
+      "ssh_clone_url": "git@github.com:Aeonovyli/simple_replace_plus.git",
+      "issues_url": "https://github.com/Aeonovyli/simple_replace_plus/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/Aeonovyli/simple_replace_plus/archive/refs/heads/main/simple_replace_plus.zip",
+      "description": "Mod for luanti to juggle complicated actions, designed for VoxelLibre.",
+      "default_branch": "main",
+      "updated_at": "2026-11-01T05:13:39Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "luanti-related",
+        "luanti-tool"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/block_league",
       "author": "zughy-friends-minetest",
@@ -58,38 +90,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Aeonovyli/simple_replace_plus",
-      "author": "Aeonovyli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/178652409?v=4",
-      "website": "",
-      "repo_name": "simple_replace_plus",
-      "html_url": "https://github.com/Aeonovyli/simple_replace_plus",
-      "https_clone_url": "https://github.com/Aeonovyli/simple_replace_plus.git",
-      "ssh_clone_url": "git@github.com:Aeonovyli/simple_replace_plus.git",
-      "issues_url": "https://github.com/Aeonovyli/simple_replace_plus/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/Aeonovyli/simple_replace_plus/archive/refs/heads/main/simple_replace_plus.zip",
-      "description": "Mod for luanti to juggle complicated actions, designed for VoxelLibre.",
-      "default_branch": "main",
-      "updated_at": "2026-10-29T08:20:54Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "luanti-modding",
-        "luanti-related",
-        "luanti-tool"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Aeonovyli/simple_replace_plus/main/README.md",
       "has_stats": true
     },
     {
@@ -1881,5 +1881,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-11-01T01:09:36Z"
+  "now": "2026-11-01T07:33:27Z"
 }
