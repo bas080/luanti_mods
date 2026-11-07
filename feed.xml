@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>replace (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#Aeonovyli/replace</link>
+    <guid>https://github.com/Aeonovyli/replace</guid>
+    <author>Aeonovyli</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/178652409?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Aeonovyli</strong><br>
+      Mod for luanti to juggle complicated actions, designed for VoxeLibre.<br>
+      License: GNU Affero General Public License v3.0<br>
+      <a href="https://github.com/Aeonovyli/replace/archive/refs/heads/main/replace.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png" type="image/png" />
+    <pubDate>2026-11-07T11:50:45Z</pubDate>
+  </item>
+  <item>
+    <title>panel_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/panel_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/panel_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794047608" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Library for Luanti allowing modders to create complex scoreboards in an easy way<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-07T10:33:28.299Z</pubDate>
+  </item>
+  <item>
     <title>seeking_eternity (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#SnakeOfFlowingTime/seeking_eternity</link>
     <guid>https://github.com/SnakeOfFlowingTime/seeking_eternity</guid>
@@ -63,24 +99,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-11-04T20:58:28.901Z</pubDate>
-  </item>
-  <item>
-    <title>replace (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Aeonovyli/replace</link>
-    <guid>https://github.com/Aeonovyli/replace</guid>
-    <author>Aeonovyli</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/178652409?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Aeonovyli</strong><br>
-      Mod for luanti to juggle complicated actions, designed for VoxeLibre.<br>
-      License: Other<br>
-      <a href="https://github.com/Aeonovyli/replace/archive/refs/heads/main/replace.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png" type="image/png" />
-    <pubDate>2026-11-04T15:54:21Z</pubDate>
   </item>
   <item>
     <title>arena_lib (Gitlab)</title>
@@ -819,24 +837,6 @@
     <media:thumbnail url="https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://codeberg.org/YCaTGameRT/cmcla_soups/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-07-16T21:50:28+02:00</pubDate>
-  </item>
-  <item>
-    <title>ColourHop (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#talas777/colourhop</link>
-    <guid>https://gitlab.com/talas777/colourhop</guid>
-    <author>talas777</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/https://secure.gravatar.com/avatar/c90d7623f897c93713e49421aa8883cb68ba7edfa261fc0619f184588ccfaa8a?s=80&d=identicon" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>talas777</strong><br>
-      Hands-free luanti game, you have to jump to paint the universe!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/talas777/colourhop/-/archive/master/colourhop.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/talas777/colourhop/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/talas777/colourhop/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/talas777/colourhop/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-07-03T14:49:11.614Z</pubDate>
   </item>
   <item>
     <title>custom_spawn (Codeberg)</title>

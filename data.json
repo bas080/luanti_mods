@@ -2,6 +2,68 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "Aeonovyli/replace",
+      "author": "Aeonovyli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/178652409?v=4",
+      "website": "",
+      "repo_name": "replace",
+      "html_url": "https://github.com/Aeonovyli/replace",
+      "https_clone_url": "https://github.com/Aeonovyli/replace.git",
+      "ssh_clone_url": "git@github.com:Aeonovyli/replace.git",
+      "issues_url": "https://github.com/Aeonovyli/replace/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/Aeonovyli/replace/archive/refs/heads/main/replace.zip",
+      "description": "Mod for luanti to juggle complicated actions, designed for VoxeLibre.",
+      "default_branch": "main",
+      "updated_at": "2026-11-07T11:50:45Z",
+      "license": {
+        "name": "GNU Affero General Public License v3.0"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "luanti-related",
+        "luanti-tool"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/Aeonovyli/replace/main/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/panel_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794047608",
+      "website": "",
+      "repo_name": "panel_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/panel_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/panel_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/panel_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/README.md",
+      "description": "Library for Luanti allowing modders to create complex scoreboards in an easy way",
+      "default_branch": "master",
+      "updated_at": "2026-11-07T10:33:28.299Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "SnakeOfFlowingTime/seeking_eternity",
       "author": "SnakeOfFlowingTime",
       "avatar_url": "https://avatars.githubusercontent.com/u/260296717?v=4",
@@ -89,38 +151,6 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "Aeonovyli/replace",
-      "author": "Aeonovyli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/178652409?v=4",
-      "website": "",
-      "repo_name": "replace",
-      "html_url": "https://github.com/Aeonovyli/replace",
-      "https_clone_url": "https://github.com/Aeonovyli/replace.git",
-      "ssh_clone_url": "git@github.com:Aeonovyli/replace.git",
-      "issues_url": "https://github.com/Aeonovyli/replace/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/Aeonovyli/replace/archive/refs/heads/main/replace.zip",
-      "description": "Mod for luanti to juggle complicated actions, designed for VoxeLibre.",
-      "default_branch": "main",
-      "updated_at": "2026-11-04T15:54:21Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "luanti-modding",
-        "luanti-related",
-        "luanti-tool"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Aeonovyli/replace/main/README.md",
       "has_stats": true
     },
     {
@@ -1410,36 +1440,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "talas777/colourhop",
-      "author": "talas777",
-      "avatar_url": "https://gitlab.com/https://secure.gravatar.com/avatar/c90d7623f897c93713e49421aa8883cb68ba7edfa261fc0619f184588ccfaa8a?s=80&d=identicon",
-      "website": "",
-      "repo_name": "ColourHop",
-      "html_url": "https://gitlab.com/talas777/colourhop",
-      "https_clone_url": "https://gitlab.com/talas777/colourhop.git",
-      "ssh_clone_url": "git@gitlab.com:talas777/colourhop.git",
-      "issues_url": "https://gitlab.com/talas777/colourhop/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/talas777/colourhop/-/archive/master/colourhop.zip",
-      "readme_url": "https://gitlab.com/talas777/colourhop/-/raw/master/README.md",
-      "description": "Hands-free luanti game, you have to jump to paint the universe!",
-      "default_branch": "master",
-      "updated_at": "2026-07-03T14:49:11.614Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "game",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/talas777/colourhop/-/raw/master/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "janorico/custom_spawn",
       "author": "janorico",
@@ -1872,5 +1872,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-11-07T10:08:04Z"
+  "now": "2026-11-07T16:26:09Z"
 }
