@@ -11,6 +11,60 @@
   </image>
 
   <item>
+    <title>panel_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/panel_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/panel_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794144027" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Library for Luanti allowing modders to create complex scoreboards in an easy way<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-08T13:20:27.579Z</pubDate>
+  </item>
+  <item>
+    <title>luanti-developerconsole (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#sfan5/luanti-developerconsole</link>
+    <guid>https://github.com/sfan5/luanti-developerconsole</guid>
+    <author>sfan5</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/1042418?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>sfan5</strong><br>
+      Web-based REPL for Luanti<br>
+      License: GNU Lesser General Public License v2.1<br>
+      <a href="https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-08T13:18:13Z</pubDate>
+  </item>
+  <item>
+    <title>arena_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png?v=1794136945" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Luanti library working as a core manager for any minigame you have in mind<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-08T11:22:25.851Z</pubDate>
+  </item>
+  <item>
     <title>AwasunuLua (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#LWFlouisa/AwasunuLua</link>
     <guid>https://github.com/LWFlouisa/AwasunuLua</guid>
@@ -45,24 +99,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png" type="image/png" />
     <pubDate>2026-11-07T11:50:45Z</pubDate>
-  </item>
-  <item>
-    <title>panel_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/panel_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/panel_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794047608" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Library for Luanti allowing modders to create complex scoreboards in an easy way<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-11-07T10:33:28.299Z</pubDate>
   </item>
   <item>
     <title>seeking_eternity (Github)</title>
@@ -117,24 +153,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-11-04T20:58:28.901Z</pubDate>
-  </item>
-  <item>
-    <title>arena_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/arena_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png?v=1793712093" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Luanti library working as a core manager for any minigame you have in mind<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-11-03T13:21:33.167Z</pubDate>
   </item>
   <item>
     <title>emote (Github)</title>
@@ -621,24 +639,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" type="image/png" />
     <pubDate>2026-09-24T06:35:29Z</pubDate>
-  </item>
-  <item>
-    <title>angledwalls (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/angledwalls</link>
-    <guid>https://github.com/minetest-mods/angledwalls</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Angled walls, glass, and doors for Luanti&#x2F;Minetest<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png" type="image/png" />
-    <pubDate>2026-09-20T11:00:22Z</pubDate>
   </item>
   <item>
     <title>energy_drinks (Codeberg)</title>

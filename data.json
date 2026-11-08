@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/panel_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794144027",
+      "website": "",
+      "repo_name": "panel_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/panel_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/panel_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/panel_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/README.md",
+      "description": "Library for Luanti allowing modders to create complex scoreboards in an easy way",
+      "default_branch": "master",
+      "updated_at": "2026-11-08T13:20:27.579Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "sfan5/luanti-developerconsole",
+      "author": "sfan5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1042418?v=4",
+      "website": "",
+      "repo_name": "luanti-developerconsole",
+      "html_url": "https://github.com/sfan5/luanti-developerconsole",
+      "https_clone_url": "https://github.com/sfan5/luanti-developerconsole.git",
+      "ssh_clone_url": "git@github.com:sfan5/luanti-developerconsole.git",
+      "issues_url": "https://github.com/sfan5/luanti-developerconsole/issues",
+      "open_issues": 0,
+      "stars": 6,
+      "forks": 0,
+      "zip_url": "https://github.com/sfan5/luanti-developerconsole/archive/refs/heads/master/luanti-developerconsole.zip",
+      "description": "Web-based REPL for Luanti",
+      "default_branch": "master",
+      "updated_at": "2026-11-08T13:18:13Z",
+      "license": {
+        "name": "GNU Lesser General Public License v2.1"
+      },
+      "topics": [
+        "luanti",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/arena_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png?v=1794136945",
+      "website": "",
+      "repo_name": "arena_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
+      "open_issues": 0,
+      "stars": 16,
+      "forks": 15,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
+      "description": "Luanti library working as a core manager for any minigame you have in mind",
+      "default_branch": "master",
+      "updated_at": "2026-11-08T11:22:25.851Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest",
+        "minigames"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Github",
       "full_name": "LWFlouisa/AwasunuLua",
       "author": "LWFlouisa",
@@ -60,36 +150,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Aeonovyli/replace/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/panel_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794047608",
-      "website": "",
-      "repo_name": "panel_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/panel_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/panel_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/panel_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/README.md",
-      "description": "Library for Luanti allowing modders to create complex scoreboards in an easy way",
-      "default_branch": "master",
-      "updated_at": "2026-11-07T10:33:28.299Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -181,37 +241,6 @@
         "minigame"
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/block_league/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/arena_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png?v=1793712093",
-      "website": "",
-      "repo_name": "arena_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/arena_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/arena_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/arena_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/issues",
-      "open_issues": 0,
-      "stars": 16,
-      "forks": 15,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/archive/master/arena_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/README.md",
-      "description": "Luanti library working as a core manager for any minigame you have in mind",
-      "default_branch": "master",
-      "updated_at": "2026-11-03T13:21:33.167Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest",
-        "minigames"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -1059,36 +1088,6 @@
       "has_stats": false
     },
     {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/angledwalls",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/TumeniNodes/angledwalls/",
-      "repo_name": "angledwalls",
-      "html_url": "https://github.com/minetest-mods/angledwalls",
-      "https_clone_url": "https://github.com/minetest-mods/angledwalls.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/angledwalls.git",
-      "issues_url": "https://github.com/minetest-mods/angledwalls/issues",
-      "open_issues": 2,
-      "stars": 5,
-      "forks": 7,
-      "zip_url": "https://github.com/minetest-mods/angledwalls/archive/refs/heads/master/angledwalls.zip",
-      "description": "Angled walls, glass, and doors for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-09-20T11:00:22Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "angled-walls",
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/angledwalls/master/README.md",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Codeberg",
       "full_name": "Sheriff_U3/energy_drinks",
       "author": "Sheriff_U3",
@@ -1872,5 +1871,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-11-08T07:19:56Z"
+  "now": "2026-11-08T15:12:14Z"
 }
