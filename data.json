@@ -12,12 +12,12 @@
       "ssh_clone_url": "git@github.com:LWFlouisa/AwasunuLua.git",
       "issues_url": "https://github.com/LWFlouisa/AwasunuLua/issues",
       "open_issues": 0,
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
       "zip_url": "https://github.com/LWFlouisa/AwasunuLua/archive/refs/heads/main/AwasunuLua.zip",
       "description": "This is presently experimental and not yet production ready.",
       "default_branch": "main",
-      "updated_at": "2026-11-07T17:37:05Z",
+      "updated_at": "2026-11-08T02:12:21Z",
       "license": {
         "name": "Unknown"
       },
@@ -28,7 +28,7 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/README.md",
-      "has_stats": false
+      "has_stats": true
     },
     {
       "hosted_on": "Github",
@@ -1872,5 +1872,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-11-08T00:35:23Z"
+  "now": "2026-11-08T07:19:56Z"
 }
