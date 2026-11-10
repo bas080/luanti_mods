@@ -11,6 +11,60 @@
   </image>
 
   <item>
+    <title>AwasunuLua (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#LWFlouisa/AwasunuLua</link>
+    <guid>https://github.com/LWFlouisa/AwasunuLua</guid>
+    <author>LWFlouisa</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/9245433?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>LWFlouisa</strong><br>
+      This is presently experimental and not yet production ready.<br>
+      License: Unknown<br>
+      <a href="https://github.com/LWFlouisa/AwasunuLua/archive/refs/heads/main/AwasunuLua.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" type="image/png" />
+    <pubDate>2026-11-10T22:12:04Z</pubDate>
+  </item>
+  <item>
+    <title>technic (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
+    <guid>https://github.com/minetest-mods/technic</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Technic mod for Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-10T22:06:49Z</pubDate>
+  </item>
+  <item>
+    <title>panel_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/panel_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/panel_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794345602" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Library for Luanti allowing modders to create complex scoreboards in an easy way<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-10T21:20:02.737Z</pubDate>
+  </item>
+  <item>
     <title>nether (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
     <guid>https://github.com/minetest-mods/nether</guid>
@@ -83,24 +137,6 @@
     <pubDate>2026-11-08T18:17:22.729Z</pubDate>
   </item>
   <item>
-    <title>panel_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/panel_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/panel_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794144027" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Library for Luanti allowing modders to create complex scoreboards in an easy way<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-11-08T13:20:27.579Z</pubDate>
-  </item>
-  <item>
     <title>luanti-developerconsole (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#sfan5/luanti-developerconsole</link>
     <guid>https://github.com/sfan5/luanti-developerconsole</guid>
@@ -117,24 +153,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png" type="image/png" />
     <pubDate>2026-11-08T13:18:13Z</pubDate>
-  </item>
-  <item>
-    <title>AwasunuLua (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#LWFlouisa/AwasunuLua</link>
-    <guid>https://github.com/LWFlouisa/AwasunuLua</guid>
-    <author>LWFlouisa</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/9245433?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>LWFlouisa</strong><br>
-      This is presently experimental and not yet production ready.<br>
-      License: Unknown<br>
-      <a href="https://github.com/LWFlouisa/AwasunuLua/archive/refs/heads/main/AwasunuLua.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" type="image/png" />
-    <pubDate>2026-11-08T02:12:21Z</pubDate>
   </item>
   <item>
     <title>replace (Github)</title>
@@ -531,24 +549,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" type="image/png" />
     <pubDate>2026-10-07T18:42:43Z</pubDate>
-  </item>
-  <item>
-    <title>paving_slabs (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#limafresh/paving_slabs</link>
-    <guid>https://github.com/limafresh/paving_slabs</guid>
-    <author>limafresh</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/173814432?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>limafresh</strong><br>
-      Paving slabs nodes for Luanti<br>
-      License: The Unlicense<br>
-      <a href="https://github.com/limafresh/paving_slabs/archive/refs/heads/main/paving_slabs.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/limafresh/paving_slabs/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/limafresh/paving_slabs/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/limafresh/paving_slabs/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-07T05:29:26Z</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>

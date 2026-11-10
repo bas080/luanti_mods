@@ -2,6 +2,95 @@
   "items": [
     {
       "hosted_on": "Github",
+      "full_name": "LWFlouisa/AwasunuLua",
+      "author": "LWFlouisa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9245433?v=4",
+      "website": "",
+      "repo_name": "AwasunuLua",
+      "html_url": "https://github.com/LWFlouisa/AwasunuLua",
+      "https_clone_url": "https://github.com/LWFlouisa/AwasunuLua.git",
+      "ssh_clone_url": "git@github.com:LWFlouisa/AwasunuLua.git",
+      "issues_url": "https://github.com/LWFlouisa/AwasunuLua/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/LWFlouisa/AwasunuLua/archive/refs/heads/main/AwasunuLua.zip",
+      "description": "This is presently experimental and not yet production ready.",
+      "default_branch": "main",
+      "updated_at": "2026-11-10T22:12:04Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "alpha",
+        "experimental",
+        "luanti-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/technic",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
+      "repo_name": "technic",
+      "html_url": "https://github.com/minetest-mods/technic",
+      "https_clone_url": "https://github.com/minetest-mods/technic.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
+      "issues_url": "https://github.com/minetest-mods/technic/issues",
+      "open_issues": 63,
+      "stars": 153,
+      "forks": 156,
+      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
+      "description": "Technic mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-11-10T22:06:49Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/panel_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794345602",
+      "website": "",
+      "repo_name": "panel_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/panel_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/panel_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/panel_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/README.md",
+      "description": "Library for Luanti allowing modders to create complex scoreboards in an easy way",
+      "default_branch": "master",
+      "updated_at": "2026-11-10T21:20:02.737Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
       "full_name": "minetest-mods/nether",
       "author": "minetest-mods",
       "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
@@ -125,36 +214,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/panel_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794144027",
-      "website": "",
-      "repo_name": "panel_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/panel_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/panel_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/panel_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/README.md",
-      "description": "Library for Luanti allowing modders to create complex scoreboards in an easy way",
-      "default_branch": "master",
-      "updated_at": "2026-11-08T13:20:27.579Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png",
-      "has_stats": true
-    },
-    {
       "hosted_on": "Github",
       "full_name": "sfan5/luanti-developerconsole",
       "author": "sfan5",
@@ -181,36 +240,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/sfan5/luanti-developerconsole/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "LWFlouisa/AwasunuLua",
-      "author": "LWFlouisa",
-      "avatar_url": "https://avatars.githubusercontent.com/u/9245433?v=4",
-      "website": "",
-      "repo_name": "AwasunuLua",
-      "html_url": "https://github.com/LWFlouisa/AwasunuLua",
-      "https_clone_url": "https://github.com/LWFlouisa/AwasunuLua.git",
-      "ssh_clone_url": "git@github.com:LWFlouisa/AwasunuLua.git",
-      "issues_url": "https://github.com/LWFlouisa/AwasunuLua/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 0,
-      "zip_url": "https://github.com/LWFlouisa/AwasunuLua/archive/refs/heads/main/AwasunuLua.zip",
-      "description": "This is presently experimental and not yet production ready.",
-      "default_branch": "main",
-      "updated_at": "2026-11-08T02:12:21Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "alpha",
-        "experimental",
-        "luanti-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/README.md",
       "has_stats": true
     },
     {
@@ -687,7 +716,7 @@
       "issues_url": "https://github.com/mt-mods/digistuff/issues",
       "open_issues": 20,
       "stars": 3,
-      "forks": 14,
+      "forks": 15,
       "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
       "description": "Fork of http://cheapiesystems.com/git/digistuff",
       "default_branch": "master",
@@ -893,40 +922,6 @@
       "image_raw": "https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/limafresh/signlike_letters/main/README.md",
       "has_stats": false
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "limafresh/paving_slabs",
-      "author": "limafresh",
-      "avatar_url": "https://avatars.githubusercontent.com/u/173814432?v=4",
-      "website": "https://content.luanti.org/packages/limafresh/paving_slabs/",
-      "repo_name": "paving_slabs",
-      "html_url": "https://github.com/limafresh/paving_slabs",
-      "https_clone_url": "https://github.com/limafresh/paving_slabs.git",
-      "ssh_clone_url": "git@github.com:limafresh/paving_slabs.git",
-      "issues_url": "https://github.com/limafresh/paving_slabs/issues",
-      "open_issues": 0,
-      "stars": 1,
-      "forks": 1,
-      "zip_url": "https://github.com/limafresh/paving_slabs/archive/refs/heads/main/paving_slabs.zip",
-      "description": "Paving slabs nodes for Luanti",
-      "default_branch": "main",
-      "updated_at": "2026-10-07T05:29:26Z",
-      "license": {
-        "name": "The Unlicense"
-      },
-      "topics": [
-        "lua-mod",
-        "lua-modding",
-        "luanti",
-        "luanti-mod",
-        "luanti-modding",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/limafresh/paving_slabs/main/README.md",
-      "has_stats": true
     },
     {
       "hosted_on": "Gitlab",
@@ -1239,5 +1234,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-11-10T17:49:57Z"
+  "now": "2026-11-10T23:21:42Z"
 }
