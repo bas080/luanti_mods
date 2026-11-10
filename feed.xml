@@ -11,6 +11,42 @@
   </image>
 
   <item>
+    <title>nether (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
+    <guid>https://github.com/minetest-mods/nether</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Nether mod for Luanti&#x2F;Minetest<br>
+      License: Unknown<br>
+      <a href="https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-10T14:44:13Z</pubDate>
+  </item>
+  <item>
+    <title>melterns (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#LunaSquee/melterns</link>
+    <guid>https://github.com/LunaSquee/melterns</guid>
+    <author>LunaSquee</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/6363179?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>LunaSquee</strong><br>
+      Tinkers Construct-esque mod for Luanti 5.6.0+<br>
+      License: MIT License<br>
+      <a href="https://github.com/LunaSquee/melterns/archive/refs/heads/master/melterns.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-10T13:56:25Z</pubDate>
+  </item>
+  <item>
     <title>areas_helper_tools (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#rangeTonic/areas_helper_tools</link>
     <guid>https://gitlab.com/rangeTonic/areas_helper_tools</guid>
@@ -171,24 +207,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/emote/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/minetest-mods/emote/master/screenshot.png" type="image/png" />
     <pubDate>2026-11-01T09:47:30Z</pubDate>
-  </item>
-  <item>
-    <title>nether (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
-    <guid>https://github.com/minetest-mods/nether</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Nether mod for Luanti&#x2F;Minetest<br>
-      License: Unknown<br>
-      <a href="https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
-    <pubDate>2026-10-31T03:05:59Z</pubDate>
   </item>
   <item>
     <title>digtron (Github)</title>
@@ -621,24 +639,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/parties/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-09-26T12:25:35.109Z</pubDate>
-  </item>
-  <item>
-    <title>helpers (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Voxrame/helpers</link>
-    <guid>https://github.com/Voxrame/helpers</guid>
-    <author>Voxrame</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/185856043?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Voxrame</strong><br>
-      [READ-ONLY] Splitted Voxrame &#x60;helpers&#x60; package<br>
-      License: MIT License<br>
-      <a href="https://github.com/Voxrame/helpers/archive/refs/heads/master/helpers.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png" type="image/png" />
-    <pubDate>2026-09-24T06:35:29Z</pubDate>
   </item>
   <item>
     <title>achievements_lib (Gitlab)</title>

@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/nether",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
+      "repo_name": "nether",
+      "html_url": "https://github.com/minetest-mods/nether",
+      "https_clone_url": "https://github.com/minetest-mods/nether.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/nether.git",
+      "issues_url": "https://github.com/minetest-mods/nether/issues",
+      "open_issues": 7,
+      "stars": 26,
+      "forks": 29,
+      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
+      "description": "Nether mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-11-10T14:44:13Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod",
+        "nether"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "LunaSquee/melterns",
+      "author": "LunaSquee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6363179?v=4",
+      "website": "https://content.luanti.org/packages/IcyDiamond/melterns/",
+      "repo_name": "melterns",
+      "html_url": "https://github.com/LunaSquee/melterns",
+      "https_clone_url": "https://github.com/LunaSquee/melterns.git",
+      "ssh_clone_url": "git@github.com:LunaSquee/melterns.git",
+      "issues_url": "https://github.com/LunaSquee/melterns/issues",
+      "open_issues": 6,
+      "stars": 9,
+      "forks": 2,
+      "zip_url": "https://github.com/LunaSquee/melterns/archive/refs/heads/master/melterns.zip",
+      "description": "Tinkers Construct-esque mod for Luanti 5.6.0+",
+      "default_branch": "master",
+      "updated_at": "2026-11-10T13:56:25Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "liquids",
+        "luanti",
+        "luanti-mod",
+        "metals",
+        "tinkers-construct",
+        "wip"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/LunaSquee/melterns/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/LunaSquee/melterns/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "rangeTonic/areas_helper_tools",
       "author": "rangeTonic",
@@ -270,36 +333,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/minetest-mods/emote/master/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/minetest-mods/emote/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/nether",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
-      "repo_name": "nether",
-      "html_url": "https://github.com/minetest-mods/nether",
-      "https_clone_url": "https://github.com/minetest-mods/nether.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/nether.git",
-      "issues_url": "https://github.com/minetest-mods/nether/issues",
-      "open_issues": 7,
-      "stars": 26,
-      "forks": 29,
-      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
-      "description": "Nether mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-10-31T03:05:59Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod",
-        "nether"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
       "has_stats": true
     },
     {
@@ -1055,39 +1088,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "Voxrame/helpers",
-      "author": "Voxrame",
-      "avatar_url": "https://avatars.githubusercontent.com/u/185856043?v=4",
-      "website": "https://voxrame.dev/utils/helpers",
-      "repo_name": "helpers",
-      "html_url": "https://github.com/Voxrame/helpers",
-      "https_clone_url": "https://github.com/Voxrame/helpers.git",
-      "ssh_clone_url": "git@github.com:Voxrame/helpers.git",
-      "issues_url": "https://github.com/Voxrame/helpers/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Voxrame/helpers/archive/refs/heads/master/helpers.zip",
-      "description": "[READ-ONLY] Splitted Voxrame `helpers` package",
-      "default_branch": "master",
-      "updated_at": "2026-09-24T06:35:29Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "component",
-        "framework",
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Voxrame/helpers/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Voxrame/helpers/master/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/achievements_lib",
       "author": "zughy-friends-minetest",
@@ -1239,5 +1239,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-11-10T09:50:01Z"
+  "now": "2026-11-10T17:49:57Z"
 }
