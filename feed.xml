@@ -11,6 +11,78 @@
   </image>
 
   <item>
+    <title>panel_lib (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/panel_lib</link>
+    <guid>https://gitlab.com/zughy-friends-minetest/panel_lib</guid>
+    <author>zughy-friends-minetest</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794434113" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>zughy-friends-minetest</strong><br>
+      Library for Luanti allowing modders to create complex scoreboards in an easy way<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-11T21:38:47.671Z</pubDate>
+  </item>
+  <item>
+    <title>technic (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
+    <guid>https://github.com/minetest-mods/technic</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Technic mod for Luanti&#x2F;Minetest<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-11T20:38:34Z</pubDate>
+  </item>
+  <item>
+    <title>anpc (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#hkzorman/anpc</link>
+    <guid>https://github.com/hkzorman/anpc</guid>
+    <author>hkzorman</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/24514440?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>hkzorman</strong><br>
+      The Luanti (formerly Minetest) mod API for smart, advanced NPCs!<br>
+      License: GNU General Public License v3.0<br>
+      <a href="https://github.com/hkzorman/anpc/archive/refs/heads/main/anpc.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/hkzorman/anpc/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/hkzorman/anpc/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/hkzorman/anpc/main/screenshot.png" type="image/png" />
+    <pubDate>2026-11-11T18:09:38Z</pubDate>
+  </item>
+  <item>
+    <title>MariaReputation (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
+    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
+    <author>Sakura-Mods&#x2F;luanti-mods</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
+      Adiciona um sistema de reputação simples ao seu servidor!<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
+    <pubDate>2026-11-11T15:29:50.038Z</pubDate>
+  </item>
+  <item>
     <title>digistuff (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#mt-mods/digistuff</link>
     <guid>https://github.com/mt-mods/digistuff</guid>
@@ -45,42 +117,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png" type="image/png" />
     <pubDate>2026-11-10T22:12:04Z</pubDate>
-  </item>
-  <item>
-    <title>technic (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/technic</link>
-    <guid>https://github.com/minetest-mods/technic</guid>
-    <author>minetest-mods</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Technic mod for Luanti&#x2F;Minetest<br>
-      License: Other<br>
-      <a href="https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png" type="image/png" />
-    <pubDate>2026-11-10T22:06:49Z</pubDate>
-  </item>
-  <item>
-    <title>panel_lib (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/panel_lib</link>
-    <guid>https://gitlab.com/zughy-friends-minetest/panel_lib</guid>
-    <author>zughy-friends-minetest</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794345602" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>zughy-friends-minetest</strong><br>
-      Library for Luanti allowing modders to create complex scoreboards in an easy way<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-11-10T21:20:02.737Z</pubDate>
   </item>
   <item>
     <title>nether (Github)</title>
@@ -353,24 +389,6 @@
     <pubDate>2026-10-27T02:13:35Z</pubDate>
   </item>
   <item>
-    <title>MariaReputation (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sakura-Mods/luanti-mods/MariaReputation</link>
-    <guid>https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation</guid>
-    <author>Sakura-Mods&#x2F;luanti-mods</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sakura-Mods&#x2F;luanti-mods</strong><br>
-      Adiciona um sistema de reputação simples ao seu servidor!<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-10-27T00:22:34.545Z</pubDate>
-  </item>
-  <item>
     <title>vines (Github)</title>
     <link>https://bas080.github.io/luanti_mods/#bas080/vines</link>
     <guid>https://github.com/bas080/vines</guid>
@@ -567,24 +585,6 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/weapons_lib/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-10-05T20:27:21.359Z</pubDate>
-  </item>
-  <item>
-    <title>nicegrass (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#Sheriff-Unit-3/nicegrass</link>
-    <guid>https://github.com/Sheriff-Unit-3/nicegrass</guid>
-    <author>Sheriff-Unit-3</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/210896603?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Sheriff-Unit-3</strong><br>
-      Adds various nice features to grass<br>
-      License: Unknown<br>
-      <a href="https://github.com/Sheriff-Unit-3/nicegrass/archive/refs/heads/master/nicegrass.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png" type="image/png" />
-    <pubDate>2026-10-05T18:47:18Z</pubDate>
   </item>
   <item>
     <title>Collectible skins (Gitlab)</title>

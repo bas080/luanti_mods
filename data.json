@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "zughy-friends-minetest/panel_lib",
+      "author": "zughy-friends-minetest",
+      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794434113",
+      "website": "",
+      "repo_name": "panel_lib",
+      "html_url": "https://gitlab.com/zughy-friends-minetest/panel_lib",
+      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/panel_lib.git",
+      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/panel_lib.git",
+      "issues_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 2,
+      "zip_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip",
+      "readme_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/README.md",
+      "description": "Library for Luanti allowing modders to create complex scoreboards in an easy way",
+      "default_branch": "master",
+      "updated_at": "2026-11-11T21:38:47.671Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "library",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "minetest-mods/technic",
+      "author": "minetest-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
+      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
+      "repo_name": "technic",
+      "html_url": "https://github.com/minetest-mods/technic",
+      "https_clone_url": "https://github.com/minetest-mods/technic.git",
+      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
+      "issues_url": "https://github.com/minetest-mods/technic/issues",
+      "open_issues": 63,
+      "stars": 154,
+      "forks": 156,
+      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
+      "description": "Technic mod for Luanti/Minetest",
+      "default_branch": "master",
+      "updated_at": "2026-11-11T20:38:34Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "hkzorman/anpc",
+      "author": "hkzorman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24514440?v=4",
+      "website": "",
+      "repo_name": "anpc",
+      "html_url": "https://github.com/hkzorman/anpc",
+      "https_clone_url": "https://github.com/hkzorman/anpc.git",
+      "ssh_clone_url": "git@github.com:hkzorman/anpc.git",
+      "issues_url": "https://github.com/hkzorman/anpc/issues",
+      "open_issues": 0,
+      "stars": 1,
+      "forks": 0,
+      "zip_url": "https://github.com/hkzorman/anpc/archive/refs/heads/main/anpc.zip",
+      "description": "The Luanti (formerly Minetest) mod API for smart, advanced NPCs!",
+      "default_branch": "main",
+      "updated_at": "2026-11-11T18:09:38Z",
+      "license": {
+        "name": "GNU General Public License v3.0"
+      },
+      "topics": [
+        "api",
+        "luanti",
+        "luanti-mod",
+        "luanti-modding",
+        "luanti-related",
+        "minetest",
+        "minetest-mod",
+        "minetest-mods",
+        "mods",
+        "npcs"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/hkzorman/anpc/main/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/hkzorman/anpc/main/README.md",
+      "has_stats": true
+    },
+    {
+      "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
+      "author": "Sakura-Mods/luanti-mods",
+      "avatar_url": "https://gitlab.com/",
+      "website": "",
+      "repo_name": "MariaReputation",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
+      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
+      "default_branch": "release",
+      "updated_at": "2026-11-11T15:29:50.038Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "lua",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "mt-mods/digistuff",
       "author": "mt-mods",
@@ -60,65 +186,6 @@
       ],
       "image_raw": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/LWFlouisa/AwasunuLua/main/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "minetest-mods/technic",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://content.luanti.org/packages/RealBadAngel/technic/",
-      "repo_name": "technic",
-      "html_url": "https://github.com/minetest-mods/technic",
-      "https_clone_url": "https://github.com/minetest-mods/technic.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/technic.git",
-      "issues_url": "https://github.com/minetest-mods/technic/issues",
-      "open_issues": 63,
-      "stars": 153,
-      "forks": 156,
-      "zip_url": "https://github.com/minetest-mods/technic/archive/refs/heads/master/technic.zip",
-      "description": "Technic mod for Luanti/Minetest",
-      "default_branch": "master",
-      "updated_at": "2026-11-10T22:06:49Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti-mod",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/technic/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/technic/master/README.md",
-      "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "zughy-friends-minetest/panel_lib",
-      "author": "zughy-friends-minetest",
-      "avatar_url": "https://gitlab.com/uploads/-/system/project/avatar/18125415/panel_lib.png?v=1794345602",
-      "website": "",
-      "repo_name": "panel_lib",
-      "html_url": "https://gitlab.com/zughy-friends-minetest/panel_lib",
-      "https_clone_url": "https://gitlab.com/zughy-friends-minetest/panel_lib.git",
-      "ssh_clone_url": "git@gitlab.com:zughy-friends-minetest/panel_lib.git",
-      "issues_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 2,
-      "zip_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/archive/master/panel_lib.zip",
-      "readme_url": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/README.md",
-      "description": "Library for Luanti allowing modders to create complex scoreboards in an easy way",
-      "default_branch": "master",
-      "updated_at": "2026-11-10T21:20:02.737Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "library",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/zughy-friends-minetest/panel_lib/-/raw/master/screenshot.png",
       "has_stats": true
     },
     {
@@ -585,36 +652,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
-      "author": "Sakura-Mods/luanti-mods",
-      "avatar_url": "https://gitlab.com/",
-      "website": "",
-      "repo_name": "MariaReputation",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
-      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
-      "default_branch": "release",
-      "updated_at": "2026-10-27T00:22:34.545Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "lua",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Github",
       "full_name": "bas080/vines",
       "author": "bas080",
@@ -956,42 +993,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "Sheriff-Unit-3/nicegrass",
-      "author": "Sheriff-Unit-3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/210896603?v=4",
-      "website": "",
-      "repo_name": "nicegrass",
-      "html_url": "https://github.com/Sheriff-Unit-3/nicegrass",
-      "https_clone_url": "https://github.com/Sheriff-Unit-3/nicegrass.git",
-      "ssh_clone_url": "git@github.com:Sheriff-Unit-3/nicegrass.git",
-      "issues_url": "https://github.com/Sheriff-Unit-3/nicegrass/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/Sheriff-Unit-3/nicegrass/archive/refs/heads/master/nicegrass.zip",
-      "description": "Adds various nice features to grass",
-      "default_branch": "master",
-      "updated_at": "2026-10-05T18:47:18Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "game-mechanics",
-        "grass",
-        "lawn",
-        "lawn-care",
-        "lua",
-        "luanti",
-        "luanti-mod",
-        "minetest",
-        "minetest-mod"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/Sheriff-Unit-3/nicegrass/master/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/collectible-skins",
       "author": "zughy-friends-minetest",
@@ -1234,5 +1235,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-11-11T15:14:30Z"
+  "now": "2026-11-11T21:59:13Z"
 }
