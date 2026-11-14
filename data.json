@@ -197,9 +197,9 @@
       "https_clone_url": "https://github.com/mt-mods/digistuff.git",
       "ssh_clone_url": "git@github.com:mt-mods/digistuff.git",
       "issues_url": "https://github.com/mt-mods/digistuff/issues",
-      "open_issues": 20,
+      "open_issues": 21,
       "stars": 3,
-      "forks": 15,
+      "forks": 16,
       "zip_url": "https://github.com/mt-mods/digistuff/archive/refs/heads/master/digistuff.zip",
       "description": "Fork of http://cheapiesystems.com/git/digistuff",
       "default_branch": "master",
@@ -1235,5 +1235,5 @@
       "has_stats": false
     }
   ],
-  "now": "2026-11-13T22:37:31Z"
+  "now": "2026-11-14T03:14:51Z"
 }
