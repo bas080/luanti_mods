@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "hosted_on": "Gitlab",
+      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
+      "author": "Sakura-Mods/luanti-mods",
+      "avatar_url": "https://gitlab.com/",
+      "website": "",
+      "repo_name": "MariaReputation",
+      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
+      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
+      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
+      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
+      "open_issues": 0,
+      "stars": 0,
+      "forks": 0,
+      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
+      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
+      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
+      "default_branch": "release",
+      "updated_at": "2026-11-14T21:17:01.028Z",
+      "license": {
+        "name": "Unknown"
+      },
+      "topics": [
+        "Luanti",
+        "lua",
+        "minetest"
+      ],
+      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
+      "has_stats": false
+    },
+    {
       "hosted_on": "Github",
       "full_name": "Opons1/technic_many_machines",
       "author": "Opons1",
@@ -155,36 +185,6 @@
       "image_raw": "https://raw.githubusercontent.com/hkzorman/anpc/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/hkzorman/anpc/main/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Gitlab",
-      "full_name": "Sakura-Mods/luanti-mods/MariaReputation",
-      "author": "Sakura-Mods/luanti-mods",
-      "avatar_url": "https://gitlab.com/",
-      "website": "",
-      "repo_name": "MariaReputation",
-      "html_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation",
-      "https_clone_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation.git",
-      "ssh_clone_url": "git@gitlab.com:Sakura-Mods/luanti-mods/MariaReputation.git",
-      "issues_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/archive/release/MariaReputation.zip",
-      "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
-      "description": "Adiciona um sistema de reputação simples ao seu servidor!",
-      "default_branch": "release",
-      "updated_at": "2026-11-11T15:29:50.038Z",
-      "license": {
-        "name": "Unknown"
-      },
-      "topics": [
-        "Luanti",
-        "lua",
-        "minetest"
-      ],
-      "image_raw": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png",
-      "has_stats": false
     },
     {
       "hosted_on": "Github",
@@ -401,37 +401,6 @@
       "image_raw": "https://raw.githubusercontent.com/Aeonovyli/replace/main/screenshot.png",
       "readme_url": "https://raw.githubusercontent.com/Aeonovyli/replace/main/README.md",
       "has_stats": true
-    },
-    {
-      "hosted_on": "Github",
-      "full_name": "SnakeOfFlowingTime/seeking_eternity",
-      "author": "SnakeOfFlowingTime",
-      "avatar_url": "https://avatars.githubusercontent.com/u/260296717?v=4",
-      "website": "",
-      "repo_name": "seeking_eternity",
-      "html_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity",
-      "https_clone_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity.git",
-      "ssh_clone_url": "git@github.com:SnakeOfFlowingTime/seeking_eternity.git",
-      "issues_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/SnakeOfFlowingTime/seeking_eternity/archive/refs/heads/main/seeking_eternity.zip",
-      "description": "a xianxia inspired mod for luanti",
-      "default_branch": "main",
-      "updated_at": "2026-11-07T03:28:58Z",
-      "license": {
-        "name": "MIT License"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "mit-license",
-        "xianxia"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/SnakeOfFlowingTime/seeking_eternity/main/README.md",
-      "has_stats": false
     },
     {
       "hosted_on": "Gitlab",
@@ -1233,7 +1202,36 @@
       ],
       "image_raw": "https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png",
       "has_stats": false
+    },
+    {
+      "hosted_on": "Github",
+      "full_name": "SmallJoker/colored_names",
+      "author": "SmallJoker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1497498?v=4",
+      "website": "",
+      "repo_name": "colored_names",
+      "html_url": "https://github.com/SmallJoker/colored_names",
+      "https_clone_url": "https://github.com/SmallJoker/colored_names.git",
+      "ssh_clone_url": "git@github.com:SmallJoker/colored_names.git",
+      "issues_url": "https://github.com/SmallJoker/colored_names/issues",
+      "open_issues": 0,
+      "stars": 3,
+      "forks": 1,
+      "zip_url": "https://github.com/SmallJoker/colored_names/archive/refs/heads/master/colored_names.zip",
+      "description": "Luanti/Minetest CSM: Colorized nicknames and mention marker",
+      "default_branch": "master",
+      "updated_at": "2026-04-18T07:18:32Z",
+      "license": {
+        "name": "MIT License"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/SmallJoker/colored_names/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/SmallJoker/colored_names/master/README.md",
+      "has_stats": true
     }
   ],
-  "now": "2026-11-14T18:00:41Z"
+  "now": "2026-11-14T22:23:43Z"
 }
