@@ -550,7 +550,7 @@
       "https_clone_url": "https://github.com/mt-mods/jumpdrive.git",
       "ssh_clone_url": "git@github.com:mt-mods/jumpdrive.git",
       "issues_url": "https://github.com/mt-mods/jumpdrive/issues",
-      "open_issues": 31,
+      "open_issues": 32,
       "stars": 10,
       "forks": 10,
       "zip_url": "https://github.com/mt-mods/jumpdrive/archive/refs/heads/master/jumpdrive.zip",
@@ -1248,5 +1248,5 @@
       "has_stats": true
     }
   ],
-  "now": "2026-11-22T15:16:45Z"
+  "now": "2026-11-22T21:45:21Z"
 }
