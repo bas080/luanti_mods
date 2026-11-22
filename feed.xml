@@ -26,7 +26,7 @@
 
     <media:thumbnail url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/screenshot.png" type="image/png" />
-    <pubDate>2026-11-21T23:12:44.478Z</pubDate>
+    <pubDate>2026-11-22T14:36:20.617Z</pubDate>
   </item>
   <item>
     <title>arena_lib (Gitlab)</title>
@@ -34,7 +34,7 @@
     <guid>https://gitlab.com/zughy-friends-minetest/arena_lib</guid>
     <author>zughy-friends-minetest</author>
     <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png?v=1795096735" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/17833551/arena_lib.png?v=1795357644" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>zughy-friends-minetest</strong><br>
       Luanti library working as a core manager for any minigame you have in mind<br>
       License: Unknown<br>
@@ -44,7 +44,25 @@
 
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/arena_lib/-/raw/master/screenshot.png" type="image/png" />
-    <pubDate>2026-11-19T13:58:55.857Z</pubDate>
+    <pubDate>2026-11-22T14:27:24.862Z</pubDate>
+  </item>
+  <item>
+    <title>Warp Portal (Gitlab)</title>
+    <link>https://bas080.github.io/luanti_mods/#Mish7913/warp-portal</link>
+    <guid>https://gitlab.com/Mish7913/warp-portal</guid>
+    <author>Mish7913</author>
+    <description><![CDATA[
+      <img src="https://gitlab.com/uploads/-/system/project/avatar/78029762/warp_portal.png?v=1795336917" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>Mish7913</strong><br>
+      Mod for Luanti games.<br>
+      License: Unknown<br>
+      <a href="https://gitlab.com/Mish7913/warp-portal/-/archive/main/warp-portal.zip">Download ZIP</a><br>
+      <img src="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" width="150" height="150" />
+    <enclosure url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" type="image/png" />
+    <pubDate>2026-11-22T08:41:57.328Z</pubDate>
   </item>
   <item>
     <title>GoreBox-URL-API (Github)</title>
@@ -322,7 +340,7 @@
     <guid>https://gitlab.com/Mish7913/natural_habitat</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1794835589" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1795336837" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for &quot;Minetest Game&quot; and &quot;MineClonia&quot;.<br>
       License: Unknown<br>
@@ -340,7 +358,7 @@
     <guid>https://gitlab.com/Mish7913/craftoplus</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1794835589" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1795336837" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       Mod for Luanti games.<br>
       License: Unknown<br>
@@ -358,7 +376,7 @@
     <guid>https://gitlab.com/Mish7913/m7a</guid>
     <author>Mish7913</author>
     <description><![CDATA[
-      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1794835589" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <img src="https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1795336837" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
       <strong>Mish7913</strong><br>
       API for Lianti Game<br>
       License: Unknown<br>
@@ -443,24 +461,6 @@
     <pubDate>2026-10-25T07:12:18Z</pubDate>
   </item>
   <item>
-    <title>Warp Portal (Gitlab)</title>
-    <link>https://bas080.github.io/luanti_mods/#Mish7913/warp-portal</link>
-    <guid>https://gitlab.com/Mish7913/warp-portal</guid>
-    <author>Mish7913</author>
-    <description><![CDATA[
-      <img src="https://gitlab.com/uploads/-/system/project/avatar/78029762/warp_portal.png?v=1792854018" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>Mish7913</strong><br>
-      Mod for Luanti games.<br>
-      License: Unknown<br>
-      <a href="https://gitlab.com/Mish7913/warp-portal/-/archive/main/warp-portal.zip">Download ZIP</a><br>
-      <img src="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://gitlab.com/Mish7913/warp-portal/-/raw/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-24T15:00:18.143Z</pubDate>
-  </item>
-  <item>
     <title>Hub (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/hub</link>
     <guid>https://gitlab.com/zughy-friends-minetest/hub</guid>
@@ -531,24 +531,6 @@
     <media:thumbnail url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" type="image/png" />
     <pubDate>2026-10-11T07:58:43Z</pubDate>
-  </item>
-  <item>
-    <title>signlike_letters (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#limafresh/signlike_letters</link>
-    <guid>https://github.com/limafresh/signlike_letters</guid>
-    <author>limafresh</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/173814432?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>limafresh</strong><br>
-      A mod for Luanti that adds sign-like letters in various colors, with and without light<br>
-      License: Creative Commons Zero v1.0 Universal<br>
-      <a href="https://github.com/limafresh/signlike_letters/archive/refs/heads/main/signlike_letters.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/limafresh/signlike_letters/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-07T18:42:43Z</pubDate>
   </item>
   <item>
     <title>weapons_lib (Gitlab)</title>
@@ -711,6 +693,24 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/classy/-/raw/main/screenshot.png" type="image/png" />
     <pubDate>2026-08-16T22:38:06.171Z</pubDate>
+  </item>
+  <item>
+    <title>facade (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#minetest-mods/facade</link>
+    <guid>https://github.com/minetest-mods/facade</guid>
+    <author>minetest-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>minetest-mods</strong><br>
+      Adds decorative clay and stone-type nodes to Minetest Game.<br>
+      License: Other<br>
+      <a href="https://github.com/minetest-mods/facade/archive/refs/heads/master/facade.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/minetest-mods/facade/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/facade/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/minetest-mods/facade/master/screenshot.png" type="image/png" />
+    <pubDate>2026-06-14T11:26:03Z</pubDate>
   </item>
   <item>
     <title>colored_names (Github)</title>
