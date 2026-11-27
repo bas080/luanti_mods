@@ -18,7 +18,7 @@
       "readme_url": "https://gitlab.com/Sakura-Mods/luanti-mods/MariaReputation/-/raw/release/README.md",
       "description": "Adiciona um sistema de reputação simples ao seu servidor!",
       "default_branch": "release",
-      "updated_at": "2026-11-27T11:18:53.103Z",
+      "updated_at": "2026-11-27T18:33:44.456Z",
       "license": {
         "name": "Unknown"
       },
@@ -34,7 +34,7 @@
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/natural_habitat",
       "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1795511685",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1795813320",
       "website": "",
       "repo_name": "Natural Habitat",
       "html_url": "https://gitlab.com/Mish7913/natural_habitat",
@@ -64,7 +64,7 @@
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/craftoplus",
       "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1795511685",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1795813320",
       "website": "",
       "repo_name": "CraftoPlus",
       "html_url": "https://gitlab.com/Mish7913/craftoplus",
@@ -94,7 +94,7 @@
       "hosted_on": "Gitlab",
       "full_name": "Mish7913/m7a",
       "author": "Mish7913",
-      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1795511685",
+      "avatar_url": "https://gitlab.com//uploads/-/system/user/avatar/5180155/avatar.png?v=1795813320",
       "website": "",
       "repo_name": "m7a",
       "html_url": "https://gitlab.com/Mish7913/m7a",
@@ -1248,5 +1248,5 @@
       "has_stats": true
     }
   ],
-  "now": "2026-11-27T12:18:34Z"
+  "now": "2026-11-27T21:57:41Z"
 }
