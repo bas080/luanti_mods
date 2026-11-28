@@ -245,22 +245,22 @@
     <pubDate>2026-11-11T00:21:20Z</pubDate>
   </item>
   <item>
-    <title>nether (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#minetest-mods/nether</link>
-    <guid>https://github.com/minetest-mods/nether</guid>
-    <author>minetest-mods</author>
+    <title>homedecor_modpack (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/homedecor_modpack</link>
+    <guid>https://github.com/mt-mods/homedecor_modpack</guid>
+    <author>mt-mods</author>
     <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/16545761?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>minetest-mods</strong><br>
-      Nether mod for Luanti&#x2F;Minetest<br>
-      License: Unknown<br>
-      <a href="https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      A fairly feature-filled home decor modpack that is game agnostic.<br>
+      License: Other<br>
+      <a href="https://github.com/mt-mods/homedecor_modpack/archive/refs/heads/master/homedecor_modpack.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
     ]]></description>
 
-    <media:thumbnail url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png" type="image/png" />
-    <pubDate>2026-11-10T14:44:13Z</pubDate>
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/screenshot.png" type="image/png" />
+    <pubDate>2026-11-10T14:41:39Z</pubDate>
   </item>
   <item>
     <title>melterns (Github)</title>
@@ -515,24 +515,6 @@
     <pubDate>2026-10-11T11:45:19.482Z</pubDate>
   </item>
   <item>
-    <title>glowshroom (Github)</title>
-    <link>https://bas080.github.io/luanti_mods/#culmat/glowshroom</link>
-    <guid>https://github.com/culmat/glowshroom</guid>
-    <author>culmat</author>
-    <description><![CDATA[
-      <img src="https://avatars.githubusercontent.com/u/638519?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
-      <strong>culmat</strong><br>
-      Bioluminescent mushrooms that grow in dark caves of any game: Minetest Game, Mineclonia and VoxeLibre. Luanti mod.<br>
-      License: Other<br>
-      <a href="https://github.com/culmat/glowshroom/archive/refs/heads/main/glowshroom.zip">Download ZIP</a><br>
-      <img src="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
-    ]]></description>
-
-    <media:thumbnail url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" width="150" height="150" />
-    <enclosure url="https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png" type="image/png" />
-    <pubDate>2026-10-11T07:58:43Z</pubDate>
-  </item>
-  <item>
     <title>weapons_lib (Gitlab)</title>
     <link>https://bas080.github.io/luanti_mods/#zughy-friends-minetest/weapons_lib</link>
     <guid>https://gitlab.com/zughy-friends-minetest/weapons_lib</guid>
@@ -675,6 +657,24 @@
     <media:thumbnail url="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" width="150" height="150" />
     <enclosure url="https://gitlab.com/zughy-friends-minetest/magic-compass/-/raw/master/screenshot.png" type="image/png" />
     <pubDate>2026-08-30T17:08:05.467Z</pubDate>
+  </item>
+  <item>
+    <title>moretrees (Github)</title>
+    <link>https://bas080.github.io/luanti_mods/#mt-mods/moretrees</link>
+    <guid>https://github.com/mt-mods/moretrees</guid>
+    <author>mt-mods</author>
+    <description><![CDATA[
+      <img src="https://avatars.githubusercontent.com/u/58391373?v=4" alt="Author avatar" width="32" height="32" style="vertical-align:middle;margin-right:5px;" />
+      <strong>mt-mods</strong><br>
+      <br>
+      License: Other<br>
+      <a href="https://github.com/mt-mods/moretrees/archive/refs/heads/master/moretrees.zip">Download ZIP</a><br>
+      <img src="https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png" alt="Mod screenshot" style="max-width:100%;margin-top:5px;" />
+    ]]></description>
+
+    <media:thumbnail url="https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png" width="150" height="150" />
+    <enclosure url="https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png" type="image/png" />
+    <pubDate>2026-08-30T04:50:34Z</pubDate>
   </item>
   <item>
     <title>Classy (Gitlab)</title>

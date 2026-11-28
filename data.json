@@ -416,32 +416,34 @@
     },
     {
       "hosted_on": "Github",
-      "full_name": "minetest-mods/nether",
-      "author": "minetest-mods",
-      "avatar_url": "https://avatars.githubusercontent.com/u/16545761?v=4",
-      "website": "https://forum.luanti.org/viewtopic.php?t=5790",
-      "repo_name": "nether",
-      "html_url": "https://github.com/minetest-mods/nether",
-      "https_clone_url": "https://github.com/minetest-mods/nether.git",
-      "ssh_clone_url": "git@github.com:minetest-mods/nether.git",
-      "issues_url": "https://github.com/minetest-mods/nether/issues",
-      "open_issues": 7,
-      "stars": 26,
-      "forks": 29,
-      "zip_url": "https://github.com/minetest-mods/nether/archive/refs/heads/master/nether.zip",
-      "description": "Nether mod for Luanti/Minetest",
+      "full_name": "mt-mods/homedecor_modpack",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "homedecor_modpack",
+      "html_url": "https://github.com/mt-mods/homedecor_modpack",
+      "https_clone_url": "https://github.com/mt-mods/homedecor_modpack.git",
+      "ssh_clone_url": "git@github.com:mt-mods/homedecor_modpack.git",
+      "issues_url": "https://github.com/mt-mods/homedecor_modpack/issues",
+      "open_issues": 9,
+      "stars": 4,
+      "forks": 15,
+      "zip_url": "https://github.com/mt-mods/homedecor_modpack/archive/refs/heads/master/homedecor_modpack.zip",
+      "description": "A fairly feature-filled home decor modpack that is game agnostic.",
       "default_branch": "master",
-      "updated_at": "2026-11-10T14:44:13Z",
+      "updated_at": "2026-11-10T14:41:39Z",
       "license": {
-        "name": "Unknown"
+        "name": "Other"
       },
       "topics": [
+        "luanti",
         "luanti-mod",
-        "minetest-mod",
-        "nether"
+        "luanti-modpack",
+        "minetest",
+        "minetest-mod"
       ],
-      "image_raw": "https://raw.githubusercontent.com/minetest-mods/nether/master/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/minetest-mods/nether/master/README.md",
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/homedecor_modpack/master/README.md",
       "has_stats": true
     },
     {
@@ -879,38 +881,6 @@
       "has_stats": true
     },
     {
-      "hosted_on": "Github",
-      "full_name": "culmat/glowshroom",
-      "author": "culmat",
-      "avatar_url": "https://avatars.githubusercontent.com/u/638519?v=4",
-      "website": "",
-      "repo_name": "glowshroom",
-      "html_url": "https://github.com/culmat/glowshroom",
-      "https_clone_url": "https://github.com/culmat/glowshroom.git",
-      "ssh_clone_url": "git@github.com:culmat/glowshroom.git",
-      "issues_url": "https://github.com/culmat/glowshroom/issues",
-      "open_issues": 0,
-      "stars": 0,
-      "forks": 0,
-      "zip_url": "https://github.com/culmat/glowshroom/archive/refs/heads/main/glowshroom.zip",
-      "description": "Bioluminescent mushrooms that grow in dark caves of any game: Minetest Game, Mineclonia and VoxeLibre. Luanti mod.",
-      "default_branch": "main",
-      "updated_at": "2026-10-11T07:58:43Z",
-      "license": {
-        "name": "Other"
-      },
-      "topics": [
-        "luanti",
-        "luanti-mod",
-        "mineclonia",
-        "minetest",
-        "voxelibre"
-      ],
-      "image_raw": "https://raw.githubusercontent.com/culmat/glowshroom/main/screenshot.png",
-      "readme_url": "https://raw.githubusercontent.com/culmat/glowshroom/main/README.md",
-      "has_stats": false
-    },
-    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/weapons_lib",
       "author": "zughy-friends-minetest",
@@ -1153,6 +1123,35 @@
       "has_stats": true
     },
     {
+      "hosted_on": "Github",
+      "full_name": "mt-mods/moretrees",
+      "author": "mt-mods",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58391373?v=4",
+      "website": "",
+      "repo_name": "moretrees",
+      "html_url": "https://github.com/mt-mods/moretrees",
+      "https_clone_url": "https://github.com/mt-mods/moretrees.git",
+      "ssh_clone_url": "git@github.com:mt-mods/moretrees.git",
+      "issues_url": "https://github.com/mt-mods/moretrees/issues",
+      "open_issues": 12,
+      "stars": 9,
+      "forks": 15,
+      "zip_url": "https://github.com/mt-mods/moretrees/archive/refs/heads/master/moretrees.zip",
+      "description": "",
+      "default_branch": "master",
+      "updated_at": "2026-08-30T04:50:34Z",
+      "license": {
+        "name": "Other"
+      },
+      "topics": [
+        "luanti-mod",
+        "minetest-mod"
+      ],
+      "image_raw": "https://raw.githubusercontent.com/mt-mods/moretrees/master/screenshot.png",
+      "readme_url": "https://raw.githubusercontent.com/mt-mods/moretrees/master/README.md",
+      "has_stats": true
+    },
+    {
       "hosted_on": "Gitlab",
       "full_name": "zughy-friends-minetest/classy",
       "author": "zughy-friends-minetest",
@@ -1248,5 +1247,5 @@
       "has_stats": true
     }
   ],
-  "now": "2026-11-28T03:54:00Z"
+  "now": "2026-11-28T12:59:05Z"
 }
